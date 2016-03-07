@@ -1,0 +1,27 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      true
+
+# Permalinks
+permalink:        '/:year/:month/:title.html'
+
+# Setup
+title:            'Paul Ramsey'
+tagline:          'Open source IT'
+description:      'Open source software developer and information technology professional.<br/>Occasional blowhard.'
+url:              http://www.cleverelephant.ca
+
+author:
+  name:           'Paul Ramsey'
+  url:            'http://cleverelephant.ca'
+  twitter:        'http://twitter.com/pwramsey'
+  github:         'http://github.com/pramsey'
+  linkedin:       'http://linkedin.com/in/paul-ramsey-717134'
+
+gems:
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+
+paginate:         5
