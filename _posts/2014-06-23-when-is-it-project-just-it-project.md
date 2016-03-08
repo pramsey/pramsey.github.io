@@ -30,7 +30,7 @@ It's a long read, but fortunately there's a really interesting bit right away, i
 
 > Proponent is willing and able to transition any Public Sector union agreements relevant to the Managed Services to their organization, if required
 
- <p>Whoa! This isn't just an IT systems agreement after all, **it's an outsourcing deal**.
+Whoa! This isn't just an IT systems agreement after all, **it's an outsourcing deal**.
 
 The government seems to have learned little from the experience of BC Hydro outsourcing to [Accenture](http://thetyee.ca/Opinion/2010/06/21/HydroContract/) or Medical Services Plan to [Maximus](http://www.huffingtonpost.ca/2013/02/28/outsourced-bc-msp-pharmacare-contracts_n_2783669.html), or from reports by the [Auditor General](http://www.bcauditor.com/pubs/2013/report11/health-benefits-operations-are-expected-benefits-being-a), or even their [own consultants](http://docs.openinfo.gov.bc.ca/D15989813A_Response_Package_CTZ-2012-00104.PDF) who reviewed outsourcing from 2001-2010 and noted that:
 

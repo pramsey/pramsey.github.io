@@ -12,9 +12,8 @@ comments: True
 
 Every year, without fail, ESRI embraces and endorses interoperability! This year, [again](http://www.esri.com/news/arcwatch/0512/top-101-takeaways-from-the-esri-developer-summit.html), 
 
+> Takeaway 5: ArcGIS Embraces Interoperability<br/>
+> ArcGIS continues to embrace interoperability by supporting new Open Geospatial Consortium, Inc. (OGC), specifications (Web Map Tile Service [WMTS] and Web Processing Service [WPS]), making public its GeoServices REST specification and file geodatabase API. ArcGIS 10.1 also features enhanced support for native spatial types in commercial and open source databases.
 
-
-<blockquote>Takeaway 5: ArcGIS Embraces Interoperability<br/>ArcGIS continues to embrace interoperability by supporting new Open Geospatial Consortium, Inc. (OGC), specifications (Web Map Tile Service [WMTS] and Web Processing Service [WPS]), making public its GeoServices REST specification and file geodatabase API. ArcGIS 10.1 also features enhanced support for native spatial types in commercial and open source databases.</blockquote>
-
-<br />Thought experiment: if ESRI truly embraced interoperability, at some point would one not expect it to cease to be a noteworthy topic?
+Thought experiment: if ESRI truly embraced interoperability, at some point would one not expect it to cease to be a noteworthy topic?
 

@@ -14,14 +14,14 @@ Some more details on the upcoming ArcSDE support for PostgreSQL are living in [t
 
 First there's the old news:
 
-<blockquote>ArcGIS Server (ArcSDE technology) will support the PostgreSQL database at the ArcGIS 9.3 release.</blockquote>
+> ArcGIS Server (ArcSDE technology) will support the PostgreSQL database at the ArcGIS 9.3 release.
 
 Then there's the good news:
 
-<blockquote>The enterprise geodatabase and all of its standard capabilities will be fully supported. It will be OGC/ISO compliant and the PostGIS geometry type will be supported.</blockquote>
+> The enterprise geodatabase and all of its standard capabilities will be fully supported. It will be OGC/ISO compliant and the PostGIS geometry type will be supported.
 
 Yay! You can work with PostGIS columns via SDE and then push the data out to other PostGIS enabled tools, like Mapserver or Hibernate or GRASS! And then finally, the bad news:
 
-<blockquote>In addition, ESRI will also provide its own spatial type for storing geometries in PostgreSQL.</blockquote>
+> In addition, ESRI will also provide its own spatial type for storing geometries in PostgreSQL.
 
 Gah! Ouch! It burns!  There aren't "special" types for Informix or DB2, why for PostgreSQL/PostGIS? Unlike Oracle, we are ready and willing to add the features to PostGIS necessary to fully support ArcSDE's spatial SQL needs. And if you don't trust Refractions, PostGIS is open source, so you could just do it yourselves! Hop in the pool, guys, supporting open source is not just about software, it is about community participation, everyone rowing in the same direction so nobody has to row too hard by themselves.

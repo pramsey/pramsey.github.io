@@ -12,7 +12,7 @@ comments: True
 
 [Dan McKinley](http://mcfunley.com/) takes a look under the covers of a couple Python PostgreSQL abstraction layers:
 
-<blockquote>Database client drivers intended for the same database can do drastically different things. By Python standards, the Postgres driver situation is completely schizo. There are a lot of them available - there are five dedicated Postgres drivers listed on the wiki, as opposed to just one for MySQL. People might choose different drivers for licensing reasons, for religious reasons, randomly (because they never did any analysis like I am about to do), or for completely inscrutable reasons because they are just plain out of their minds. You really would not believe how much blood I have seen spilled over Postgres client drivers.</blockquote>
+> Database client drivers intended for the same database can do drastically different things. By Python standards, the Postgres driver situation is completely schizo. There are a lot of them available - there are five dedicated Postgres drivers listed on the wiki, as opposed to just one for MySQL. People might choose different drivers for licensing reasons, for religious reasons, randomly (because they never did any analysis like I am about to do), or for completely inscrutable reasons because they are just plain out of their minds. You really would not believe how much blood I have seen spilled over Postgres client drivers.
 
 [Read it!](http://mcfunley.com/445/python-postgresql-driver-authors-hate-you)
 

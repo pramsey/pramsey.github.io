@@ -26,11 +26,9 @@ The tests require the database to correctly plan a self-join that includes both 
 
 And the results? The authors say:
 
+> From the experimental results that we saw, we can conclude that Postgres performs better than Oracle 11g both in the Cold Phase and Warm Phase. Though in few queries Oracle 11g performed better but on the whole Postgres overpowered Oracle 11g. In the warm phase in 3 out of 4 queries Postgres performed significantly well, from this we can conclude that Postgres has better automatic memory management capabilities and page replacement policies... On the whole it is the open-source that wins the game!
 
-
-<blockquote>From the experimental results that we saw, we can conclude that Postgres performs better than Oracle 11g both in the Cold Phase and Warm Phase. Though in few queries Oracle 11g performed better but on the whole Postgres overpowered Oracle 11g. In the warm phase in 3 out of 4 queries Postgres performed significantly well, from this we can conclude that Postgres has better automatic memory management capabilities and page replacement policies... On the whole it is the open-source that wins the game!</blockquote>
-
-<br />Methodologically there are two obvious issues: one is that the Oracle database was on Windows while the PostGIS database was on Linux; the other is that neither database got any tuning, they were both installed and run with default parameters. However, this is one of the nicer comparisons I have read: concise, focussed and with enough technical detail to evaluate what's going on.
+Methodologically there are two obvious issues: one is that the Oracle database was on Windows while the PostGIS database was on Linux; the other is that neither database got any tuning, they were both installed and run with default parameters. However, this is one of the nicer comparisons I have read: concise, focussed and with enough technical detail to evaluate what's going on.
 
 Based on that detail, I can also take a stab at guessing why PostGIS did not win every test: the two slower tests used the touches relationship, which is not optimized in PostGIS using a prepared geometry approach. And the non-optimized predicates in PostGIS are quite inefficient, they calculate far more topological information than is strictly necessary to answer a true/fale question about a single topological relationship. So, more room for improvement!
 

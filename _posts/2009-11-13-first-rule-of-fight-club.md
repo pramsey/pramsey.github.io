@@ -12,7 +12,7 @@ comments: True
 
 Who knew that ESRI was so hip? From James Fee's [blog](http://www.spatiallyadjusted.com/2009/11/10/running-arcgis-9-4-alongside-arcgis-9-3-1/):
 
-<blockquote>Note: If you post any specific 9.4 Beta information (such as quoting forums posts on the Beta forums), expect ESRI to personally contact you. They appear to be monitoring this blog post. You’ve been warned.</blockquote>
+> Note: If you post any specific 9.4 Beta information (such as quoting forums posts on the Beta forums), expect ESRI to personally contact you. They appear to be monitoring this blog post. You’ve been warned.
 
 
 

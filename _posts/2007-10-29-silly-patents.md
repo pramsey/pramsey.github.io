@@ -20,5 +20,10 @@ I am a bit incredulous at the implied assertion that no one thought of chopping 
 
 The whole process of software patenting reminds me of the historical acts of [enclosure](http://en.wikipedia.org/wiki/Enclosure) in England.
 
-<blockquote>*They hang the man, and flog the woman,<br />That steals the goose from off the common;<br />But let the greater villain loose,<br />That steals the common from the goose.*<br />&mdash Oliver Goldsmith</blockquote>
+> *They hang the man, and flog the woman,<br />
+> That steals the goose from off the common;<br />
+> But let the greater villain loose,<br />
+> That steals the common from the goose.*<br />
+> -- Oliver Goldsmith
+
 

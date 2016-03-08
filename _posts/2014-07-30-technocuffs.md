@@ -15,7 +15,9 @@ blogger_orig_url: http://blog.cleverelephant.ca/2014/07/technocuffs.html
 comments: True
 ---
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/e/e3/Police_handcuffs_alt.jpg" width=220 style="float:right; padding:7px;"/><p>Bill Dollins wrote an [excellent paean to the positive aspects of vendor lock-in](http://blog.geomusings.com/2014/07/24/lock-in/), which is worth a few minutes of your time:
+<img src="http://upload.wikimedia.org/wikipedia/commons/e/e3/Police_handcuffs_alt.jpg" width=220 style="float:right; padding:7px;"/>
+
+Bill Dollins wrote an [excellent paean to the positive aspects of vendor lock-in](http://blog.geomusings.com/2014/07/24/lock-in/), which is worth a few minutes of your time:
     
 > Lock-in is a real thing. Lock-in can also be a responsible thing. The organizations I have worked with that make the most effective use of their technology choices are the ones that jump in with both feet and never look back. They develop workflows around their systems; they develop customizations and automation tools to streamline repetitive tasks and embed these in their technology platforms; they send their staff to beginning and advanced training from the vendor; and they document their custom tools well and train their staff on them as well. In short, they lock themselves in.
 

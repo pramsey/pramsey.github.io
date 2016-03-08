@@ -15,7 +15,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2013/10/platforms-for-open-infor
 comments: True
 ---
 
-<p>David Eaves has posted a great talk which covers in generality the point I was circling around in specificity in my post this summer on [government email systems](/2013/08/bc-government-email-defective-by-design.html): the "access to information" community, both within and outside government, is still partying like it's 1993.  
+David Eaves has posted a great talk which covers in generality the point I was circling around in specificity in my post this summer on [government email systems](/2013/08/bc-government-email-defective-by-design.html): the "access to information" community, both within and outside government, is still partying like it's 1993.  
 
 I've got an open FOI request right now for a bunch of data, and the information access officer is scratching her chin and wondering "hm, how are we going to deliver that to you". The problem being their process is optimized around delivering documents, in PDF, via e-mail. (An improvement over the original system--documents, on paper, via the post--but still basically the original process from 1993.) 
 
@@ -23,4 +23,5 @@ Eaves tell his audience of information access folks that the big win for them, o
 
 Have a listen, it's 20 minutes very well spent. 
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/27364888" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> <div style="margin-bottom:5px"> ** [What’s our stack: process, technology, community and ideas for the future of RTI](https://www.slideshare.net/david_a_eaves/whats-our-stack-process-technology-community-and-ideas-for-the-future-of-rti" title="What’s our stack: process, technology, community and ideas for the future of RTI" target="_blank) ** from **[David Eaves](http://www.slideshare.net/david_a_eaves" target="_blank)** </div>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/27364888" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe> 
+

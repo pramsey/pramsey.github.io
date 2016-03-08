@@ -12,17 +12,17 @@ comments: True
 
 Most commit messages are pretty terse affairs ("Fix for issue #142.", "Remove compile warnings.") but this morning, Mark Cave-Ayland posted this novel along with his code changes:
 
-<blockquote>*r3224 /trunk/loader/ (Makefile.in pgsql2shp.c wkb.h)*
-
-Switch pgsql2shp over to using liblwgeom.
-
-There are few commits that can be as satisfying as one which involves the removal of ~1200 lines of code. By using the liblwgeom parser instead of the in-built parser, we have now achieved the following:
-
-i) all parsers within PostGIS, shp2pgsql and pgsql2shp are now the same which means they all follow the same rules. Also extended error reporting information including error text and position information is available.
-
-ii) the complexity of the shp2pgsql/pgsql2shp is considerably reduced.
-
-The slightly unfortunate cost is the overall executable size is larger, since we are linking with liblwgeom. However, from both a consistency and maintainability point of view, this is a big win. Note that while there may be a difference in behaviour in some corner cases, all regression tests pass here. </blockquote>
+> *r3224 /trunk/loader/ (Makefile.in pgsql2shp.c wkb.h)*
+> 
+> Switch pgsql2shp over to using liblwgeom.
+> 
+> There are few commits that can be as satisfying as one which involves the removal of ~1200 lines of code. By using the liblwgeom parser instead of the in-built parser, we have now achieved the following:
+> 
+> i) all parsers within PostGIS, shp2pgsql and pgsql2shp are now the same which means they all follow the same rules. Also extended error reporting information including error text and position information is available.
+> 
+> ii) the complexity of the shp2pgsql/pgsql2shp is considerably reduced.
+> 
+> The slightly unfortunate cost is the overall executable size is larger, since we are linking with liblwgeom. However, from both a consistency and maintainability point of view, this is a big win. Note that while there may be a difference in behaviour in some corner cases, all regression tests pass here. 
 
 Some extra explanation is in order. Mark's goal for the 1.4 release of PostGIS is to clean up the underlying code and make it easier to develop on. That has resulted in some major reorganization under the covers. 
 

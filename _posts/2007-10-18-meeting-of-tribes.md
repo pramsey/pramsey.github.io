@@ -12,5 +12,5 @@ comments: True
 
 Wow, what a great synthesis of larger FOSS4G philosophies and culture!  Danny de Vries [absolutely nails it](http://www.intrahealth.org/informatics/2007/10/the-tribes-of-foss4g/), on a whole bunch of topics, including interoperability:
 
-<blockquote>What makes open-source so different from a corporate system like ESRI is its fundamental interest in building software according to universal standards. This in contrast to the strategic interest of any closed, corporate system to somehow make users reliant on their system alone.</blockquote>
+> What makes open-source so different from a corporate system like ESRI is its fundamental interest in building software according to universal standards. This in contrast to the strategic interest of any closed, corporate system to somehow make users reliant on their system alone.
 

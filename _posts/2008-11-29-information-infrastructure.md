@@ -12,7 +12,7 @@ comments: True
 
 Governments around the world are poised to unleash untold billions of dollars in spending on infrastructure, in stimulus packages that hope to cushion the landing we are currently plummeting towards.  Ron Lake [posits](http://www.galdosinc.com/archives/551) that the initiatives will require a meta-investment, that
 
-<blockquote>We are going to need to invest in infrastructure (information infrastructure) for infrastructure!</blockquote>
+> We are going to need to invest in infrastructure (information infrastructure) for infrastructure!
 
 It is probably not a good sign that I, a professional technologist, am chilled to the bone by the prospect.  Information infrastructure historically has an obsolescence period that does not stack up well against physical infrastructure. Bridges last fifty, a hundred, sometimes a thousand, years. Government IT is planned for replacement in a decade, and occasionally pushed out as far as two decades in oddball cases.
 

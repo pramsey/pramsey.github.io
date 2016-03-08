@@ -12,7 +12,7 @@ comments: True
 
 Out of left field:
 
-<blockquote>4. Compatibility: This problem reaches across the board but when it comes to open source vs. closed source; from what you’ve seen is it a wash? I must admit that I’m inclined to stick with the devil that I and everyone else knows. Additionally doesn’t the nature of open source introduce opportunities for proprietary stovepipes?</blockquote>
+> 4. Compatibility: This problem reaches across the board but when it comes to open source vs. closed source; from what you’ve seen is it a wash? I must admit that I’m inclined to stick with the devil that I and everyone else knows. Additionally doesn’t the nature of open source introduce opportunities for proprietary stovepipes?
 
 This one I frankly do not understand, but perhaps it is in the nature of the word "compatibility". 
 

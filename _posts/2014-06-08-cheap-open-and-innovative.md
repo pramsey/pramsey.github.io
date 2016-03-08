@@ -14,4 +14,8 @@ blogger_orig_url: http://blog.cleverelephant.ca/2014/06/cheap-open-and-innovativ
 comments: True
 ---
 
-<p>Here's a talk I gave on innovation and components at the National Association of Broadcasters this spring.</p><iframe src="//player.vimeo.com/video/95179234" width="500" height="261" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p>Download [MP4](http://s3.cleverelephant.ca/2014_nab_govmil.mp4).</p>
+Here's a talk I gave on innovation and components at the National Association of Broadcasters this spring.
+
+<iframe src="//player.vimeo.com/video/95179234" width="500" height="261" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+Download [MP4](http://s3.cleverelephant.ca/2014_nab_govmil.mp4).

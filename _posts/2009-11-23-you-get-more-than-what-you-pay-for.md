@@ -12,7 +12,7 @@ comments: True
 
 Entchev [reflexively repeats](http://blog.entchev.com/2009/11/23/report-wikipedia-losing-volunteers-is-open-street-map-next.aspx?ref=rss) one of the most foolish canards ever hurled against collaborative knowledge building (open source, open data, open knowledge)
 
-<blockquote>You get what you pay for.</blockquote>
+> You get what you pay for.
 
 Was there ever a putdown more easily falsifiable? 
 

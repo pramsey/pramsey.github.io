@@ -12,7 +12,7 @@ comments: True
 
 Matt Asay (the most prolifically correct person writing on open source today) takes a look at PostgreSQL in his posting today ([Is it Postgres' Time to Shine?](http://news.cnet.com/8301-13505_3-10372733-16.html?part=rss&tag=feed&subj=TheOpenRoad)):
 
-<blockquote>Postgres [could be positioned] to take a bigger share of the enterprise Java database market &ndash; not because it's cheaper than Oracle or more open than MySQL but because it's a great database in its own right.</blockquote>
+> Postgres [could be positioned] to take a bigger share of the enterprise Java database market &ndash; not because it's cheaper than Oracle or more open than MySQL but because it's a great database in its own right.
 
 Hear hear! But Matt is too kind: PostgreSQL usership **will** grow strongly over the next couple years and much of the growth will trace directly back to its competitors weakness. MySQL's continuing community turmoil after the Sun/Oracle acquisition, and Oracle's continuing pricing problems (in that, they keep going up and up and up, I have yet to meet an Oracle customer who didn't start our conversation by gasping at  ever increasing maintenance costs).
 

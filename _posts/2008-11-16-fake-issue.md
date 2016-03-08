@@ -12,7 +12,7 @@ comments: True
 
 IT bureaucracies have a way of ginning up all kinds of contradictory reasons to keep people from doing things that, while not really impossible, are inconvenient to IT.  Take, for example, the issue of [providing e-mail service to the Most Powerful Man on Earth](http://www.nytimes.com/2008/11/16/us/politics/16blackberry.html):
 
-<blockquote>In addition to concerns about e-mail security, [Obama] faces the Presidential Records Act, which puts his correspondence in the official record and ultimately up for public review, and the threat of subpoenas. A decision has not been made on whether he could become the first e-mailing president, but aides said that seemed doubtful.</blockquote>
+> In addition to concerns about e-mail security, [Obama] faces the Presidential Records Act, which puts his correspondence in the official record and ultimately up for public review, and the threat of subpoenas. A decision has not been made on whether he could become the first e-mailing president, but aides said that seemed doubtful.
 
 So, on the one hand there's the problem of maintaining security, and on the other hand there's the problem that everything said will be on the public record. Hey, wait a minute, those are contradictory objections! Taken together, they are meaningless.
 
@@ -30,7 +30,7 @@ Unless they are saying they think President Obama doesn't have the self-control 
 
 Heck, the most effective argument against email in the New York Times article came near the end. Says Diana Owen, of the Georgetown American Studies program:
 
-<blockquote>It’s a time burner. It might be easier for him to say,  "I can’t be on e-mail. " </blockquote>
+> It’s a time burner. It might be easier for him to say,  "I can’t be on e-mail. "
 
- Truer words were never spoken. Could be worse though, he could be blogger.
+Truer words were never spoken. Could be worse though, he could be blogger.
 

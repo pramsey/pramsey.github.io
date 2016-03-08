@@ -12,7 +12,7 @@ comments: True
 
 In an otherwise unrelated conversation, Howard Butler produced this short quote on effective software project names:
 
-<blockquote>A name need not describe what something does (MapServer, I stare in your general direction :), but it needs to be distinctive enough to discriminate ...</blockquote>
+> A name need not describe what something does (MapServer, I stare in your general direction :), but it needs to be distinctive enough to discriminate ...
 
 This reminded me of the ArcGIS Server demo at Where 2.0, the [Jack-and-Jeremy](http://where.blip.tv/file/2151502/) show (by the way, IRC consensus was that Jeremy Rocks, too bad he was off-line (and on-stage) and couldn't bask in the love) where a number of examples of searching for services were started from Google queries of the form: "mapserver something".
 

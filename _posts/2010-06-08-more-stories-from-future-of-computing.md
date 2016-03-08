@@ -12,7 +12,7 @@ comments: True
 
 From the [Jobs keynote](http://www.apple.com/quicktime/qtv/wwdc10/index.html) of yesterday, a slide with a quote from Theo Gray of Wolfram, regarding the popular "Elements" iPad application:
 
-<blockquote>I earned more on sales of The Elements for iPad in the first day than from the past 5 years of Google ads on periodictable.com.</blockquote>
+> I earned more on sales of The Elements for iPad in the first day than from the past 5 years of Google ads on periodictable.com.
 
 Quoth Jobs, "That's what I like to hear from you guys." Audience whoops.
 

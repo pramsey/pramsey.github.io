@@ -12,7 +12,7 @@ comments: True
 
 Bill Dollins [nails it](http://geobabble.wordpress.com/2009/06/01/opengeo-suite-–-a-milestone/):
 
-<blockquote>In general, the perception of risk equals the presence of risk.</blockquote>
+> In general, the perception of risk equals the presence of risk.
 
 Like "[truthiness](http://en.wikipedia.org/wiki/Truthiness)", risk is in the eye of the beholder. Which leaves me working to help sell a software-based [solution](http://opengeo.org/products/suite/) for a problem that exists, for the most part, in people's heads. Open source software vendor, or psychiatrist, you be the judge. Also, potential hole in the business plan &ndash; what happens when people finally wise up?
 

@@ -12,11 +12,7 @@ comments: True
 
 Getting the re-tweeting rounds today, [an article on why business are moving to the cloud](http://www.itworld.com/cloud-computing/174967/business-users-abandoning-it-quicker-self-serve-cloud-apps). The answer? To avoid their own IT departments.
 
-
-
-<blockquote>Their top reasons for going around IT? The need to respond quickly to changes in the market, self-sufficiency of their IT-savvy workforce, and the easy availability of top-quality it services that can be bought without long implementation or testing (cloud and SAAs apps, primarily).</blockquote>
-
-
+> Their top reasons for going around IT? The need to respond quickly to changes in the market, self-sufficiency of their IT-savvy workforce, and the easy availability of top-quality it services that can be bought without long implementation or testing (cloud and SAAs apps, primarily).
 
 [Watch out](/2011/06/it-revolution.html), the natives are restless.
 

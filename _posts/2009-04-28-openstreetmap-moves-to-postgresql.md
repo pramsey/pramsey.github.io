@@ -20,12 +20,12 @@ Recently, the [OpenStreetMap](http://openstreetmap.org/) project put out a [very
 
 So, why has OSM abandoned the [worlds most popular open source database](http://www.mysql.com/)? I asked the OSM folks, and this is what Tom Hughes of OSM told me:
 
-<blockquote>Personally I've been very frustrated with MySQL from when I first got involved with running things. Some of the problem was of our own making in that we had a mix of MyISAM and InnoDB tables (originally everything was in MyISAM) and some tables were using MyISAM features that meant they couldn't be easily moved to InnoDB.
-
-On top of that it seemed that virtually any non-trivial query would completely defeat MySQL's optimiser.</blockquote>
+> Personally I've been very frustrated with MySQL from when I first got involved with running things. Some of the problem was of our own making in that we had a mix of MyISAM and InnoDB tables (originally everything was in MyISAM) and some tables were using MyISAM features that meant they couldn't be easily moved to InnoDB.
+> 
+> On top of that it seemed that virtually any non-trivial query would completely defeat MySQL's optimiser.
 
 The comment about a mix of tables really hits home, since so many MySQL features are split across table types. Want transactions? InnoDB! Want full text search? MyISAM! Want spatial? MyISAM! Want spatial or full-text **and** transactions? Tough. The devil is in the details. When asked: does MySQL support spatial, transactions, full-text? the MySQL answer is "yes", "yes", "yes", but the reality in production is not nearly so clear-cut.
 
 Note that OSM is not using PostGIS for the main database at this time (their current data model of nodes and ways wouldn't get much leverage from it) but it is used for other processes like OSM tile generation. And a growing number of people on the PostGIS users list seem to be using [osm2pgsql](http://svn.openstreetmap.org/applications/utils/export/osm2pgsql/) to extract data from the OSM production server for rendering / analysis in PostGIS.
 
-So, welcome OSM, to the PostgreSQL community!<br /> 
+So, welcome OSM, to the PostgreSQL community!

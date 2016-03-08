@@ -16,7 +16,7 @@ ESRI (pretty new web page, by the way) has put their [open source position](http
 
 One thing that struck me in the podcast was when Victoria noted that ESRI has sponsored open source events in the past (most notably [FOSS4G 2007](http://2007.foss4g.org/) directly, but also 2008 and 2009 to a lesser extent through [50&deg;North](http://52north.org/)). She says, 
 
-<blockquote>These events allow us the opportunity to engage in conversations and dialogs with various technologists because we want to gain feedback about the needs of open source developers and users.  The objective of course is to channel this information back to development so we can reflect this in future products and business decisions in order to best support our customers.<br /></blockquote>
+> These events allow us the opportunity to engage in conversations and dialogs with various technologists because we want to gain feedback about the needs of open source developers and users.  The objective of course is to channel this information back to development so we can reflect this in future products and business decisions in order to best support our customers.
 
 So far ESRI attendance has been at the managerial level, and while I love those guys (hugs to Satish and Victoria!) some real sparks could fly and serious interoperability improvements be made if we started seeing the developers, the project leads and software designers, at the events. We can do better than "channeling" information back to development, let's immerse development in it!
 

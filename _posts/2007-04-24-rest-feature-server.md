@@ -16,13 +16,13 @@ Chris Holmes has [taken a stab](http://cholmes.wordpress.com/2007/04/24/rest-fea
 
 I would like to take issue with one of Chris Holmes' design points:
 
-<blockquote>The results of a query can then just return those urls, which the client may already be caching
-
-http://sigma.openplans.org/geoserver/major_roads?bbox=0,0,10,10
-
-returns something like
-
-&lt;html&gt;<br/>&lt;a href=’http://sigma.openplans.org/geoserver/major_roads/5′&gt;5&lt;/a&gt;<br/>&lt;a href=’http://sigma.openplans.org/geoserver/major_roads/1′&gt;1&lt;/a&gt;<br/>&lt;a href=’http://sigma.openplans.org/geoserver/major_roads/3′&gt;3&lt;/a&gt;<br/>&lt;a href=’http://sigma.openplans.org/geoserver/major_roads/8′&gt;8&lt;/a&gt;<br/>&lt;/html&gt;</blockquote>
+> The results of a query can then just return those urls, which the client may already be caching
+> 
+> http://sigma.openplans.org/geoserver/major_roads?bbox=0,0,10,10
+> 
+> returns something like
+> 
+> &lt;html&gt;<br/>&lt;a href=’http://sigma.openplans.org/geoserver/major_roads/5′&gt;5&lt;/a&gt;<br/>&lt;a href=’http://sigma.openplans.org/geoserver/major_roads/1′&gt;1&lt;/a&gt;<br/>&lt;a href=’http://sigma.openplans.org/geoserver/major_roads/3′&gt;3&lt;/a&gt;<br/>&lt;a href=’http://sigma.openplans.org/geoserver/major_roads/8′&gt;8&lt;/a&gt;<br/>&lt;/html&gt;
 
 Ouch!  Resolving a query that return 100 features would require traversing 100 URLs to pull in the resources. What about if we include the features themselves in the response? Then we are potentially sending the client objects it already has. What is the solution? 
 

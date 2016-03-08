@@ -12,7 +12,7 @@ comments: True
 
 <img src="http://www.chicagonow.com/blogs/doctors-next-door/marijuana-leaf.jpg" style="float:right; padding:4px;width:200px;" />The [mapbutcher](http://mapbutcher.com) thinks it's [OK to get hooked on proprietary software](http://mapbutcher.com/blog/?p=582):
 
-<blockquote>People are interested in the ‘express’ editions because on the surface of it the marketing works on them, they’re familiar with the brand and are attracted by the ‘free’ carrot dangling from the end of the stick. Open Source software starts from that position – it’s already free so open source projects need another carrot to get us hooked.</blockquote>
+> People are interested in the ‘express’ editions because on the surface of it the marketing works on them, they’re familiar with the brand and are attracted by the ‘free’ carrot dangling from the end of the stick. Open Source software starts from that position – it’s already free so open source projects need another carrot to get us hooked.
 
 To which I can only say "Simon! Look at yourself in the mirror, man! Do you want to end up whoring yourself down on Dalgety Street to pay for your ESRI habit?"
 

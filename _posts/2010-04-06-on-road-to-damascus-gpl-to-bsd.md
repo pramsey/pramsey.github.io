@@ -12,7 +12,7 @@ comments: True
 
 In response to [a Twitter comment](http://twitter.com/pwramsey/status/11445182899) I made about my change in attitude towards the BSD and GPL open source licenses, Martin Daly [asks](http://twitter.com/mpdaly/status/11474844507):
 
-<blockquote>Blog post on the [Damascene](http://en.wikipedia.org/wiki/Conversion_of_Paul) (or otherwise) conversion from GPL-ish to BSD-ish please. In your own time.</blockquote>
+> Blog post on the [Damascene](http://en.wikipedia.org/wiki/Conversion_of_Paul) (or otherwise) conversion from GPL-ish to BSD-ish please. In your own time.
 
 The reason I was even mentioning the license issue is because I was watching [a panel discussion at Where 2.0](http://en.oreilly.com/where2010/public/schedule/detail/12725), in which Steve Coast, in defending the [GPL-ish license used for OpenStreetMap](http://wiki.openstreetmap.org/wiki/OpenStreetMap_License), said (paraphrase) that the rationale was keeping a third party from taking the open data, closing it, and working from there. And that rationale pretty closely mirrors [how we were thinking](http://postgis.net/pipermail/postgis-users/2001-August/000203.html) when choosing the [GPL](http://www.opensource.org/licenses/gpl-2.0.php) license for PostGIS, back in 2001. 
 

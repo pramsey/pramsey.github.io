@@ -12,7 +12,7 @@ comments: True
 
 Neither rain nor sleet nor dark of night will stop me:
 
-<blockquote>3. Sociology / Psychology: There is so much more to pitching a solution to those who control the purse strings than technical logic. Selling open source to the powers that be is… well it’s tough. Are there consultants that can be hired to answer the hard questions and make the decision makers feel comfortable? I would love to see more real world business cases for comprehensive GIS environments that must cater to diverse requirements.</blockquote>
+> 3. Sociology / Psychology: There is so much more to pitching a solution to those who control the purse strings than technical logic. Selling open source to the powers that be is… well it’s tough. Are there consultants that can be hired to answer the hard questions and make the decision makers feel comfortable? I would love to see more real world business cases for comprehensive GIS environments that must cater to diverse requirements.
 
 25 years ago, selling anything that wasn't IBM to the powers-that-be was tough. I expect selling open source to remain tough, but get easier and easier over time as people with Internet-centric mindsets percolate up into decision making positions for larger organizations.
 
@@ -28,5 +28,5 @@ The request for information about "comprehensive GIS environments" feels like tr
 
 So here is what to say to the powers-that-be. Don't foam at the mouth, don't wear jams and a backwards baseball cap. Recognize that change is slow, and there are sound financial reasons for that:
 
-<blockquote>For an organization just getting started with open source, it provides advantages at the margins: not in reworking your existing systems, but giving you flexible options when building *new* ones. The existing systems should be left running until they hit a natural end-of-life, either when they become out of date, or so expensive to run/pay maintenance on that the switching cost actually becomes acceptable. Evaluate the cost of change regularly.  Sometimes not changing is the more expensive option, and it is important to know what that time arrives.</blockquote>
+> For an organization just getting started with open source, it provides advantages at the margins: not in reworking your existing systems, but giving you flexible options when building *new* ones. The existing systems should be left running until they hit a natural end-of-life, either when they become out of date, or so expensive to run/pay maintenance on that the switching cost actually becomes acceptable. Evaluate the cost of change regularly.  Sometimes not changing is the more expensive option, and it is important to know what that time arrives.
 

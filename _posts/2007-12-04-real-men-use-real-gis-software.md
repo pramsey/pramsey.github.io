@@ -12,7 +12,8 @@ comments: True
 
 Allow me to echo [Peter Batty's sentiment](http://geothought.blogspot.com/2007/12/no-data-creation-in-neogeography-errr.html) about this [silly post in All Points Blog](http://apb.directionsmag.com/archives/3703-Neogeography-is-not-GIS;-not-LI.html) on neography and real "GIS".
 
-<blockquote>Speaking at Korem's Geodiffusion conference, Pitney Bowes Software president, Mike Hickey, struck a resonant chord when he explained that "the explosion of Neogeography is driving awareness [and] collaborative data consolidation [but it] isn't GIS." Hickey explained that while neogeography is focused on "Where" there is no data creation and no spatial analysis, an essentially visually useful concept that has helped "cross the chasm from early adopters to an early majority."<br/>&mdash;*[All Points Blog](http://apb.directionsmag.com/archives/3703-Neogeography-is-not-GIS;-not-LI.html)*</blockquote>
+> Speaking at Korem's Geodiffusion conference, Pitney Bowes Software president, Mike Hickey, struck a resonant chord when he explained that "the explosion of Neogeography is driving awareness [and] collaborative data consolidation [but it] isn't GIS." Hickey explained that while neogeography is focused on "Where" there is no data creation and no spatial analysis, an essentially visually useful concept that has helped "cross the chasm from early adopters to an early majority."<br/>
+> -- *[All Points Blog](http://apb.directionsmag.com/archives/3703-Neogeography-is-not-GIS;-not-LI.html)*
 
 As a former vendor himself, I'm sure Peter recognizes the core appeal here is to the emotional hind-brain of all the suckers^H^H^H^H^H^H^Hcustomers who have already dropped coin for MapInfo software.  Hickey is reassuring his customers that neography is (like open source software) fundamentally inferior to real "GIS" because *it doesn't cost enough money*.
 

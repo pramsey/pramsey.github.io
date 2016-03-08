@@ -14,8 +14,8 @@ blogger_orig_url: http://blog.cleverelephant.ca/2014/06/examples-are-not-normati
 comments: True
 ---
 
-<p>Once, when I still had the energy, I was reading an [Open Geospatial Consortium](http://opengeospatialorg) specification document, and found an inconsistency between a directive stated in the text, and the examples provided to illustrate the directive. This seemed pretty important, since most "Humans" use the examples and ignore the text, so I raised it with the author, who replied to me: </p>
+Once, when I still had the energy, I was reading an [Open Geospatial Consortium](http://opengeospatialorg) specification document, and found an inconsistency between a directive stated in the text, and the examples provided to illustrate the directive. This seemed pretty important, since most "Humans" use the examples and ignore the text, so I raised it with the author, who replied to me: 
 
-<blockquote>**"Examples are not normative"**</blockquote>
+> **"Examples are not normative"**
 
-<p>To me, this seemed to summarize in four words everything there was to dislike about the standards community: dismissive, self-referential ("normative"? really?), and unconcerned with real-world practice. One of the reasons I no longer have the energy. </p>
+To me, this seemed to summarize in four words everything there was to dislike about the standards community: dismissive, self-referential ("normative"? really?), and unconcerned with real-world practice. One of the reasons I no longer have the energy.

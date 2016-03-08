@@ -14,13 +14,15 @@ You say "potato", I say "potato"; you say "long/lat", I say "lat/long". Long/lat
 
 [This thread](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=2431933&SiteID=1) at the MSDN forums is an interesting read, if you are a complete loser. (Disclosure: I **am** a complete loser.)
 
-<img src="http://farm3.static.flickr.com/2259/2126731271_80b7eaf00d.jpg?v=0" align="right" alt="Y/X World" />In a nutshell, Microsoft thinks the world looks like this.  OK, OK, I'm being unfair, what they think is that it makes sense to use a latitude/longitude (y/x) order for ordinates in the Well-Known Text (WKT) and Well-Known Binary (WKB) that their STAsText() and STAsBinary() methods return, respectively. (Pls. see above re: my complete loserness.)
+<img src="http://farm3.static.flickr.com/2259/2126731271_80b7eaf00d.jpg?v=0" align="right" alt="Y/X World" />
+
+In a nutshell, Microsoft thinks the world looks like this.  OK, OK, I'm being unfair, what they think is that it makes sense to use a latitude/longitude (y/x) order for ordinates in the Well-Known Text (WKT) and Well-Known Binary (WKB) that their STAsText() and STAsBinary() methods return, respectively. (Pls. see above re: my complete loserness.)
 
 This is what the SQL Server spatial team had to say to a user wondering at this behavior:
 
-<blockquote>This is the expected behavior, but as you found there is not a standard industry consensus on the ordering of latitude / longitude coordinates in formats such as WKT and WKB.  The OGC SFS document does not cover geographic coordinates, only planar data, so it is not clear that the same ordering is necessary.  However, the EPSG definition itself for 4326 defines the axis order as latitude / longitude, and that is what we use and what is defined by other formats such as GML / GeoRSS.
-
-[Here is a thread](http://mail.opengeospatial.org/pipermail/wfs-dev/2005-May/000236.html) from the OpenGeoSpatial mailing list defining this behavior.</blockquote>
+> This is the expected behavior, but as you found there is not a standard industry consensus on the ordering of latitude / longitude coordinates in formats such as WKT and WKB.  The OGC SFS document does not cover geographic coordinates, only planar data, so it is not clear that the same ordering is necessary.  However, the EPSG definition itself for 4326 defines the axis order as latitude / longitude, and that is what we use and what is defined by other formats such as GML / GeoRSS.
+> 
+> [Here is a thread](http://mail.opengeospatial.org/pipermail/wfs-dev/2005-May/000236.html) from the OpenGeoSpatial mailing list defining this behavior.
 
 The place where I (surprise!) violently disagree with the Microsoft team is the assertion that  "there is not a standard industry consensus on the ordering of ... coordinates in ... WKT and WKB ". There is, in fact, a massive industry consensus on WKT and WKB coordinate order. If the Microsoft team can find a shipping product that deliberately creates WKT or WKB in lat/long order I'll send them a [5lb box of Roger's Chocolates](http://www.rogerschocolates.com/products.php?category_id=12&page=1&search=&product_id=5470411621727d756f86f5b7957c378bd).
 

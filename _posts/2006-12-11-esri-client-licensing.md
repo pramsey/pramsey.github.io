@@ -16,7 +16,7 @@ The ESRI SDE client Java libraries are not publicly downloadable, at least not e
 
 Those of us living by the spirit of the law need to go one level deeper.  We have an ESRI Developer Network package, so I pulled out the SDE developer kit disk and installed the Java clients.  The license I had to agree to in that process did not say anything specific about the client libraries, so I assume they are covered in the general license, which is pretty explicit:
 
-<blockquote>Licensee shall not redistribute the Software, in whole or in part, including, but not limited to, extensions, components, or DLLs without the prior written approval of ESRI as set forth in an appropriate redistribution license agreement.</blockquote>
+> Licensee shall not redistribute the Software, in whole or in part, including, but not limited to, extensions, components, or DLLs without the prior written approval of ESRI as set forth in an appropriate redistribution license agreement.
 
 Looks like black-letter law to me.
 
