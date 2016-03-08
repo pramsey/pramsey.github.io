@@ -18,6 +18,7 @@ comments: True
 Hot off their success [transforming the BC social services sector with "integrated case management"](/2012/06/more-icm.html), Deloitte is now heavily staffing the upcoming transformation of the IT systems that underpin our natural resource management ministries.
 
 **Interlude:** I should briefly note here that Deloitte's work in social services involved building a $180,000,000 case management system that the people who use it generally [do not like](http://www.theglobeandmail.com/news/british-columbia/bc-child-services-hampered-by-deeply-flawed-computer-system/article21472981/), using software that [nobody else uses](http://www.vancouversun.com/life/alone+using+troubled+software+system+manage+child+welfare/10023345/story.html) for social services, that [went offline](http://www.vancouversun.com/technology/government+million+computer+system+just+work+with+video/9840193/story.html) for several consecutive days last year, and based on software that basically entered end-of-life almost [five years ago](http://en.wikipedia.org/wiki/Siebel_Systems#Key_dates). I'm sure that's not Deloitte's fault, they are only the **international experts hired to advise on the best ways to build the system and then actually build it**.
+{: .note }
 
 <div style="float: right; padding: 10px;"><p align="center"><img src="http://www.pwc.co.uk/en_uk/uk/assets/images/epm-decision-making.jpg"><br/>*So many shiny arrows!<br/>Smells like management consultants...*</p></div>
 

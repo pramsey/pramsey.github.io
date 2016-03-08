@@ -20,6 +20,6 @@ Most IT professionals have some expectation, having received a basic education o
 
 Why is it, then, that production GIS data flows so consistently produce models that look like this:
 
-<a href="http://1.bp.blogspot.com/-pfiwJjLhL1o/VT5gmjPW9EI/AAAAAAAAAfY/dX6WtAst4Z8/s1600/screenshot_269.png" imageanchor="1" ><img border="0" src="http://1.bp.blogspot.com/-pfiwJjLhL1o/VT5gmjPW9EI/AAAAAAAAAfY/dX6WtAst4Z8/s1600/screenshot_269.png" /></a>
+<img border="0" src="http://1.bp.blogspot.com/-pfiwJjLhL1o/VT5gmjPW9EI/AAAAAAAAAfY/dX6WtAst4Z8/s1600/screenshot_269.png" />
 
 What is wrong with us?!?? I bring up this rant only because I was just told that some users find the PostgreSQL 1600 column limit **constraining** since it makes it hard to import the Esri census data, which are "modelled" into tables that are presumably wider than they are long.
