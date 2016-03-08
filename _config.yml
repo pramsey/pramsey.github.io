@@ -9,11 +9,11 @@ permalink:        '/:year/:month/:title.html'
 title:            'Paul Ramsey'
 tagline:          'Open source IT'
 description:      'Open source software developer and information technology professional.<br/>Occasional blowhard.'
-url:              http://www.cleverelephant.ca
+url:              'http://blog.cleverelephant.ca'
 
 author:
   name:           'Paul Ramsey'
-  url:            'http://cleverelephant.ca'
+  url:            'http://blog.cleverelephant.ca'
   twitter:        'http://twitter.com/pwramsey'
   github:         'http://github.com/pramsey'
   linkedin:       'http://linkedin.com/in/paul-ramsey-717134'
