@@ -12,6 +12,7 @@ tags:
 modified_time: '2015-05-07T05:39:35.750-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-22106059530918359
 blogger_orig_url: http://blog.cleverelephant.ca/2015/04/more-speech-for-money.html
+comments: True
 ---
 
 The BC Liberal government is changing the Elections Act to allow **unlimited party and candidate spending within one month of election day** and meanwhile, as usual, the media are transfixed by the shiny object in the corner.

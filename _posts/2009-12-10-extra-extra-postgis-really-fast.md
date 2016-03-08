@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-12-10T15:12:42.113-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1706889555645827424
 blogger_orig_url: http://blog.cleverelephant.ca/2009/12/extra-extra-postgis-really-fast.html
+comments: True
 ---
 
 Because, frankly, I love nothing more than approbation, I am going to quote [this comment](http://blog.cleverelephant.ca/2009/01/must-faster-unions-in-postgis-14.html?showComment=1260481766531#c388201837491522179) on "[Much Faster Unions in PostGIS](http://blog.cleverelephant.ca/2009/01/must-faster-unions-in-postgis-14.html)" in full:

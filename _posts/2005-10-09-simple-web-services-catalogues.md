@@ -7,6 +7,7 @@ tags:
 modified_time: '2006-10-21T11:22:57.501-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-112887613347300606
 blogger_orig_url: http://blog.cleverelephant.ca/2005/10/simple-web-services-catalogues.html
+comments: True
 ---
 
 Web services are a "big deal" these days, garnering lots and lots of column inches in mainstream [IT magazines](http://www.infoworld.com/article/05/05/06/HNfinalsoapanel_1.html).  The geospatial world is no exception: after years of stagnation the number of number of [Open Geospatial Consortium](http://www.opengeospatial.org/) (OGC) web services publicly available on the internet is starting to really explode, going from around 200 to 1000 over the last nine months.

@@ -7,6 +7,7 @@ tags:
 modified_time: '2010-05-05T09:55:26.079-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4244699646741069511
 blogger_orig_url: http://blog.cleverelephant.ca/2010/05/end-of-end-of-general-purpose-computing.html
+comments: True
 ---
 
 <img src="http://www.mypersonalgps.com/Icons/Iphone%20Icon.jpg" style="float:right;width:80px; padding:5px;"/>One of the memes that got slung around a log during the launch of the iPad and associated apologetics for the closed nature of iPad (and iPhone) software development was that we were at the "end of general purpose computing", that the closed and controlled environment was a good thing, and in fact **required** in order to provide the seamless, user friendly experience necessary to bring computing, finally, to the unwashed masses.

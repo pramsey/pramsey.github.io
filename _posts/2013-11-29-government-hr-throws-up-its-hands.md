@@ -13,6 +13,7 @@ tags:
 modified_time: '2013-11-29T20:14:51.096-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-210716053018385024
 blogger_orig_url: http://blog.cleverelephant.ca/2013/11/government-hr-throws-up-its-hands.html
+comments: True
 ---
 
 <p>Has it come to this? Has government decided that it is completely incapable of recruiting and training its own technical staff? 

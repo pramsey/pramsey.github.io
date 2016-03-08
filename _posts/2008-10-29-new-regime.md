@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-10-29T14:53:17.271-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4215080523154709356
 blogger_orig_url: http://blog.cleverelephant.ca/2008/10/new-regime.html
+comments: True
 ---
 
 Today my wife went back to work, which means the "new regime" is in effect!

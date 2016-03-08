@@ -12,6 +12,7 @@ tags:
 modified_time: '2013-08-01T14:54:44.792-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-9139694137035980020
 blogger_orig_url: http://blog.cleverelephant.ca/2013/07/bc-it-outsourcing-201213.html
+comments: True
 ---
 
 It's hard to believe a whole year has gone by! And yet, it has. July is here, the [BC 2012/2013 Public Accounts](http://www.fin.gov.bc.ca/ocg/pa/12_13/Pa12_13.htm) have come out, so it's time to update my tracking of IT outsourcing spending with another year's [data points](https://docs.google.com/spreadsheet/ccc?key=0AsM7ePw4lyCDdFRjVVI4ZURtb2kyeFpPbVhqdmM2M3c&amp;usp=sharing)!

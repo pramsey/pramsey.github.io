@@ -8,6 +8,7 @@ modified_time: '2009-06-08T16:33:34.776-07:00'
 thumbnail: http://farm3.static.flickr.com/2167/2509085987_bc9272e8a9_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8339726704075631043
 blogger_orig_url: http://blog.cleverelephant.ca/2009/06/esri-free-web-services.html
+comments: True
 ---
 
 I'm a nice guy, I often raise ESRI's web services (formerly [ArcWeb Services](http://www1.arcwebservices.com/), now [ArcGIS Online](http://resources.esri.com/arcgisonlineservices/)) when talking to clients about options for things like map services, geocodes and routes. It's my way of rooting for the scrappy underdog, the old paleogeographic home team, going up against the Google and <strike>Microsoft</strike> Bing behemoths.

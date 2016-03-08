@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-06-01T11:59:19.705-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3820621338137115406
 blogger_orig_url: http://blog.cleverelephant.ca/2009/06/riskiness.html
+comments: True
 ---
 
 Bill Dollins [nails it](http://geobabble.wordpress.com/2009/06/01/opengeo-suite-–-a-milestone/):

@@ -12,6 +12,7 @@ tags:
 modified_time: '2010-01-22T10:29:34.307-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8755665542113216265
 blogger_orig_url: http://blog.cleverelephant.ca/2010/01/new-york-code-sprint-2010.html
+comments: True
 ---
 
 **Update: We're expanding from the "C tribe" to the "curly  braces tribe" and bringing in some JavaScripters too. Tim Schaub *and* Andreas Hocevar of OpenLayers/GeoExt will be joining the crew!**

@@ -10,6 +10,7 @@ tags:
 modified_time: '2013-06-10T13:58:10.140-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-336204283781759425
 blogger_orig_url: http://blog.cleverelephant.ca/2012/07/bc-it-outsourcing-update.html
+comments: True
 ---
 
 This week the [BC 2011/2012 Public Accounts](http://www.fin.gov.bc.ca/ocg/pa/11_12/Pa11_12.htm) (finally) came out, so that means it's time to update our tracking of IT outsourcing spending with another year's data points!

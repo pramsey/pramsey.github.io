@@ -10,6 +10,7 @@ modified_time: '2010-03-01T19:14:15.095-08:00'
 thumbnail: http://farm3.static.flickr.com/2804/4380402910_b0f07b624b_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1991992435132133204
 blogger_orig_url: http://blog.cleverelephant.ca/2010/02/nyc-sprint-day-3.html
+comments: True
 ---
 
 Third day, best day. There are four MapServer developers now working hard on implementing the [rendering plugin](http://trac.osgeo.org/mapserver/wiki/RenderingPluginStatus) changes. Thomas Bonfort is doing the core work, Steve Lime is re-working the old GD renderer, Dan Morissette is creating support for hatched styles, and Assefa is doing KML output.

@@ -8,6 +8,7 @@ modified_time: '2007-10-02T07:49:16.602-07:00'
 thumbnail: http://farm2.static.flickr.com/1263/1470731907_c90e0f661f_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4581629094418796347
 blogger_orig_url: http://blog.cleverelephant.ca/2007/10/foss4g-was-it-all-dream.html
+comments: True
 ---
 
 Just a week ago, I was addressing the opening plenary session at FOSS4G! It all feels like a blur now, and it is very hard to remember anything distinctly.

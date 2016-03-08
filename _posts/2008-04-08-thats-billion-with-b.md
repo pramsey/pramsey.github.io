@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-04-08T15:55:33.150-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1151420551577195516
 blogger_orig_url: http://blog.cleverelephant.ca/2008/04/thats-billion-with-b.html
+comments: True
 ---
 
 [This article](http://highscalability.com/skype-plans-postgresql-scale-1-billion-users) on scaling PostgreSQL to support Skype's operations is well worth a read for anyone running a high-end PostgreSQL installation.<img src="http://www.objects-of-design.com/UploadImages/ProductImages/LargeImages/Letter-B-260.jpg" width="130" height="145" style="float:right;padding:10px;" />

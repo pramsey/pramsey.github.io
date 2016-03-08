@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-07-10T22:28:14.171-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8045921262872356104
 blogger_orig_url: http://blog.cleverelephant.ca/2008/07/standards-for-geospatial-rest.html
+comments: True
 ---
 
 One of the things that has been powerful about the open source geospatial community has been the care with which open standards have been implemented.  <img src="http://www.jlab.org/news/releases/2004/atom_nucleon.jpg" width="286" height="284" style="float:right;padding:10px"/>Frequently the best early implementations of the OGC standards have open source ones.  It [would be nice](http://zcologia.com/news/778/rest-on-the-conference-circuit-2008/) if the open source community could start providing REST APIs to the great core rendering and data access services that underly products like Mapserver, Geoserver, and so on.

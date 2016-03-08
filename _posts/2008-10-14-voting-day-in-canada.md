@@ -8,6 +8,7 @@ modified_time: '2008-10-14T11:15:00.342-07:00'
 thumbnail: http://farm4.static.flickr.com/3052/2942352590_d920d9f5a2_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1295411014504433980
 blogger_orig_url: http://blog.cleverelephant.ca/2008/10/voting-day-in-canada.html
+comments: True
 ---
 
 Happy voting day, Canadians. I'm just about to head out my local polling place to nullify somebody's vote by casting an equal, opposite vote (I like to identify them in line, for maximum enragement. "Oh, you're voting Conservative? I'm voting NDP, so you might as well have not even bothered coming.")<img src="http://farm4.static.flickr.com/3052/2942352590_d920d9f5a2_m.jpg" style="float:right; padding:5px;" />

@@ -7,6 +7,7 @@ tags:
 modified_time: '2011-08-15T11:07:15.841-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3945207965519615816
 blogger_orig_url: http://blog.cleverelephant.ca/2011/08/open-source-is-not-free-as-in-beer.html
+comments: True
 ---
 
 Last week, I [took the time to ridicule](http://blog.cleverelephant.ca/2011/08/proprietary-software-is-not-future-you.html) a post at the [PBBI blog](http://stratus.pbbiblogs.com/2011/08/12/open-source-is-not-the-future-you-think-it-is…/) on open source, which really boiled down to a critique of the very flimsy open source argument "open source is free (as in beer) so it's a budget panacea!". I hope not many open source advocates are retailing that one, but I'm sure one or two of us still are.

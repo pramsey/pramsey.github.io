@@ -12,6 +12,7 @@ tags:
 modified_time: '2013-10-20T20:33:48.857-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5531833093259727769
 blogger_orig_url: http://blog.cleverelephant.ca/2013/10/platforms-for-open-informationgovernment.html
+comments: True
 ---
 
 <p>David Eaves has posted a great talk which covers in generality the point I was circling around in specificity in my post this summer on [government email systems](http://blog.cleverelephant.ca/2013/08/bc-government-email-defective-by-design.html): the "access to information" community, both within and outside government, is still partying like it's 1993.  

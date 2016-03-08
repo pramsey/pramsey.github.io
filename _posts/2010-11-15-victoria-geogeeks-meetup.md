@@ -7,6 +7,7 @@ tags:
 modified_time: '2010-11-29T13:51:05.488-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3406243596596352422
 blogger_orig_url: http://blog.cleverelephant.ca/2010/11/victoria-geogeeks-meetup.html
+comments: True
 ---
 
 **Update:** Twelve people RSVP'ed so far for [this month's meet](http://www.meetup.com/Victoria-GeoGeeks/calendar/15458443/)!

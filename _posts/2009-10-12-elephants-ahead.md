@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-10-12T09:52:28.410-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-786320256879783300
 blogger_orig_url: http://blog.cleverelephant.ca/2009/10/elephants-ahead.html
+comments: True
 ---
 
 Matt Asay (the most prolifically correct person writing on open source today) takes a look at PostgreSQL in his posting today ([Is it Postgres' Time to Shine?](http://news.cnet.com/8301-13505_3-10372733-16.html?part=rss&tag=feed&subj=TheOpenRoad)):

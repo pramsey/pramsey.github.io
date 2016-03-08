@@ -9,6 +9,7 @@ tags:
 modified_time: '2015-03-20T13:07:02.435-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-572071594835044806
 blogger_orig_url: http://blog.cleverelephant.ca/2015/03/making-lines-from-points.html
+comments: True
 ---
 
 Somehow I've gotten through 10 years of SQL without ever learning this construction, which I found while proof-reading a [colleague's](https://twitter.com/sanderpick) blog post and looked so unlikely that I had to test it before I believed it actually worked. Just goes to show, there's always something new to learn.

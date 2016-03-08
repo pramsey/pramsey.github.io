@@ -7,6 +7,7 @@ tags:
 modified_time: '2006-11-16T22:09:30.578-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2734446781416812342
 blogger_orig_url: http://blog.cleverelephant.ca/2006/11/flame-bait.html
+comments: True
 ---
 
 Why end the evening on a high note, when I can end it rancourously and full of bile!

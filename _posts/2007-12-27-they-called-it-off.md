@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-12-27T22:39:46.399-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4847200501924276204
 blogger_orig_url: http://blog.cleverelephant.ca/2007/12/they-called-it-off.html
+comments: True
 ---
 
 Good news from down Redmond way. The SQL Server spatial team has [decided](http://blogs.msdn.com/isaac/archive/2007/12/27/latitude-longitude-ordering.aspx) to make the coordinate order returned by their STAsText and STAsBinary functions consistent with the existing industry practice: (easting, northing) or (longitude, latitude) or (x, y), depending on how you look at it.

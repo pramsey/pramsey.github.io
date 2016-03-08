@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-12-02T04:54:37.967-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4197633523944940629
 blogger_orig_url: http://blog.cleverelephant.ca/2008/11/2010-foss4g-bids-are-in.html
+comments: True
 ---
 
 Four bids this year, from the, er, three corners of the earth. [China](http://lists.osgeo.org/pipermail/conference_dev/2008-November/000780.html), [North America](http://lists.osgeo.org/pipermail/conference_dev/attachments/20081130/1da9b665/FOSS4G2010_Denver_Proposal-0001.pdf), and Europe (times two, [Barcelona](http://www.ominiverdi.org/foss4g2010/proposal/Proposal_FOSS4G2010_Barcelona.pdf) and [Utrecht](http://www.geocat.net/bidbook_foss4g2010_Netherlands.pdf)). Apparently sated after winning bids from South Africa and Australia, the antipodes are not represented this year.

@@ -7,6 +7,7 @@ tags:
 modified_time: '2006-12-11T09:20:41.264-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8194097872917372085
 blogger_orig_url: http://blog.cleverelephant.ca/2006/12/esri-client-licensing.html
+comments: True
 ---
 
 Having talked about Oracle's client licensing which is "freely redistributable within the bounds of certain definitions of the word 'free'", I wondered about ESRI's client licensing.

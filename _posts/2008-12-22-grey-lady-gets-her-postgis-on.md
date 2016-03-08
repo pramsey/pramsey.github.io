@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-12-22T14:05:51.750-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7420276273944961655
 blogger_orig_url: http://blog.cleverelephant.ca/2008/12/grey-lady-gets-her-postgis-on.html
+comments: True
 ---
 
 <img src="http://www.officesnapshots.com/wp-content/uploads/2007/10/nytimes_logo.gif" style="float:right;padding:3px;"/>The tech team at the [New York Times](http://www.nytimes.com) has rolled out a geo-enabled application called &ldquo;[Represent](http://open.blogs.nytimes.com/2008/12/22/represent/)&rdquo;, and under the covers is a regular [murderer's row](http://en.wikipedia.org/wiki/Murderers'_Row) of open source technology.  [PostGIS](http://postgis.refractions.net), [GeoDjango](http://geodjango.org), [GEOS](http://trac.osgeo.org/geos), [GDAL](http://www.gdal.org), and on an on.

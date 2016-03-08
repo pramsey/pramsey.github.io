@@ -12,6 +12,7 @@ modified_time: '2014-02-04T11:05:36.459-08:00'
 thumbnail: http://4.bp.blogspot.com/-RGdDFOS0fq0/UvEz2m-CP7I/AAAAAAAAAIg/9ypyk7YsUOM/s72-c/screenshot_09.png
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8844587424420415199
 blogger_orig_url: http://blog.cleverelephant.ca/2014/02/introspection-double-shot.html
+comments: True
 ---
 
 <p>Davy Stevenson has a [great post](http://davystevenson.com/2014/02/03/how-to-accidentally-be-a-jerk-on-twitter.html) (everyone should write more, more often) on a small Twitter storm she precipitated and that I participated in. Like all sound-and-fury-signifying-nothing it was mostly about misunderstandings, so I'd like to add my own information about mental state to help clarify where I come from as a maintainer. 

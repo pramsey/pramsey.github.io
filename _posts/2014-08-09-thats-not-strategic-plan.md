@@ -12,6 +12,7 @@ modified_time: '2014-08-09T07:57:53.739-07:00'
 thumbnail: http://4.bp.blogspot.com/-1X5OmmjiHJU/U-Y2bw0P2vI/AAAAAAAAANM/aYggnnJg_2g/s72-c/crocodile_dundee.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8825468119964909054
 blogger_orig_url: http://blog.cleverelephant.ca/2014/08/thats-not-strategic-plan.html
+comments: True
 ---
 
 <div class="separator" style="clear: both; text-align: center;">[<img border="0" src="http://4.bp.blogspot.com/-1X5OmmjiHJU/U-Y2bw0P2vI/AAAAAAAAANM/aYggnnJg_2g/s320/crocodile_dundee.jpg" />](http://4.bp.blogspot.com/-1X5OmmjiHJU/U-Y2bw0P2vI/AAAAAAAAANM/aYggnnJg_2g/s1600/crocodile_dundee.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;)</div>

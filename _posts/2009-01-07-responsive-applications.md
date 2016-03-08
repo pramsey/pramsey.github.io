@@ -8,6 +8,7 @@ modified_time: '2009-01-07T10:59:48.388-08:00'
 thumbnail: http://farm4.static.flickr.com/3389/3176884653_4ae0a3f37f_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5786030861456365251
 blogger_orig_url: http://blog.cleverelephant.ca/2009/01/responsive-applications.html
+comments: True
 ---
 
 One of the first development projects I'm doing with [OpenGeo](http://www.opengeo.org) is putting together a GUI for data loading/dumping in PostGIS.  The command-line tools have served the project well for a long time, but with such good GUI tools like [PgAdmin](http://www.pgadmin.org) available for all the other interaction with the database, it is a shame to have to head to the command-line to load a shape-file.<div style="float:right;margin:10px;text-align:center;">[<img src="http://farm4.static.flickr.com/3389/3176884653_4ae0a3f37f_m.jpg" width="239" height="240" alt="PostGIS Loader GUI" />](http://www.flickr.com/photos/92995391@N00/3176884653/" title="PostGIS Loader GUI by pwramsey3, on Flickr)<br/><small>Shape File Loader GUI</small></div>

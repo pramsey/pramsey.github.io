@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-12-17T13:06:28.635-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-397267895127570803
 blogger_orig_url: http://blog.cleverelephant.ca/2007/12/drived-products.html
+comments: True
 ---
 
 The news that a [third center-line road data provider](http://www.facet-tech.com/News/Facet_Announces_Navigation_Content_for_the_Continental_US.htm) is starting up is very interesting. In an [interview with Directions](http://www.directionsmag.com/article.php?article_id=2643) they are relatively closed-lipped about why they think they can compete with the [big](http://www.navteq.com) [boys](http://www.teleatlas.com), but a good guess can be had by looking at their earlier news releases.  This not a road mapping company, this is a computer vision company.  Presumably the liberal application of computer vision allows them to combine their GPS and intertial data with road sign readings to build out full navigation-restricted data without a heavy manual data post-processing step.

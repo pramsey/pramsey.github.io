@@ -12,6 +12,7 @@ tags:
 modified_time: '2011-12-14T09:51:36.264-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4107370449596241803
 blogger_orig_url: http://blog.cleverelephant.ca/2011/12/more-in-house.html
+comments: True
 ---
 
 Hot on the heels of [my post](http://blog.cleverelephant.ca/2011/12/do-it-in-house.html) about doing work in house, InfoWorld's [Deep End](http://www.infoworld.com/print/181268) column takes a look at [build-vs-buy](http://www.infoworld.com/print/181268).<br />

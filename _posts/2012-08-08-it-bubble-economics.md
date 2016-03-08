@@ -7,6 +7,7 @@ tags:
 modified_time: '2012-08-08T10:08:41.820-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6557239858091626250
 blogger_orig_url: http://blog.cleverelephant.ca/2012/08/it-bubble-economics.html
+comments: True
 ---
 
 As an owner of BC real estate, one of the more frightening economic stories I've heard over the last year relates to how our own real estate market is in fact tied tightly to others through the mechanism of offshore investment. The story goes like this:

@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-09-11T14:09:53.804-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7187539035845563852
 blogger_orig_url: http://blog.cleverelephant.ca/2007/08/foss4g-update.html
+comments: True
 ---
 
 By my count, it's just 38 days until [FOSS4G](http://2007.foss4g.org/)! Scary thought, the amount of logistics involved. 

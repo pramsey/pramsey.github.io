@@ -7,6 +7,7 @@ tags:
 modified_time: '2010-03-22T21:00:19.476-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3061670315433943057
 blogger_orig_url: http://blog.cleverelephant.ca/2010/03/how-to-get-your-bug-fixed.html
+comments: True
 ---
 
 Mike Leahy is providing a [textbook demonstration of bug-dogging](https://lists.osgeo.org/pipermail/postgis-users/2010-March/026147.html) on the PostGIS users list this week, and anyone interested in learning how to interact with a development community to get something done would do well to study it.

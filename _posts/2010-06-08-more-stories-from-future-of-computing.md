@@ -7,6 +7,7 @@ tags:
 modified_time: '2010-06-08T05:35:16.208-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-569690759035078645
 blogger_orig_url: http://blog.cleverelephant.ca/2010/06/more-stories-from-future-of-computing.html
+comments: True
 ---
 
 From the [Jobs keynote](http://www.apple.com/quicktime/qtv/wwdc10/index.html) of yesterday, a slide with a quote from Theo Gray of Wolfram, regarding the popular "Elements" iPad application:

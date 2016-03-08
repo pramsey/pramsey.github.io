@@ -11,6 +11,7 @@ tags:
 modified_time: '2014-07-01T09:14:21.727-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7255097867133408653
 blogger_orig_url: http://blog.cleverelephant.ca/2014/07/tokenization-and-your-private-data-2.html
+comments: True
 ---
 
 So, ([Day 1](http://blog.cleverelephant.ca/2014/06/tokenization-and-your-private-data-1.html)) the BC government's vendors (and thus, by extension, the BC government) are hot to trot to use the [salesforce.com](http://salesforce.com) cloud [CRM](http://en.wikipedia.org/wiki/Customer_relationship_management) to store the personal data of BC citizens. But, BC privacy law [does not allow that](http://www.bclaws.ca/civix/document/LOC/complete/statreg/--%20F%20--/Freedom%20of%20Information%20and%20Protection%20of%20Privacy%20Act%20[RSBC%201996]%20c.%20165/00_Act/96165_03.xml#section30.1). Whatever will the government do? 

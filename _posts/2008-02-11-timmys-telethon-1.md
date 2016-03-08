@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-02-11T10:01:39.037-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6756437144400218510
 blogger_orig_url: http://blog.cleverelephant.ca/2008/02/timmys-telethon-1.html
+comments: True
 ---
 
 So, addressing [Timmy's concern](http://blog.cleverelephant.ca/2008/02/timmys-telethon-0.html)s about open source geospatial:

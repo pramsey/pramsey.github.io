@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-05-15T09:28:06.660-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4115643345493561295
 blogger_orig_url: http://blog.cleverelephant.ca/2009/05/open-vancouver.html
+comments: True
 ---
 
 Via [Geoff Zeiss](http://geospatial.blogs.com/geospatial/2009/05/city-of-vancouver-proposal-to-support-open-data-and-open-standards.html), those granola sucking hippies in the City of Vancouver council have decided to to promote open data, open standards, and ... open source?!?

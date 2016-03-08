@@ -7,6 +7,7 @@ tags:
 modified_time: '2010-10-30T19:23:25.372-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3464527595086957777
 blogger_orig_url: http://blog.cleverelephant.ca/2010/10/cool-japanese-things-1.html
+comments: True
 ---
 
 I am going to feel the lack of a camera on this trip. I didn't even bother to bring my phone because it would have been a functionless brick.

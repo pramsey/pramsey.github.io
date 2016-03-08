@@ -8,6 +8,7 @@ modified_time: '2008-06-15T22:45:29.163-07:00'
 thumbnail: http://bp1.blogger.com/_yECf1Q0GlOk/SFWxi79HUvI/AAAAAAAABns/JPdPLQBzJmE/s72-c/3Dworks1.png
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2202423428041204557
 blogger_orig_url: http://blog.cleverelephant.ca/2008/06/stop-mapping-world.html
+comments: True
 ---
 
 The [Thematic Mapping Blog](http://blog.thematicmapping.org/) has been on a 3D chloropleth jag lately, exploring all the ways to display global variables on a map of the world.  The technical achievements are all very nice, but the actual display of the useful numbers, is as usual totally screwed by the intractable fact that countries **are radically different sizes**!

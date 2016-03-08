@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-06-12T08:32:41.157-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8830373604617033650
 blogger_orig_url: http://blog.cleverelephant.ca/2007/06/performance-and-contains.html
+comments: True
 ---
 
 The reason I was thinking about performance improvements &mdash; and [how billing by CPU usage provides vendors with no incentive to work on them](http://blog.cleverelephant.ca/2007/06/perverse-incentives.html) &mdash; is because we have been thinking about a particular PostGIS use case recently.

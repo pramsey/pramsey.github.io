@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-07-14T12:36:23.722-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-901222144332124079
 blogger_orig_url: http://blog.cleverelephant.ca/2008/07/from-0-to-65-million-in-2-hours.html
+comments: True
 ---
 
 I'm doing some performance benchmarking for a client this week, so getting a big, real test database is a priority.  The USGS TIGER data is one of the largest uniform data sets around, so I've started with that.

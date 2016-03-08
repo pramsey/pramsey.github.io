@@ -13,6 +13,7 @@ modified_time: '2013-02-14T14:00:39.405-08:00'
 thumbnail: http://3.bp.blogspot.com/-13HWW4hCFfs/UR1dcMubkBI/AAAAAAAAABE/b558tXoj_bA/s72-c/screenshot_01.png
 blogger_id: tag:blogger.com,1999:blog-14903426.post-750259004105537574
 blogger_orig_url: http://blog.cleverelephant.ca/2013/02/modular-systems-development.html
+comments: True
 ---
 
 <p>Turns out not only am I not insane, I'm not on the bleeding edge or even remotely innovative!  

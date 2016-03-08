@@ -8,6 +8,7 @@ modified_time: '2008-09-04T16:31:15.387-07:00'
 thumbnail: http://farm4.static.flickr.com/3116/2828493053_abe13370d2_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6541976840931994657
 blogger_orig_url: http://blog.cleverelephant.ca/2008/09/what-i-did-on-my-summer-holidays.html
+comments: True
 ---
 
 I "just got back" (actually, last week) from a week at the [Alders Beach Resort](http://www.aldersbeachresort.com), a lovely place about 200km north up Vancouver Island.  The Alders isn't so much a "resort" in the conventional sense (well, in the conventional sense of 50 years ago), but rather a collection of mildly run-down cabins, full of families and kids, located on a tidal beach, tucked into the woods, comfortably far from pretty much anything stressful.

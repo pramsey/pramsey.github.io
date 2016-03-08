@@ -7,6 +7,7 @@ tags:
 modified_time: '2011-09-17T22:48:30.403-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-9161911954561715101
 blogger_orig_url: http://blog.cleverelephant.ca/2011/09/architecture-of-participation.html
+comments: True
 ---
 
 I told a number of folks at FOSS4G 2011 that I thought this year's event was the "best FOSS4G ever" (HT, Juan Antonio Samaranch) but that wasn't just tongue in cheek. 2011 was the biggest ever, but only a few attendees more than Barcelona in 2010. Yet somehow I felt more energized, more connected, like I had more conversations, than in 2010.

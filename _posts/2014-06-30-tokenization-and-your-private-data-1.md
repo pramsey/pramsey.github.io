@@ -12,6 +12,7 @@ modified_time: '2014-06-30T09:03:24.358-07:00'
 thumbnail: http://4.bp.blogspot.com/-_hB-4CtsB9k/U6XIyqPXj3I/AAAAAAAAALs/VLGBVssK1_Y/s72-c/dolce-vita.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7830421584286479969
 blogger_orig_url: http://blog.cleverelephant.ca/2014/06/tokenization-and-your-private-data-1.html
+comments: True
 ---
 
 <img border="0" src="http://4.bp.blogspot.com/-_hB-4CtsB9k/U6XIyqPXj3I/AAAAAAAAALs/VLGBVssK1_Y/s320/dolce-vita.jpg" style="float:left; padding-right: 10px; padding-bottom: 10px;" />

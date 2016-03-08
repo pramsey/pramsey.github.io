@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-03-28T09:22:44.791-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4335954382961760966
 blogger_orig_url: http://blog.cleverelephant.ca/2007/03/foss4g-2007-workshops-and-labs.html
+comments: True
 ---
 
 That sound you just heard was me taking a deep cleansing breath. Aaaaah, phhewhwwhww. The first part of the FOSS4G 2007 program is now in place and online, in advance of the upcoming opening of registration.  (I hope everyone registers early, to keep my blood-pressure down and ulcers in check.)

@@ -7,6 +7,7 @@ tags:
 modified_time: '2011-06-17T07:50:00.499-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-390960845010100681
 blogger_orig_url: http://blog.cleverelephant.ca/2011/06/outsourcing-in-bc.html
+comments: True
 ---
 
 Every year, in a fit of morbid curiousity, I cruise the detailed schedule of payments in the [BC Public Accounts](http://www.fin.gov.bc.ca/OCG/pa/09_10/Pa09_10.htm) as a way of keeping tabs on the local IT industry. Who is up? Who is down? Who is gone?

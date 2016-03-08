@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-03-15T04:55:28.337-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8204647785512939523
 blogger_orig_url: http://blog.cleverelephant.ca/2007/03/some-good-news-and-some-bad-news.html
+comments: True
 ---
 
 Some more details on the upcoming ArcSDE support for PostgreSQL are living in [the Q&A page](http://events.esri.com/uc/QandA/index.cfm?ConferenceID=3B67AFC7-D566-ED85-A18E8EFF9B63B57B) for the upcoming Developers Summits (as pointed out by [James Fee](http://www.spatiallyadjusted.com/2007/03/13/esri-posts-the-developer-summit-qa/)).

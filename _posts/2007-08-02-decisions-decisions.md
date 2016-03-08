@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-08-02T12:34:52.942-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6025985475232017600
 blogger_orig_url: http://blog.cleverelephant.ca/2007/08/decisions-decisions.html
+comments: True
 ---
 
 One of the things I told the rest of the committee when starting organizing for [FOSS4G 2007](http://2007.foss4g.org) was that I wanted a "narrower" conference.  The 2006 event had run 8 tracks wide, which meant that, no matter which room you chose, there were always two other rooms that had something else you wanted to see at the same time.

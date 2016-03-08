@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-04-05T21:01:05.338-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4216918400236914419
 blogger_orig_url: http://blog.cleverelephant.ca/2007/04/calgis-notes-day-2.html
+comments: True
 ---
 
 The first sessions in the morning were mostly two-hour sessions by the premier sponsors, so I just hung around the booth with Sam.  Mid-morning, the short sessions started again.

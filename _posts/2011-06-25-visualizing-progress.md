@@ -8,6 +8,7 @@ modified_time: '2011-06-25T11:12:40.796-07:00'
 thumbnail: http://2.bp.blogspot.com/-wJ0o8d4ZYAg/TgYkch8vHmI/AAAAAAAAAFE/Ve1vUgVtnfo/s72-c/screenshot_01.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2749097814268135557
 blogger_orig_url: http://blog.cleverelephant.ca/2011/06/visualizing-progress.html
+comments: True
 ---
 
 Data visualization gets (from me) a bad rap, because so often it is used as a way to make fundamentally unsexy things just sexy enough for management to buy, without reference to whether the item in question is, at core, useful or effective.

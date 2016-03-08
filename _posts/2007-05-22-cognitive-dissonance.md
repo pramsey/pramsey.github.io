@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-05-22T09:08:04.048-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2291853911776019249
 blogger_orig_url: http://blog.cleverelephant.ca/2007/05/cognitive-dissonance.html
+comments: True
 ---
 
 Try to hold these two concepts in my head at once... [Ed Parsons, at the Open Street Map conference](http://www.opengeodata.org/?p=212)... Ed Parsons, at the Open Street Map conference... Ed Parsons, at the Open Street Map conference... 

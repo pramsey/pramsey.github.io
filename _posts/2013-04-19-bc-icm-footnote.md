@@ -13,6 +13,7 @@ tags:
 modified_time: '2013-04-19T10:44:08.876-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3090153564151268641
 blogger_orig_url: http://blog.cleverelephant.ca/2013/04/bc-icm-footnote.html
+comments: True
 ---
 
 Early this year, the [ICM project](http://www.integratedcasemanagement.gov.bc.ca/) released a [system assessment report](http://www.integratedcasemanagement.gov.bc.ca/documents/icm-mcfd-iar.pdf)&nbsp;from Queensland Consulting which was [seized on by the BCGEU](http://www.bcgeu.ca/ICM_interim_report_120124) and others as showing ICM to be "deeply flawed and serious question remain regarding the software’s suitability for child protection work".

@@ -11,6 +11,7 @@ modified_time: '2014-05-30T14:37:05.766-07:00'
 thumbnail: http://3.bp.blogspot.com/-XC0o1P0DOII/U4drtnqlYZI/AAAAAAAAAKc/yxYTXlCIcuc/s72-c/screenshot_54.png
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5028229257639294883
 blogger_orig_url: http://blog.cleverelephant.ca/2014/05/government-broadcast-media-vs-bctf.html
+comments: True
 ---
 
 <p>British Columbia is currently in the midst of its every-five-years labour relations tilt-up between provincial government and the teachers union, the [BCTF](https://www.bctf.ca). 

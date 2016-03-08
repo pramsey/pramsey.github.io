@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-08-07T15:50:24.062-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3215981930673219586
 blogger_orig_url: http://blog.cleverelephant.ca/2007/08/board-bound.html
+comments: True
 ---
 
 The [results](http://lists.osgeo.org/pipermail/discuss/2007-August/002158.html) are in, and I am now a freshly minted member of the OSGeo [Board of Directors](http://wiki.osgeo.org/index.php/Board_of_Directors). Last time out, I plead time constraints and did not stand, but this time I decided to take the plunge.

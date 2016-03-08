@@ -11,6 +11,7 @@ modified_time: '2009-12-11T13:46:33.660-08:00'
 thumbnail: http://farm1.static.flickr.com/120/292715372_56a910c585_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7138817294647745612
 blogger_orig_url: http://blog.cleverelephant.ca/2009/12/code-sprint-2010-new-york-city_04.html
+comments: True
 ---
 
 It's official! Following the success of the [2009 Toronto Code Sprint](http://wiki.osgeo.org/wiki/Toronto_Code_Sprint_2009) a second event [will be taking place](http://wiki.osgeo.org/wiki/New_York_Code_Sprint_2010) in New York City, this winter.

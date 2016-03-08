@@ -10,6 +10,7 @@ tags:
 modified_time: '2013-11-27T09:27:46.668-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5710995440728888825
 blogger_orig_url: http://blog.cleverelephant.ca/2013/11/massey-bridge-125khouse-subsidy-to.html
+comments: True
 ---
 
 <p>Last week I was driving home from the NDP convention with a semi-retired traffic engineer in the backseat (and he was not backseat driving) when we passed under the Fraser River via the Massey Tunney. 

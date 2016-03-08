@@ -13,6 +13,7 @@ tags:
 modified_time: '2015-10-30T13:09:41.895-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2228092726852358322
 blogger_orig_url: http://blog.cleverelephant.ca/2015/10/government-email-deleting-intent-matters.html
+comments: True
 ---
 
 <img src="https://pbs.twimg.com/profile_images/1195985377/Baldrey_twitter_photo_400x400.jpg" style="float:right; width:150px;padding:10px;" alt="Keith Baldrey" /> I caught Keith Baldrey on the aether-box today (CKNW) and he was being generous in his distribution of benefit of the doubt to the poor, poor government staffers trying to handle their email:

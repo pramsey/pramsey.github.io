@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-04-21T16:05:00.986-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3166812096797693987
 blogger_orig_url: http://blog.cleverelephant.ca/2008/04/into-clouds.html
+comments: True
 ---
 
 One of my favorite software articles ever is Joel Spolsky's "[Law of Leaky Abstractions](http://www.joelonsoftware.com/articles/LeakyAbstractions.html)", which is about the (unavoidable) dangers of building on software abstractions.  Unavoidable, because the whole edifice of programming is built on layer upon layer of abstractions.  Dangerous, because not having an understanding of what is happening below your working abstraction can lead to unintentionally terrible mistakes.

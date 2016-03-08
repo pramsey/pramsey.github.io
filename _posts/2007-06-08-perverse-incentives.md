@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-06-08T14:30:30.924-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6713256241902031104
 blogger_orig_url: http://blog.cleverelephant.ca/2007/06/perverse-incentives.html
+comments: True
 ---
 
 I am sure others have beaten this horse before, but I just have to take a whack at it.

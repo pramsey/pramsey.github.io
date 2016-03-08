@@ -7,6 +7,7 @@ tags:
 modified_time: '2006-10-21T11:22:57.722-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-113920241067914029
 blogger_orig_url: http://blog.cleverelephant.ca/2006/02/open-source-geospatial-foundation.html
+comments: True
 ---
 
 I got home from Chicago this afternoon, and though I am a little loopy from travel, I had better write something down before the moment is gone.

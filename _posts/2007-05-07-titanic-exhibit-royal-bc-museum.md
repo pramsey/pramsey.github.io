@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-05-07T16:50:57.419-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1658561478918546359
 blogger_orig_url: http://blog.cleverelephant.ca/2007/05/titanic-exhibit-royal-bc-museum.html
+comments: True
 ---
 
 For our reception at [FOSS4G 2007](http://2007.foss4g.org/) we have rented several galleries at the [Royal BC Museum](http://www.royalbcmuseum.bc.ca/MainSite/default.aspx), for a stand-up reception amongst the exhibits.  Should be very cool.  

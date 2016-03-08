@@ -7,6 +7,7 @@ tags:
 modified_time: '2010-02-09T22:20:50.828-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1180460429799981765
 blogger_orig_url: http://blog.cleverelephant.ca/2010/02/more-googlesoft.html
+comments: True
 ---
 
 <img src="http://www.wired.com/wired/archive/12.03/images/FF_118_google_4.jpg" style="float:right; padding:6px;" alt="Googlesoft" />More great news from the G-Men and G-Girls down in Mountain View &ndash; social networking goodness is now available from Google, in the form of [Google Buzz](http://www.google.com/buzz).

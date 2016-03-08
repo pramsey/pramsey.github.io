@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-04-18T08:55:06.421-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1505517466525390416
 blogger_orig_url: http://blog.cleverelephant.ca/2008/04/mapserver-debug-logging.html
+comments: True
 ---
 
 Daniel Morissette spills the beans on the mapserver-users list:

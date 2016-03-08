@@ -7,6 +7,7 @@ tags:
 modified_time: '2006-10-21T11:22:57.444-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-112887583256174323
 blogger_orig_url: http://blog.cleverelephant.ca/2005/10/open-source-adoption.html
+comments: True
 ---
 
 I will write a technically oriented entry eventually, but right now there are some business issues I still want to explore!

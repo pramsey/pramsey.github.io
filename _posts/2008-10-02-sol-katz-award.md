@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-10-02T07:36:12.841-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5242531583369012168
 blogger_orig_url: http://blog.cleverelephant.ca/2008/10/sol-katz-award.html
+comments: True
 ---
 
 <img src="http://www.oscar-awards.deepthi.com/images/oscar-award.gif" style="float:right; padding-bottom:6px;" /> To my astonishment, I received the [Sol Katz Award](http://www.osgeo.org/solkatz) for 2008 today.  For the record, here is the acceptance speech I gave via video to the FOSS4G closing plenary session:

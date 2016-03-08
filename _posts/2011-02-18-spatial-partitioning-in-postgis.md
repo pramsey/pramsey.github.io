@@ -7,6 +7,7 @@ tags:
 modified_time: '2011-02-18T16:40:43.311-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5114831045286297330
 blogger_orig_url: http://blog.cleverelephant.ca/2011/02/spatial-partitioning-in-postgis.html
+comments: True
 ---
 
 I've been meaning for a long time to see what an implementation of spatial partitioning in PostGIS would look like, and a trip next week to the Center for Topographic Information in Sherbrooke had given me the excuse to try a toy implementation.

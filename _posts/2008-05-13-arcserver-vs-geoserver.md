@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-05-13T11:41:46.008-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8876404163473364136
 blogger_orig_url: http://blog.cleverelephant.ca/2008/05/arcserver-vs-geoserver.html
+comments: True
 ---
 
 Props to Chris Holmes, posting about the work going into making the next version of [Geoserver fully crawleable](http://blog.geoserver.org/2008/05/13/geoserver-and-googles-geo-search/) (not a real word! (yet!)) by web spiders, right in synch with [Jack Dangermond's announcement](http://www.chrisspagnuolo.com/Where20JohnHankeGoogleAndJackDESRI.aspx) of the same feature coming in ArcServer.

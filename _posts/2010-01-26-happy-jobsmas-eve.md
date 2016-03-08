@@ -7,6 +7,7 @@ tags:
 modified_time: '2010-01-26T09:29:39.112-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6711599897897473781
 blogger_orig_url: http://blog.cleverelephant.ca/2010/01/happy-jobsmas-eve.html
+comments: True
 ---
 
 How does your family mark Jobsmas Eve? Do you sing 1,2,3,4 and dance around your AirPort Extreme router, like my family? Or do you have a more relaxed, modern Jobsmas Eve, and just play networked iPod games together?

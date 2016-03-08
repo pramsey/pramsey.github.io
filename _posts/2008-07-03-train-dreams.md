@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-07-03T11:26:11.046-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6194931245053771988
 blogger_orig_url: http://blog.cleverelephant.ca/2008/07/train-dreams.html
+comments: True
 ---
 
 The web is littered with half-baked train "projects" that need little more than some love, public support, and a couple billion dollars to get off the ground.  Vector1 gives us a particularly fluffy example today, the [solar train](http://vector1media.com/spatialsustain/?p=796).  But why stop there? Here's a gallery of not-gonna-happen/didn't-happen rail "proposals" culled in just a few minutes from the Goog:

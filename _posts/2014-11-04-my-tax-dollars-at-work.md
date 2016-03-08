@@ -14,6 +14,7 @@ modified_time: '2014-11-04T12:38:00.651-08:00'
 thumbnail: http://3.bp.blogspot.com/-aTIcDDKVJ_Q/VFkr8pBMcDI/AAAAAAAAAO0/E-Vdql64D-U/s72-c/screenshot_144.png
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5030528820198561222
 blogger_orig_url: http://blog.cleverelephant.ca/2014/11/my-tax-dollars-at-work.html
+comments: True
 ---
 
 Some days I feel like I'm king of the world, and some days I feel like the weak little fool that I am, and today is one of the latter. 

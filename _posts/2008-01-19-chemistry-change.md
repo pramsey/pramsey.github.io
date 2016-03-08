@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-01-19T20:43:07.509-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7442059304859850380
 blogger_orig_url: http://blog.cleverelephant.ca/2008/01/chemistry-change.html
+comments: True
 ---
 
 I am a sucker for catastrophe, so I am fortunate to live in this age of (as the Chinese might say) "opportunity".  We are privileged to be witness to the twin cataclysms of [peak oil](http://theoildrum.com/) and [global warming](http://www.climatecrisis.net/).  It may not have the immediacy and drama of the [sack of Rome](http://en.wikipedia.org/wiki/Sack_of_Rome_%28410%29) but, baby, it's got **size**.

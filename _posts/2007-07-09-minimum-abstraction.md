@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-07-09T11:32:49.198-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1041462765089407166
 blogger_orig_url: http://blog.cleverelephant.ca/2007/07/minimum-abstraction.html
+comments: True
 ---
 
 So much work is done trying to create abstractions on top of relational databases, it is something of a crime!  The OGC's ebRIM implementation of a catalogue, is basically an abstraction that sits on a database.  The Hibernate framework is a Java abstraction that sits on a database.  Ruby on Rails is an abstraction that sits on a database.  It is almost as if we don't like our databases!  But they are so useful and flexible, let's expose them, instead of hiding them.

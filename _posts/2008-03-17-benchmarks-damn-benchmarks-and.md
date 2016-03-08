@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-03-17T14:08:30.985-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3411006186594423942
 blogger_orig_url: http://blog.cleverelephant.ca/2008/03/benchmarks-damn-benchmarks-and.html
+comments: True
 ---
 
 Seen on the #mapserver IRC channel:

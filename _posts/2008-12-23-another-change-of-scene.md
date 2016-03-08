@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-12-23T14:43:26.823-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5453585055905443207
 blogger_orig_url: http://blog.cleverelephant.ca/2008/12/another-change-of-scene.html
+comments: True
 ---
 
 Starting in the new year, I am going to be working full-time (well, slightly less due to child care needs) for [OpenGeo](http://www.opengeo.org/), as the staff [PostGIS](http://postgis.refractions.net/) expert.  OpenGeo is best known as the home of [GeoServer](http://www.geoserver.org/), but in the past year they've also built up a skilled team of [OpenLayers](http://www.openlayers.org/) user interface experts.  So, architecturally, they've got a user interface layer, an application server layer, but what about database?  To provide support for open source geo-applications, from database to interface, they want a database expert, and that's where I come in.

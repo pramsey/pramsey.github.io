@@ -8,6 +8,7 @@ modified_time: '2008-05-12T15:41:56.124-07:00'
 thumbnail: http://farm3.static.flickr.com/2011/2487978676_22e0d89fca_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-343779547289388432
 blogger_orig_url: http://blog.cleverelephant.ca/2008/05/riding-shark.html
+comments: True
 ---
 
 My annoyance at learning that OS/X 10.5 [doesn't really support gprof](http://lists.apple.com/archives/PerfOptimization-dev/2006/Apr/msg00014.html) has turned into ecstasy at finding the wholly superior [Shark](http://developer.apple.com/tools/shark_optimize.html) profiler that comes with XCode.

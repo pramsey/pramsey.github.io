@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-06-12T17:15:14.937-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7498172526521930161
 blogger_orig_url: http://blog.cleverelephant.ca/2009/06/mysql-snark-2.html
+comments: True
 ---
 
 I am doing a little benchmarking as a learning experience with [JMeter](http://jakarta.apache.org/jmeter/) and I will publish the throughput numbers in a few days, after I run the full suite I have developed on the various combinations of concurrency and insert/select ratios.

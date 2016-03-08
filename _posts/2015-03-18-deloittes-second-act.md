@@ -12,6 +12,7 @@ tags:
 modified_time: '2015-03-19T11:43:08.148-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-9202532208332066627
 blogger_orig_url: http://blog.cleverelephant.ca/2015/03/deloittes-second-act.html
+comments: True
 ---
 
 Hot off their success [transforming the BC social services sector with "integrated case management"](/2012/06/more-icm.html), Deloitte is now heavily staffing the upcoming transformation of the IT systems that underpin our natural resource management ministries.

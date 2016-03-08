@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-07-26T15:43:47.045-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2383597226645701532
 blogger_orig_url: http://blog.cleverelephant.ca/2007/07/foss4g-workshops-going-going.html
+comments: True
 ---
 
 I [mentioned earlier](http://blog.cleverelephant.ca/2007/06/foss4g-workshops-in-demand.html) that workshops are the most popular features of FOSS4G, and as we rush into early-bird, the numbers are bearing that out. Already over 2/3 of the slots are full.

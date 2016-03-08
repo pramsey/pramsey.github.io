@@ -10,6 +10,7 @@ tags:
 modified_time: '2013-05-01T09:48:57.566-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4749333090783635772
 blogger_orig_url: http://blog.cleverelephant.ca/2011/08/proprietary-software-is-not-future-you.html
+comments: True
 ---
 
 OK, so this morning James Fee tweeted [this nugget](http://web.archive.org/web/20120225002937/http://stratus.pbbiblogs.com/2011/08/12/open-source-is-not-the-future-you-think-it-is%E2%80%A6/) of late 90's "open minded thinking about open source" from a proprietary vendor. 

@@ -7,6 +7,7 @@ tags:
 modified_time: '2010-03-23T16:30:29.009-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1201304758191647008
 blogger_orig_url: http://blog.cleverelephant.ca/2010/03/foss4g-2011-decision-process.html
+comments: True
 ---
 
 <img src="http://2010.foss4g.org/img/OSGeo_logo.png" style="width:200px; float:right;" /> The [2011 FOSS4G siting process](http://www.osgeo.org/news/2010/foss4g-rfp) has begun. After the 2010 process, where there were too many good proposals and not enough slots, we decided to do a couple things to lower the effort level required by bidders in aggregate.

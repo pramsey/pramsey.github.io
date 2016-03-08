@@ -13,6 +13,7 @@ modified_time: '2013-06-26T14:44:58.972-07:00'
 thumbnail: http://4.bp.blogspot.com/-_qexd9MfMFM/UctbRrlxj3I/AAAAAAAAAC4/4keAPhcNiRM/s72-c/screenshot_01.png
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6930577441476219731
 blogger_orig_url: http://blog.cleverelephant.ca/2013/06/bringing-icm-to-natural-resources-sector.html
+comments: True
 ---
 
 What could possibly go wrong?

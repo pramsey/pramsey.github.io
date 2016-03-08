@@ -8,6 +8,7 @@ modified_time: '2008-11-21T12:35:45.953-08:00'
 thumbnail: http://farm4.static.flickr.com/3023/3047893859_0868c2c99d_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8031972351929087906
 blogger_orig_url: http://blog.cleverelephant.ca/2008/11/we-arent-in-kansas-anymore-toto.html
+comments: True
 ---
 
 No, we aren't, because I got home last night.

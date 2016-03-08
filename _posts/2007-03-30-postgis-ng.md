@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-03-30T11:41:26.011-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8779904231167852487
 blogger_orig_url: http://blog.cleverelephant.ca/2007/03/postgis-ng.html
+comments: True
 ---
 
 PostGIS has been around for a surprisingly long time now, over five years, and has accumulated a lot of crufty stuff kept around for backwards compatibility.  (The only function I have found to have been removed is an old point point-in-polygon function from the very early versions called truly_inside().)

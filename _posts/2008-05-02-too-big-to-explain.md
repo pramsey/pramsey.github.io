@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-05-02T14:29:26.483-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6227937865162506939
 blogger_orig_url: http://blog.cleverelephant.ca/2008/05/too-big-to-explain.html
+comments: True
 ---
 
 I spent the morning yesterday at an Oracle Technical Session, lots of government employees and contractors crammed into a ballroom listening to Oracle reps talk about the latest-and-greatest offerings from the beast.

@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-09-17T20:36:45.115-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-11432905786026200
 blogger_orig_url: http://blog.cleverelephant.ca/2007/09/foss4g-2007-under-week-to-go.html
+comments: True
 ---
 
 Disturbingly, the date of the conference just keeps marching relentlessly closer, without consulting me on how much I have left to complete before the big day.

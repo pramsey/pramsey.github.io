@@ -7,6 +7,7 @@ tags:
 modified_time: '2011-11-14T16:44:47.389-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4682081615925154333
 blogger_orig_url: http://blog.cleverelephant.ca/2011/11/federal-ndp-leadership-poll.html
+comments: True
 ---
 
 The Federal NDP is in a leadership race, which means that candidates who have paid their entrance fee have access to the membership list, some 100,000 Canadians like myself. As a political observer and data fiend, who had access to such a list myself [only this spring](/2011/01/we-interrupt-this-geeky-spring.html), I love watching to see how people make use of it: do we get the standard policy screed, the informative candidate-is-visiting message, or something more devious... like the below!  So, an email arrives stating: 

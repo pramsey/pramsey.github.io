@@ -8,6 +8,7 @@ modified_time: '2007-09-22T08:56:52.458-07:00'
 thumbnail: http://farm2.static.flickr.com/1151/1121970580_712d1685b2_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3609369017419984840
 blogger_orig_url: http://blog.cleverelephant.ca/2007/09/foss4g-tourist-advice-fishermans-wharf.html
+comments: True
 ---
 
 Fisherman's Wharf [[Map]](http://maps.google.com/maps?q=300+St+Lawrence+St,+Victoria,+BC,+Canada+(Fisherman's+Wharf)) used to be a little rougher, but it is now solidly on the tourist track.  This is not a bad thing, because it caps a nice walk from downtown out along the shore of the Inner Harbour.

@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-09-28T09:56:26.541-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4693624675879595119
 blogger_orig_url: http://blog.cleverelephant.ca/2009/09/why-i-dont-like-silverlight-and-flex.html
+comments: True
 ---
 
 It's this guy. Whenever I go to some "new supercool, rich web thing" I am immediately greeted with this guy.

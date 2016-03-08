@@ -13,6 +13,7 @@ tags:
 modified_time: '2013-06-10T13:58:27.020-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6045687418892911952
 blogger_orig_url: http://blog.cleverelephant.ca/2012/11/icm-and-exadata.html
+comments: True
 ---
 
 I went to an Oracle Users Group meeting yesterday afternoon, to see a presentation by [Marcin Zaranski](http://dir.gov.bc.ca/gtds.cgi?esearch=&amp;view=detailed&amp;sortBy=name&amp;for=people&amp;attribute=name&amp;matchMethod=is&amp;searchString=Marcin+Zaranski&amp;objectId=121598) on the [Integrated Case Management](http://blog.cleverelephant.ca/2012/06/more-icm.html) system's use of [Oracle ExaData](http://www.oracle.com/us/products/database/exadata/overview/index.html) hardware. 

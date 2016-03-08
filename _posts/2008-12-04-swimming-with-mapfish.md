@@ -8,6 +8,7 @@ modified_time: '2008-12-04T11:29:06.026-08:00'
 thumbnail: http://farm4.static.flickr.com/3110/3082997992_78d31e4647_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-699016414617144831
 blogger_orig_url: http://blog.cleverelephant.ca/2008/12/swimming-with-mapfish.html
+comments: True
 ---
 
 So, I was at a client site this week, doing a few days of reviewing their application and providing advice on [PostGIS](http://postgis.refractions.net/) design, [Mapserver](http://mapserver.gis.umn.edu) performance, all my favorite things.  And we come to the last day, and they say "you've been talking about how our application would look so good if we used OpenLayers and [ExtJS](http://www.extjs.com) and how great those tools are so... how about you mock up a little data entry application using our data for us this morning, before your flight?"

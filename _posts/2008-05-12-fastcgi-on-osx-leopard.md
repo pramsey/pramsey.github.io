@@ -7,6 +7,7 @@ tags:
 modified_time: '2011-08-17T11:13:55.819-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3200481563505181999
 blogger_orig_url: http://blog.cleverelephant.ca/2008/05/fastcgi-on-osx-leopard.html
+comments: True
 ---
 
 A post for posterity.

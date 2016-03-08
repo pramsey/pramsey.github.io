@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-12-04T11:17:39.758-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4571619465354801348
 blogger_orig_url: http://blog.cleverelephant.ca/2008/12/aws-geoweb.html
+comments: True
 ---
 
 There are a couple of rate limiting steps of building libraries of free data, centralized in one place, for all to use.  First, it costs a lot (for someone trying to provide a free service) to store and provide access to large amount of data.  Second, if you don't get enough eyeballs, the large effort in maintaining the library starts to feel pointless, and eventually you stop, driving the value of your collection eventually to zero.

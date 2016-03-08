@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-04-21T12:17:06.326-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6073689016277801935
 blogger_orig_url: http://blog.cleverelephant.ca/2009/04/map-of-world-as-we-know-it.html
+comments: True
 ---
 
 Somehow, I missed this video in the geoblog meme-stream, so for all the rest of you who also missed it:

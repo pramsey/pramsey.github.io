@@ -11,6 +11,7 @@ tags:
 modified_time: '2013-03-28T08:41:15.313-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8207234059299181951
 blogger_orig_url: http://blog.cleverelephant.ca/2013/03/boston-code-sprint-mapserver.html
+comments: True
 ---
 
 There is a good crowd of MapServer developers here in Boston, too!

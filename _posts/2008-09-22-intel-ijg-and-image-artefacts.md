@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-09-22T12:31:43.332-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-9150658269715668614
 blogger_orig_url: http://blog.cleverelephant.ca/2008/09/intel-ijg-and-image-artefacts.html
+comments: True
 ---
 
 I [wrote previously](http://blog.cleverelephant.ca/2008/08/optimize-optimize-optimize.html) about how using the Intel &ldquo;Integrated Performance Primitives&rdquo; ([IPP](http://www.intel.com/cd/software/products/asmo-na/eng/302910.htm)) and the Intel compiler (ICC) helped to improve performance in a Mapserver raster rendering system by about 40%.

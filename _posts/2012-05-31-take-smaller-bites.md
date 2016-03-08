@@ -7,6 +7,7 @@ tags:
 modified_time: '2012-05-31T14:17:00.303-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1427995715700733375
 blogger_orig_url: http://blog.cleverelephant.ca/2012/05/take-smaller-bites.html
+comments: True
 ---
 
 Yesterday, contra to the usual course of events, a question about IT was [raised in BC Legislature](http://www.leg.bc.ca/hansard/39th4th/H20530y.htm#1405), regarding the Integrated Case Management (ICM) system: 

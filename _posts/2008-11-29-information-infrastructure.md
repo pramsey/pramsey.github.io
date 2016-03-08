@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-11-29T21:20:56.802-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1702588574056451299
 blogger_orig_url: http://blog.cleverelephant.ca/2008/11/information-infrastructure.html
+comments: True
 ---
 
 Governments around the world are poised to unleash untold billions of dollars in spending on infrastructure, in stimulus packages that hope to cushion the landing we are currently plummeting towards.  Ron Lake [posits](http://www.galdosinc.com/archives/551) that the initiatives will require a meta-investment, that

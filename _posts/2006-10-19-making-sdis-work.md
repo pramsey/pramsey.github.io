@@ -7,6 +7,7 @@ tags:
 modified_time: '2006-10-21T11:22:58.241-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-116128191207394038
 blogger_orig_url: http://blog.cleverelephant.ca/2006/10/making-sdis-work.html
+comments: True
 ---
 
 I failed to comment on my comments, which makes me a Bad Blogger.  It is all about reprocessing content after all, so here goes...

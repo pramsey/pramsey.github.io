@@ -10,6 +10,7 @@ tags:
 modified_time: '2010-07-21T14:44:38.288-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1646776111192103355
 blogger_orig_url: http://blog.cleverelephant.ca/2010/07/network-walking-in-postgis.html
+comments: True
 ---
 
 One of the new features in PostgreSQL 8.4 was the &#8220;WITH RECURSIVE&#8221; clause available for queries. It allows you to define a subquery based on a recursive term &#8212; fancy language for a function that calls itself. One of the favorite uses of recursion is walking a network. Geospatial applications use networks all the time: electrical grids, stream systems, and storm sewers are all directed networks (they have unidirectional flow).

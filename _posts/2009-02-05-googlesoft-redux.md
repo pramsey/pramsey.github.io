@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-02-05T09:04:07.003-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2899853183640812691
 blogger_orig_url: http://blog.cleverelephant.ca/2009/02/googlesoft-redux.html
+comments: True
 ---
 
 Some might think that there is a subtext (Microsoft is Evil! Google is becoming like Microsoft! Ergo! Google is Evil!) underlying my previous post, so let me disabuse that now: Microsoft is not Evil. Follow the reasoning from there.

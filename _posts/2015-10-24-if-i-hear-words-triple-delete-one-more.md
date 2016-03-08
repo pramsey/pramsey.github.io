@@ -14,6 +14,7 @@ modified_time: '2015-10-25T09:40:33.434-07:00'
 thumbnail: https://lh3.googleusercontent.com/-XHk-iEPpMBE/AAAAAAAAAAI/AAAAAAAAAAA/6ZPvqo28YIc/s72-c/photo.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8850519691258948922
 blogger_orig_url: http://blog.cleverelephant.ca/2015/10/if-i-hear-words-triple-delete-one-more.html
+comments: True
 ---
 
 <img src="http://www.firstaidadvice.info/fm-21-11/images/fig3-19.PNG" style="clear:both; float: right; height: 200px; width: 332px;" /> ... I'm going to tear my ears off. Also "transitory email". Just bam, going to rip them right off. 

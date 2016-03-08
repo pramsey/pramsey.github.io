@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-09-30T16:49:33.902-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4840564259804884989
 blogger_orig_url: http://blog.cleverelephant.ca/2008/09/crisis-averted-situation-normal-not.html
+comments: True
 ---
 
 The news that the markets have [roared back](http://www.msnbc.msn.com/id/3683270/) today, erasing many of the record losses of Monday, should make me feel better, but the stock markets are a sideshow &ndash; the real action is in the credit markets, and the news there still isn't good.

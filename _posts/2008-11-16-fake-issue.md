@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-11-16T09:47:25.843-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4284400720885455128
 blogger_orig_url: http://blog.cleverelephant.ca/2008/11/fake-issue.html
+comments: True
 ---
 
 IT bureaucracies have a way of ginning up all kinds of contradictory reasons to keep people from doing things that, while not really impossible, are inconvenient to IT.  Take, for example, the issue of [providing e-mail service to the Most Powerful Man on Earth](http://www.nytimes.com/2008/11/16/us/politics/16blackberry.html):

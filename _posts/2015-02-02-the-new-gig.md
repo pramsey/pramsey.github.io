@@ -12,6 +12,7 @@ tags:
 modified_time: '2015-02-02T08:55:22.148-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6370729313181481342
 blogger_orig_url: http://blog.cleverelephant.ca/2015/02/the-new-gig.html
+comments: True
 ---
 
 I haven't had many jobs in my career, so changing jobs feels pretty momentous: two weeks ago I had my last day at [Boundless](http://boundlessgeo.com), and today will be my first at [CartoDB](http://cartodb.com).  

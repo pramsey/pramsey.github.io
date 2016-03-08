@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-09-11T13:24:06.627-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7784644580320486303
 blogger_orig_url: http://blog.cleverelephant.ca/2007/09/bad-software-causes-global-warming.html
+comments: True
 ---
 
 This Friday, I hopped up from my computer, told it to shutdown, turned off my monitor and hurried home.

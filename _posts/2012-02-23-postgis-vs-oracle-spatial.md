@@ -11,6 +11,7 @@ tags:
 modified_time: '2012-02-23T11:29:30.977-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2076718726189550079
 blogger_orig_url: http://blog.cleverelephant.ca/2012/02/postgis-vs-oracle-spatial.html
+comments: True
 ---
 
 "That's a nice database you have there, but how does it compare to Oracle?"

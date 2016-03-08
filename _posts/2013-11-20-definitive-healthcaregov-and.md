@@ -11,6 +11,7 @@ tags:
 modified_time: '2013-11-20T10:53:31.044-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5581294442596151887
 blogger_orig_url: http://blog.cleverelephant.ca/2013/11/definitive-healthcaregov-and.html
+comments: True
 ---
 
 <p>In the comments of my [last post](http://blog.cleverelephant.ca/2013/11/bc-electoral-redistribution-and.html) I was asked to provide a take on the healthcare.gov fiasco. Since I cannot improve a whit on [Clay Shirky's perfect post](http://www.shirky.com/weblog/2013/11/healthcare-gov-and-the-gulf-between-planning-and-reality/) today, I will settle for just quoting my favorite paragraph.</p>

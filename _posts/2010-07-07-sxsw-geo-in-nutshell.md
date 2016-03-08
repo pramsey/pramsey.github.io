@@ -7,6 +7,7 @@ tags:
 modified_time: '2010-07-07T11:33:47.827-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8233716632899805469
 blogger_orig_url: http://blog.cleverelephant.ca/2010/07/sxsw-geo-in-nutshell.html
+comments: True
 ---
 
 From [Mapping and Geolocation: Turnkey Approaches You Need to Know](http://my.sxsw.com/events/event/7429) [[MP3](http://audio.sxsw.com/2010/podcasts/031610i_MappingandGeolocation.mp3)] at 19:55.

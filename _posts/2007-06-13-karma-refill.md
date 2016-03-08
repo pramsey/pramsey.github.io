@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-06-26T07:26:51.202-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2759368747022093371
 blogger_orig_url: http://blog.cleverelephant.ca/2007/06/karma-refill.html
+comments: True
 ---
 
 Some [commenters](http://blog.cleverelephant.ca/2007/06/ow-that-stings.html#comments) have noted that I am turning into something of a negative nelly. So, time to fill up the karma gas tank and accentuate the positive!

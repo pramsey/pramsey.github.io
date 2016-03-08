@@ -7,6 +7,7 @@ tags:
 modified_time: '2012-01-03T11:41:08.873-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-708437459618325200
 blogger_orig_url: http://blog.cleverelephant.ca/2012/01/twice-as-dirty-and-now-with-more-shame.html
+comments: True
 ---
 
 For all those Americans, who think your political culture is uniquely corrupt or tarnished by money or special interests, I give you, direct from Canada, in all its astroturfing glory, "Ethical Oil".

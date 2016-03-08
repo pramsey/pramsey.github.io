@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-10-16T09:43:30.274-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3913766752687396609
 blogger_orig_url: http://blog.cleverelephant.ca/2008/10/bailout-what-bailout.html
+comments: True
 ---
 
 The "cost of the bailout" has been a big election meme south of the border, and I continue to be flabbergasted at how primitive the media discussion of the issue has been. The first debate event began with a question that essentially said "given the $700B cost of the bailout, what parts of your campaign platform would you cut to pay for it?".

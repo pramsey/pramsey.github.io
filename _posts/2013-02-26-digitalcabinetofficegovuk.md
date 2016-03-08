@@ -13,6 +13,7 @@ tags:
 modified_time: '2013-02-27T10:03:21.620-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5431894704303437370
 blogger_orig_url: http://blog.cleverelephant.ca/2013/02/digitalcabinetofficegovuk.html
+comments: True
 ---
 
 Let me preface this by saying that "wow, you guys over there are just uniquely kicking ass" is an evaluation that "you guys" almost always dispute.

@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-10-10T12:46:12.167-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1814060414222610399
 blogger_orig_url: http://blog.cleverelephant.ca/2008/10/postgis-performance-prepared-geometry.html
+comments: True
 ---
 
 Spatial joins are a common use case in spatial databases, putting together two tables based on the spatial relationships of their geometry fields. For example:

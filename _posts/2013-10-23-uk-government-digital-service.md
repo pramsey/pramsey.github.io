@@ -13,6 +13,7 @@ tags:
 modified_time: '2013-10-24T10:47:09.877-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5766003611214326070
 blogger_orig_url: http://blog.cleverelephant.ca/2013/10/uk-government-digital-service.html
+comments: True
 ---
 
 <p>I [wrote last year](http://blog.cleverelephant.ca/2013/02/digitalcabinetofficegovuk.html) that the [UK GDS](http://digital.cabinetoffice.gov.uk) seemed like a promising approach to revitalizing government IT. 

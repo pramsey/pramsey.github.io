@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-02-18T11:22:04.855-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7931112814315775995
 blogger_orig_url: http://blog.cleverelephant.ca/2008/02/attention-neotards-your-gps-sucks.html
+comments: True
 ---
 
 Reading through an [update](http://www.linux.com/feature/125344) from Open Street Map (incredibly, it has taken them mere months to load TIGER into their futuristic system) I came across this little gem regarding aerial photography:

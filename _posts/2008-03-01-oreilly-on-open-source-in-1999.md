@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-03-01T14:28:01.824-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4408283452046816142
 blogger_orig_url: http://blog.cleverelephant.ca/2008/03/oreilly-on-open-source-in-1999.html
+comments: True
 ---
 
 It is more than a little disturbing that both the myths and the explanations in this [nearly-10-year-old article](http://www.oreillynet.com/pub/a/oreilly/opensource/news/myths_1199.html) have remained so constant.  Here are the myths:

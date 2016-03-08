@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-02-14T10:24:51.755-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2078627450962358554
 blogger_orig_url: http://blog.cleverelephant.ca/2008/02/timmys-telethon-4.html
+comments: True
 ---
 
 Out of left field:

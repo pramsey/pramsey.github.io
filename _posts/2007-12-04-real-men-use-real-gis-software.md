@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-12-04T22:42:02.377-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7471344605773870885
 blogger_orig_url: http://blog.cleverelephant.ca/2007/12/real-men-use-real-gis-software.html
+comments: True
 ---
 
 Allow me to echo [Peter Batty's sentiment](http://geothought.blogspot.com/2007/12/no-data-creation-in-neogeography-errr.html) about this [silly post in All Points Blog](http://apb.directionsmag.com/archives/3703-Neogeography-is-not-GIS;-not-LI.html) on neography and real "GIS".

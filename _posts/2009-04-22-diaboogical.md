@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-04-22T11:40:04.514-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7747384032416821569
 blogger_orig_url: http://blog.cleverelephant.ca/2009/04/diaboogical.html
+comments: True
 ---
 
 Someone, please call the [FTC](http://www.ftc.gov/bc/index.shtml)! I may [post my blog](http://blog.cleverelephant.ca/) on Google, store my [mail and calendar and notes](https://www.google.com/a/) on Google, teach people how to [make maps](http://maps.google.com/) using Google, but even I have my limits.

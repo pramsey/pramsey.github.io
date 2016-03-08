@@ -11,6 +11,7 @@ tags:
 modified_time: '2013-03-28T15:13:24.004-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5860776525763295711
 blogger_orig_url: http://blog.cleverelephant.ca/2013/03/boston-code-sprint-postgis.html
+comments: True
 ---
 
 Rather than try and do a day-by-day take on the sprint, this year I'll try to outline project-by-project what folks are hoping to accomplish and who is attending.

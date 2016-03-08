@@ -7,6 +7,7 @@ tags:
 modified_time: '2010-04-07T08:21:39.934-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1946518912696024087
 blogger_orig_url: http://blog.cleverelephant.ca/2010/04/on-road-to-damascus-gpl-to-bsd.html
+comments: True
 ---
 
 In response to [a Twitter comment](http://twitter.com/pwramsey/status/11445182899) I made about my change in attitude towards the BSD and GPL open source licenses, Martin Daly [asks](http://twitter.com/mpdaly/status/11474844507):

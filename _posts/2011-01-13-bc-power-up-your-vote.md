@@ -7,6 +7,7 @@ tags:
 modified_time: '2011-01-13T11:10:06.626-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2669016935879691217
 blogger_orig_url: http://blog.cleverelephant.ca/2011/01/bc-power-up-your-vote.html
+comments: True
 ---
 
 I gave this spiel at the [Victoria GeoGeeks](http://www.meetup.com/Victoria-GeoGeeks/) meet-up last week, but it's worth giving to the world at large: if you want your vote to count in choosing your representatives, exercise it at every opportunity! For those in the USA, that means participating in primary elections, and for us in British Columbia right now that means participating in the party leadership contests.

@@ -7,6 +7,7 @@ tags:
 modified_time: '2010-03-05T09:03:20.124-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-982957366565511863
 blogger_orig_url: http://blog.cleverelephant.ca/2010/03/send-us-jeremy-and-keyur.html
+comments: True
 ---
 
 ESRI (pretty new web page, by the way) has put their [open source position](http://www.esri.com/technology-topics/open-source/index.html) on-line and also produced a short podcast with Victoria Kouyoumjian on the same topic.

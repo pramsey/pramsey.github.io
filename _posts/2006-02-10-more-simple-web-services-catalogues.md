@@ -7,6 +7,7 @@ tags:
 modified_time: '2006-10-21T11:22:57.776-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-113961315735042629
 blogger_orig_url: http://blog.cleverelephant.ca/2006/02/more-simple-web-services-catalogues.html
+comments: True
 ---
 
 A couple months ago I [wrote a piece](http://blog.cleverelephant.ca/2005/10/simple-web-services-catalogues.html) about how [uDig](http://udig.refractions.net) made use of a simple web services catalogue to complete the web services publish-find-bind chain of being in a nice clean transparent way.  I was very proud, because at the time it was the only example of a decent desktop interface with a proper web services hook.

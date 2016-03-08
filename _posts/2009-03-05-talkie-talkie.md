@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-03-05T10:43:29.514-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2360105946981626824
 blogger_orig_url: http://blog.cleverelephant.ca/2009/03/talkie-talkie.html
+comments: True
 ---
 
 Everyone who does talks regularly has their own approach to building up the necessary content and flow.  [Dave Bouwman](http://blog.davebouwman.net/2009/03/05/TalkingTechBehindTheScenes.aspx) builds his talks up from post-it notes. A nice approach.

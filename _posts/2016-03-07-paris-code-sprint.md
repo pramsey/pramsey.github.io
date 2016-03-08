@@ -9,6 +9,7 @@ tags:
 - oss
 - postgis
 - cartodb
+comments: True
 ---
 
 At the best of times, I find it hard to generate a lot of 

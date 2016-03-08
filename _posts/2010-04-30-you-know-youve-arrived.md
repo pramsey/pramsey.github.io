@@ -7,6 +7,7 @@ tags:
 modified_time: '2010-04-30T19:00:32.914-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5165663830387386915
 blogger_orig_url: http://blog.cleverelephant.ca/2010/04/you-know-youve-arrived.html
+comments: True
 ---
 
 [<img src="http://wiki.osgeo.org/images/thumb/d/d6/Foss4g2010_logo.jpg/180px-Foss4g2010_logo.jpg" align="right"/>](http://2010.foss4g.org/)...when people start discussing the best way to replace you.

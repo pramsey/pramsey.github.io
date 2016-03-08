@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-07-02T10:17:40.903-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1572996260620930180
 blogger_orig_url: http://blog.cleverelephant.ca/2009/07/lies-damn-lies.html
+comments: True
 ---
 
 "[Green shoots...](http://www.slate.com/id/2215911/)" ah, for the good old days of only two weeks ago, when green shoots were in our future...

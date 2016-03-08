@@ -11,6 +11,7 @@ modified_time: '2009-04-28T08:00:00.908-07:00'
 thumbnail: http://farm4.static.flickr.com/3574/3480456691_06bf196db5_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7865857627696012630
 blogger_orig_url: http://blog.cleverelephant.ca/2009/04/openstreetmap-moves-to-postgresql.html
+comments: True
 ---
 
 Recently, the [OpenStreetMap](http://openstreetmap.org/) project put out a [very successful call](http://www.opengeodata.org/?p=391) for donations to upgrade their physical database infrastructure, from a [dual-core Athlon with 8Gb of RAM](http://wiki.openstreetmap.org/wiki/Servers/db) and lots (~1Tb) of disk, to a [quad-core Xeon with 32Gb of RAM](http://wiki.openstreetmap.org/wiki/Servers/smaug) and heaps (4Tb) of (15K RPM) disk.

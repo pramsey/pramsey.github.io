@@ -9,6 +9,7 @@ tags:
 modified_time: '2013-07-18T09:29:50.685-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4304953723282430243
 blogger_orig_url: http://blog.cleverelephant.ca/2012/08/going-all-in-on-it-projects.html
+comments: True
 ---
 
 I was thinking about IT project failure this weekend (OK, actually I was thinking about the [ICM project](http://blog.cleverelephant.ca/2012/06/more-icm.html), but you can see how I got there) and did a little Googling around on failure rates.

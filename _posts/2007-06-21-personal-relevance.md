@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-06-21T15:44:57.927-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8502109396883698573
 blogger_orig_url: http://blog.cleverelephant.ca/2007/06/personal-relevance.html
+comments: True
 ---
 
 Here's a fun Google nugget.  This query:

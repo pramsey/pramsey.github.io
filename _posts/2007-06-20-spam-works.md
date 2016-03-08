@@ -8,6 +8,7 @@ modified_time: '2007-06-20T13:35:25.290-07:00'
 thumbnail: http://farm2.static.flickr.com/1051/577010436_9437f1decb_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8049895887659892775
 blogger_orig_url: http://blog.cleverelephant.ca/2007/06/spam-works.html
+comments: True
 ---
 
 Two weeks ago, we sent out a physical postcard invitation to a list of about 10,000 potential [FOSS4G](http://2007.foss4g.org) attendees in the local region (BC, ALTA, WA, OR, CA) and GIS hotspots (VA, CO).  

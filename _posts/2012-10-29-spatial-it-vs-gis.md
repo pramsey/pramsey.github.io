@@ -9,6 +9,7 @@ tags:
 modified_time: '2013-10-10T13:34:41.483-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1690475486205520913
 blogger_orig_url: http://blog.cleverelephant.ca/2012/10/spatial-it-vs-gis.html
+comments: True
 ---
 
 So, [Stephen Mather](http://smathermather.wordpress.com/2012/10/27/what-is-gis-why-after-30-years-do-i-feel-like-the-field-has-an-identity-crisis/) has taken a crack at analyzing my [Spatial IT meme](http://www.youtube.com/watch?v=01yrhqCro7I). <br />

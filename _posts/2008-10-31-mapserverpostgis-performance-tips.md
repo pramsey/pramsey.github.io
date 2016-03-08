@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-10-31T09:22:05.433-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3816158930164765830
 blogger_orig_url: http://blog.cleverelephant.ca/2008/10/mapserverpostgis-performance-tips.html
+comments: True
 ---
 
 I'm working on re-writing the PostGIS driver in Mapserver to clean it up a little and hopefully make it faster, and seeing the flow of control, there are a couple ways users of the existing driver can improve performance with small configuration changes. The simplest syntax for defining a PostGIS layer in Mapserver is just:

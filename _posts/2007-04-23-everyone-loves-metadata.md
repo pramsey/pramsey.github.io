@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-04-23T13:28:39.194-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5403418659207894450
 blogger_orig_url: http://blog.cleverelephant.ca/2007/04/everyone-loves-metadata.html
+comments: True
 ---
 
 Or, more precisely, everybody loves &lt;Metadata&gt;.

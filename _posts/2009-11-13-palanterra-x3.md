@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-11-13T09:00:17.085-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-543673736665543687
 blogger_orig_url: http://blog.cleverelephant.ca/2009/11/palanterra-x3.html
+comments: True
 ---
 
 James Fee has a nice [rant](http://www.spatiallyadjusted.com/2009/11/13/the-map-bar-has-to-go/) on mapping interfaces today, but the part the piqued my interest was embedded in the screen shot of the National Map. It said "The National Map Viewer BETA: Powered by Palanterra X3"

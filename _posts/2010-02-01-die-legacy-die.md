@@ -7,6 +7,7 @@ tags:
 modified_time: '2010-02-01T20:17:35.359-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5948050448019760171
 blogger_orig_url: http://blog.cleverelephant.ca/2010/02/die-legacy-die.html
+comments: True
 ---
 
 <img src="http://vampires.monstrous.com/pictures/vampire10.jpg" style="float:right;height:250px;padding:5px"/>'Tis the season to drive a stake through the heart of old technology apparently.  Steve Jobs appears to be [taking especial glee](http://www.informationweek.com/news/infrastructure/management/showArticle.jhtml?articleID=222600577) in killing off Flash as a video format. And Google is [doing their damnedest](http://blogs.computerworld.com/15509/google_internet_explorer_6_and_chrome_3_must_die) to run IE6 out of town.  It takes a certain amount of self-confidence in yourself to pit your unstoppable force against the immovable object of an entrenched de facto standard, but both Apple and Google seemed positioned to carry it off.

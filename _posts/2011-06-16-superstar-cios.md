@@ -7,6 +7,7 @@ tags:
 modified_time: '2011-06-16T16:04:02.083-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2243829484236908540
 blogger_orig_url: http://blog.cleverelephant.ca/2011/06/superstar-cios.html
+comments: True
 ---
 
 The superstar CIO is necessarily going to be a bit of a flimflam artist. He has to be, because in order to get into the position, he's had to dazzle his non-technical superiors. That means eye-candy, first and foremost, delivered fast. Delivered fast, you say, how can he do that with his sclerotic organization? Easy, he contracts off to the side or builds a private skunk-works.

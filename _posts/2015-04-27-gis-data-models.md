@@ -11,6 +11,7 @@ modified_time: '2015-04-27T09:17:32.962-07:00'
 thumbnail: http://1.bp.blogspot.com/-pfiwJjLhL1o/VT5gmjPW9EI/AAAAAAAAAfY/dX6WtAst4Z8/s72-c/screenshot_269.png
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2661395897126409101
 blogger_orig_url: http://blog.cleverelephant.ca/2015/04/gis-data-models.html
+comments: True
 ---
 
 Most IT professionals have some expectation, having received a basic education on relational data modelling, that a model for a medium sized problem might look like this:

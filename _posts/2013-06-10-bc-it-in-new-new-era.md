@@ -12,6 +12,7 @@ tags:
 modified_time: '2013-06-10T13:59:45.338-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8906694138811991035
 blogger_orig_url: http://blog.cleverelephant.ca/2013/06/bc-it-in-new-new-era.html
+comments: True
 ---
 
 Every change of government provides an opportunity for substantial change in either broad or particular areas of policy, even ones that don't involve a change in party. On taking the Premiership two years ago, Christy Clark ratified and amplified the nascent [open data policies](http://www.data.gov.bc.ca/) her predecessor had been toying with, which for techno-weenies (guilty as charged) constituted a significant and important positive change. (Non-techno-weenies will note the [degradation in overall support for open government](http://www.oipc.bc.ca/investigation-reports/1510) in general, but we'll ignore them because they don't like computers.)

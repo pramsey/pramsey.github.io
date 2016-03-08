@@ -15,6 +15,7 @@ modified_time: '2015-12-18T10:23:35.665-08:00'
 thumbnail: http://1.bp.blogspot.com/-B0AXkiaWftQ/VnN3gdd-TyI/AAAAAAAAAkk/tG5Beceh7E4/s72-c/img_09-12_loukidelis.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4975812417521534389
 blogger_orig_url: http://blog.cleverelephant.ca/2015/12/whats-up-with-mr-loukidelis.html
+comments: True
 ---
 
 Ever feel like people are talking about you behind your back? Usually it's just [perfectly normal paranoia](http://www.goodreads.com/quotes/95117-all-through-my-life-i-ve-had-this-strange-unaccountable-feeling). But sometimes, they actually are. Maybe. 

@@ -10,6 +10,7 @@ tags:
 modified_time: '2012-12-29T23:16:25.896-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6200366641149406786
 blogger_orig_url: http://blog.cleverelephant.ca/2012/12/is-building-enterprise-systems-capital.html
+comments: True
 ---
 
 **First**, terminology: [operating](http://en.wikipedia.org/wiki/Operating_expense) versus [capital](http://en.wikipedia.org/wiki/Capital_expenditure) expenses. Bah! Accounting! However, it's important stuff. Wikipedia provides a good example of the difference:

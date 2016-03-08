@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-07-02T13:25:36.900-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8040116338412706517
 blogger_orig_url: http://blog.cleverelephant.ca/2008/07/get-out-of-office-much.html
+comments: True
 ---
 
 <img src="http://www.wordwiseweb.com/images/2004index/blinders.jpg" style="float:right; border:0; padding:10px;" />In an [article about the future of DeCarta](http://virtualearth.spaces.live.com/Blog/cns!2BBC66E99FDCDB98!19328.entry), and other DeCarta-flavored beverages, the Virtual Earth Blog serves up this opinion-nugget:

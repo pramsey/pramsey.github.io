@@ -13,6 +13,7 @@ modified_time: '2015-10-28T09:44:04.304-07:00'
 thumbnail: http://2.bp.blogspot.com/-1V7vEO_LsZc/VjD7F3ZypDI/AAAAAAAAAjQ/piC2pyiUQ40/s72-c/350px-Normal_Distribution_PDF.svg.png
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3161806318875477758
 blogger_orig_url: http://blog.cleverelephant.ca/2015/08/big-data-and-data-science-piss-me-off.html
+comments: True
 ---
 
 Get off my lawn!

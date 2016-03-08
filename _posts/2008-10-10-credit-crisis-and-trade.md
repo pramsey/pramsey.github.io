@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-10-10T15:47:55.400-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6674503407188706826
 blogger_orig_url: http://blog.cleverelephant.ca/2008/10/credit-crisis-and-trade.html
+comments: True
 ---
 
 I found [this item](http://www.financialpost.com/story.html?id=866522) today, particularly chilling:

@@ -7,6 +7,7 @@ tags:
 modified_time: '2006-10-21T11:22:57.831-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-115418992610304195
 blogger_orig_url: http://blog.cleverelephant.ca/2006/07/state-of-state-of-open-source-gis.html
+comments: True
 ---
 
 About a week ago, my colleague Jody Garnett posted a link to a [paper of mine](http://www.refractions.net/white_papers/oss_briefing/2006-06-OSS-Briefing.pdf) on the OSGeo mailing list.  From there, some other folks passed it on, and finally the cycle closed again, as I found a [posting-about-a-posting](http://www.spatiallyadjusted.com/2006/07/28/state-of-net-open-source-gis/) on James Fee's excellent blog.

@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-07-15T14:23:17.942-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5396931323803601355
 blogger_orig_url: http://blog.cleverelephant.ca/2008/07/counting-squares.html
+comments: True
 ---
 
 [<img src="http://www.refractions.net/expertise/casestudies/2007-01-hectares-bc/habc_logo_sm.gif" style="float:right; padding:10px; border-width:0px;"/>](http://www.hectaresbc.org)One of the last projects I had a substantial hand in formulating and designing while at [Refractions](http://www.refractions.net/) was a project for providing provincial-level environmental summaries, using the best possible high resolution data. The goal is to be able to answer questions like:

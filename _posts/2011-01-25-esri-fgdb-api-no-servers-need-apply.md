@@ -7,6 +7,7 @@ tags:
 modified_time: '2011-01-27T09:58:14.614-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2367954204533013485
 blogger_orig_url: http://blog.cleverelephant.ca/2011/01/esri-fgdb-api-no-servers-need-apply.html
+comments: True
 ---
 
 <img src="http://resources.arcgis.com/sites/default/files/images/fileAPI2.png" style="float:right; width:150px; padding: 5px;"/>When downloading the ESRI [file-based geodatabase API](http://resources.arcgis.com/content/geodatabases/10.0/file-gdb-api) you are required to accept a license agreement which includes this lovely clause in the section about acceptabe uses of the API:<br />

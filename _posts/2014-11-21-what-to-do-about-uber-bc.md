@@ -11,6 +11,7 @@ tags:
 modified_time: '2014-12-13T15:59:27.488-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4516137483036098034
 blogger_orig_url: http://blog.cleverelephant.ca/2014/11/what-to-do-about-uber-bc.html
+comments: True
 ---
 
 **Update:** New York and Chicago are exploring exactly this approach, [as reported in the New York Times](http://bits.blogs.nytimes.com/2014/12/11/chicago-and-new-york-officials-look-to-build-uber-like-apps-for-taxis): "Regulators in Chicago have approved a plan to create one or more applications that would allow users to hail taxis from any operators in the city, using a smartphone. In New York, a City Council member proposed a similar app on Monday that would let residents “e-hail” any of the 20,000 cabs that circulate in the city on a daily basis."

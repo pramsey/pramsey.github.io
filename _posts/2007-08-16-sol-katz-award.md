@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-08-16T14:39:22.095-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7016366890344896946
 blogger_orig_url: http://blog.cleverelephant.ca/2007/08/sol-katz-award.html
+comments: True
 ---
 
 I never met or corresponded with Sol Katz, but I've been puttering around the GIS world long enough to have had cause to use the tools he made available for working with geospatial data in the 1990s.

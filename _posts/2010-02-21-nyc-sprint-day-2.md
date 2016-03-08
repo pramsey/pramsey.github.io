@@ -10,6 +10,7 @@ modified_time: '2010-03-01T09:16:28.384-08:00'
 thumbnail: http://farm3.static.flickr.com/2794/4376132629_d5ea4065b3_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-9033916703249082140
 blogger_orig_url: http://blog.cleverelephant.ca/2010/02/nyc-sprint-day-2.html
+comments: True
 ---
 
 Today the Geoserver, MapServer and OpenLayers teams got together and really showed off the "[making things work together better](http://wiki.osgeo.org/wiki/New_York_Code_Sprint_2010_Agenda)" theme. Starting from Andrea Aime's new "WMS rotation" feature, Daniel Morissette implemented the same feature with the same semantics in MapServer, while Andreas Hocevar implemented client support for the feature into OpenLayers. During testing, a small bug showed up in the Geoserver implementation, which Andrea fixed. 

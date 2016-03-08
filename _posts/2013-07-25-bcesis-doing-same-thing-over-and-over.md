@@ -12,6 +12,7 @@ tags:
 modified_time: '2013-07-25T09:00:01.328-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2787500611519796267
 blogger_orig_url: http://blog.cleverelephant.ca/2013/07/bcesis-doing-same-thing-over-and-over.html
+comments: True
 ---
 
 So, the BC government is [entering negotiations](http://www.newsroom.gov.bc.ca/2013/07/vendor-chosen-to-implement-bcesis-replacement.html) to replace the "COTS student information system" that they implemented/purchased five years ago at a cost of about $100M.

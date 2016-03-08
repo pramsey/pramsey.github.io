@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-02-19T15:24:50.338-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2812584279240109592
 blogger_orig_url: http://blog.cleverelephant.ca/2008/02/like-cattle-to-slaughter.html
+comments: True
 ---
 
 When I first got a cell-phone, some 10 years ago, I deliberately chose the hip new alternative on the block, [FIDO](http://www.fido.ca/), because their costs were competitive, and they didn't have a "N-year contract" system. You paid your bill until you were done with the service, and then you stopped &ndash; sounded fair to me.

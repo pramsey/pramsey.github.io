@@ -7,6 +7,7 @@ tags:
 modified_time: '2006-12-10T16:24:55.229-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6104994144553622178
 blogger_orig_url: http://blog.cleverelephant.ca/2006/12/not-so-free-client-libraries.html
+comments: True
 ---
 
 While at the [FOSS4G](htthttp://beta.blogger.com/img/gl.link.gifp://www.foss4g2006.org) event this fall I had the opportunity to talk at length with Xavier Lopez, the product manager for Oracle Spatial.  

@@ -8,6 +8,7 @@ modified_time: '2009-12-15T22:31:07.763-08:00'
 thumbnail: http://farm2.static.flickr.com/1349/1445143912_3ec077175a_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-9042852618372074120
 blogger_orig_url: http://blog.cleverelephant.ca/2009/12/goo-smart-by-half.html
+comments: True
 ---
 
 I typed "postgis" into Google this evening, and in addition to the exquisitely organized first entry there were two ads, one relevant (EnterpriseDB, the Postgres company) and one **seemingly** utterly random, for an English language school.

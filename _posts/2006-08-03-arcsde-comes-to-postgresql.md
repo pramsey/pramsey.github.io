@@ -7,6 +7,7 @@ tags:
 modified_time: '2006-10-21T11:22:57.890-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-115463112809083476
 blogger_orig_url: http://blog.cleverelephant.ca/2006/08/arcsde-comes-to-postgresql.html
+comments: True
 ---
 
 It has long been rumoured that [ESRI](http://www.esri.com) might move their "database neutral" ArcSDE to the ultimate "neutral database", [PostgreSQL](http://www.postgresql.org).  I have heard versions of this idea since around 2003, but I never thought they would come to pass.  So, mea culpa, all the people I told "it will never happen"... [it has](http://events.esri.com/uc/QandA/index.cfm?ConferenceID=DA494555-C04F-A071-2407CB34C9CB9287&fuseaction=Answer&QuestionID=1515)!<br />

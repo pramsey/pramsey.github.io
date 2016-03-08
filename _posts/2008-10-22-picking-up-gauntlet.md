@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-10-22T16:07:09.294-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8859817745166843959
 blogger_orig_url: http://blog.cleverelephant.ca/2008/10/picking-up-gauntlet.html
+comments: True
 ---
 
 [Mike Pumphrey](http://blog.geoserver.org/2008/10/22/geoserver-benchmarks-at-foss4g-2008/) over at the Geoserver blog has written a short post about this year's Geoserver-vs-Mapserver comparison.  I hope we can maintain this study as an annual event, and even get someone with an ArcServer license to join in the fun. Each iteration finds new areas that need work and resets the bar better and better every year.<img src="http://imagecache2.allposters.com/images/pic/SSPOD/superstock_40x-1557_b~At-the-Starting-Line-Posters.jpg" style="float:right" />

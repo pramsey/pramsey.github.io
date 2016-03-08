@@ -7,6 +7,7 @@ tags:
 modified_time: '2006-10-21T11:22:57.999-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-115635432940202844
 blogger_orig_url: http://blog.cleverelephant.ca/2006/08/open-source-gis-on-every-desktop.html
+comments: True
 ---
 
 Steven Citron-Pousty has a [good posting](http://thesteve0.wordpress.com/2006/08/22/the-gis-user-is-stuck-in-the-middle/) about why he cannot move his shop to an open source basis in the near term.  He took a look at [uDig](http://udig.refractions.net) (thanks!) but, unsurprisingly, finds that it ain't [ArcGIS](http://www.esri.com/arcgis) quite yet.  His prescription is not for the faint of heart.

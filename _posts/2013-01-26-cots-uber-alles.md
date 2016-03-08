@@ -12,6 +12,7 @@ tags:
 modified_time: '2013-01-26T23:25:46.792-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3792863042745669954
 blogger_orig_url: http://blog.cleverelephant.ca/2013/01/cots-uber-alles.html
+comments: True
 ---
 
 <p>I continue to follow the ongoing $180M-and-counting IT debacle of "integrated case management" in British Columbia with interest, perhaps because it's a local catastrophe and not some [far-flung disaster](http://spectrum.ieee.org/computing/software/who-killed-the-virtual-case-file).

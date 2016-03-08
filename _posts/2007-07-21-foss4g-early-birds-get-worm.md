@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-07-23T08:31:44.527-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1785711238537048761
 blogger_orig_url: http://blog.cleverelephant.ca/2007/07/foss4g-early-birds-get-worm.html
+comments: True
 ---
 
 Or, perhaps they *avoid* the worm... it all depends on what you think the worm is.

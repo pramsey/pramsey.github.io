@@ -7,6 +7,7 @@ tags:
 modified_time: '2013-08-19T13:54:22.602-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1392377375133575160
 blogger_orig_url: http://blog.cleverelephant.ca/2008/05/why-use-arcsde.html
+comments: True
 ---
 
 Those not on the PostGIS users mailing list will have missed an [interesting thread](http://lists.osgeo.org/pipermail/postgis-users/2008-May/019735.html) that pulled together some good comments from both the usual suspects and some unexpected participants. 

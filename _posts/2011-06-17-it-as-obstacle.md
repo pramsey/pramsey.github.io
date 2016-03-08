@@ -7,6 +7,7 @@ tags:
 modified_time: '2011-06-17T16:44:18.631-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8292055940358580971
 blogger_orig_url: http://blog.cleverelephant.ca/2011/06/it-as-obstacle.html
+comments: True
 ---
 
 Getting the re-tweeting rounds today, [an article on why business are moving to the cloud](http://www.itworld.com/cloud-computing/174967/business-users-abandoning-it-quicker-self-serve-cloud-apps). The answer? To avoid their own IT departments.

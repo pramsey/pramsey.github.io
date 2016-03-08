@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-05-25T12:29:13.559-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5241843938482188683
 blogger_orig_url: http://blog.cleverelephant.ca/2009/05/where-re-cap.html
+comments: True
 ---
 
 <img src="http://assets.en.oreilly.com/1/event/25/where2009_spkr_125x125.gif" style="float:right;padding:8px;"/>This was my first Where 2.0, so unfortunately I cannot provide any longitudinal data. Apparently the early expectation was for a conference in the 1000 attendee range, and this gathering seemed closer to 500 &ndash; the economic downturn is biting hipster location freaks just as much as the rest of the economy.

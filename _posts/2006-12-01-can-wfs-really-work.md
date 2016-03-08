@@ -10,6 +10,7 @@ tags:
 modified_time: '2006-12-01T11:53:51.561-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1664416474186599322
 blogger_orig_url: http://blog.cleverelephant.ca/2006/12/can-wfs-really-work.html
+comments: True
 ---
 
 Of all the standards that have come out of the [OGC](http://www.opengeospatial.org) in the last few years, few has had the promise of the [Web Feature Server](http://www.opengeospatial.org/standards/wfs) standard.<ul><li>View and edit features over the web<br /><li>Client independent<br /><li>Server independent<br /><li>Format independent<br /><li>Database independent<br /></ul>What is not to like? Nothing!

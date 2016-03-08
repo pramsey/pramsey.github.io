@@ -12,6 +12,7 @@ modified_time: '2012-12-02T17:02:50.871-08:00'
 thumbnail: http://3.bp.blogspot.com/-Cc6Ypt44BoY/ULuwt3iuqrI/AAAAAAAAAF0/ah_M4BR-NBU/s72-c/screenshot_01.png
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3695649142587843748
 blogger_orig_url: http://blog.cleverelephant.ca/2012/12/whats-so-hard-about-that-download.html
+comments: True
 ---
 
 Twitter is a real accountability tool. This post is penance for moaning about things in public.

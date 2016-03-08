@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-06-18T17:09:31.635-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8619561781037979914
 blogger_orig_url: http://blog.cleverelephant.ca/2007/06/carbon-offsets.html
+comments: True
 ---
 
 As Western hyper-consumerists go, I'm pretty light on the old carbon foot-print. No car, walk to work, living in a temperate climate not requiring the furnace to work too hard, new insulation and weatherstripping on the house. Having gotten so far, it is annoying to blast all my progress out of the water every time I have to take a business trip on a jet plane. It would be nice to keep the hair shirt in place, even while cruising at 30,000 feet. I would pay money to do so.

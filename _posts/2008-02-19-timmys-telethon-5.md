@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-02-19T10:29:40.596-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4858855760940610444
 blogger_orig_url: http://blog.cleverelephant.ca/2008/02/timmys-telethon-5.html
+comments: True
 ---
 
 It's not all about Timmy, Timmy worries about the little people too!

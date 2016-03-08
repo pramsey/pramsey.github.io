@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-08-05T14:20:14.117-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7675389459727921047
 blogger_orig_url: http://blog.cleverelephant.ca/2008/08/optimize-optimize-optimize.html
+comments: True
 ---
 
 I have been trying to squeeze every last erg of performance into a Mapserver installation for a client. Their workload is very raster-based, pulling from JPEG-compressed, internally-tiled TIFF files. We found one installation mistake, which was good for a big performance boost (do not fill your directories with too many files, or the operating system will spend all its time doing file searching).  But once that was identified, only the raster algorithms themselves were left to be optimized.

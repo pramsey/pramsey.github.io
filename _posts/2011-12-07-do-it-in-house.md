@@ -10,6 +10,7 @@ tags:
 modified_time: '2011-12-07T11:19:44.443-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-650877850848006398
 blogger_orig_url: http://blog.cleverelephant.ca/2011/12/do-it-in-house.html
+comments: True
 ---
 
 This morning, I was struck by [this nice write-up](http://geospatial.blogs.com/geospatial/2011/12/au-hungarian-state-railways-geolocates-135-million-objects-to-5-cm-precision-in-14-months.html) about how the Hungarian railway accurately geo-located and inventoried their assets:<br />

@@ -11,6 +11,7 @@ tags:
 modified_time: '2010-03-01T11:35:50.895-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3893762606281830656
 blogger_orig_url: http://blog.cleverelephant.ca/2010/03/nothing-nada-zip-bupkus.html
+comments: True
 ---
 
 There is nothing new under the sun, and I have been wrestling this week with writing out ISO-standard well-known binary from PostGIS. 

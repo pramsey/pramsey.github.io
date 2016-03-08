@@ -14,6 +14,7 @@ modified_time: '2015-02-19T10:40:45.310-08:00'
 thumbnail: http://2.bp.blogspot.com/-ViYOsz3kMUY/VOYqHnXIlDI/AAAAAAAAAdU/0OGl8u9TmMs/s72-c/example_jpg.png
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7372174568774204581
 blogger_orig_url: http://blog.cleverelephant.ca/2015/02/geotiff-compression-for-dummies.html
+comments: True
 ---
 
 "What's the best image format for map serving?" they ask me, shortly after I tell them not to serve their images from inside a database. 

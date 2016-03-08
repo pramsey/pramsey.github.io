@@ -16,6 +16,7 @@ modified_time: '2013-07-17T09:23:32.953-07:00'
 thumbnail: http://1.bp.blogspot.com/-PV7dYp7zM90/Uea-_JHCngI/AAAAAAAAADg/KLGrMBjcd3E/s72-c/Untitled.png
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2546418311099087511
 blogger_orig_url: http://blog.cleverelephant.ca/2013/07/natural-resource-sector-goes-over.html
+comments: True
 ---
 
 While plans in 2012 were still flirting with bringing the [glories of Seibel to the natural resources sector](http://blog.cleverelephant.ca/2013/06/bringing-icm-to-natural-resources-sector.html), I have heard that (hallelujah) that is not on.

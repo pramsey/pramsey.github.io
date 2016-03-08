@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-10-29T10:50:53.867-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-978119062185635758
 blogger_orig_url: http://blog.cleverelephant.ca/2007/10/silly-patents.html
+comments: True
 ---
 
 If you word things right, even pre-existing concepts can be re-packaged as bright original ideas.  Google has [filed a patent](http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=1&p=1&f=G&l=50&d=PG01&S1=20070250477&OS=20070250477&RS=20070250477) on an indexing method that is nothing but a specialization of a quad-tree, and a packing of level/row/column information into a 64-bit address space.

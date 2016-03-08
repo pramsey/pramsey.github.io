@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-02-08T11:39:18.589-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3067587473380189023
 blogger_orig_url: http://blog.cleverelephant.ca/2008/02/timmys-telethon-0.html
+comments: True
 ---
 
 In the comment thread at James Fee's posting on [building an open source application in an "ESRI" shop](http://www.spatiallyadjusted.com/2008/02/05/bringing-open-source-gis-into-an-esri-shop), "timmy" provides the [most complete laundry list](http://www.spatiallyadjusted.com/2008/02/05/bringing-open-source-gis-into-an-esri-shop/#comment-32680) of incumbent vendor objections to open source I have seen in some time.

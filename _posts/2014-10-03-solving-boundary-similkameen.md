@@ -12,6 +12,7 @@ modified_time: '2014-10-03T14:42:04.256-07:00'
 thumbnail: http://4.bp.blogspot.com/-4J1MuY3f6do/VC8VsnpwkHI/AAAAAAAAAOU/qwIzx45DL-Q/s72-c/boundary-similkameen.png
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3760972748537202147
 blogger_orig_url: http://blog.cleverelephant.ca/2014/10/solving-boundary-similkameen.html
+comments: True
 ---
 
 When analyzing the [new legislation governing redistricting in British Columbia](http://blog.cleverelephant.ca/2013/11/bc-electoral-redistribution-and.html) this cycle, I noted in passing that the creation of three "protected regions" creates an isolated, unprotected region in the Okanagan. If there are districts that have unbalanced population in the Okanagan, the only way to solve the problem is moving population around inside the Okanagan. 

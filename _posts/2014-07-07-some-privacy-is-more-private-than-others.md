@@ -12,6 +12,7 @@ modified_time: '2014-07-07T14:44:36.479-07:00'
 thumbnail: http://1.bp.blogspot.com/-Ng33Rhf5Yec/U7sT3rhJLeI/AAAAAAAAAMc/SvfCSEIcf7g/s72-c/68620.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6603668855493732599
 blogger_orig_url: http://blog.cleverelephant.ca/2014/07/some-privacy-is-more-private-than-others.html
+comments: True
 ---
 
 One of the things that struck me in researching the [long and tortuous story of how the government is trying to move British Columbian's private data into off-shore cloud computing services](http://blog.cleverelephant.ca/2014/06/tokenization-and-your-private-data-1.html) was the odd choice of the [pilot project](https://www.oipc.bc.ca/public-comments/1649) for the whole scheme: **STADD**.

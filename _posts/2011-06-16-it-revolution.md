@@ -7,6 +7,7 @@ tags:
 modified_time: '2011-06-16T10:30:34.030-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7962203020347849348
 blogger_orig_url: http://blog.cleverelephant.ca/2011/06/it-revolution.html
+comments: True
 ---
 
 Back when I first started working in the British Columbia government, in 1993, there existed a Crown Corporation called "BC Systems Corporation", BCSC. Through the 1980s, major pieces of government operations (timber tenuring, financial tracking, health insurance) had been computerized using the finest technology of the era (mostly mainframes) and BCSC had grown up as the central IT branch of the government. They ran the big machines, the terminals that accessed them and were taking on the newfangled PCs increasingly showing up on the desks of drones like me (I answered correspondence, there still being a brisk trade in "mail" at the time).  The extent to which BCSC was wedded to the technology of the previous era can best be understood by noting that one of their last major accomplishments was writing a web browser, [Charlotte](http://edurealm.tripod.com/browsers.htm), for the 3270 green-screen terminal.

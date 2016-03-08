@@ -16,6 +16,7 @@ modified_time: '2013-06-25T11:31:35.713-07:00'
 thumbnail: http://4.bp.blogspot.com/-tt2TRgsp9Fo/UcnGORnbN-I/AAAAAAAAACE/i4rXZucAoqc/s72-c/screenshot_01.png
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8834485317754272177
 blogger_orig_url: http://blog.cleverelephant.ca/2013/06/victoria-gets-portaled.html
+comments: True
 ---
 
 For years, I just assumed that, as a cash strapped municipality carrying much of the service load of the region (Victoria is the small (80K) urban centre of a metro area (330K) that comprises ten separate municipalities) &nbsp;my city would just never have enough money to splash out on a mapping webstacle, but today I was proven wrong.

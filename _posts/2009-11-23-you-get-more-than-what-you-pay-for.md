@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-11-23T19:30:18.129-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7708278764256093475
 blogger_orig_url: http://blog.cleverelephant.ca/2009/11/you-get-more-than-what-you-pay-for.html
+comments: True
 ---
 
 Entchev [reflexively repeats](http://blog.entchev.com/2009/11/23/report-wikipedia-losing-volunteers-is-open-street-map-next.aspx?ref=rss) one of the most foolish canards ever hurled against collaborative knowledge building (open source, open data, open knowledge)

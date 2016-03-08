@@ -8,6 +8,7 @@ modified_time: '2009-01-23T12:58:24.503-08:00'
 thumbnail: http://farm4.static.flickr.com/3492/3219940589_8a2c9127fe_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7858723334268277640
 blogger_orig_url: http://blog.cleverelephant.ca/2009/01/must-faster-unions-in-postgis-14.html
+comments: True
 ---
 
 *Originally posted at [GeoSpeil](http://docs.opengeo.org/geospiel/2009/01/23/much-faster-unions-in-postgis/).*

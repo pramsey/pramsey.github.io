@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-05-18T10:59:41.819-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2000071596975314912
 blogger_orig_url: http://blog.cleverelephant.ca/2007/05/mass-shape-file-load-into-postgis.html
+comments: True
 ---
 
 I needed some test data to do some performance investigations, and had to load 235 shape files, all of identical schema.  Here's what I did.

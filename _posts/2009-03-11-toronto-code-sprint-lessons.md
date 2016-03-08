@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-03-11T14:39:09.198-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7410890292380810565
 blogger_orig_url: http://blog.cleverelephant.ca/2009/03/toronto-code-sprint-lessons.html
+comments: True
 ---
 
 ***Update.** The [pictures](http://www.flickr.com/search/?q=tosprint&w=all) from the event are being uploaded.*

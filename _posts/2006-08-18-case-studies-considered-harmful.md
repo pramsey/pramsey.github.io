@@ -7,6 +7,7 @@ tags:
 modified_time: '2006-10-21T11:22:57.944-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-115594551491722327
 blogger_orig_url: http://blog.cleverelephant.ca/2006/08/case-studies-considered-harmful.html
+comments: True
 ---
 
 Over the past month, I have been trying to compile a list of good <br />[case studies](http://postgis.refractions.net/documentation/casestudies/) of organizations using PostGIS in their daily business.  So far, it seems hard to get people out of their shells and say what they are doing -- even when you promise to do all the work of writing up the story!

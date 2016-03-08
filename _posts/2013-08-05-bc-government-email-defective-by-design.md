@@ -13,6 +13,7 @@ modified_time: '2014-03-30T00:49:25.663-07:00'
 thumbnail: http://2.bp.blogspot.com/-R_KyxFRdysg/Uf2WKo7i9gI/AAAAAAAAAEU/USjrUwGU_I4/s72-c/screenshot_01.png
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4454258259476001644
 blogger_orig_url: http://blog.cleverelephant.ca/2013/08/bc-government-email-defective-by-design.html
+comments: True
 ---
 
 **Update:** Bob Mackin has [unearthed a wonderful exchange](http://thetyee.ca/Blogs/TheHook/2014/03/28/Miller-Ontario-Investigation/) with an Ontario politico getting grilled on how she managed her email (she deleted thousands a emails pertaining to public policy decision). My favourite quote from the politico: "When I delete emails, I do not have the ability to go back. Perhaps it's a lesson learned that the government can take back, in terms of maybe it shouldn't be political staff who search their emails; maybe it should be an individual in the civil service who has access to inboxes and sent-mail folders and deleted archives -- whatever it is -- to conduct the search." 

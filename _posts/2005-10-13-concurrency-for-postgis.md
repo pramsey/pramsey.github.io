@@ -7,6 +7,7 @@ tags:
 modified_time: '2006-10-21T11:22:57.559-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-112926115412284030
 blogger_orig_url: http://blog.cleverelephant.ca/2005/10/concurrency-for-postgis.html
+comments: True
 ---
 
 I recently had an opportunity to perform an experiment of sorts on an open source community, the [PostGIS](http://postgis.refractions.net/) community. The hypothesis was: an open source community would contribute financially to a shared goal, to directly fund development, with multiple members each contributing a little to create a large total contribution. Note that this is different from a single community member funding a development they need (and others might also need but not pay for). This is a number of entities pitching in simultaneously, and really is the preferred way (I think) to share the pain and share the gain.

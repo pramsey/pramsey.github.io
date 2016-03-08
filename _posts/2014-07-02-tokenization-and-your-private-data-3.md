@@ -11,6 +11,7 @@ tags:
 modified_time: '2014-07-02T10:00:01.847-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7998908834141334910
 blogger_orig_url: http://blog.cleverelephant.ca/2014/07/tokenization-and-your-private-data-3.html
+comments: True
 ---
 
 To recap:

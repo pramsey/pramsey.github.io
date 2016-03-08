@@ -10,6 +10,7 @@ tags:
 modified_time: '2015-01-08T09:51:50.403-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6637254194859371132
 blogger_orig_url: http://blog.cleverelephant.ca/2015/01/can-procurement-do-agile.html
+comments: True
 ---
 
 Some very interesting news out of the USA today, as the [GSA](http://gsa.gov) (the biggest, baddest procurement agency in the world) has [released a Request For Information](https://interact.gsa.gov/blog/gsa-releases-rfi-proposed-agile-delivery-services-bpa-–-industry-feedback-needed) (RFI) on [agile technology delivery](http://en.wikipedia.org/wiki/Agile_software_development). 

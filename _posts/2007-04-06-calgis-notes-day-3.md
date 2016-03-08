@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-04-06T22:47:32.301-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4827217640634900429
 blogger_orig_url: http://blog.cleverelephant.ca/2007/04/calgis-notes-day-3.html
+comments: True
 ---
 
 The last day of CalGIS was on Good Friday, which was a bit of a bummer. However, it had some redeeming features, notably the brunch, and the diverse set of presentations from 3D world bigwigs to the closing plenary sessions.

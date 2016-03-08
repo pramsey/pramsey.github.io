@@ -8,6 +8,7 @@ modified_time: '2007-09-21T12:24:22.584-07:00'
 thumbnail: http://farm2.static.flickr.com/1408/1279941704_c87c8b15e4_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8026635321160088801
 blogger_orig_url: http://blog.cleverelephant.ca/2007/09/foss4g-tourist-advice-ogden-point.html
+comments: True
 ---
 
 One of the pleasures of living in Victoria is taking a stroll along the Ogden Point Breakwater [[Map]](http://maps.google.com/maps?ll=48.4152%2c-123.3847&om=1&t=k&z=17).  The breakwater protects the "outer harbour" where the cruise ships dock (where the old Canadian Pacific steamers used to dock) from the rough waters and weather of the Straight of Juan de Fuca just beyond.

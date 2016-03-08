@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-11-15T20:51:10.127-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-394592745018611271
 blogger_orig_url: http://blog.cleverelephant.ca/2008/11/what-is-osgeo-becoming.html
+comments: True
 ---
 
 From [James Fee](http://www.spatiallyadjusted.com/2008/11/13/where-is-metered-pricing-for-internal-mapping-applications/#comment-36491):

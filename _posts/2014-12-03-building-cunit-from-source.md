@@ -11,6 +11,7 @@ tags:
 modified_time: '2014-12-07T11:45:03.844-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4092334853861029408
 blogger_orig_url: http://blog.cleverelephant.ca/2014/12/building-cunit-from-source.html
+comments: True
 ---
 
 I haven't had to build CUnit myself for a while, because most of the systems I work with have it in their packaged software repositories, but for Solaris it's not there, and it turns out, it's quite painful to build! 

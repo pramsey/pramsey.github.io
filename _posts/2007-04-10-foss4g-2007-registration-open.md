@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-04-10T14:16:02.168-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7265212042521367304
 blogger_orig_url: http://blog.cleverelephant.ca/2007/04/foss4g-2007-registration-open.html
+comments: True
 ---
 
 Another milestone past! The [online registration](http://2007.foss4g.org/register/) for FOSS4G 2007 in Victoria is now open, and the conference [hotel blocks](http://2007.foss4g.org/accommodations/) are available.

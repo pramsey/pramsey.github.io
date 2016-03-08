@@ -8,6 +8,7 @@ modified_time: '2009-10-12T14:04:40.639-07:00'
 thumbnail: http://farm3.static.flickr.com/2526/4005558977_4220fea3a0_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4562482006898314071
 blogger_orig_url: http://blog.cleverelephant.ca/2009/10/slashdot-explains-sexism-in-open-source.html
+comments: True
 ---
 
 In the spirit of beer commercials and sports highlight shows, Slashdot's editors blithely follow a post about sexism in open source with, just 45 minutes later, a post on a Marge Simpson spread in Playboy.

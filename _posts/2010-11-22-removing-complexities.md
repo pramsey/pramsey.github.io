@@ -11,6 +11,7 @@ modified_time: '2010-11-22T15:24:31.240-08:00'
 thumbnail: http://farm6.static.flickr.com/5207/5199928430_eee923c599_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8821408962584031694
 blogger_orig_url: http://blog.cleverelephant.ca/2010/11/removing-complexities.html
+comments: True
 ---
 
 My co-worker Alyssa Wright just asked me an interesting question: Vancouver Island is a pretty crinkley island, how would we simplify it to remove the crinkley bits?

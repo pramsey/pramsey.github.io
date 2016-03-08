@@ -7,6 +7,7 @@ tags:
 modified_time: '2011-11-13T08:45:27.602-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-968724302600329118
 blogger_orig_url: http://blog.cleverelephant.ca/2011/11/manager-strategic-management.html
+comments: True
 ---
 
 Every week, LinkedIn kindly sends me a list of "jobs I might be interested in", which I have to say is an interesting feature, given the data they have to work with. Like the early days of Google advertising, it's fun to see what the algorithm comes up with as "relevant" to me. And this week I got this awesome, awesome, awesome, awesome entry: <br />

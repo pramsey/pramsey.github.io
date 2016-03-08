@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-04-08T15:44:42.115-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1632710810256723515
 blogger_orig_url: http://blog.cleverelephant.ca/2008/04/snapping-points-in-postgis.html
+comments: True
 ---
 
 Fun question on the #postgis IRC channel today, just hard enough to be interesting and just easy enough to not be overwhelming:

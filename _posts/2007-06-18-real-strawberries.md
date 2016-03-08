@@ -8,6 +8,7 @@ modified_time: '2007-06-18T20:17:29.658-07:00'
 thumbnail: http://farm2.static.flickr.com/1178/567320593_06ba9f4665_t.jpg
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1782448985925284627
 blogger_orig_url: http://blog.cleverelephant.ca/2007/06/real-strawberries.html
+comments: True
 ---
 
 In the spirit of [Sean's tomato porn](http://zcologia.com/news/244/tomato-processing/), I give to you, **What Real Strawberries Are Like**.

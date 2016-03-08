@@ -7,6 +7,7 @@ tags:
 modified_time: '2011-06-15T16:03:09.896-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2289366498162494393
 blogger_orig_url: http://blog.cleverelephant.ca/2011/06/broken-enterprise-it.html
+comments: True
 ---
 
 For as long as I have been doing technology, I have watched enterprise IT and said to myself "this seems incredibly broken, why do people put up with this?" This includes the period when I was doing consulting and running teams that specifically had to mould their reporting and processes to fit into the requirements of government (enterprise) IT. Actually doing it didn't make it seem any more sane.

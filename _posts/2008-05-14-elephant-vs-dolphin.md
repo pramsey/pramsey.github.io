@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-05-14T13:50:01.869-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6754738977899923871
 blogger_orig_url: http://blog.cleverelephant.ca/2008/05/elephant-vs-dolphin.html
+comments: True
 ---
 
 Elephant crushes dolphin, but dolphin drowns elephant?

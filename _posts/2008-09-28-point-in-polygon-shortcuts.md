@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-09-29T15:13:27.834-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8490486116295927461
 blogger_orig_url: http://blog.cleverelephant.ca/2008/09/point-in-polygon-shortcuts.html
+comments: True
 ---
 
 The code for spatial predicates in PostGIS is largely dependent on the GEOS topology library, because doing predicate calculations in generality is hard, and GEOS already exists.  <img src="http://www.spatialanalysisonline.com/output/images/image232.jpg" style="float:right; padding:4px;" />However, moving geometry from PostGIS into GEOS format incurs a cost.  And not all predicate algorithms are hard.  Point-in-polygon tests, for example, are relatively easy.

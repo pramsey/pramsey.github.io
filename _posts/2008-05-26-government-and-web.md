@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-05-26T11:28:24.778-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5508159402093216003
 blogger_orig_url: http://blog.cleverelephant.ca/2008/05/government-and-web.html
+comments: True
 ---
 
 [Matt Ball](vector1media.com/spatialsustain/) recently pointed out an article coming to press at the Yale Journal of Law and Technology, titled "[Government Data and the Invisible Hand](http://www.yjolt.org/11/fall/robinson-0)".  Since I just got back from San Francisco, where I gave a talk titled "[Robocop: Public Service in the Internet Age](http://s3.cleverelephant.ca/baama-2008.pdf)", it feels like the universe is vibrating on a particular wave length right now, saying

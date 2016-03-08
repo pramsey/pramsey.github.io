@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-02-14T12:47:25.500-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5588533326411545054
 blogger_orig_url: http://blog.cleverelephant.ca/2007/02/google-sdi.html
+comments: True
 ---
 
 I don't know whether to be delighted or frightened, but Google has [put in place](http://googlemapsapi.blogspot.com/2007/02/search-for-kml-in-google-earth.html) the final part of the publish-find-bind contract for a Google SDI.  

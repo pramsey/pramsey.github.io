@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-04-04T23:01:37.265-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7284315790630491684
 blogger_orig_url: http://blog.cleverelephant.ca/2007/04/calgis-notes-day-1.html
+comments: True
 ---
 
 I am attending CalGIS, the California GIS conference, this year in lovely Oakland. Sam Smith and I are manning a Refractions booth on the trade show floor, or rather, Sam is manning the booth most of the time and graciously allowing me to go to whatever talks strike my fancy.

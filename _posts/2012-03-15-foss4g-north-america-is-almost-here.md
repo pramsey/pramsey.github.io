@@ -7,6 +7,7 @@ tags:
 modified_time: '2012-03-15T08:47:57.418-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8096369558196084701
 blogger_orig_url: http://blog.cleverelephant.ca/2012/03/foss4g-north-america-is-almost-here.html
+comments: True
 ---
 
 [FOSS4G North America](http://foss4g-na.org) is one month away! Due to venue restrictions (400 max!), we only have a limited number of registration spaces still remaining, so sign up soon!

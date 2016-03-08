@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-02-13T14:43:18.237-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2002241821442734368
 blogger_orig_url: http://blog.cleverelephant.ca/2008/02/timmys-telethon-3.html
+comments: True
 ---
 
 Neither rain nor sleet nor dark of night will stop me:

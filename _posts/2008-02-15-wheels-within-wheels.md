@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-02-15T20:41:27.802-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1576698574707724220
 blogger_orig_url: http://blog.cleverelephant.ca/2008/02/wheels-within-wheels.html
+comments: True
 ---
 
 Sean says he supported Obama [because he is more &ldquo;electable&rdquo;](http://zcologia.com/news/673/getting-political/).  So, what are we to make of [this notice](http://www.nytimes.com/2008/02/15/us/politics/15finance.html) in the New York Times?

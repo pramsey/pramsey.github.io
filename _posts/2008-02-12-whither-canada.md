@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-02-12T15:06:28.998-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1290675214871424113
 blogger_orig_url: http://blog.cleverelephant.ca/2008/02/whither-canada.html
+comments: True
 ---
 
 It has been a bit over ten years since I started Refractions Research, and in that time most everything that has happened has been unanticipated.  The best laid plans rarely yielded what was expected, though they often brought good surprises.

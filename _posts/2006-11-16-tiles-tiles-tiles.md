@@ -7,6 +7,7 @@ tags:
 modified_time: '2006-11-16T21:02:37.715-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6915537306800920595
 blogger_orig_url: http://blog.cleverelephant.ca/2006/11/tiles-tiles-tiles.html
+comments: True
 ---
 
 One of the oddball tasks I came home from the [FOSS4G](http://www.foss4g2006.org) conference with was the job of writing the first draft of a tiling specification.  My particular remit was to do a server capable of handling arbitrary projections and scale sets, which made for an interesting design decision: to extend [WMS](http://www.opengeospatial.org/standards/wms) or not?

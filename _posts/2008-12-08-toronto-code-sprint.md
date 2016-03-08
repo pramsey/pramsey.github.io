@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-12-11T09:20:19.721-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-75692525365042881
 blogger_orig_url: http://blog.cleverelephant.ca/2008/12/toronto-code-sprint.html
+comments: True
 ---
 
 Last month, over beers in [Lawrence, Kansas](http://blog.cleverelephant.ca/2008/11/we-arent-in-kansas-anymore-toto.html), I had a discussion with Steve Lime and Howard Butler about what a good Mapserver code sprint might look like.  And when I got home, I decided to see if we could have a code sprint sort of like that: central location, focussed on the "C tribe" of open source software applications, in the off season for reasonable cost.

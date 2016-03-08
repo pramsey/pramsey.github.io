@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-08-08T12:46:21.322-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-9070209982817460232
 blogger_orig_url: http://blog.cleverelephant.ca/2007/08/green-fields.html
+comments: True
 ---
 
 One of the points I [make repeatedly](http://www.directionsmag.com/article.php?article_id=2517) when talking to people about how open source GIS and open source in general are penetrating the marketplace is that open source thrives in "[green fields](http://en.wikipedia.org/wiki/Greenfield_land)" environments.  

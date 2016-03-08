@@ -11,6 +11,7 @@ tags:
 modified_time: '2011-10-24T09:00:43.677-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7445244052071049254
 blogger_orig_url: http://blog.cleverelephant.ca/2009/07/working-in-cathedral.html
+comments: True
 ---
 
 <img src="http://photos.igougo.com/images/p152562-Salisbury-Salisbury_Cathedral.jpg" style="float:right;padding-left:10px;padding-bottom:5px;width:174px;height:237px;" />In February, at the [Toronto Code Sprint](http://wiki.osgeo.org/wiki/Toronto_Code_Sprint_2009), the PostGIS team looked each other in the eye (for the first time) and committed to get the [1.4 release](http://svn.osgeo.org/postgis/trunk/NEWS) out by late April.

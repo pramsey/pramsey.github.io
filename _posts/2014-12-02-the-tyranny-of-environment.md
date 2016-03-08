@@ -10,6 +10,7 @@ tags:
 modified_time: '2014-12-02T13:22:26.114-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6133333700312407616
 blogger_orig_url: http://blog.cleverelephant.ca/2014/12/the-tyranny-of-environment.html
+comments: True
 ---
 
 <img src="http://i.technet.microsoft.com/cc162526.fig01(en-us).gif" style="float: right; padding: 10px"/>

@@ -8,6 +8,7 @@ tags:
 modified_time: '2012-08-13T11:55:10.290-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-633759275368142471
 blogger_orig_url: http://blog.cleverelephant.ca/2012/08/postgis-apologia.html
+comments: True
 ---
 
 Nathaniel Kelso [has provided feedback](http://kelsocartography.com/blog/?p=4240) from an (occasionally disgruntled) users point-of-view about ways to make PostGIS friendlier.  I encourage you to read the full post, since it includes explanatory material that I'm going to trim away here to explain the whys and wherefores of how we got to where we are.

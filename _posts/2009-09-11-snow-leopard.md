@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-09-11T08:16:35.758-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7443296909258000920
 blogger_orig_url: http://blog.cleverelephant.ca/2009/09/snow-leopard.html
+comments: True
 ---
 
 Being a colossal Apple fanboi now, immediately upon returning home from vacation I ordered the latest version of OS/X, "Snow Leopard" and promptly installed it on both my laptop and workstation. Without testing on one first. Whoops.

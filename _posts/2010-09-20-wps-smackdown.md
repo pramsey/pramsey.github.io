@@ -7,6 +7,7 @@ tags:
 modified_time: '2010-09-20T11:34:58.683-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-9120730413709854208
 blogger_orig_url: http://blog.cleverelephant.ca/2010/09/wps-smackdown.html
+comments: True
 ---
 
 <img src="http://www.prettytough.com/wp-content/uploads/2008/09/wps_logo.jpg" style="width:175px;float:right;"/>I was a little surprised last week when Jody Garnett told me that the most contentious session of FOSS4G turned out to be the ["WPS compliance testing"](http://2010.foss4g.org/presentations_show.php?id=3604) talk. Really? "Really", Jody insisted, "Voices were raised."

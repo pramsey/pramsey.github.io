@@ -10,6 +10,7 @@ tags:
 modified_time: '2014-10-07T09:19:09.361-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-7163517542894164028
 blogger_orig_url: http://blog.cleverelephant.ca/2014/10/failure-never-smelled-so-sweet.html
+comments: True
 ---
 
 Politics/IT crossover moment! In his [Globe &amp; Mail column today](http://www.theglobeandmail.com/news/british-columbia/petronass-threats-to-abandon-lng-in-bc-are-not-for-naught/article20955266/), Gary Mason has this to say about the negotiations underway to bring LNG terminals to the BC coast: 

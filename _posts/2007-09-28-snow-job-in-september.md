@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-09-28T22:45:03.877-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-65202901593910052
 blogger_orig_url: http://blog.cleverelephant.ca/2007/09/snow-job-in-september.html
+comments: True
 ---
 
 In response to [Adena Schutzberg's update](http://www.directionsmag.com/article.php?article_id=2556) on the acquisition and release of the Mentor Software CS-MAP reprojection library as open source, Ted Florence, of [Avenza Systems](http://www.avenza.com/) writes:

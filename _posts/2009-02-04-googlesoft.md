@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-02-04T09:20:32.924-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1634334083579402680
 blogger_orig_url: http://blog.cleverelephant.ca/2009/02/googlesoft.html
+comments: True
 ---
 
 It's been obvious for a while, but it took the release of "[Google Latitude](http://apb.directionsmag.com/archives/5357-Google-Latitude-Google-Goes-Mobile-Social.html)" to finally shock me into conscious awareness.  Google is now the Microsoft of internet services.  (Microsoft remains the Microsoft of desktop software. Apple hopes to be the Microsoft of smart phones.)

@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-09-19T16:16:20.782-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2490126507870690259
 blogger_orig_url: http://blog.cleverelephant.ca/2007/09/proprietary-companies-and-open-source.html
+comments: True
 ---
 
 Dale Lutz, the VP R&D of [Safe Software](http://www.safe.com/) has a [very thoughtful piece](http://spatial-etl.blogspot.com/2007/09/looking-forward-to-foss4g-2007.html) on what they are going to be showing at [FOSS4G 2007](http://2007.foss4g.org/), and how Safe fits into the open source world as a company that makes its money selling proprietary software.

@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-08-21T15:22:49.056-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-3099367587241909291
 blogger_orig_url: http://blog.cleverelephant.ca/2008/08/geography-of-manufacturing.html
+comments: True
 ---
 
 It's a shame I'm not a geographer, because there are probably some interesting sociological nuggets hiding in the way manufacturing has dispersed across the USA over the past 40 years.  This [weakly reasoned article](http://www.salon.com/mwt/feature/2008/08/21/air_conditioning/) in Salon includes the point that auto manufacturers are locating their US plants in the South. Why so?

@@ -7,6 +7,7 @@ tags:
 modified_time: '2006-10-21T11:22:57.362-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-112874983930388432
 blogger_orig_url: http://blog.cleverelephant.ca/2005/10/open-source-company-oxymoron.html
+comments: True
 ---
 
 People seem surprised when I tell them that [our company](http://www.refractions.net/) does open source development and has a couple of large open source projects ([PostGIS](http://postgis.refractions.net/) and [uDig](http://udig.refractions.net/)). They have a very valid reason for their surprise: there seems to be no reasonable way such projects could make money. In fact, they seem destined to lose money. Lots of it.

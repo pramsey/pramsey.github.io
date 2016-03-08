@@ -10,6 +10,7 @@ tags:
 modified_time: '2010-06-30T11:04:27.234-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6289481948845484654
 blogger_orig_url: http://blog.cleverelephant.ca/2010/06/how-to-survive-foo-camp-introvert.html
+comments: True
 ---
 
 I just read the [2010 edition](http://www.scottberkun.com/blog/2010/what-i-learned-at-foo-camp-10/) of Scott Berkun's regular [Foo Camp](http://en.wikipedia.org/wiki/Foo_Camp) review. It's very good, and makes me want to amplify a couple points for future, introverted attendees.

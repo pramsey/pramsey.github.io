@@ -10,6 +10,7 @@ tags:
 modified_time: '2009-04-07T12:35:49.946-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5715530000918697711
 blogger_orig_url: http://blog.cleverelephant.ca/2009/04/esri-formats-back-to-future.html
+comments: True
 ---
 
 Remember when "coverage" was the holy grail? "Boy, if I could just read/write coverage, I could interoperate with the GIS folks no problem."

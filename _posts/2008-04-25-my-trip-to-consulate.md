@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-04-25T11:44:59.302-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2246734507121014429
 blogger_orig_url: http://blog.cleverelephant.ca/2008/04/my-trip-to-consulate.html
+comments: True
 ---
 
 I<img width="225" height="150" style="padding:0;float:right;" src="http://blog.wired.com/photos/uncategorized/2007/05/25/red_tape.jpg" /> took a day on Wednesday to travel to Vancouver and apply for a US passport. The US passport form is pretty straightforward, but the consulate experience is anything but.

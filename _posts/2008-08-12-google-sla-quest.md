@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-09-04T16:14:25.381-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1950190483377694039
 blogger_orig_url: http://blog.cleverelephant.ca/2008/08/google-sla-quest.html
+comments: True
 ---
 
 I host my @cleverelephant.ca email using Google Apps, and I even go so far as to pay the $50/year for "Premier" service to have no ads on my account. Having self-hosted infrastructure for 10 years at Refractions (I was President, CEO, and sysadmin for too many years), it has been pretty pleasant to have zero maintenance issues keeping my email online, my spam well filtered, my web pages up.

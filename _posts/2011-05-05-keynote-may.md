@@ -7,6 +7,7 @@ tags:
 modified_time: '2011-05-05T09:09:51.523-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-5358885547190471425
 blogger_orig_url: http://blog.cleverelephant.ca/2011/05/keynote-may.html
+comments: True
 ---
 
 It's a little too late now to promote my keynote presentation at ASPRS 2011, since I already gave it on Tuesday.... but! I can still promote my [upcoming keynote at PgCon](http://www.pgcon.org/2011/schedule/events/373.en.html), which I'm looking forward to immensely (and getting nervous about in equal measure).

@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-06-11T20:17:17.222-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-4655772519746720995
 blogger_orig_url: http://blog.cleverelephant.ca/2007/06/ow-that-stings.html
+comments: True
 ---
 
 There's a certain backhanded snarkiness to the ESRI UC Q&amp;A item on PostGIS:

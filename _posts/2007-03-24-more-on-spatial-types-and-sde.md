@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-03-24T14:59:59.479-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-328876575914837864
 blogger_orig_url: http://blog.cleverelephant.ca/2007/03/more-on-spatial-types-and-sde.html
+comments: True
 ---
 
 In a comment on my [wailing](http://blog.cleverelephant.ca/2007/03/some-good-news-and-some-bad-news.html) regarding ESRI's apparent decision to roll out their own PostgreSQL spatial type alongside general support for PostgreSQL in ArcSDE 9.3, Bruce Bannerman says:

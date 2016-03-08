@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-01-11T16:30:01.561-08:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-2949106969911157500
 blogger_orig_url: http://blog.cleverelephant.ca/2008/01/counting-votes.html
+comments: True
 ---
 
 This is orthogonal to geospatial, but c'est la vie.  Apparently the United States' quadrennial meltdown over [how to count things](http://www.npr.org/blogs/news/2008/01/kucinich_calls_for_recount_in_1.html) is firing up again. 

@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-09-30T21:04:08.714-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1167640163995472106
 blogger_orig_url: http://blog.cleverelephant.ca/2008/09/game-theory-and-congress.html
+comments: True
 ---
 
 How could the bailout fail to pass Congress, when it had been negotiated and promoted by the leadership of both parties? Easy, it's the tragedy of the commons! If I may enter the head of the Representative from South Jesusland, Phil I. Buster:

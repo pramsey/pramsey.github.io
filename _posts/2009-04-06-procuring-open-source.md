@@ -9,6 +9,7 @@ tags:
 modified_time: '2009-04-07T12:03:31.049-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8529195685930340120
 blogger_orig_url: http://blog.cleverelephant.ca/2009/04/procuring-open-source.html
+comments: True
 ---
 
 Open source has some real problems in the market, and most of them seem to reside between the ears of the people making corporate decisions on software.  [Really good article](http://www.netsight.co.uk/blog/2009/4/2/open-source-and-software-procurement) on procurement perceptions here from a Plone support company (what, Plone needs support? :)

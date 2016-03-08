@@ -7,6 +7,7 @@ tags:
 modified_time: '2010-05-17T20:53:42.790-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-1471920764783103795
 blogger_orig_url: http://blog.cleverelephant.ca/2010/05/whos-your-dealer.html
+comments: True
 ---
 
 <img src="http://www.chicagonow.com/blogs/doctors-next-door/marijuana-leaf.jpg" style="float:right; padding:4px;width:200px;" />The [mapbutcher](http://mapbutcher.com) thinks it's [OK to get hooked on proprietary software](http://mapbutcher.com/blog/?p=582):

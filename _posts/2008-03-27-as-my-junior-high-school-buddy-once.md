@@ -7,6 +7,7 @@ tags:
 modified_time: '2008-03-27T11:04:44.060-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-6352259569908636178
 blogger_orig_url: http://blog.cleverelephant.ca/2008/03/as-my-junior-high-school-buddy-once.html
+comments: True
 ---
 
 ...you know something's really funny when Coke sprays out of your nose.

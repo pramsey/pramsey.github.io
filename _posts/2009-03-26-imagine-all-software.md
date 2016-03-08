@@ -7,6 +7,7 @@ tags:
 modified_time: '2009-03-26T20:28:25.755-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-490331011450231142
 blogger_orig_url: http://blog.cleverelephant.ca/2009/03/imagine-all-software.html
+comments: True
 ---
 
 ...living life in peeeace! Woohoo! HoooOoo. You may say, I'm dreamer...

@@ -7,6 +7,7 @@ tags:
 modified_time: '2007-10-05T10:51:04.541-07:00'
 blogger_id: tag:blogger.com,1999:blog-14903426.post-8744802490760933208
 blogger_orig_url: http://blog.cleverelephant.ca/2007/10/melting-snow.html
+comments: True
 ---
 
 ***Note:** In the spirit of my own criticism, I won't delete this post, but apparently the problem at Directions is technical (lost comments) not political (deleted comments) so I am completely out-to-lunch and offer apologies to Directions! Fool == Me. Ignore the below.*
