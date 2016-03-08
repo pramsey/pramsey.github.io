@@ -16,7 +16,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2013/10/uk-government-digital-se
 comments: True
 ---
 
-I [wrote last year](http://blog.cleverelephant.ca/2013/02/digitalcabinetofficegovuk.html) that the [UK GDS](http://digital.cabinetoffice.gov.uk) seemed like a promising approach to revitalizing government IT. 
+I [wrote last year](/2013/02/digitalcabinetofficegovuk.html) that the [UK GDS](http://digital.cabinetoffice.gov.uk) seemed like a promising approach to revitalizing government IT. 
 
 Of late, the GDS Director, [Mike Bracken](http://mikebracken.com) has been doing to rounds of US "new wave IT" organizations, the [Code for America](http://codeforamerica.org) group and yesterday the [Presidential Innovation Fellows](http://www.whitehouse.gov/innovationfellows). At code for America, he focussed on the need for difference makers to, above all, "deliver".
 

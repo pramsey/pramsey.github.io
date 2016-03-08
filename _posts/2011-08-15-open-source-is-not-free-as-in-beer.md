@@ -10,7 +10,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2011/08/open-source-is-not-free-
 comments: True
 ---
 
-Last week, I [took the time to ridicule](http://blog.cleverelephant.ca/2011/08/proprietary-software-is-not-future-you.html) a post at the [PBBI blog](http://stratus.pbbiblogs.com/2011/08/12/open-source-is-not-the-future-you-think-it-is…/) on open source, which really boiled down to a critique of the very flimsy open source argument "open source is free (as in beer) so it's a budget panacea!". I hope not many open source advocates are retailing that one, but I'm sure one or two of us still are.
+Last week, I [took the time to ridicule](/2011/08/proprietary-software-is-not-future-you.html) a post at the [PBBI blog](http://stratus.pbbiblogs.com/2011/08/12/open-source-is-not-the-future-you-think-it-is…/) on open source, which really boiled down to a critique of the very flimsy open source argument "open source is free (as in beer) so it's a budget panacea!". I hope not many open source advocates are retailing that one, but I'm sure one or two of us still are.
 <br />
 <br />In my idealistic younger days I read a lot of [Chomsky](http://www.chomsky.info/), and one of the general principles I took away from him is the idea that as citizens we have a duty to critique and criticize our own governments first and foremost. Beating our chests about the behaviour of some despot on the other side of an ocean might be cathartic, but if we're really interested in improving the commonweal it is our job as citizens of democratic societies to make our own governments better first.  (Like, why does [Canada sell asbestos](http://www.thestar.com/news/canada/article/1013166--canada-blocks-asbestos-from-hazardous-chemicals-list-at-un-summit) as a building supply to third world countries when back home we recognize that it's too dangerous for our own buildings?)
 <br />
@@ -22,7 +22,7 @@ Last week, I [took the time to ridicule](http://blog.cleverelephant.ca/2011/08/p
 <br />
 <br />However, when you examine the numbers, it gets very clear very fast that service costs are an order of magnitude larger than software acquisition costs. The BC Public Accounts tell the story for my home province: For the past ten years, ESRI has taken in between $1M and $2M a year pretty consistently selling GIS software. Over those same years, the consulting companies in town I would call "geospatial companies" have in aggregate billed about 10 times that annual figure providing services.
 <br />
-<br />Services rule! The profit margins in services are notoriously lower than for software, and I'm sure ESRI made more pure profit on their $1M per year. But the bulk size of service revenues more than compensates.  That's why [IBM and HP are growing](http://blog.cleverelephant.ca/2011/06/outsourcing-in-bc.html) into services. Because there's so much room to grow in there.
+<br />Services rule! The profit margins in services are notoriously lower than for software, and I'm sure ESRI made more pure profit on their $1M per year. But the bulk size of service revenues more than compensates.  That's why [IBM and HP are growing](/2011/06/outsourcing-in-bc.html) into services. Because there's so much room to grow in there.
 <br />
 <br />**Second, the refinement.**
 <br />

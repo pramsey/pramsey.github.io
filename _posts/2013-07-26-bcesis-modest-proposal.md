@@ -20,7 +20,7 @@ No, not "[eat all the children](http://en.wikipedia.org/wiki/A_Modest_Proposal)"
 
 Rather, embrace the free market and the spirit of competition to **reduce the risk of project failure**. 
 
-The trouble with spending the entire student information system budget [on a single system and vendor](http://www.timescolonist.com/b-c-to-replace-troubled-student-tracking-software-1.560321) is that it is an unhedged bet. If it pans out, you win; if it doesn't [you lose 100% of your investment](http://blog.cleverelephant.ca/2012/05/take-smaller-bites.html).
+The trouble with spending the entire student information system budget [on a single system and vendor](http://www.timescolonist.com/b-c-to-replace-troubled-student-tracking-software-1.560321) is that it is an unhedged bet. If it pans out, you win; if it doesn't [you lose 100% of your investment](/2012/05/take-smaller-bites.html).
 
 In reviewing the state of BCeSIS and recommending future options, the [Gartner report](http://www.bced.gov.bc.ca/pubs/review_of_student_information_systems.pdf) had this to say about pursuing an open source option:
 

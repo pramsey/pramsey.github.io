@@ -16,9 +16,9 @@ comments: True
 
 Recapping:
 
-* ([Day 1](http://blog.cleverelephant.ca/2014/06/tokenization-and-your-private-data-1.html)) The government is interested in using the salesforce.com [CRM](http://en.wikipedia.org/wiki/Customer_relationship_management) and other USA cloud applications, but the BC FOIPPA Act does not allow it.
-* ([Day 2](http://blog.cleverelephant.ca/2014/07/tokenization-and-your-private-data-2.html)) So, the BC CIO has recommended "tokenization" systems to make personal information 100% obscured before storage in USA cloud applications.
-* ([Day 3](http://blog.cleverelephant.ca/2014/07/tokenization-and-your-private-data-3.html)) But, using truly secure tokenization renders CRMs basically useless, so software vendors are flogging less secure forms of tokenization hoping that people won't notice the reduced security levels because they still call it "tokenization".
+* ([Day 1](/2014/06/tokenization-and-your-private-data-1.html)) The government is interested in using the salesforce.com [CRM](http://en.wikipedia.org/wiki/Customer_relationship_management) and other USA cloud applications, but the BC FOIPPA Act does not allow it.
+* ([Day 2](/2014/07/tokenization-and-your-private-data-2.html)) So, the BC CIO has recommended "tokenization" systems to make personal information 100% obscured before storage in USA cloud applications.
+* ([Day 3](/2014/07/tokenization-and-your-private-data-3.html)) But, using truly secure tokenization renders CRMs basically useless, so software vendors are flogging less secure forms of tokenization hoping that people won't notice the reduced security levels because they still call it "tokenization".
 
 The BC [CIO guidance](http://docs.openinfo.gov.bc.ca/D11384614A_Response_Package_CTZ-2014-00009.PDF) on using USA cloud services has a certain breathless enthusiasm (is there any innovation more exciting than vendor innovation?) for the tokenization products vendors are bringing to market:
 
@@ -38,11 +38,12 @@ It is not reassuring that the OIPC has opened the door to "tokenization" at all.
 
 The OIPC guidance spends two paragraphs on "re-identification" of data (the practice of mixing tokenized and un-tokenized fields in records), and spends five more on the legal and physical security of the tokenization crosswalk table (dictionary), but spends only one word ("**adequately**") on whether or not the tokenization dictionary is full of junk.
 
-The OIPC told me that, because fully random tokenization [completely obscured the original data](http://blog.cleverelephant.ca/2014/07/tokenization-and-your-private-data-2.html)[1], they had to rule that fully tokenized personal data was no longer "personal information" and thus not covered by the Act. This strikes me as very lawyerly, but also very dangerous, since it opens the door for government to consider technical "tokenization" solutions from vendors that are likely far less secure than conventional approaches (like [AES-256](http://en.wikipedia.org/wiki/Advanced_Encryption_Standard)) that the OIPC has already rejected.
+The OIPC told me that, because fully random tokenization [completely obscured the original data](/2014/07/tokenization-and-your-private-data-2.html)[1], they had to rule that fully tokenized personal data was no longer "personal information" and thus not covered by the Act. This strikes me as very lawyerly, but also very dangerous, since it opens the door for government to consider technical "tokenization" solutions from vendors that are likely far less secure than conventional approaches (like [AES-256](http://en.wikipedia.org/wiki/Advanced_Encryption_Standard)) that the OIPC has already rejected.
 
 I'll close with the good news: all plans to store personal data outside Canada are still subject to case-by-case review by the OIPC, there is thus far no blanket approval for systems that claim they "tokenize", and the OIPC can still issue further guidance based on research that is going on right now. I'm not lighting my hair on fire, yet. But the door is cracked open, and the snake-oil salesmen are laying out their wares, let's keep an eye on them.
 
-<small>[1] Again, implementation matters. At a minimum, even completely random word-based tokenization can leak information about how many words are in each field. Some implementations also don't encode punctuation, so they leak symbols ("Smith &amp; Wesson" becomes "faerqb &amp; gabedfsara") and other non-word entities. Depending on the input data, these small leakages can be significant.</small>
+[1] Again, implementation matters. At a minimum, even completely random word-based tokenization can leak information about how many words are in each field. Some implementations also don't encode punctuation, so they leak symbols ("Smith &amp; Wesson" becomes "faerqb &amp; gabedfsara") and other non-word entities. Depending on the input data, these small leakages can be significant.
+{: .note }
 
 **PostScript**
 
@@ -51,5 +52,5 @@ In re-reading my series of posts, I think I have been overly harsh on the cloud 
 * **Is less-than-perfect tokenization better than nothing?** Yes, it's a lot better than nothing. Even with less-than-perfect tokenization, employees of the cloud software companies can't just casually read records in the database, and an entity wanting to break the security of the records would need to extract a pretty big corpus of records to analyze them to find information leaks and use them to break in.
 * **Is less-than-perfect tokenization acceptable for BC?** No, because of the FOIPPA law, and because the Commissioner has already set a very very very high bar by not allowing standard symmetric encryption (which can be very very secure) to be used to host personal data outside of Canada.
 
-More on this [tomorrow](http://blog.cleverelephant.ca/2014/07/tokenization-and-your-private-data-5.html).
+More on this [tomorrow](/2014/07/tokenization-and-your-private-data-5.html).
 

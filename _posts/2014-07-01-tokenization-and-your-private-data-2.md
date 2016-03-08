@@ -14,11 +14,12 @@ blogger_orig_url: http://blog.cleverelephant.ca/2014/07/tokenization-and-your-pr
 comments: True
 ---
 
-So, ([Day 1](http://blog.cleverelephant.ca/2014/06/tokenization-and-your-private-data-1.html)) the BC government's vendors (and thus, by extension, the BC government) are hot to trot to use the [salesforce.com](http://salesforce.com) cloud [CRM](http://en.wikipedia.org/wiki/Customer_relationship_management) to store the personal data of BC citizens. But, BC privacy law [does not allow that](http://www.bclaws.ca/civix/document/LOC/complete/statreg/--%20F%20--/Freedom%20of%20Information%20and%20Protection%20of%20Privacy%20Act%20[RSBC%201996]%20c.%20165/00_Act/96165_03.xml#section30.1). Whatever will the government do? 
+So, ([Day 1](/2014/06/tokenization-and-your-private-data-1.html)) the BC government's vendors (and thus, by extension, the BC government) are hot to trot to use the [salesforce.com](http://salesforce.com) cloud [CRM](http://en.wikipedia.org/wiki/Customer_relationship_management) to store the personal data of BC citizens. But, BC privacy law [does not allow that](http://www.bclaws.ca/civix/document/LOC/complete/statreg/--%20F%20--/Freedom%20of%20Information%20and%20Protection%20of%20Privacy%20Act%20[RSBC%201996]%20c.%20165/00_Act/96165_03.xml#section30.1). Whatever will the government do? 
 
 Enter stage left: "tokenization". The CIO has recommended tokenization technology for Ministries looking to use salesforce.com and other cloud services to manage private information:
 
-> Using tokenization – a method of substituting specified data fields for arbitrary values – these solutions allow for the use of foreign-based services while remaining within the residency-based restrictions of FOIPPA.<br/><small>&mdash;[Bette-Jo Hughes, Oct 2, 2013](http://docs.openinfo.gov.bc.ca/D11384614A_Response_Package_CTZ-2014-00009.PDF)</small>
+> Using tokenization – a method of substituting specified data fields for arbitrary values – these solutions allow for the use of foreign-based services while remaining within the residency-based restrictions of FOIPPA.<br/>
+> &mdash; [Bette-Jo Hughes, Oct 2, 2013](http://docs.openinfo.gov.bc.ca/D11384614A_Response_Package_CTZ-2014-00009.PDF)
 
 [Tokenization](http://en.wikipedia.org/wiki/Tokenization_(data_security)) is a strategy that takes every word in an input text, and replaces it with a random substitution "token", and keeps track of the relationship between words and tokens. So, the input to a tokenization process would be N words, and the output would be N random numbers, and an N-entry dictionary matching the words to the numbers that replaced them.
 
@@ -48,4 +49,4 @@ If all we wanted to do was just store data securely somewhere outside of Canada,
 * First, storing tokenized data means storing 3-times the volume of the original (one copy of tokens stored at salesforce.com, and a locally stored dictionary that contains both the original and the tokens). You get no benefit from the cloud from a storage standpoint (in fact it's worse, you're storing twice as much local data); and, you get no redundancy benefit, since if you lose your local copy of the dictionary the cloud data becomes meaningless.
 * Second, ***and most importantly*** this whole exercise isn't about storing data, it's about **making use of a customer relationship management** (CRM) system, salesforce.com, and secure tokenization, as described above, is **not consistent** with using salesforce.com effectively.
 
-[Tomorrow](http://blog.cleverelephant.ca/2014/07/tokenization-and-your-private-data-3.html), we'll discuss why this most excellent "tokenization" magic doesn't work if you want to use it inside a CRM (or any other system that expects its data to have meaning).
+[Tomorrow](/2014/07/tokenization-and-your-private-data-3.html), we'll discuss why this most excellent "tokenization" magic doesn't work if you want to use it inside a CRM (or any other system that expects its data to have meaning).

@@ -12,11 +12,11 @@ comments: True
 
 I failed to comment on my comments, which makes me a Bad Blogger.  It is all about reprocessing content after all, so here goes...
 
-**Incentives and Costs**
+### Incentives and Costs
 
-In response to the "[Why SDIs Fail](http://blog.cleverelephant.ca/2006/09/why-sdis-fail.html)" posting, "randy" [comments](http://blog.cleverelephant.ca/2006/09/why-sdis-fail.html#c115980944292034479):
+In response to the "[Why SDIs Fail](/2006/09/why-sdis-fail.html)" posting, "randy" comments:
 
-<blockquote>The key seems to be incentives and the only two I can think of are market incentives and policy mandate incentives. Market incentives are bottom up and way more appealing than top down legal/policy incentives. </blockquote>
+> The key seems to be incentives and the only two I can think of are market incentives and policy mandate incentives. Market incentives are bottom up and way more appealing than top down legal/policy incentives. 
 
 And I agree.  Incentives are lacking now, except for the "good karma" incentive.  However, low incentives alone are not a barrier to action, it is low incentives **in conjunction with** a higher cost of action that cause inaction.  The karmic incentive to not litter is relatively low, but the cost of not littering is also very low... hey, there's a garbage can right over there.
 
@@ -26,17 +26,17 @@ Randy raises a number of possible external incentives, such as legal mandates, t
 
 I personally think that decreasing the costs has better potential in the short term, by examining the data sharing networks that **have** succeeded -- the illegal music and movie distribution networks.  Everyone has an incentive to take and no one has an incentive to give, yet the content is out there.  There are technical approaches to enhancing sharing in sharing-averse communities which can be scavenged from this arena and brought into ours.
 
-**Even Better Technology**
+### Even Better Technology
 
-[Rob Atkinson](http://blog.cleverelephant.ca/2006/09/why-sdis-fail.html#c115983453872155353) looks into the future and sees that the tools we have now are not equipped for doing effective data sharing.
+[Rob Atkinson](/2006/09/why-sdis-fail.html) looks into the future and sees that the tools we have now are not equipped for doing effective data sharing.
 
-<blockquote>What we need is the mechanism by which SDIs can grow (from top-down and bottom-up) to bridge that gap. Much like DNS provides domain roots and the bind protocol. What we need to do to realise SDI benefits is, as you say, enable massively scalable access to data updates by making life significantly easier at the grass roots level, but also by introducing a level of coherence to enable investment decisions at the national level.</blockquote>
+> What we need is the mechanism by which SDIs can grow (from top-down and bottom-up) to bridge that gap. Much like DNS provides domain roots and the bind protocol. What we need to do to realise SDI benefits is, as you say, enable massively scalable access to data updates by making life significantly easier at the grass roots level, but also by introducing a level of coherence to enable investment decisions at the national level.
 
 I agree that many "real" data sharing applications are going to need some super-amazing technology to bind together content.  Ontology and deep metadata.  But in the meantime, looser, more human-mediated approaches are required to bridge the gap.  
 
 As Rob says, life needs to be easier for the grass roots.  That is job one.  Once the data is flowing, the coneheads in the central agencies can figure out techno-magic to stitch it all together, but until the data starts flowing the whole discussion is just so much intellectual masturbation.
 
-**I Propose...**
+### I Propose...
 
 That job one is to get the data flowing.  There needs to be a single, user-facing application, a GeoNapster, that makes sharing data and finding data ludicrously simple.  So simple that there is no excuse not to do it except sheer bullheadedness.  Get the data flowing and then worry about how to integrate it.
 

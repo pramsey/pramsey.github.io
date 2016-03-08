@@ -10,5 +10,10 @@ blogger_orig_url: http://blog.cleverelephant.ca/2008/08/more-mapping-insights.ht
 comments: True
 ---
 
-From [Andrew Turner](http://highearthorbit.com/visualizing-restaurant-searching/), the [Urban Spoon spatial-temporal map](http://www.urbanspoon.com/iphone/24hours) of restaurant seeking. Among the insights you can glean from this data presentation:<ul><li>People look for restaurants in cities full of people, not in the wilderness.</li><li>People don't look for restaurants when they are asleep.</li></ul>Perhaps a zoomed in view of San Francisco would be more interesting.
+From [Andrew Turner](http://highearthorbit.com/visualizing-restaurant-searching/), the [Urban Spoon spatial-temporal map](http://www.urbanspoon.com/iphone/24hours) of restaurant seeking. Among the insights you can glean from this data presentation:
+
+* People look for restaurants in cities full of people, not in the wilderness.
+* People don't look for restaurants when they are asleep.
+
+Perhaps a zoomed in view of San Francisco would be more interesting.
 

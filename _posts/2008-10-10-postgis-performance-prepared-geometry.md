@@ -34,9 +34,9 @@ The speed difference is impressive!
 
 I have a test data set of two tables: one table of 80 large polygons, and another table of 8000 small polygons. Each large polygon contains about 100 small ones.
 
-Without the prepared geometry, a spatial join using ST_Intersects takes about 40 seconds. With the prepared geometry, the join takes 8 seconds, **five times faster**. The larger the size difference between your tables, the larger the speed-up you see will be.
+Without the prepared geometry, a spatial join using `ST_Intersects` takes about 40 seconds. With the prepared geometry, the join takes 8 seconds, **five times faster**. The larger the size difference between your tables, the larger the speed-up you see will be.
 
-The functions effected by the PreparedGeometry upgrade are ST_Intersects(), ST_Contains(), ST_Covers() and ST_ContainsProperly().
+The functions effected by the PreparedGeometry upgrade are `ST_Intersects()`, `ST_Contains()`, `ST_Covers()` and `ST_ContainsProperly()`.
 
 To try out the new functionality, you'll need to check out and compile the GEOS SVN trunk ([http://svn.osgeo.org/geos/trunk](http://svn.osgeo.org/geos/trunk)) which will become GEOS 3.1.0 in a little while, and the PostGIS 1.3 SVN branch ([http://svn.osgeo.org/postgis/branches/1.3](http://svn.osgeo.org/postgis/branches/1.3)), which will become PostGIS 1.3.4 shortly. First compile and install GEOS, then PostGIS, since PostGIS checks the GEOS version during the compile stage to determine whether to activate the functionality.
 

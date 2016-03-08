@@ -18,7 +18,7 @@ Getting the re-tweeting rounds today, [an article on why business are moving to 
 
 
 
-[Watch out](http://blog.cleverelephant.ca/2011/06/it-revolution.html), the natives are restless.
+[Watch out](/2011/06/it-revolution.html), the natives are restless.
 
 **Update:** Check out the comment thread in the [slashdot.org](http://slashdot.org/story/11/06/17/1312206/Why-Businesses-Move-To-the-Cloud-They-Hate-IT) posting of this article for the good, bad and ugly of IT reaction to being sidelined. Ranges from "stupid users" to some thoughtful comments on the nature of organizations.
 

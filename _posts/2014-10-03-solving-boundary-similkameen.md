@@ -15,7 +15,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2014/10/solving-boundary-similka
 comments: True
 ---
 
-When analyzing the [new legislation governing redistricting in British Columbia](http://blog.cleverelephant.ca/2013/11/bc-electoral-redistribution-and.html) this cycle, I noted in passing that the creation of three "protected regions" creates an isolated, unprotected region in the Okanagan. If there are districts that have unbalanced population in the Okanagan, the only way to solve the problem is moving population around inside the Okanagan. 
+When analyzing the [new legislation governing redistricting in British Columbia](/2013/11/bc-electoral-redistribution-and.html) this cycle, I noted in passing that the creation of three "protected regions" creates an isolated, unprotected region in the Okanagan. If there are districts that have unbalanced population in the Okanagan, the only way to solve the problem is moving population around inside the Okanagan. 
 
 Well, there is a district with unbalanced population: Boundary-Similkameen (37,840) is **30% below** the provincial population average (54,369), and 36% below the average population of unprotected ridings (58,810). So about 15,000 people need to be added. 
 

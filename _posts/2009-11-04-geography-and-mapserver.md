@@ -10,5 +10,5 @@ blogger_orig_url: http://blog.cleverelephant.ca/2009/11/geography-and-mapserver.
 comments: True
 ---
 
-Can you use the new PostGIS <code>GEOGRAPHY</code> type with [MapServer](http://mapserver.org)? Yes! Just make sure your LAYER declares a geographic projection (e.g. "init=epsg:4326", or "proj=lonlat") so the correct coordinates are passed in. For simple DATA definitions(e.g. DATA "thegeog from thetable"), that's all you have to do. I haven't tested out more complex DATA statements yet, but I am pretty sure they should work fine. 
+Can you use the new PostGIS `GEOGRAPHY` type with [MapServer](http://mapserver.org)? Yes! Just make sure your LAYER declares a geographic projection (e.g. `"init=epsg:4326", or "proj=lonlat"`) so the correct coordinates are passed in. For simple DATA definitions(e.g. `DATA "thegeog from thetable"`), that's all you have to do. I haven't tested out more complex DATA statements yet, but I am pretty sure they should work fine. 
 

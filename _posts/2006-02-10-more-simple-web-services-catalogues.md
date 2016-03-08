@@ -10,7 +10,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2006/02/more-simple-web-services
 comments: True
 ---
 
-A couple months ago I [wrote a piece](http://blog.cleverelephant.ca/2005/10/simple-web-services-catalogues.html) about how [uDig](http://udig.refractions.net) made use of a simple web services catalogue to complete the web services publish-find-bind chain of being in a nice clean transparent way.  I was very proud, because at the time it was the only example of a decent desktop interface with a proper web services hook.
+A couple months ago I [wrote a piece](/2005/10/simple-web-services-catalogues.html) about how [uDig](http://udig.refractions.net) made use of a simple web services catalogue to complete the web services publish-find-bind chain of being in a nice clean transparent way.  I was very proud, because at the time it was the only example of a decent desktop interface with a proper web services hook.
 
 The times, the are a-catching-up to me! About the same time we were cobbling together our first catalogue of OGC WMS and WFS services, Jeremy Bartley at the University of Kansas was doing a similar thing, except he was mining Google for ArcIMS services.  (It should come as some disappointment to boosters of the OGC that he found about 10 times as many ArcIMS servers as we found OGC WMS servers of all types (including ArcIMS).)
 

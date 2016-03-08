@@ -16,7 +16,7 @@ comments: True
 
 And when is it something more?
 
-Every year, I report on the progress of IT outsourcing in BC (news flash: it keeps going up, [2011](http://blog.cleverelephant.ca/2011/06/outsourcing-in-bc.html), [2012](http://blog.cleverelephant.ca/2012/07/bc-it-outsourcing-update.html), [2013](http://blog.cleverelephant.ca/2013/07/bc-it-outsourcing-201213.html)) and marvel at the sums we lavish on international consultancies, fees that largely march offshore, generating no local innovation or economic growth.
+Every year, I report on the progress of IT outsourcing in BC (news flash: it keeps going up, [2011](/2011/06/outsourcing-in-bc.html), [2012](/2012/07/bc-it-outsourcing-update.html), [2013](/2013/07/bc-it-outsourcing-201213.html)) and marvel at the sums we lavish on international consultancies, fees that largely march offshore, generating no local innovation or economic growth.
 
 Last fall, I came across a [news release from the Ministry of Health](http://www.health.gov.bc.ca/library/publications/year/2013/capital-project-plan-clinical-systems-transformation.pdf), describing a **$842 MILLION** "Clinical and Systems Transformation Project". I now realize, I've not been tracking a significant seam of IT spending: the systems being commissioned by the five regional health authorities and their central services arm, the [Provincial Health Services Authority](https://www.phsa.ca). 
 

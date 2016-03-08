@@ -10,5 +10,8 @@ blogger_orig_url: http://blog.cleverelephant.ca/2010/11/cool-japanese-things-3.h
 comments: True
 ---
 
-<ol><li>**Umbrella lockers.** In the art museum, there are standard left lockers for storing your bags and coats, but also little vertical lockers for locking up your umbrella while you tour the building! Is this a rainy city? I am thinking, yes.</li><li>**Vertical gas station.** Why waste space with gas pumps at ground level when you can just hang the filling hoses down from the ceiling? Hai!</li><li>**Blogging from the car.** Taichi has a mifi box, so the laptop works even while we are travelling underneath the triple-decker freeway, heading back to the guesthouse. Zoom zoom zoom.</li></ol><br />
+* **Umbrella lockers.** In the art museum, there are standard left lockers for storing your bags and coats, but also little vertical lockers for locking up your umbrella while you tour the building! Is this a rainy city? I am thinking, yes.
+* **Vertical gas station.** Why waste space with gas pumps at ground level when you can just hang the filling hoses down from the ceiling? Hai!
+* **Blogging from the car.** Taichi has a mifi box, so the laptop works even while we are travelling underneath the triple-decker freeway, heading back to the guesthouse. Zoom zoom zoom.
+
 

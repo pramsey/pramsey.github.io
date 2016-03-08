@@ -10,7 +10,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2008/12/toronto-code-sprint.html
 comments: True
 ---
 
-Last month, over beers in [Lawrence, Kansas](http://blog.cleverelephant.ca/2008/11/we-arent-in-kansas-anymore-toto.html), I had a discussion with Steve Lime and Howard Butler about what a good Mapserver code sprint might look like.  And when I got home, I decided to see if we could have a code sprint sort of like that: central location, focussed on the "C tribe" of open source software applications, in the off season for reasonable cost.
+Last month, over beers in [Lawrence, Kansas](/2008/11/we-arent-in-kansas-anymore-toto.html), I had a discussion with Steve Lime and Howard Butler about what a good Mapserver code sprint might look like.  And when I got home, I decided to see if we could have a code sprint sort of like that: central location, focussed on the "C tribe" of open source software applications, in the off season for reasonable cost.
 
 With lots of work from Tom Kralidis in Toronto, we now have all the pieces in place for a [Toronto code sprint](http://wiki.osgeo.org/wiki/Toronto_Code_Sprint_2009) this winter from March 7-10.  We are expecting about 20 of the key contributors to projects like Mapserver, GDAL, PostGIS, GEOS, QGIS, and Proj4 to be in attendance, for a brain-busting four days.
 

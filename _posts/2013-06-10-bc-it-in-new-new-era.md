@@ -25,7 +25,7 @@ The big tell is in today's detailed [news release on the new cabinet](http://www
 
 **Tell #2**: Former CIO Dave Nikolejsin is plucked from purgatory at the Environmental Assessment Office and plunked down as DM of Energy and Mines (and** Core Review**). This one I think is far more interesting.
 
-The "core review" gets to poke its fingers into any and every program in government. What will the man who brought us [ICM](http://blog.cleverelephant.ca/2012/06/more-icm.html), the [BC Services Card](http://www2.gov.bc.ca/gov/topic.page?id=98CEBFB7201143378046AC4AE5F0B9DE), and the upcoming "one stop" natural resources system rebuild do when placed in charge of a review of **all government programs**?
+The "core review" gets to poke its fingers into any and every program in government. What will the man who brought us [ICM](/2012/06/more-icm.html), the [BC Services Card](http://www2.gov.bc.ca/gov/topic.page?id=98CEBFB7201143378046AC4AE5F0B9DE), and the upcoming "one stop" natural resources system rebuild do when placed in charge of a review of **all government programs**?
 
 I don't know, but I have a theory: it will somehow **involve Deloitte &amp; Touche**. Nikolejsin's other initiatives have all been big ticket, vendor-led enterprises, so it seems reasonable to conclude that D@T's blend of management consultantese and IT bafflegabery will prove irresistible in this case too. Think of all the business processes that can be streamlined and integrated with a mere $100M in IT capital spend! The savings on paperclips alone...!
 

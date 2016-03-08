@@ -10,11 +10,23 @@ blogger_orig_url: http://blog.cleverelephant.ca/2009/05/where-re-cap.html
 comments: True
 ---
 
-<img src="http://assets.en.oreilly.com/1/event/25/where2009_spkr_125x125.gif" style="float:right;padding:8px;"/>This was my first Where 2.0, so unfortunately I cannot provide any longitudinal data. Apparently the early expectation was for a conference in the 1000 attendee range, and this gathering seemed closer to 500 &ndash; the economic downturn is biting hipster location freaks just as much as the rest of the economy.
+<img src="http://assets.en.oreilly.com/1/event/25/where2009_spkr_125x125.gif" style="float:right;padding:8px;"/>
+
+This was my first Where 2.0, so unfortunately I cannot provide any longitudinal data. Apparently the early expectation was for a conference in the 1000 attendee range, and this gathering seemed closer to 500 -- the economic downturn is biting hipster location freaks just as much as the rest of the economy.
 
 A lot of the idle chatter after sessions seemed to focus on the notion that there weren't any "game changing" ideas being presented, which is probably more of a commentary on the rate of change in the industry over the past five years than on the quality of the presentations. My feeling is that the game changed only once, with the roll-out of Google Maps and (more importantly) the associated API. Everything since then has been watching the interaction of ripples and waves on the pond arising from the initial event. Long story short, we were a demanding and jaded audience.
 
-I very much enjoyed watching the talks while monitoring (and silently heckling) on the #where2.0 IRC channel. The real-time commentary could instantly contextualize even generic industry boiler plate. One of the things the IRC channel noticed early on was that there were some repeating themes, which could be used to form a "where 2.0 drinking game":<ul><li>"twitter", take a sip<li>"iPhone", take a sip<li>"Google", take a sip<li>"monetize", take a drink<li>"find a coffee shop", take a drink<li>"in the cloud", take a drink</ul>The repeated references to "iPhone" form one of my big conference takeaway thoughts: ubiquitous geo-location technology (broad markets for consumer devices that always know where they are) is no longer a "future development", it's the present. We knew it was coming, for a long time, but now it's actually here. 
+* 
+I very much enjoyed watching the talks while monitoring (and silently heckling) on the #where2.0 IRC channel. The real-time commentary could instantly contextualize even generic industry boiler plate. One of the things the IRC channel noticed early on was that there were some repeating themes, which could be used to form a "where 2.0 drinking game":
+
+* "twitter", take a sip
+* "iPhone", take a sip
+* "Google", take a sip
+* "monetize", take a drink
+* "find a coffee shop", take a drink
+* "in the cloud", take a drink
+
+The repeated references to "iPhone" form one of my big conference takeaway thoughts: ubiquitous geo-location technology (broad markets for consumer devices that always know where they are) is no longer a "future development", it's the present. We knew it was coming, for a long time, but now it's actually here. 
 
 Some of the applications of ubiquitous geolocation are really, really dull. Every framework and operating system is now adding a "geolocation API" which does little more than spit back a location-you-are-in-right-now. So Google demonstrated a "blue dot" on their maps, that takes you do your current location. Microsoft demonstrated Windows 7 location API, that provides all apps access to your current location (subject to various privacy controls). Nokia showed similar stuff. I met a Mozilla developer who is adding a location API to Firefox, same story.
 

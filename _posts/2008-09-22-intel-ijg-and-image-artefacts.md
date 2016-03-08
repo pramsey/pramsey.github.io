@@ -10,7 +10,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2008/09/intel-ijg-and-image-arte
 comments: True
 ---
 
-I [wrote previously](http://blog.cleverelephant.ca/2008/08/optimize-optimize-optimize.html) about how using the Intel  "Integrated Performance Primitives " ([IPP](http://www.intel.com/cd/software/products/asmo-na/eng/302910.htm)) and the Intel compiler (ICC) helped to improve performance in a Mapserver raster rendering system by about 40%.
+I [wrote previously](/2008/08/optimize-optimize-optimize.html) about how using the Intel  "Integrated Performance Primitives " ([IPP](http://www.intel.com/cd/software/products/asmo-na/eng/302910.htm)) and the Intel compiler (ICC) helped to improve performance in a Mapserver raster rendering system by about 40%.
 
 I was feeling pretty proud, until the client pointed out that the outputs, while *fast* were, um, sort of wrong:
 
@@ -36,5 +36,5 @@ So this time I opened up the GDAL library (that Mapserver uses to read the TIFFs
 
 A small patch to the GDAL TIFF driver, and another patch to the GDAL JPEG driver (for completeness) and now we finally had IPP-accellerated JPEG input and output without artefacts.
 
-**Moral of the story:** Although the Intel IJG is API-compatible with the standard libjpeg, the slightly different expected behavior of the <code>empty_output_buffer</code> and <code>fill_input_buffer</code> functions means that most existing code will require slight modifications before it can use the Intel libraries &ndash; they cannot just be dropped into place as a binary-only update.
+**Moral of the story:** Although the Intel IJG is API-compatible with the standard libjpeg, the slightly different expected behavior of the `empty_output_buffer` and `fill_input_buffer` functions means that most existing code will require slight modifications before it can use the Intel libraries &ndash; they cannot just be dropped into place as a binary-only update.
 

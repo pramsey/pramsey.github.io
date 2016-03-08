@@ -76,7 +76,7 @@ Was it? (Hah!) I recently ran a little test.
 
 <img alt="Dave Nikolejsin" border="0" height="133" width="200" style="float:right; margin:1rem;" src="http://2.bp.blogspot.com/-RrlfI7p96qA/Uf2XQx7fqGI/AAAAAAAAAEs/dTLVyrpP9pY/s200/dave_nikolejsin.jpg" title="Dave Nikolejsin" />
 
-Since I have an abiding interest in the genesis and continued thrashings about of the [BC Integrated Case Management](http://blog.cleverelephant.ca/2012/06/more-icm.html) system, I decided to see what kind of e-mail record the Chief Information Officer, Dave Nikolejsin, generated during the critical period in which the prime contractor was selected, 2009. 
+Since I have an abiding interest in the genesis and continued thrashings about of the [BC Integrated Case Management](/2012/06/more-icm.html) system, I decided to see what kind of e-mail record the Chief Information Officer, Dave Nikolejsin, generated during the critical period in which the prime contractor was selected, 2009. 
 
 So I FOI'ed his e-mail for 2009. All of it.
 

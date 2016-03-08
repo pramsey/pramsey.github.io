@@ -10,7 +10,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2007/06/performance-and-contains
 comments: True
 ---
 
-The reason I was thinking about performance improvements &mdash; and [how billing by CPU usage provides vendors with no incentive to work on them](http://blog.cleverelephant.ca/2007/06/perverse-incentives.html) &mdash; is because we have been thinking about a particular PostGIS use case recently.
+The reason I was thinking about performance improvements &mdash; and [how billing by CPU usage provides vendors with no incentive to work on them](/2007/06/perverse-incentives.html) &mdash; is because we have been thinking about a particular PostGIS use case recently.
 
 Suppose you have a very large candidate table of smallish things, 10s of millions of them, and you want to find all of the smallish things that are contained by a largish polygon.  
 

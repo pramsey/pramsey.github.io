@@ -21,7 +21,7 @@ Some days I feel like I'm king of the world, and some days I feel like the weak 
 
 <div class="separator" style="clear: both; text-align: center;">[<img border="0" src="http://novabrowningrutherford.com/wp-content/uploads/2013/10/sucker.jpg" width=150 />](http://novabrowningrutherford.com/wp-content/uploads/2013/10/sucker.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;)</div>
 
-I have [written](http://blog.cleverelephant.ca/2013/07/natural-resource-sector-goes-over.html) [previously](http://blog.cleverelephant.ca/2013/06/bringing-icm-to-natural-resources-sector.html) about the upcoming systems re-write in the British Columbia natural resources sector. This is a big one. Over $100M will be spent on IT services and software. Before you spend that kind of money, you should be clear about what the business value is, about why this big moon-shot of a project is the right thing to do, relative to the other options. 
+I have [written](/2013/07/natural-resource-sector-goes-over.html) [previously](/2013/06/bringing-icm-to-natural-resources-sector.html) about the upcoming systems re-write in the British Columbia natural resources sector. This is a big one. Over $100M will be spent on IT services and software. Before you spend that kind of money, you should be clear about what the business value is, about why this big moon-shot of a project is the right thing to do, relative to the other options. 
 
 You should prepare a business plan. I wonder what that looks like? 
 

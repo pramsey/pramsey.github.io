@@ -21,7 +21,7 @@ Soooo.... last Friday, while cooling my heels in Denver on the way home, I took 
 
 <img src="http://postmediavancouversun.files.wordpress.com/2012/11/ramsey-second-edit.png" width="520" />
 
-I ended up taking the old 1:50K "3rd order watershed" layer, using ST_Union to generate maximal provincial outline, using ST_Dump and ST_ExteriorRing to get out just the land boundaries (no lakes or wide rivers), used [ST_Buffer to and ST_Simplify to get a reduced-yet-still-attractive version](http://blog.opengeo.org/2010/11/22/removing-complexities/), differenced this land polygon from an outline polygon to get an "ocean" polygon, then ([as I did previously](http://blog.opengeo.org/2012/11/16/simple-sql-gis/)) differenced that ocean from the electoral districts to get the clipped results. Phew.
+I ended up taking the old 1:50K "3rd order watershed" layer, using `ST_Union` to generate maximal provincial outline, using `ST_Dump` and `ST_ExteriorRing` to get out just the land boundaries (no lakes or wide rivers), used [ST_Buffer to and ST_Simplify to get a reduced-yet-still-attractive version](http://blog.opengeo.org/2010/11/22/removing-complexities/), differenced this land polygon from an outline polygon to get an "ocean" polygon, then ([as I did previously](http://blog.opengeo.org/2012/11/16/simple-sql-gis/)) differenced that ocean from the electoral districts to get the clipped results. Phew.
 {: .note }
 
 And then I complained on the Twitter about the webstacle that now exists for anyone like me who wants to access those old 1:50K GIS files.

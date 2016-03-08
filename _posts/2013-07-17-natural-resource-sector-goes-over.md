@@ -19,7 +19,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2013/07/natural-resource-sector-
 comments: True
 ---
 
-While plans in 2012 were still flirting with bringing the [glories of Seibel to the natural resources sector](http://blog.cleverelephant.ca/2013/06/bringing-icm-to-natural-resources-sector.html), I have heard that (hallelujah) that is not on.
+While plans in 2012 were still flirting with bringing the [glories of Seibel to the natural resources sector](/2013/06/bringing-icm-to-natural-resources-sector.html), I have heard that (hallelujah) that is not on.
 
 The big "IT systems transformation" however, that is very much on, baby! And it's going to be a glorious, Niagara Falls style, [waterfall](http://en.wikipedia.org/wiki/Waterfall_model).
 
@@ -33,7 +33,7 @@ BC taxpayers can rest assured though, the deliverables will be top quality. How 
 
 <img border="0" height="110" src="http://1.bp.blogspot.com/-yNSa1Df3n94/UebAAaTbU1I/AAAAAAAAADw/YF_6VTsv2Q4/s400/screenshot_01.png" width="400" />
 
-The RFP also mentions a separate "system integrator team", presumably staffed by the real high priced help from Deloitte or CGI, which will slurp down the majority of the $100M+ overall budget (still to-be-determined by treasury board). I assume this is because the end state is going to be a single "integrated system", like [ICM](http://blog.cleverelephant.ca/2012/06/more-icm.html), that subsumes all the pre-existing systems being documented during this early phase.
+The RFP also mentions a separate "system integrator team", presumably staffed by the real high priced help from Deloitte or CGI, which will slurp down the majority of the $100M+ overall budget (still to-be-determined by treasury board). I assume this is because the end state is going to be a single "integrated system", like [ICM](/2012/06/more-icm.html), that subsumes all the pre-existing systems being documented during this early phase.
 
 So I guess the sad punchline is that this flawed RFP is actually going to be the high point of the natural resource sector modernization, since it does envision spreading the work across multiple independent teams, who will each gain specific domain knowledge of their working areas. Once the system integrator takes over the streams converge into one big river, heading for the drop-off...
 

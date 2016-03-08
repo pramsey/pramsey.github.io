@@ -12,11 +12,11 @@ comments: True
 
 If you find yourself writing a query like this:
 
-<code>... WHERE ST_Intersects(ST_Buffer(g1, r), g2)</code>
+    ... WHERE ST_Intersects(ST_Buffer(g1, r), g2)
 
 Stop. Take a cleansing breath. Do this:
 
-<code>... WHERE ST_DWithin(g1, g2, r)</code>
+    ... WHERE ST_DWithin(g1, g2, r)
 
 With the carbon emissions you save doing it the efficient way, you can afford to drive to the ice cream store for a well-deserved reward.
 

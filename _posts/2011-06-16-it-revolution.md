@@ -28,7 +28,7 @@ And here comes the cloud. Just as the PC freed the Ministries from the mainframe
 
 The revolution is coming, it'll start quiet, but it'll get ugly. Hopefully soon.
 
-**Postscript:** Michael Weisman, in a comment on my [last post](http://blog.cleverelephant.ca/2011/06/broken-enterprise-it.html) points to [an article in the Washington Post]() about superstar CIO Vivek Kundra (coincidentally, the topic of another upcoming post of mine). Says Mr. Kundra, "People have better access to information technology at their homes than they do at work, and that’s especially true in the public sector". And another great quote from the article: Asked what he typically hears from workers about gov­ernment- or corporate-provided technology, Kundra said, “It’s not a question of whether they don’t like it. They despise it.”
+**Postscript:** Michael Weisman, in a comment on my [last post](/2011/06/broken-enterprise-it.html) points to [an article in the Washington Post]() about superstar CIO Vivek Kundra (coincidentally, the topic of another upcoming post of mine). Says Mr. Kundra, "People have better access to information technology at their homes than they do at work, and that’s especially true in the public sector". And another great quote from the article: Asked what he typically hears from workers about gov­ernment- or corporate-provided technology, Kundra said, “It’s not a question of whether they don’t like it. They despise it.”
 
 Kundra seems to have hit upon a winning formula: stop saying "no" and start saying "yes". The career risk of saying "no" is now higher than the risk of saying "yes".  Welcome to the new conservatism. Give the people what they want, or things will get... unpleasant.
 

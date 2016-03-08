@@ -10,5 +10,5 @@ blogger_orig_url: http://blog.cleverelephant.ca/2009/06/mysql-vs-postgis.html
 comments: True
 ---
 
-Did I say I would publish my performance results? [I did](http://blog.cleverelephant.ca/2009/06/mysql-snark-2.html). [Here they are.](http://docs.opengeo.org/geospiel/2009/06/16/postgis-versus-mysql-spatial/)
+Did I say I would publish my performance results? [I did](/2009/06/mysql-snark-2.html). [Here they are.](http://docs.opengeo.org/geospiel/2009/06/16/postgis-versus-mysql-spatial/)
 

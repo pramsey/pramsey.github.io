@@ -16,8 +16,8 @@ comments: True
 
 To recap:
 
-* ([Day 1](http://blog.cleverelephant.ca/2014/06/tokenization-and-your-private-data-1.html)) The government is interested in using the salesforce.com [CRM](http://en.wikipedia.org/wiki/Customer_relationship_management) and other USA cloud applications, but the BC FOIPPA Act does not allow it,
-* ([Day 2](http://blog.cleverelephant.ca/2014/07/tokenization-and-your-private-data-2.html)) So the BC CIO has recommended "tokenization" systems to make personal information 100% obscured before storage in USA cloud applications.
+* ([Day 1](/2014/06/tokenization-and-your-private-data-1.html)) The government is interested in using the salesforce.com [CRM](http://en.wikipedia.org/wiki/Customer_relationship_management) and other USA cloud applications, but the BC FOIPPA Act does not allow it,
+* ([Day 2](/2014/07/tokenization-and-your-private-data-2.html)) So the BC CIO has recommended "tokenization" systems to make personal information 100% obscured before storage in USA cloud applications.
 
 **BUT**, and it's a big **BUT**, storing securely tokenized data makes cloud applications mostly useless.
 
@@ -72,6 +72,8 @@ Cryptography buffs, interested in how CipherCloud could substantiate the claims 
 
 In response, the company slapped their discussion site with a [DMCA takedown order](http://meta.crypto.stackexchange.com/questions/250/ciphercloud-dmca-notice). This is not the action of a company that is [confident in its methods](http://crypto.stackexchange.com/questions/8050/should-i-trust-ciphercloud).
 
-[Tomorrow](http://blog.cleverelephant.ca/2014/07/tokenization-and-your-private-data-4.html), I'll look at what the Freedom of Information Commissioner has said about "tokenization" and where we are going from here.
+[Tomorrow](/2014/07/tokenization-and-your-private-data-4.html), I'll look at what the Freedom of Information Commissioner has said about "tokenization" and where we are going from here.
 
-<small>[1] Yes, my equality example is very simplified for teaching purposes, and there are some papers out there on "[fully homomorphic encryption](http://en.wikipedia.org/wiki/Homomorphic_encryption)", but note that FHE is still an area of research, and in any event (see [tomorrow's](http://blog.cleverelephant.ca/2014/07/tokenization-and-your-private-data-4.html) post), wouldn't meet the BC Information Commissioner's standard for extra-territorial storage of personal information.</small>
+[1] Yes, my equality example is very simplified for teaching purposes, and there are some papers out there on "[fully homomorphic encryption](http://en.wikipedia.org/wiki/Homomorphic_encryption)", but note that FHE is still an area of research, and in any event (see [tomorrow's](/2014/07/tokenization-and-your-private-data-4.html) post), wouldn't meet the BC Information Commissioner's standard for extra-territorial storage of personal information.
+{: .note }
+

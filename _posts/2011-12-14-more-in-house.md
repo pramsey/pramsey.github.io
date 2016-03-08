@@ -15,7 +15,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2011/12/more-in-house.html
 comments: True
 ---
 
-Hot on the heels of [my post](http://blog.cleverelephant.ca/2011/12/do-it-in-house.html) about doing work in house, InfoWorld's [Deep End](http://www.infoworld.com/print/181268) column takes a look at [build-vs-buy](http://www.infoworld.com/print/181268).<br />
+Hot on the heels of [my post](/2011/12/do-it-in-house.html) about doing work in house, InfoWorld's [Deep End](http://www.infoworld.com/print/181268) column takes a look at [build-vs-buy](http://www.infoworld.com/print/181268).<br />
 
 <blockquote>Relying solely on support contracts and generic solutions is a good way to self-limit the agility and performance of any business. In short, more gurus equals less hand-wringing and stress all around.</blockquote>
 

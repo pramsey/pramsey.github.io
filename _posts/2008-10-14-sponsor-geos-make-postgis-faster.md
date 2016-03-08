@@ -16,11 +16,20 @@ Martin has also added some improvements in the area of unions for large sets of 
 
 Do you have PostGIS queries of this form:
 
-<code>SELECT [...], ST_Buffer(the_geom,1000) FROM [...] WHERE [...]</code>
+{% highlight sql %}
+SELECT ST_Buffer(the_geom,1000) 
+FROM [...] 
+WHERE [...]
+{% endhighlight %}
 
 or
 
-<code>SELECT ST_Union(the_geom) FROM mytable WHERE [...] GROUP BY [...]</code>
+{% highlight sql %}
+SELECT ST_Union(the_geom) 
+FROM mytable 
+WHERE [...] 
+GROUP BY [...]
+{% endhighlight %}
 
 If you do, then getting Martin's JTS algorithms ported to [GEOS](http://trac.osgeo.org/geos) (the C++ geometry library used by PostGIS) will make your database run faster. Lots faster. 
 

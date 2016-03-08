@@ -26,7 +26,7 @@ Using the hotel meeting facilities was less optimal.  I would really like a room
 
 **Effectiveness.** One of the interesting side effects of our community overlaps (PostGIS developers are Mapserver developers are GDAL developers are libLAS developers) is that on "talking day" people had to make some hard choices about how to self-identify. Because I was concentrating on PostGIS, I mostly missed out on the Mapserver sprint, which is too bad. 
 
-Otherwise, as I mentioned in the [day four](http://blog.cleverelephant.ca/2009/03/sprint-day-4.html) summary, it was incredibly effective. It takes a long time to reach a decision over e-mail compared to face-to-face. That can be benefit (more time to consider options without getting stampeded into a decision) but also a drawback (more time taken, period).
+Otherwise, as I mentioned in the [day four](/2009/03/sprint-day-4.html) summary, it was incredibly effective. It takes a long time to reach a decision over e-mail compared to face-to-face. That can be benefit (more time to consider options without getting stampeded into a decision) but also a drawback (more time taken, period).
 
 **Effort.** Not hard at all, a very easy event to organize, with relatively few moving parts, and lots of help from locals like [Tom Kralidis](http://www.kralidis.ca/blog/) and [Jeff McKenna](http://www.gatewaygeomatics.com/) in organizing. I'd do it again. In fact, I *will* do it again, going to start planning for the 2010 event starting this fall.
 

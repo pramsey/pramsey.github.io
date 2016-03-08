@@ -16,7 +16,7 @@ comments: True
 
 To which I can only say "Simon! Look at yourself in the mirror, man! Do you want to end up whoring yourself down on Dalgety Street to pay for your ESRI habit?"
 
-OK, metaphor is tricky and fun, because there's so many ways to approach a metaphor. And for this one, it's easy to get distracted by the "drug" side, but the point of [my metaphor](http://blog.cleverelephant.ca/2010/05/free-like.html) is not that addictive drugs put you in a subordinate relationship to **the drug** (though some do) but that they put you in a subordinate relationship to **the dealer**.
+OK, metaphor is tricky and fun, because there's so many ways to approach a metaphor. And for this one, it's easy to get distracted by the "drug" side, but the point of [my metaphor](/2010/05/free-like.html) is not that addictive drugs put you in a subordinate relationship to **the drug** (though some do) but that they put you in a subordinate relationship to **the dealer**.
 
 The reason we can all survive and function in society despite our **crippling addiction to oxygen** is because oxygen is free and plentiful.  [The pusherman](http://www.youtube.com/watch?v=oLNW9w1odK4) isn't trying to hook new customers because he believes that drugs are wonderful, he's doing it because he **wants their money**. 
 

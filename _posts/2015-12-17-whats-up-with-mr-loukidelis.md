@@ -31,7 +31,7 @@ Anyways, I wasn't even through reading the introduction to the [Loukedlis report
 
 > "Nonetheless, some observers have suggested in the wake of the investigation report that all emails should be kept." 
 
-As far as I know, I've been the only "observer" to [suggest that government emails should be archived and retained](http://blog.cleverelephant.ca/2015/10/if-i-hear-words-triple-delete-one-more.html) more-or-less in their entirety, as we expect Canadian financial institutions to do, and as the US government expects all public corporations to do. So I took this as a little bit of a throw down.  
+As far as I know, I've been the only "observer" to [suggest that government emails should be archived and retained](/2015/10/if-i-hear-words-triple-delete-one-more.html) more-or-less in their entirety, as we expect Canadian financial institutions to do, and as the US government expects all public corporations to do. So I took this as a little bit of a throw down.  
 
 David Loukidelis wants to get it on! Is it on? Oh yes, it's on, baby! 
 
@@ -97,10 +97,10 @@ It's important to weigh Mr. Loukidelis' strong **rejection** of email archiving 
 * If deleted, a copy in the trash folder may find its way to a backup file.
 * Once deleted, FOI searches for the record will start to come up empty, as individual searches on staff computers don't necessarily hit the trash folder.
 * Also, FOI searches can only find the record if run on the right staff member's computer (unlike with a government-wide archive).
-* The copy in the backups will only be retrievable if HP Advanced Solutions restores the backup file (and if you think storing 44TB of data a year is expensive, compare it to [having HPAS do really anything at all](http://blog.cleverelephant.ca/2015/07/bc-it-outsourcing-201415.html) for you).
+* The copy in the backups will only be retrievable if HP Advanced Solutions restores the backup file (and if you think storing 44TB of data a year is expensive, compare it to [having HPAS do really anything at all](/2015/07/bc-it-outsourcing-201415.html) for you).
 * The backups themselves will be purged after 13 months. At that point, the record is gone, forever.
 
-On top of this system, Mr. Loukidelis proposes some sensible tweaks and improvements, but let's be crystal clear: [the current system sucks](http://blog.cleverelephant.ca/2013/08/bc-government-email-defective-by-design.html), it's really collosally bad, and there's no excuse for that [in 2015](http://www.cbc.ca/news/politics/canada-trudeau-liberal-government-cabinet-1.3304590).
+On top of this system, Mr. Loukidelis proposes some sensible tweaks and improvements, but let's be crystal clear: [the current system sucks](/2013/08/bc-government-email-defective-by-design.html), it's really collosally bad, and there's no excuse for that [in 2015](http://www.cbc.ca/news/politics/canada-trudeau-liberal-government-cabinet-1.3304590).
 
 Mr. Loukidelis should have proposed a real improvement, but instead he wiffed, and he wiffed hard.
 

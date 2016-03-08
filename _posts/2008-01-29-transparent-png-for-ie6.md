@@ -14,10 +14,10 @@ I've been wrapping our web content in some new web designs, and one of the issue
 
 Stangely, though, while our web developer could serve pages that worked with this trick, when I implemented them on our own servers, it didn't work!  It took a while to realize that the problem wasn't how I was *implementing* the hack ("check the URLs", "are you line stripping the files?", "make sure the files aren't missing") but rather from *where I was serving* the hack.  Namely, from an old server running Apache.
 
-IE6 would not execute the hack, which was bundled in an IE-only "behavior" file, with a <code>.htc</code> extension.  It would load it, I could see that in the logs, but it never *did* anything.  The problem was that my old Apache wasn't serving up the <code>.htc</code> file with the mime-type that IE wanted on it.
+IE6 would not execute the hack, which was bundled in an IE-only "behavior" file, with a `.htc` extension.  It would load it, I could see that in the logs, but it never *did* anything.  The problem was that my old Apache wasn't serving up the `.htc` file with the mime-type that IE wanted on it.
 
-So, one quick entry in <code>/etc/mime.types</code> and an Apache restart later:
+So, one quick entry in `/etc/mime.types` and an Apache restart later:
 
-<blockquote><code>text/x-component htc</code></blockquote>
+    text/x-component htc
 
 And we're golden.

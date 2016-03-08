@@ -10,7 +10,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2007/03/more-on-spatial-types-an
 comments: True
 ---
 
-In a comment on my [wailing](http://blog.cleverelephant.ca/2007/03/some-good-news-and-some-bad-news.html) regarding ESRI's apparent decision to roll out their own PostgreSQL spatial type alongside general support for PostgreSQL in ArcSDE 9.3, Bruce Bannerman says:
+In a comment on my [wailing](/2007/03/some-good-news-and-some-bad-news.html) regarding ESRI's apparent decision to roll out their own PostgreSQL spatial type alongside general support for PostgreSQL in ArcSDE 9.3, Bruce Bannerman says:
 
 > I think that you are reading too much into this.
 >

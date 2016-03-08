@@ -16,7 +16,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2012/11/icm-and-exadata.html
 comments: True
 ---
 
-I went to an Oracle Users Group meeting yesterday afternoon, to see a presentation by [Marcin Zaranski](http://dir.gov.bc.ca/gtds.cgi?esearch=&amp;view=detailed&amp;sortBy=name&amp;for=people&amp;attribute=name&amp;matchMethod=is&amp;searchString=Marcin+Zaranski&amp;objectId=121598) on the [Integrated Case Management](http://blog.cleverelephant.ca/2012/06/more-icm.html) system's use of [Oracle ExaData](http://www.oracle.com/us/products/database/exadata/overview/index.html) hardware. 
+I went to an Oracle Users Group meeting yesterday afternoon, to see a presentation by [Marcin Zaranski](http://dir.gov.bc.ca/gtds.cgi?esearch=&amp;view=detailed&amp;sortBy=name&amp;for=people&amp;attribute=name&amp;matchMethod=is&amp;searchString=Marcin+Zaranski&amp;objectId=121598) on the [Integrated Case Management](/2012/06/more-icm.html) system's use of [Oracle ExaData](http://www.oracle.com/us/products/database/exadata/overview/index.html) hardware. 
 
 Disclosure: I went expecting to be shocked, *shocked* at yet another criminal waste of money on the part of ICM.
 

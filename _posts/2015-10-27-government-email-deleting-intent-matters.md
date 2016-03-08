@@ -32,7 +32,7 @@ Let's be clear. If the poor confused staffers were just plain vanilla innocently
 
 Moving on to remedies.
 
-We don't need to train them more (or maybe we do, but not for this). We need to establish a corporate email archive that simply takes a copy of every email, sent and received and dumps it into a searchable vault. [This is widely available technology, used by public companies and investment dealers around the world.](http://blog.cleverelephant.ca/2015/10/if-i-hear-words-triple-delete-one-more.html)
+We don't need to train them more (or maybe we do, but not for this). We need to establish a corporate email archive that simply takes a copy of every email, sent and received and dumps it into a searchable vault. [This is widely available technology, used by public companies and investment dealers around the world.](/2015/10/if-i-hear-words-triple-delete-one-more.html)
 
 Once the archive is in place, staffers can manage their email **any way they like**. They can keep a pristine, empty mail box, the way [Minister Todd Stone apparently likes to operate](http://www.cbc.ca/news/canada/british-columbia/highway-tears-emails-triple-deleted-1.3284985). Or they can keep a complete record of all their email, ready to search and aid their work. Or some happy mixture of the two. They'll be more effective public servants, and the public won't need to worry about records going down the memory hole any more.
 

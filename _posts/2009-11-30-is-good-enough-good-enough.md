@@ -22,5 +22,5 @@ The beauty of this approach to index building is that since there is no sorting 
 
 Now, since no sorting is being applied in the building of these "indexes" they could theoretically be terrible indexes. But since we're indexing GIS data, and the edges have this wonderful autocorrelation, they are actually "good enough", and obtainable in very little time.
 
-The same tricks apply to building indexes for intersection and distance in geodetic space, which I predict will be in hot demand once people experience just how computationally expensive operations on the new PostGIS 1.5 <code>geography</code> type are!
+The same tricks apply to building indexes for intersection and distance in geodetic space, which I predict will be in hot demand once people experience just how computationally expensive operations on the new PostGIS 1.5 `geography` type are!
 

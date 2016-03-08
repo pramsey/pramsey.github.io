@@ -16,13 +16,13 @@ I start with something that sounds controversial, but really is just observation
 
 I hope that the above is not actually controversial.
 
-Which brings us to a different idea, "user focused", why should I bother catering to people who are effectively invisible to the activities of the project?  There is nice [comment ](http://blog.cleverelephant.ca/2006/08/open-source-gis-on-every-desktop.html) from "step" which includes this:
+Which brings us to a different idea, "user focused", why should I bother catering to people who are effectively invisible to the activities of the project?  There is nice [comment ](/2006/08/open-source-gis-on-every-desktop.html) from "step" which includes this:
 
 > There are a lot of contributors to Firefox (myself included) who never would have become so had they not first been a user.
 
 So, there is a valid "developer focused" reason to be "user focused".  Using is a gateway drug for developers.  I find that very persuasive indeed.  Hopefully non-controversial as well.
 
-All this gets bound up and confuzzulated with my "firehose of money" comment in my [last posting](http://blog.cleverelephant.ca/2006/08/open-source-gis-on-every-desktop.html).  That comment **is** controversial, and seems to be the core item riling folks up.
+All this gets bound up and confuzzulated with my "firehose of money" comment in my [last posting](/2006/08/open-source-gis-on-every-desktop.html).  That comment **is** controversial, and seems to be the core item riling folks up.
 
 My belief (and I am sure there are plenty of counterexamples to prove me wrong, but then, I am not trying to postulate a law of nature here) is that large, complex, user-facing applications (like, say, office suites or web browsers or [GIS desktops](http://udig.refractions.net)) are sufficiently weighty that incubating them, getting them from a "concept" level of quality to a "user focused" level of quality, requires a large initial financial commitment.  Or a large initial amount of time (Ooop, you caught me! I'm hedging! Creating some wriggle room!).  A firehouse of money, or a patient drip drip drip of a rivulet of time.
 

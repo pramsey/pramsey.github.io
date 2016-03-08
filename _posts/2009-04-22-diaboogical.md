@@ -10,7 +10,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2009/04/diaboogical.html
 comments: True
 ---
 
-Someone, please call the [FTC](http://www.ftc.gov/bc/index.shtml)! I may [post my blog](http://blog.cleverelephant.ca/) on Google, store my [mail and calendar and notes](https://www.google.com/a/) on Google, teach people how to [make maps](http://maps.google.com/) using Google, but even I have my limits.
+Someone, please call the [FTC](http://www.ftc.gov/bc/index.shtml)! I may [post my blog](/) on Google, store my [mail and calendar and notes](https://www.google.com/a/) on Google, teach people how to [make maps](http://maps.google.com/) using Google, but even I have my limits.
 
 The [Google Profile](http://www.google.com/profiles/) leverages Google *search monopoly* (you listening, FTC?!?!) into a you-must-join social network. I like [LinkedIn](http://www.linkedin.com/pub/0/134/717) as a professional social network, but this is going to blow all that out of the water. Want to be found? To control your professional image? Yes, having a decent [personal site](http://www.cleverelephant.ca/) will still be important, but now the starting point for a personal search ([Google Search](http://www.google.com/search?q=%22paul+ramsey%22)) is also the end point ([Google Profile](http://www.google.com/profiles/104603475669025566195)).
 

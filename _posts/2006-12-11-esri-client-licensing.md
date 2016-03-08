@@ -20,4 +20,4 @@ Those of us living by the spirit of the law need to go one level deeper.  We hav
 
 Looks like black-letter law to me.
 
-Like Oracle, ESRI is missing out on an opportunity to grow an ecosystem of dependent open source client applications.  As Howard Butler [points out in a comment](http://blog.cleverelephant.ca/2006/12/not-so-free-client-libraries.html#comments), proprietary companies like LizardTech let open source projects ship their SDK clients with their builds.  It's called market building.
+Like Oracle, ESRI is missing out on an opportunity to grow an ecosystem of dependent open source client applications.  As Howard Butler [points out in a comment](/2006/12/not-so-free-client-libraries.html), proprietary companies like LizardTech let open source projects ship their SDK clients with their builds.  It's called market building.

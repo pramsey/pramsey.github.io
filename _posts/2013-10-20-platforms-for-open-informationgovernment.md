@@ -15,7 +15,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2013/10/platforms-for-open-infor
 comments: True
 ---
 
-<p>David Eaves has posted a great talk which covers in generality the point I was circling around in specificity in my post this summer on [government email systems](http://blog.cleverelephant.ca/2013/08/bc-government-email-defective-by-design.html): the "access to information" community, both within and outside government, is still partying like it's 1993.  
+<p>David Eaves has posted a great talk which covers in generality the point I was circling around in specificity in my post this summer on [government email systems](/2013/08/bc-government-email-defective-by-design.html): the "access to information" community, both within and outside government, is still partying like it's 1993.  
 
 I've got an open FOI request right now for a bunch of data, and the information access officer is scratching her chin and wondering "hm, how are we going to deliver that to you". The problem being their process is optimized around delivering documents, in PDF, via e-mail. (An improvement over the original system--documents, on paper, via the post--but still basically the original process from 1993.) 
 

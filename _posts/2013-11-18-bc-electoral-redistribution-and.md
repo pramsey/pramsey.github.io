@@ -73,7 +73,7 @@ The electoral district boundaries of BC are [available online as GIS files](http
 
 Similarly, the StatsCan [boundary files](http://www12.statcan.gc.ca/census-recensement/2011/geo/ref/att-eng.cfm) can be downloaded, and the attribute file giving the [census 2011 population in each block](http://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2011-eng.cfm) is also available. There are about 500-800 blocks in each electoral district, making for a very fine-grained profile of where people are concentrated in each district. 
 
-I loaded the GIS files into a [PostGIS](http://postgis.net) spatial database for analysis. Once the electoral districts (<code>ed</code>) and dissemination blocks (<code>db</code>) were loaded, calculating the electoral district population in PostGIS was a simple spatial join query:
+I loaded the GIS files into a [PostGIS](http://postgis.net) spatial database for analysis. Once the electoral districts (`ed`) and dissemination blocks (`db`) were loaded, calculating the electoral district population in PostGIS was a simple spatial join query:
 
 {% highlight sql %}
 SELECT ed.edabbr, ed.edname, sum(db.popn) as popn

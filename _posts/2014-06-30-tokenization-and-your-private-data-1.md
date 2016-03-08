@@ -17,11 +17,11 @@ comments: True
 
 <img border="0" src="http://4.bp.blogspot.com/-_hB-4CtsB9k/U6XIyqPXj3I/AAAAAAAAALs/VLGBVssK1_Y/s320/dolce-vita.jpg" style="float:left; padding-right: 10px; padding-bottom: 10px;" />
 
-One morning this winter, while I was sipping my coffee at the cafe below our office, a well-dressed man and woman sat down at the table next to me, and started talking. Turns out, they were my favourite kind of people &mdash; IT people! They were going to bid on the [Integrated Decision Making](http://blog.cleverelephant.ca/2013/07/natural-resource-sector-goes-over.html) project, and were talking about my favourite systems integrator, [Deloitte](http://www.deloitte.com). 
+One morning this winter, while I was sipping my coffee at the cafe below our office, a well-dressed man and woman sat down at the table next to me, and started talking. Turns out, they were my favourite kind of people &mdash; IT people! They were going to bid on the [Integrated Decision Making](/2013/07/natural-resource-sector-goes-over.html) project, and were talking about my favourite systems integrator, [Deloitte](http://www.deloitte.com). 
 
-"Is Deloitte trying to bring [ICM](http://blog.cleverelephant.ca/2012/06/more-icm.html) and [Siebel](http://www.oracle.com/us/products/applications/siebel/overview/index.html) into this project?" she asked.<br/>"No, not anymore" he replied "now they are really pushing [SalesForce.com](https://www.salesforce.com)." 
+"Is Deloitte trying to bring [ICM](/2012/06/more-icm.html) and [Siebel](http://www.oracle.com/us/products/applications/siebel/overview/index.html) into this project?" she asked.<br/>"No, not anymore" he replied "now they are really pushing [SalesForce.com](https://www.salesforce.com)." 
 
-Now this was interesting! Chastened by their [failure to shoehorn social services case management](http://blog.cleverelephant.ca/2012/06/more-icm.html) into a [CRM](http://en.wikipedia.org/wiki/Customer_relationship_management), Deloitte has adroitly pivoted and is trying to shoehorn natural resource permitting into ... a [cloud CRM](https://www.salesforce.com).
+Now this was interesting! Chastened by their [failure to shoehorn social services case management](/2012/06/more-icm.html) into a [CRM](http://en.wikipedia.org/wiki/Customer_relationship_management), Deloitte has adroitly pivoted and is trying to shoehorn natural resource permitting into ... a [cloud CRM](https://www.salesforce.com).
 
 (I should parenthetically point out that, unsurprisingly, the **SALES** people in our company find **SALES**force.com very useful in coordinating and tracking their **SALES** activities.) 
 
@@ -33,4 +33,4 @@ And there's another wrinkle. SF.com is a US-based cloud service provider, and ou
 
 What is an ambitious system integrator with a hammer suitable for every nail to do? Not change hammers! That would be silly. Far better to try and get an exemption or figure out a workaround. Workarounds add nice juicy extra complexity to the hammer, which can only help billable hours.
 
-More on the workaround, [tomorrow](http://blog.cleverelephant.ca/2014/07/tokenization-and-your-private-data-2.html).
+More on the workaround, [tomorrow](/2014/07/tokenization-and-your-private-data-2.html).

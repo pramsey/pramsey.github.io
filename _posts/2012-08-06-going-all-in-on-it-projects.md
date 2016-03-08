@@ -12,7 +12,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2012/08/going-all-in-on-it-proje
 comments: True
 ---
 
-I was thinking about IT project failure this weekend (OK, actually I was thinking about the [ICM project](http://blog.cleverelephant.ca/2012/06/more-icm.html), but you can see how I got there) and did a little Googling around on failure rates.
+I was thinking about IT project failure this weekend (OK, actually I was thinking about the [ICM project](/2012/06/more-icm.html), but you can see how I got there) and did a little Googling around on failure rates.
 
 The estimated range of failure rates is surprising large, from a [high of 68%](http://www.zdnet.com/blog/projectfailures/study-68-percent-of-it-projects-fail/1175) down to a [lower bound around 30%](http://www.zdnet.com/blog/projectfailures/new-it-project-failure-metrics-is-standish-wrong/513). A lot of the variability is definitional (what is a "failure", after all?) and some of it seems to be methodological (who are you asking, and what are you asking them about?). However the recent studies seem to cluster more around the lower range.
 
@@ -20,7 +20,7 @@ The web references are all pretty confident that **poor requirements gathering**
 
 Sadly, they don't find that there is an optimal small-team size that brings down failure rates to what might be considered an acceptable level: even small-team projects fail at a rate of at best 25%.
 
-So this brings me back to my weekend musings: suppose you have a capital budget of, say, [$180M](http://blog.cleverelephant.ca/2012/05/take-smaller-bites.html). Even assuming all projects of all sizes fail at the same rates (and as we've seen, they don't) **if you bet all your money on a single project there's at least a 25% chance that you'll lose 100% it in a failure.** 
+So this brings me back to my weekend musings: suppose you have a capital budget of, say, [$180M](/2012/05/take-smaller-bites.html). Even assuming all projects of all sizes fail at the same rates (and as we've seen, they don't) **if you bet all your money on a single project there's at least a 25% chance that you'll lose 100% it in a failure.** 
 
 On the other hand, if you split your money into multiple smaller independent projects (and smaller teams) the impact of any one failure goes way down. Rather than losing your whole capital budget (and, we hope, your job) in a massive IT meltdown, you lose a few of your sub-projects, about 25% of your total budget.
 

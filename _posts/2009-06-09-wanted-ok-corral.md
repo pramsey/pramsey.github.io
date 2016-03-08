@@ -18,7 +18,12 @@ For [2009](http://2009.foss4g.org), we hope to continue the MapServer vs Geoserv
 
 However, right now we are stuck trying to find a location for our gunfight &ndash; we need an OK Corral.  Our preferred corral would have the following characteristics:
 
-<ul><li>One or more dual-core processors<li>4Gb of more of RAM<li>Centos or RHEL<li>Remote ssh access for participants<li>Root access or sudo for participants<li>Not virtualized</ul>
+* One or more dual-core processors
+* 4Gb of more of RAM
+* Centos or RHEL
+* Remote ssh access for participants
+* Root access or sudo for participants
+* Not virtualized
 
 In addition, we will need a second server on the same network segment for generating load (would still need remote access, but would not need a beefy machine).  Due to the nature of the participants (global) and the timelines (several months) we would need sole use of the corral until the testing is complete in September.
 

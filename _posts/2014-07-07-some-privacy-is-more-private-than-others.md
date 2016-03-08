@@ -15,13 +15,13 @@ blogger_orig_url: http://blog.cleverelephant.ca/2014/07/some-privacy-is-more-pri
 comments: True
 ---
 
-One of the things that struck me in researching the [long and tortuous story of how the government is trying to move British Columbian's private data into off-shore cloud computing services](http://blog.cleverelephant.ca/2014/06/tokenization-and-your-private-data-1.html) was the odd choice of the [pilot project](https://www.oipc.bc.ca/public-comments/1649) for the whole scheme: **STADD**.
+One of the things that struck me in researching the [long and tortuous story of how the government is trying to move British Columbian's private data into off-shore cloud computing services](/2014/06/tokenization-and-your-private-data-1.html) was the odd choice of the [pilot project](https://www.oipc.bc.ca/public-comments/1649) for the whole scheme: **STADD**.
 
 What's STADD? It's "**Services to Adults with Developmental Disabilities**".
 
 <div class="separator" style="clear: both; text-align: center;">[<img border="0" src="http://1.bp.blogspot.com/-Ng33Rhf5Yec/U7sT3rhJLeI/AAAAAAAAAMc/SvfCSEIcf7g/s320/68620.jpg" />](http://1.bp.blogspot.com/-Ng33Rhf5Yec/U7sT3rhJLeI/AAAAAAAAAMc/SvfCSEIcf7g/s1600/68620.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;)</div>
 
-That's right, adults with developmental disabilities are the subjects of the BC government's experiment to see "hmm, I wonder if we can offshore private data [using fancy tokenization software](http://blog.cleverelephant.ca/2014/07/tokenization-and-your-private-data-3.html)".
+That's right, adults with developmental disabilities are the subjects of the BC government's experiment to see "hmm, I wonder if we can offshore private data [using fancy tokenization software](/2014/07/tokenization-and-your-private-data-3.html)".
 
 Let me put some icing on the cake.
 

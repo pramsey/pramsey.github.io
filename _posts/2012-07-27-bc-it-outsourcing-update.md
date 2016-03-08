@@ -23,10 +23,10 @@ Of course, there are always winners and losers, and the surprise *loser* this ye
 
 [<img src="https://docs.google.com/a/cleverelephant.ca/spreadsheet/oimg?key=0AsM7ePw4lyCDdEpEUXZlZWNSRXZtQXZmeVNVajhvRmc&amp;oid=2&amp;zx=z7ilmbh7l6ap" width="550" />](https://docs.google.com/a/cleverelephant.ca/spreadsheet/oimg?key=0AsM7ePw4lyCDdEpEUXZlZWNSRXZtQXZmeVNVajhvRmc&amp;oid=2&amp;zx=z7ilmbh7l6ap)
 
-Also notable this fiscal year are the rise of Deloitte (to $37M) and local body-shoppers TP Systems ($9M) and Quartech ($13M) on the strength of the ongoing [ICM debacle](http://blog.cleverelephant.ca/2012/06/more-icm.html) (in related news, the BC Children's Advocate is the latest to [take a dump on ICM](http://www.timescolonist.com/technology/Computer+flaws+putting+children+risk+watchdog/6964011/story.html)).
+Also notable this fiscal year are the rise of Deloitte (to $37M) and local body-shoppers TP Systems ($9M) and Quartech ($13M) on the strength of the ongoing [ICM debacle](/2012/06/more-icm.html) (in related news, the BC Children's Advocate is the latest to [take a dump on ICM](http://www.timescolonist.com/technology/Computer+flaws+putting+children+risk+watchdog/6964011/story.html)).
 
 Thanks to all our contestants, I know you'll all be back next year!
 
-<small>Obscure end material: One surprise entry in the larger IT spends is "Oracle Microsystems" at $24M. What's that? Looks like the remains of "Sun Microsystems", since their entry is gone. It also leads me to wonder, why are we still dropping tens of millions of bucks on Sun hardware at this late date in the enterprise computing era? Guys, it's called the "cloud", look it up.</small>
+Obscure end material: One surprise entry in the larger IT spends is "Oracle Microsystems" at $24M. What's that? Looks like the remains of "Sun Microsystems", since their entry is gone. It also leads me to wonder, why are we still dropping tens of millions of bucks on Sun hardware at this late date in the enterprise computing era? Guys, it's called the "cloud", look it up.
+{: .note }
 
-<br />

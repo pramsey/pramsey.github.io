@@ -31,7 +31,7 @@ Let's put that in perspective, shall we?
 * BC education spending increased **2.6%** over last year.
 * BC health care spending increased **2.1%** over last year.
 
-I [said it last year](http://blog.cleverelephant.ca/2013/07/bc-it-outsourcing-201213.html), and I'll say it again this year: suck on that, children and sick people! Who's the boss? IT people are the boss!
+I [said it last year](/2013/07/bc-it-outsourcing-201213.html), and I'll say it again this year: suck on that, children and sick people! Who's the boss? IT people are the boss!
 
 Once again, in the individual category, HP Advanced Solutions reigns supreme, billing out **$138,407,858**, a 6.8% gain. HP's growth is slowing though and my favourite systems integrator, Deloitte, just closed a monster year with **51%** year-over-year billings growth and a take of **$54,294,507**. Look out HP, someone hungry is on your heals!
 
