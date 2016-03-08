@@ -19,4 +19,3 @@ I've given this talk a number of times over the past 18 months (Minnesota, Illin
 
 <iframe width="530" height="298" src="http://www.youtube.com/embed/jUgiG6eaYtI" frameborder="0" allowfullscreen></iframe>
 
-&nbsp;

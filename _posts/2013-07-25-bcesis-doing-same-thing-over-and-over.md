@@ -21,21 +21,21 @@ With another COTS system. Yay.
 
 To be managed and run by the same vendor running the *current* COTS system. Yay.
 
-I think that MLA Rob Fleming had a valid point when he asked the Minister of Education during [Question Period](http://www.leg.bc.ca/hansard/40th1st/20130724pm-House-Blues.htm) (I assume with some edge in his voice): <br />
+I think that MLA Rob Fleming had a valid point when he asked the Minister of Education during [Question Period](http://www.leg.bc.ca/hansard/40th1st/20130724pm-House-Blues.htm) (I assume with some edge in his voice): 
 
-<blockquote>Given this government's wasteful track record on IT projects, how can the minister assure British Columbians that his government won't be wasting $100 million more of their tax dollars before he signs a new 12-year deal? </blockquote>
+> Given this government's wasteful track record on IT projects, how can the minister assure British Columbians that his government won't be wasting $100 million more of their tax dollars before he signs a new 12-year deal?
 
 But there's a reason it's called "Question Period" and not "Answer Period". So the Minister chose **not** to detail a management regime which will guard taxpayers against another failed implementation, **nor** a multi-vendor strategy to hedge bets against the failure of one vendor, **nor** a collaboration with another province to share in implementation and customization costs, **nor** any assurance at all that the next round will come off any different from the previous.. 
 
 Curiously, the tactic the Minister chose was to *defend the current iteration of BCeSIS*! 
 
-It's "one of the most robust student information systems in the country", "there were challenges with the new technology" but "we have learned from that", and finally: <br />
+It's "one of the most robust student information systems in the country", "there were challenges with the new technology" but "we have learned from that", and finally: 
 
-<blockquote>I'll also remind the member that the ministry engaged an independent report. That report from Gartner, who did the report, said that **we have a good, stable student information system that's meeting the needs of the school districts in the province**. </blockquote>
+> I'll also remind the member that the ministry engaged an independent report. That report from Gartner, who did the report, said that **we have a good, stable student information system that's meeting the needs of the school districts in the province**.
 
-Oh, um, [no](http://www.bced.gov.bc.ca/pubs/review_of_student_information_systems.pdf). The Gartner report is pretty clear, right in the executive summary: <br />
+Oh, um, [no](http://www.bced.gov.bc.ca/pubs/review_of_student_information_systems.pdf). The Gartner report is pretty clear, right in the executive summary:
 
-<blockquote>The alternative assessment concluded that BCeSIS, as currently deployed, is **not meeting the business, technical or operational needs of BC and is not a viable future alternative **</blockquote>
+> The alternative assessment concluded that BCeSIS, as currently deployed, is **not meeting the business, technical or operational needs of BC and is not a viable future alternative **
 
 At a cost of $100M, that's a "colossal failure" in my or any other thinking person's books. 
 

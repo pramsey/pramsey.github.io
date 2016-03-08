@@ -18,4 +18,3 @@ Like bicycles for fishes and tuxedos for monkeys, web architectures for SQL don'
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/PwVRi37qXn8" frameborder="0" allowfullscreen></iframe>
 
-<br />&nbsp;

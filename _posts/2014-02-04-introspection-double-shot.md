@@ -15,7 +15,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2014/02/introspection-double-sho
 comments: True
 ---
 
-<p>Davy Stevenson has a [great post](http://davystevenson.com/2014/02/03/how-to-accidentally-be-a-jerk-on-twitter.html) (everyone should write more, more often) on a small Twitter storm she precipitated and that I participated in. Like all sound-and-fury-signifying-nothing it was mostly about misunderstandings, so I'd like to add my own information about mental state to help clarify where I come from as a maintainer. 
+Davy Stevenson has a [great post](http://davystevenson.com/2014/02/03/how-to-accidentally-be-a-jerk-on-twitter.html) (everyone should write more, more often) on a small Twitter storm she precipitated and that I participated in. Like all sound-and-fury-signifying-nothing it was mostly about misunderstandings, so I'd like to add my own information about mental state to help clarify where I come from as a maintainer. 
 
 First, PostGIS is full of shortcomings. Have a look at the (never shrinking) [ticket backlog](http://trac.osgeo.org/postgis/report/3). Sure, a lot of those are feature ideas and stuff in "future", but there's also lots of bugs. Fortunately, most of those bugs affect almost nobody, and are easily avoided (so people report them, then avoid them). 
 
@@ -23,7 +23,15 @@ When we first come up an a "major" release (2.0 to 2.1 for example) I expect lot
 
 My expectation is that the relative severity of bugs reported decreases as the time from initial release increases. Basically, people will always be finding bugs, but they will be for narrower and narrower user cases, data situations that come up extremely infrequently. 
 
-[The bug](http://trac.osgeo.org/postgis/ticket/2556) Davy's team ran across broke my usual rules. It took quite a while for users to find and report, and yet was broad enough to affect moderately common use cases. However, is was also something the vast majority of PostGIS users would not run across: </p><ul><li>If you were using the Geography type, **and**</li><li>If you were storing polygons in your Geography column, **and**</li><li>If you queried your column with another Polygon, **and**</li><li>If the query polygon was fully contained in one of the column polygons, **then**</li><li>The distance reported between the polygons would be non-zero (when it should be zero!)</li></ul><p>It happens! It happened to Davy's team, and it happened to other folks (the ones who originally filed [#2556](http://trac.osgeo.org/postgis/ticket/2556)) &mdash; I was actually working on the bug on the plane a couple weeks before. It was a tricky one to both find and to diagnose, because it was related to caching behaviour: you could not reproduce it using a query that returned a single record, it had to return more than one record.  
+[The bug](http://trac.osgeo.org/postgis/ticket/2556) Davy's team ran across broke my usual rules. It took quite a while for users to find and report, and yet was broad enough to affect moderately common use cases. However, is was also something the vast majority of PostGIS users would not run across:
+
+* If you were using the Geography type, **and**
+* If you were storing polygons in your Geography column, **and**
+* If you queried your column with another Polygon, **and**
+* If the query polygon was fully contained in one of the column polygons, **then**
+* The distance reported between the polygons would be non-zero (when it should be zero!)
+
+It happens! It happened to Davy's team, and it happened to other folks (the ones who originally filed [#2556](http://trac.osgeo.org/postgis/ticket/2556)) &mdash; I was actually working on the bug on the plane a couple weeks before. It was a tricky one to both find and to diagnose, because it was related to caching behaviour: you could not reproduce it using a query that returned a single record, it had to return more than one record.  
 
 If I was prickly about the report from Davy: 
 
@@ -41,4 +49,4 @@ That's where I'm coming from.
 
 I can also empathize with Jerry and others who ran across this issue. It's slippery, it would eat up a non-trivial amount of time isolating. Having had the time eaten, a normal emotional response would be "goddamn it, PostGIS, you've screwed me, I won't let you screw others!" Also, having eaten many of your personal hours, the bug would appear **big** not narrow, worthy of a broadcast condemnation, not a modest warning. 
 
-Anyways, that's the tempest and teapot. I'm going to finish my morning by putting this case into the regression suite, so it'll never recur again. That's the best part of fixing a bug in PostGIS, locking the door behind you so it can never come out again.</p>
+Anyways, that's the tempest and teapot. I'm going to finish my morning by putting this case into the regression suite, so it'll never recur again. That's the best part of fixing a bug in PostGIS, locking the door behind you so it can never come out again.

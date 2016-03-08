@@ -14,4 +14,10 @@ One of the things I told the rest of the committee when starting organizing for 
 
 So I lobbied hard to shrink down a little, and got folks to agree to a presentation program that was "only" 5 tracks wide.  But then the Call for Workshops was flooded, and we couldn't bear to say no to 80% of the submissions, so we ended up tacking two labs tracks onto the side of the main program, and voila, we are back at seven tracks wide.
 
-All this means that there are no easy decisions in figuring out what parts of FOSS4G to see this year, sorry, I tried!  Here's the tentative schedule grid:<ul><li>[Monday, September 24](http://2007.foss4g.org/program_overview/monday/)</li><li>[Tuesday, September 25](http://2007.foss4g.org/program_overview/tuesday/)</li><li>[Wednesday, September 26](http://2007.foss4g.org/program_overview/wednesday/)</li><li>[Thursday, September 27](http://2007.foss4g.org/program_overview/thursday/)</li></ul>
+All this means that there are no easy decisions in figuring out what parts of FOSS4G to see this year, sorry, I tried!  Here's the tentative schedule grid:
+
+* [Monday, September 24](http://2007.foss4g.org/program_overview/monday/)
+* [Tuesday, September 25](http://2007.foss4g.org/program_overview/tuesday/)
+* [Wednesday, September 26](http://2007.foss4g.org/program_overview/wednesday/)
+* [Thursday, September 27](http://2007.foss4g.org/program_overview/thursday/)
+

@@ -12,7 +12,7 @@ comments: True
 
 It has been a bit over ten years since I started Refractions Research, and in that time most everything that has happened has been unanticipated.  The best laid plans rarely yielded what was expected, though they often brought good surprises.
 
-For a founder, one of the side effects of success in a company is that your role is constantly changing. In a company of two, your job is radically different than in a company of twenty. This is both good, in that it provides lots of variety, and bad, in that it can result in being &ldquo;promoted&rdquo; into a role that might not be a good fit. 
+For a founder, one of the side effects of success in a company is that your role is constantly changing. In a company of two, your job is radically different than in a company of twenty. This is both good, in that it provides lots of variety, and bad, in that it can result in being  "promoted " into a role that might not be a good fit. 
 
 And so it is with me. I have moved from being someone who works on software and problem solving to someone who pays other people to work on software and problem solving. This has not, as it turns out, been a recipe for job satisfaction in the long run. 
 
@@ -20,7 +20,7 @@ Back when I had no wife/house/child/child I was able to balance out my role by j
 
 But that doesn't work any more. I don't feel like I have the leadership focus I used to, nor do I get to spend enough time on technology and problem solving. Since I am doing neither job well right now, I am going to pick the one I like more, and do that for a bit.
 
-So I have decided to make a big change. I am going to leave the company I started, and return whence I came, to independent consulting. Solo consulting is tricky, because the work is &ldquo;gappy&rdquo;, but it has a good rhythm: in the gaps, you learn new things; in the peaks, you apply those things.
+So I have decided to make a big change. I am going to leave the company I started, and return whence I came, to independent consulting. Solo consulting is tricky, because the work is  "gappy ", but it has a good rhythm: in the gaps, you learn new things; in the peaks, you apply those things.
 
 I don't know what other opportunities might come along (best laid plans and all) but in the meanwhile some quality time with my computer and some concrete problems sounds great. I am looking forward to getting my hands dirty in the guts of the many open source projects I have thus far only experienced as a user.
 

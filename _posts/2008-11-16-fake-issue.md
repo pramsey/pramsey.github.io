@@ -30,7 +30,7 @@ Unless they are saying they think President Obama doesn't have the self-control 
 
 Heck, the most effective argument against email in the New York Times article came near the end. Says Diana Owen, of the Georgetown American Studies program:
 
-<blockquote>It’s a time burner. It might be easier for him to say, &ldquo;I can’t be on e-mail.&rdquo; </blockquote>
+<blockquote>It’s a time burner. It might be easier for him to say,  "I can’t be on e-mail. " </blockquote>
 
  Truer words were never spoken. Could be worse though, he could be blogger.
 

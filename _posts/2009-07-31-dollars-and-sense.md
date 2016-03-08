@@ -10,4 +10,4 @@ blogger_orig_url: http://blog.cleverelephant.ca/2009/07/dollars-and-sense.html
 comments: True
 ---
 
-"GIS in XML" blog has a great [detailed posting](http://www.cadmaps.com/gisblog/?p=76) comparing costs between proprietary and open source geostacks. With numbers and everything!</br>&nbsp;
+"GIS in XML" blog has a great [detailed posting](http://www.cadmaps.com/gisblog/?p=76) comparing costs between proprietary and open source geostacks. With numbers and everything!

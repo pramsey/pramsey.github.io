@@ -16,6 +16,6 @@ blogger_orig_url: http://blog.cleverelephant.ca/2014/05/open-source-and-spatial-
 comments: True
 ---
 
-<p>Just to balance out the politics, here's a nice intro talk I did for GIS folks at URISA earlier this spring. What's open source, how does it work on the web, who is using it? In 20 easy minutes.</p> <iframe src="//player.vimeo.com/video/92522557" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p>[Open Source and the Spatial Web](http://vimeo.com/92522557) from [Boundless](http://vimeo.com/user15991467) on [Vimeo](https://vimeo.com).
+Just to balance out the politics, here's a nice intro talk I did for GIS folks at URISA earlier this spring. What's open source, how does it work on the web, who is using it? In 20 easy minutes.
 
-&nbsp;</p>
+<iframe src="//player.vimeo.com/video/92522557" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

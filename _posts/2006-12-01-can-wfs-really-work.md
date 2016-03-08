@@ -13,13 +13,28 @@ blogger_orig_url: http://blog.cleverelephant.ca/2006/12/can-wfs-really-work.html
 comments: True
 ---
 
-Of all the standards that have come out of the [OGC](http://www.opengeospatial.org) in the last few years, few has had the promise of the [Web Feature Server](http://www.opengeospatial.org/standards/wfs) standard.<ul><li>View and edit features over the web<br /><li>Client independent<br /><li>Server independent<br /><li>Format independent<br /><li>Database independent<br /></ul>What is not to like? Nothing!
+Of all the standards that have come out of the [OGC](http://www.opengeospatial.org) in the last few years, few has had the promise of the [Web Feature Server](http://www.opengeospatial.org/standards/wfs) standard.
+
+* View and edit features over the web
+* Client independent
+* Server independent
+* Format independent
+* Database independent
+
+What is not to like? Nothing!
 
 One of the promises of [uDig](http://udig.refractions.net) is to be an "internet GIS", by which we mean a thick client system capable of consuming and integrating web services in a transparent and low-friction way.  The GIS equivalent of a web browser.  Web browsers use HTTP and HTML and CSS and Javascript to create a rich and compelling client/server interaction, regardless of the client/server pairing.  An internet GIS should use WMS and WFS and SLD to do the same thing, independent of vendor.
 
 So, we have been working long and hard on a true WFS client, one that can connect to **any** WFS and read/write the features therein without modification.  And here's the thing -- it is **waaaaaaay** harder than it should be.
 
-Here is why:<ol><li>First off, generic GML support is hard.  Every WFS exposes its own schema which in turn embeds GML, so a "GML parser" is actually a "generic XML parser that happens to also notice embedded GML", and the client has to be able to turn whatever odd feature collection the server exposes into its internal model to actually render and process it.  However, it is only a hard problem, not an impossible one, and we have solved it.<br /><li>The solution to supporting generic GML is to read the schema advertised by the WFS, and use that to build a parser for the document on the fly.  And this is where things get even harder: lots of servers advertise schemas that differ from the instance documents they actually produce.<ul><br /><li>The difference between schema and instance probably traces back to point #1 above. Because GML and XML schema are "hard", the developers make minor mistakes, and because there have not been generic clients around to heavily test the servers, the mistakes get out into the wild as deployed services.<br /></ul></ol>So, once you have cracked the GML parsing problem (congratulations!) you run headlong into the next problem. Many of the servers have bugs and don't obey the schema/instance contract -- they do not serve up the GML that they say they do.
+Here is why:
+
+* First off, generic GML support is hard.  Every WFS exposes its own schema which in turn embeds GML, so a "GML parser" is actually a "generic XML parser that happens to also notice embedded GML", and the client has to be able to turn whatever odd feature collection the server exposes into its internal model to actually render and process it.  However, it is only a hard problem, not an impossible one, and we have solved it.
+* The solution to supporting generic GML is to read the schema advertised by the WFS, and use that to build a parser for the document on the fly.  And this is where things get even harder: lots of servers advertise schemas that differ from the instance documents they actually produce.
+
+    * The difference between schema and instance probably traces back to point #1 above. Because GML and XML schema are "hard", the developers make minor mistakes, and because there have not been generic clients around to heavily test the servers, the mistakes get out into the wild as deployed services.
+
+So, once you have cracked the GML parsing problem (congratulations!) you run headlong into the next problem. Many of the servers have bugs and don't obey the schema/instance contract -- they do not serve up the GML that they say they do.
 
 And now, if you aren't just building a university research project, you have a difficult decision. If you want to interoperate with the existing servers, you have to code exceptions around all the previously-deployed bugs.  
 

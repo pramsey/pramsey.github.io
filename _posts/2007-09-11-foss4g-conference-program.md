@@ -14,4 +14,16 @@ The conference program has been coming together, piece by piece, over the past s
 
 <img src="http://2007.foss4g.org/images/header_logo.gif" alt="FOSS4G 2007" />
 
-Apart from the pretty pictures and nice formatting, the content has already been available for a while:<ul><li>[Monday Schedule](http://2007.foss4g.org/program_overview/monday/)<li>[Tuesday Schedule](http://2007.foss4g.org/program_overview/tuesday/)<li>[Wednesday Schedule](http://2007.foss4g.org/program_overview/wednesday/)<li>[Thursday Schedule](http://2007.foss4g.org/program_overview/thursday/)<li>[Friday Schedule](http://2007.foss4g.org/program_overview/friday/)<li>[Demo Theatre Schedule](http://2007.foss4g.org/exhibition/demotheatre/)<li>[Special Events](http://2007.foss4g.org/events/)<li>[Opening Plenary](http://2007.foss4g.org/plenaries/#opening)<li>[Closing Plenary](http://2007.foss4g.org/plenaries/#closing)</ul>But it's nice to have it all in a handy book now!  See you all in two weeks!
+Apart from the pretty pictures and nice formatting, the content has already been available for a while:
+
+* [Monday Schedule](http://2007.foss4g.org/program_overview/monday/)
+* [Tuesday Schedule](http://2007.foss4g.org/program_overview/tuesday/)
+* [Wednesday Schedule](http://2007.foss4g.org/program_overview/wednesday/)
+* [Thursday Schedule](http://2007.foss4g.org/program_overview/thursday/)
+* [Friday Schedule](http://2007.foss4g.org/program_overview/friday/)
+* [Demo Theatre Schedule](http://2007.foss4g.org/exhibition/demotheatre/)
+* [Special Events](http://2007.foss4g.org/events/)
+* [Opening Plenary](http://2007.foss4g.org/plenaries/#opening)
+* [Closing Plenary](http://2007.foss4g.org/plenaries/#closing)
+
+But it's nice to have it all in a handy book now!  See you all in two weeks!

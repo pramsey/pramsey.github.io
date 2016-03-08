@@ -10,7 +10,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2009/01/data-for-decision.html
 comments: True
 ---
 
-I have to blog this so the links are somewhere I can find them again! From Anselm Hook on Geowankers, links to the National Film Board of Canada 1968 short on GIS, &ldquo;[Data For Decision](http://www3.nfb.ca/collection/films/fiche/?id=18208)&rdquo;, parts [[1]](http://www.youtube.com/watch?v=eAFG6aQTwPk), [[2]](http://www.youtube.com/watch?v=3kFYsOHgDSo) and [[3]](http://www.youtube.com/watch?v=ryWcq7Dv4jE).
+I have to blog this so the links are somewhere I can find them again! From Anselm Hook on Geowankers, links to the National Film Board of Canada 1968 short on GIS,  "[Data For Decision](http://www3.nfb.ca/collection/films/fiche/?id=18208) ", parts [[1]](http://www.youtube.com/watch?v=eAFG6aQTwPk), [[2]](http://www.youtube.com/watch?v=3kFYsOHgDSo) and [[3]](http://www.youtube.com/watch?v=ryWcq7Dv4jE).
 
 Beep, beep, boop, boop, boop!
 

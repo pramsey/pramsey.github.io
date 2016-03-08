@@ -16,6 +16,6 @@ James Fee's [latest posting](http://www.spatiallyadjusted.com/2005/12/14/yea-im-
 
 Wow!  Go back to Russia, James, you commie freak!
 
-This is a little off the deep end for brand loyalty. After all, James and the other people commenting on his blog are expressing dissatisfaction with a commercial service they <span style="font-style: italic;">paid a lot of money for</span>.  They aren't bitching about their politicians, or the weather.
+This is a little off the deep end for brand loyalty. After all, James and the other people commenting on his blog are expressing dissatisfaction with a commercial service they *paid a lot of money for*.  They aren't bitching about their politicians, or the weather.
 
 Ironically, a number of people commenting (yes, including me) are pointing out that the service level in the open source world, where much of the support is completely free, is far higher. My personal point is that if you go one step further and even pay for support in the open source world, it can be beyond exemplary, certainly far better than any large software company can hope to provide with phone banks and Teir 1, 2, 3 service levels.

@@ -21,7 +21,7 @@ I'd go through and work on the arguments point-by-point, but there's hardly any 
 
 Enjoy. 
 
-<hr />
+------------------------------------------------------------------------
 
 **Proprietary software is not the future you think it is...**
 
@@ -43,4 +43,4 @@ A couple of weeks ago I said a more informed decision is likely to be a better o
 
 Paul R 
 
-PS – This blog is using blogger – we use it because it’s a great tool for the job, not just because it’s closed and proprietary!<br />&nbsp; 
+PS – This blog is using blogger – we use it because it’s a great tool for the job, not just because it’s closed and proprietary!

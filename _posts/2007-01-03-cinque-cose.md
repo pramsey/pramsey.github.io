@@ -10,4 +10,12 @@ blogger_orig_url: http://blog.cleverelephant.ca/2007/01/cinque-cose.html
 comments: True
 ---
 
-I considered taking my chances and breaking the chain after being [tagged by Sean](http://zcologia.com/news/333), but you have to respect someone who is willing to publicly expose himself as an [unabashed wine snob](http://zcologia.com/news/327), so here goes:<ul><li>As a three year old, while riding on the back of my mother's bike, I jammed my foot into the spokes of the back wheel, because she refused to stop and play at the swings we were passing.  It should come as no surprise to you that I remember the moment *vividly*.<br /><li>I make an excellent pie crust. Everybody says so.<br /><li>For two years in graduate school, I spent an inordinate amount of time mucking about on a "multi-user simulated environment" called TrekMUSE. (What is it about graduate school and high octane time wasting?) Amazingly, it is still online. (<tt>telnet tos.tos.net 1701</tt>)<br /><li>In kindergarten, my teacher asked me what my favourite color was. I said "yellow". I am pretty sure I was right.<br /><li>I recently spent 12 months taking care of my daughter full time, between her first and second birthday.  It was an experience I strongly recommend to all dads.</ul>Being a merciful soul, I will tag... noone.
+I considered taking my chances and breaking the chain after being [tagged by Sean](http://zcologia.com/news/333), but you have to respect someone who is willing to publicly expose himself as an [unabashed wine snob](http://zcologia.com/news/327), so here goes:
+
+* As a three year old, while riding on the back of my mother's bike, I jammed my foot into the spokes of the back wheel, because she refused to stop and play at the swings we were passing.  It should come as no surprise to you that I remember the moment *vividly*.
+* I make an excellent pie crust. Everybody says so.
+* For two years in graduate school, I spent an inordinate amount of time mucking about on a "multi-user simulated environment" called TrekMUSE. (What is it about graduate school and high octane time wasting?) Amazingly, it is still online. (`telnet tos.tos.net 1701`)
+* In kindergarten, my teacher asked me what my favourite color was. I said "yellow". I am pretty sure I was right.
+* I recently spent 12 months taking care of my daughter full time, between her first and second birthday.  It was an experience I strongly recommend to all dads.
+
+Being a merciful soul, I will tag... noone.

@@ -15,7 +15,7 @@ comments: True
 
 **First**, terminology: [operating](http://en.wikipedia.org/wiki/Operating_expense) versus [capital](http://en.wikipedia.org/wiki/Capital_expenditure) expenses. Bah! Accounting! However, it's important stuff. Wikipedia provides a good example of the difference:
 
-<blockquote>For example, the purchase of a photocopier involves capital expenditures, and the annual paper, toner, power and maintenance costs represents operating expenses.</blockquote>
+> For example, the purchase of a photocopier involves capital expenditures, and the annual paper, toner, power and maintenance costs represents operating expenses.
 
 The key thing to remember is that a capital expense is supposed to convert cash into an asset.
 
@@ -39,8 +39,13 @@ Is there **any case at all** to be made that enterprise information systems can 
 
 But rapid asset depreciation is just as hard on a balance sheet as operating spending is! Build a $100M system and depreciate it at 10% a year, all you've done is concentrate $100M of IT spending into a very short period of time and spread out the depreciation over a decade.
 
-So, skill testing question for all you IT practitioners out there. Who will get the better results:<ol><li>the manager who spends $100M in one year on a system build and depreciates his asset over the ensuing decade? or,</li><li>the manager who spends $10M a year over a decade in incremental system enhancements and improvements?</li></ol>Note that both approaches have exactly the same effect on the organizational balance sheet. Take your time, don't rush your answers.
+So, skill testing question for all you IT practitioners out there. Who will get the better results:
+
+* the manager who spends $100M in one year on a system build and depreciates his asset over the ensuing decade? or,
+* the manager who spends $10M a year over a decade in incremental system enhancements and improvements?
+
+Note that both approaches have exactly the same effect on the organizational balance sheet. Take your time, don't rush your answers.
 
 **Accounting for enterprise information systems as capital expenses is a mistake.** It's dubious from an accounting perspective, because the "asset" on the books isn't re-sellable, doesn't hold its value, and doesn't cost nearly its book value to replace. And it's dubious from a practical perspective because it forces system development and maintenance into an incredibly risky and inefficient spending pattern.
 
-Don't do it if you can help it.<br />&nbsp;<br />
+Don't do it if you can help it.

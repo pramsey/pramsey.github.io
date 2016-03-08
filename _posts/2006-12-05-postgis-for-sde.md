@@ -10,7 +10,13 @@ blogger_orig_url: http://blog.cleverelephant.ca/2006/12/postgis-for-sde.html
 comments: True
 ---
 
-One of the interesting nuggets to come out of the ESRI User Conference this year was the news that ESRI was going to [support ArcSDE on PostgreSQL](http://www.spatiallyadjusted.com/2006/08/03/esri-confirms-postgresql-support-for-arcsde-at-92/) "sometime soon".  Which, to PostGIS people like ourselves suggests the question: "implemented how?"<ul><li>One possibility would be basically a cut'n'paste of their existing SQLServer code, with the SQLServer quirks replaced with PostgreSQL quirks, using SDEBINARY as the spatial type.<br /><li>Another possibility would be to use the PostGIS spatial objects as the underlying storage mechanism, in the same way ArcSDE supports using SDO_GEOMETRY in Oracle.<br /><li>A third possibility would be ESRI implementing their own spatial type in PostgreSQL and then using that.</ul>Sounds strange, doesn't it? Writing a whole new spatial type, when one already exists. Ordinarily I would dismiss the idea -- except that ESRI has **already done it for Oracle!**.
+One of the interesting nuggets to come out of the ESRI User Conference this year was the news that ESRI was going to [support ArcSDE on PostgreSQL](http://www.spatiallyadjusted.com/2006/08/03/esri-confirms-postgresql-support-for-arcsde-at-92/) "sometime soon".  Which, to PostGIS people like ourselves suggests the question: "implemented how?"
+
+* One possibility would be basically a cut'n'paste of their existing SQLServer code, with the SQLServer quirks replaced with PostgreSQL quirks, using SDEBINARY as the spatial type.
+* Another possibility would be to use the PostGIS spatial objects as the underlying storage mechanism, in the same way ArcSDE supports using SDO_GEOMETRY in Oracle.
+* A third possibility would be ESRI implementing their own spatial type in PostgreSQL and then using that.
+
+Sounds strange, doesn't it? Writing a whole new spatial type, when one already exists. Ordinarily I would dismiss the idea -- except that ESRI has **already done it for Oracle!**.
 
 The [ST_GEOMETRY](http://webhelp.esri.com/arcgisdesktop/9.2/index.cfm?TopicName=A_spatial_type_for_Oracle&anchor=ST_Geom) type in ArcSDE 9.1 and up is a native Oracle type (built using the Oracle type-extension mechanism) provided, and recommended, by ESRI for use by ArcSDE.
 

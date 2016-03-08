@@ -10,7 +10,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2008/02/wheels-within-wheels.htm
 comments: True
 ---
 
-Sean says he supported Obama [because he is more &ldquo;electable&rdquo;](http://zcologia.com/news/673/getting-political/).  So, what are we to make of [this notice](http://www.nytimes.com/2008/02/15/us/politics/15finance.html) in the New York Times?
+Sean says he supported Obama [because he is more  "electable "](http://zcologia.com/news/673/getting-political/).  So, what are we to make of [this notice](http://www.nytimes.com/2008/02/15/us/politics/15finance.html) in the New York Times?
 
 <blockquote><img src="http://www.autocarparts.com/images/Skunk2/cam_gears.jpg" width="212" height="167" style="float:right;border-width:0" />Senator John McCain’s presidential campaign said Thursday that it stood by a year-old pledge made with Senator Barack Obama that each would accept public financing for the general election if the nominee of the opposing party did the same.</blockquote>
 

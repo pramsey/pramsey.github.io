@@ -30,11 +30,13 @@ More realistically, because we **BELIEVE** it is good enough, and there is no al
 
 It is the self-reinforcing belief that Microsoft produces and supports good enough software, and has the business continuity to **CONTINUE** to produce and support good enough software, that allows conservative IT managers to get to sleep at night, safe in the knowledge that they have backed a winner.
 
-But what if they are backing a loser? Or, more to the point, what if they begin to&nbsp;**BELIEVE** they are backing a loser?
+But what if they are backing a loser? Or, more to the point, what if they begin to **BELIEVE** they are backing a loser?
 
 They are going to start looking for alternatives. And suddenly Microsoft will **BE** a loser. And the feedback loop will intensify.
 
-All this to emphasize the importance that even ZDNet, yes, **ZDNet** is [starting to lose faith](http://www.zdnet.com/windows-its-over-7000013964/) in the market dominance of Microsoft.<br /><blockquote class="tr_bq">I think Microsoft could continue to dominate the important, but no longer growing, desktop market for years, even decades to come. However, I don't think they will.</blockquote>
+All this to emphasize the importance that even ZDNet, yes, **ZDNet** is [starting to lose faith](http://www.zdnet.com/windows-its-over-7000013964/) in the market dominance of Microsoft.
+
+> I think Microsoft could continue to dominate the important, but no longer growing, desktop market for years, even decades to come. However, I don't think they will.
 
 The analysts have already tracked the decline of Windows relative to tablet and phone operating systems. The CIOs are working on "bring your own device" policies, which will liberate countless desktops from Microsoft monoculture. The trends are not good, and as the trends are publicized more and more, they will only get worse.
 

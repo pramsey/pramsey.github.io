@@ -14,7 +14,13 @@ Web services are a "big deal" these days, garnering lots and lots of column inch
 
 Great news! Except... now we have to find the services so we can use them in clients. The web services mantra is "publish, find, bind". "Publish" is going great guns, "bind" is working well with good [servers](http://mapserver.gis.umn.edu/) and [clients](http://udig.refractions.net/), but "find"... now that is another story.
 
-The OGC has a specification for a "[Catalogue Services for the Web](http://portal.opengeospatial.org/files/?artifact_id=5929&version=1)" (CSW), which is supposed to fill in the "find" part, but:<br /><p></p> <ul><li>It is 180 pages long;<br /></li><li>You also need a "[profile](https://portal.opengeospatial.org/files/?artifact_id=7048)" for services, another 40 pages; and,<br /></li><li>The profile catalogues information at a "service" level, rather than at a "layer" level.</li></ul>The OGC specification is designed to handle a large number of use cases, most of which are irrelevant to spatial web services clients currently in action. By designing for the future, they may have foreclosed on the present, because there are **much easier** ways to get at catalogue information than via CSW.
+The OGC has a specification for a "[Catalogue Services for the Web](http://portal.opengeospatial.org/files/?artifact_id=5929&version=1)" (CSW), which is supposed to fill in the "find" part, but:
+
+* It is 180 pages long;
+* You also need a "[profile](https://portal.opengeospatial.org/files/?artifact_id=7048)" for services, another 40 pages; and,
+* The profile catalogues information at a "service" level, rather than at a "layer" level.
+
+The OGC specification is designed to handle a large number of use cases, most of which are irrelevant to spatial web services clients currently in action. By designing for the future, they may have foreclosed on the present, because there are **much easier** ways to get at catalogue information than via CSW.
 
 For example, if you want a quick raw listing of spatial web services, try this link:
 
