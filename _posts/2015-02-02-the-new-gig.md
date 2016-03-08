@@ -23,7 +23,7 @@ For that six year run, I was fortunate to have a lead role in articulating what 
 
 After six years though, I feel like I need a change, an opportunity to learn some new things and meet some new people: To move from the enterprise space, to the consumer space. 
 
-<img border="0" src="http://did14.datainnovationday.org/wp-content/uploads/2013/12/cartodb-logo1.png" width="400" height="200" />
+<img border="0" src="http://did14.datainnovationday.org/wp-content/uploads/2013/12/cartodb-logo1.png" width="300" height="150" />
 
 So I was very lucky when a new opportunity came along: to work for a company that is reimagining what it means to be a spatial database in a software-as-a-service world. Under the covers, CartoDB uses my favorite open source spatial database, [PostGIS](http://postgis.net), to run their platform, and working for CartoDB gives me a chance to talk about and to work on something I like almost as much as (more than?) open source: spatial SQL! 
 
