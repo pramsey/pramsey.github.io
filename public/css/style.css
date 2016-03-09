@@ -6,3 +6,64 @@ p.note {
   padding-right: 1.0em;
   font-size: 80%;
 }
+
+img.externalicon {
+  width: 16px;
+  height: 16px;
+  display: inline;
+  vertical-align: middle;
+  margin: 0;
+}
+
+.sidebar-about .lead {
+  display: none;
+  font-size: 110%;
+}
+
+.sidebar {
+  background-color: #265a87;
+}
+
+.sidebar-nav-item {
+  display: inline;
+}
+li.sidebar-nav-item + li.sidebar-nav-item::before {
+    content: " | ";
+}
+
+.sidebar-nav-external {
+  display: inline;
+  margin-left: 0.4rem;
+  margin-right: 0.4rem;
+}
+
+.sidebar-about h1 {
+  font-family: "PT Sans", "Abril Fatface", serif;
+}
+
+ul.sidebar-nav {
+  padding-left: 0;
+}
+
+@media (min-width: 48em) {
+
+  .sidebar-about .lead {
+    display: block;
+  }
+
+  .sidebar-nav-item {
+    display: block;
+  }
+
+  li.sidebar-nav-item + li.sidebar-nav-item::before {
+      content: "";
+  }
+
+  .sidebar-nav-external {
+    display: block;
+    font-size: 80%;
+  }
+  
+}
+
+

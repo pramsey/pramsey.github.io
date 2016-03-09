@@ -22,13 +22,13 @@ Recapping:
 
 The BC [CIO guidance](http://docs.openinfo.gov.bc.ca/D11384614A_Response_Package_CTZ-2014-00009.PDF) on using USA cloud services has a certain breathless enthusiasm (is there any innovation more exciting than vendor innovation?) for the tokenization products vendors are bringing to market:
 
-> Vendors have begun to address this “data-residency” issue in innovative ways. As an example, Force.com, and CypherCloud offer solutions that allow sensitive or personal information to remain in Canada. Using tokenization – a method of substituting specified data fields for arbitrary values – these solutions allow for the use of foreign-based services while remaining within the residency-based restrictions of FOIPPA.<br/>&mdash;<small>BC OCIO, [Data Residency and Tokenization](http://docs.openinfo.gov.bc.ca/D11384614A_Response_Package_CTZ-2014-00009.PDF)</small>
+> Vendors have begun to address this “data-residency” issue in innovative ways. As an example, Force.com, and CypherCloud offer solutions that allow sensitive or personal information to remain in Canada. Using tokenization – a method of substituting specified data fields for arbitrary values – these solutions allow for the use of foreign-based services while remaining within the residency-based restrictions of FOIPPA.<br/>-- BC OCIO, [Data Residency and Tokenization](http://docs.openinfo.gov.bc.ca/D11384614A_Response_Package_CTZ-2014-00009.PDF)
 
 <img src="http://cache.thephoenix.com/secure/uploadedImages/The_Phoenix/Life/Reality_Check/TJI_Sipress_adequate.jpg" style="float:right; width: 220px; margin: 5px; padding:10px; border: 1px solid grey;" />  
 
 And the [guidance released by BC's Office of the Information &amp; Privacy Commissioner](https://www.oipc.bc.ca/public-comments/1649) (OIPC) at first glance appears to similarly swallow claims about tokenization hook, line and sinker.
 
-> Public bodies may comply with FIPPA provided that the personal information is adequately tokenized and the crosswalk table is secured in Canada.<br/>&dash;<small>BC OIPC, [Updated guidance on the storage of information outside of Canada by public bodies](https://www.oipc.bc.ca/public-comments/1649 )</small>
+> Public bodies may comply with FIPPA provided that the personal information is adequately tokenized and the crosswalk table is secured in Canada.<br/>-- BC OIPC, [Updated guidance on the storage of information outside of Canada by public bodies](https://www.oipc.bc.ca/public-comments/1649 )
 
 However, the OIPC guidance has one small but important difference, **the word *"adequately"***.
 
