@@ -40,7 +40,7 @@ Fortunately, PostgreSQL supports a "single user mode".  Shut down your database 
       valgrind \
         --leak-check=yes \
         --log-file=valgrindlog \
-        /usr/local/pgsql/bin/postgres -D /usr/local/pgdata --single postgis
+        /usr/local/pgsql/bin/postgres --single -D /usr/local/pgdata postgis
         
 So, here we are echoing the SQL statement we want tested, and piping it into a valgrind-wrapped instance of single-user PostgreSQL.  Everything will run much slower than usual, and valgrind will output a report to the valgrindlog file detailing where memory blocks are orphaned by the code.
 
