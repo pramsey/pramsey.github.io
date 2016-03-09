@@ -10,9 +10,13 @@ blogger_orig_url: http://blog.cleverelephant.ca/2008/08/valgrinding-postgis.html
 comments: True
 ---
 
-<img src="http://valgrind.org/images/valgrind-100.png" width="167" height="49" style="float:right;padding:5px" />So, you want to be a super-hero?  How about tracking down memory leaks and otherwise using valgrind to make PostGIS a cleaner and better system?  However, getting PostGIS *into* valgrind can be a bit tricky.
+<img src="http://valgrind.org/images/valgrind-100.png" width="167" height="49" style="float:right;padding:5px" />
 
-First of all, what is [valgrind](http://www.valgrind.org)?  It's a tool for finding memory leaks and other memory issues in C/C++ code.  It only runs under Linux, so you do need to have sufficiently portable code to run it there.  Many memory checking tools rely on "static code analysis", basically looks at what your code *says it does* and seeing if you have made any mistakes.  These kinds of tools have to be very clever, since they not only need to understand the language, they have to understand the structure of your code.  Valgrind takes the opposite tack &mdash; rather than inspect your code for what it says it does, it runs your code inside an emulator, and sees what it *actually does*.  Running inside valgrind, every memory allocation and deallocation can be tracked and associated with a particular code block, making valgrind a very effective memory debugger.
+So, you want to be a super-hero?  How about tracking down memory leaks and otherwise using valgrind to make PostGIS a cleaner and better system?  However, getting PostGIS *into* valgrind can be a bit tricky.
+
+First of all, what is [valgrind](http://www.valgrind.org)?  It's a tool for finding memory leaks and other memory issues in C/C++ code.  It only runs under Linux, so you do need to have sufficiently portable code to run it there.  Many memory checking tools rely on "static code analysis", basically looks at what your code *says it does* and seeing if you have made any mistakes.  
+
+These kinds of tools have to be very clever, since they not only need to understand the language, they have to understand the structure of your code.  Valgrind takes the opposite tack -- rather than inspect your code for what it says it does, it runs your code inside an emulator, and sees what it *actually does*.  Running inside valgrind, every memory allocation and deallocation can be tracked and associated with a particular code block, making valgrind a very effective memory debugger.
 
 In order to get the most useful reports, you have to compile your code with minimal optimization flags, and with debugging turned on.  To grind both GEOS and PostGIS simultaneously, compile GEOS and PostGIS with the correct flags:
 
