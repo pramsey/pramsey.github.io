@@ -47,7 +47,9 @@ Wow! That sounds really hard! I wonder how US public companies and Canadian inve
 
 > As it turned out, the entire migration process would take eight months. When the process extended beyond June 2014, MTICS forgot to instruct HPAS to do backups on a monthly basis. This meant that every government mailbox that migrated onto the new system went without a monthly backup until all mailboxes were migrated. Any daily backup that existed was expunged after 31 days. At its peak, some 48,000 government mailboxes were without monthly email backups.<br/>&mdash; OIPC [Investigation Report F15-03](https://www.oipc.bc.ca/investigation-reports/1874), Page 32 
 
-<img src="https://lh3.googleusercontent.com/-XHk-iEPpMBE/AAAAAAAAAAI/AAAAAAAAAAA/6ZPvqo28YIc/photo.jpg" style="float:right; height:100px; width:100px; "/>Corporations and investment banks can do this because high volume [enterprise email archiving](https://www.google.ca/?q=enterprise+email+archive) has been a solved problem for well over a decade. So there are lots of options, [proprietary](http://www.messagesolution.com/email_archiving.htm), [open source](https://www.mailarchiva.com/#firstPage), and even [British Columbian](http://globalrelay.com/)!
+Corporations and investment banks can do this because high volume [enterprise email archiving](https://www.google.ca/?q=enterprise+email+archive) has been a solved problem for well over a decade. So there are lots of options, [proprietary](http://www.messagesolution.com/email_archiving.htm), [open source](https://www.mailarchiva.com/#firstPage), and even [British Columbian](http://globalrelay.com/)!
+
+<img src="https://lh3.googleusercontent.com/-XHk-iEPpMBE/AAAAAAAAAAI/AAAAAAAAAAA/6ZPvqo28YIc/photo.jpg" style="float:right; height:100px; width:100px; margin:8px;"/>
 
 Yep, one of the top companies in the electronic message archiving space, [Global Relay](http://globalrelay.com/), is actually headquartered in Vancouver! Guys! Wake up! Put a salesperson on the float-plane to Victoria on Monday!
 
