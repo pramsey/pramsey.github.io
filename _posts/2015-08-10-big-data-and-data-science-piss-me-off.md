@@ -29,6 +29,6 @@ So that's point number one: most people blabbing on about big data can fit their
 
 Point number two is less frequently touched upon: sure, you have 2 trillion records, but why do you need to look at all of them? The whole point of an education in statistics is to learn how to reason about a population using a **random sample**. So why are all these alleged "data scientists" firing up massive compute clusters to summarize **every single record in their collections**?
 
-<img border="0" src="http://2.bp.blogspot.com/-1V7vEO_LsZc/VjD7F3ZypDI/AAAAAAAAAjQ/piC2pyiUQ40/s320/350px-Normal_Distribution_PDF.svg.png" style="float:right; padding:10px;" />I'm guessing it's the usual reason: because they can. And because the current meme is that they should. They should stand up a 100 node cluster on AWS and bloody well count all 2 trillion of them. Because: CPUs.
+<img border="0" src="http://2.bp.blogspot.com/-1V7vEO_LsZc/VjD7F3ZypDI/AAAAAAAAAjQ/piC2pyiUQ40/s320/350px-Normal_Distribution_PDF.svg.png" style="float:right;width:320px;height:205px;margin:10px;" />I'm guessing it's the usual reason: because they can. And because the current meme is that they should. They should stand up a 100 node cluster on AWS and bloody well count all 2 trillion of them. Because: CPUs.
 
 But honestly, if you want to know the age distribution of people buying red socks, draw a sample of a couple hundred thousand records, and find out to within a fraction of a percentage point 19-times-out-of-20. After all, you're a freaking "data scientist", right?
