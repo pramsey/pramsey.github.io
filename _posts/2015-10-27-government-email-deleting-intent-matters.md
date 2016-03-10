@@ -16,13 +16,11 @@ blogger_orig_url: http://blog.cleverelephant.ca/2015/10/government-email-deletin
 comments: True
 ---
 
-<img src="https://pbs.twimg.com/profile_images/1195985377/Baldrey_twitter_photo_400x400.jpg" style="float:right; width:150px;height:150px;margin:10px;" alt="Keith Baldrey" /> 
-
 I caught Keith Baldrey on the aether-box today (CKNW) and he was being generous in his distribution of benefit of the doubt to the poor, poor government staffers trying to handle their email:
+
+<img src="https://pbs.twimg.com/profile_images/1195985377/Baldrey_twitter_photo_400x400.jpg" style="float:right; width:150px;height:150px;margin:10px;" alt="Keith Baldrey" /> 
     
 > “I’ve talked to government staffers about this, and they are confused on what the rules are, it’s very unclear and unevenly applied over what should be deleted and what should not be.”<br/>&mdash; Keith Baldrey, Tuesday, October 27, 15:24 on CKNW
-
-<more/>
 
 Before we get to remedies, let's review what these poor confused dears [are doing](https://www.oipc.bc.ca/investigation-reports/1874). For whatever reason, because they believe the email is not an important record, or a duplicate, or they just can't bear to burden the taxpayers of BC with storing a further 85KB of data, the beleaguered staffers are doing the following:
 
