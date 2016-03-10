@@ -16,7 +16,9 @@ blogger_orig_url: http://blog.cleverelephant.ca/2015/10/government-email-deletin
 comments: True
 ---
 
-<img src="https://pbs.twimg.com/profile_images/1195985377/Baldrey_twitter_photo_400x400.jpg" style="float:right; width:150px;padding:10px;" alt="Keith Baldrey" /> I caught Keith Baldrey on the aether-box today (CKNW) and he was being generous in his distribution of benefit of the doubt to the poor, poor government staffers trying to handle their email:
+<img src="https://pbs.twimg.com/profile_images/1195985377/Baldrey_twitter_photo_400x400.jpg" style="float:right; width:150px;height:150px;margin:10px;" alt="Keith Baldrey" /> 
+
+I caught Keith Baldrey on the aether-box today (CKNW) and he was being generous in his distribution of benefit of the doubt to the poor, poor government staffers trying to handle their email:
     
 > “I’ve talked to government staffers about this, and they are confused on what the rules are, it’s very unclear and unevenly applied over what should be deleted and what should not be.”<br/>&mdash; Keith Baldrey, Tuesday, October 27, 15:24 on CKNW
 

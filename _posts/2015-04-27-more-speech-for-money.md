@@ -17,7 +17,7 @@ comments: True
 
 The BC Liberal government is changing the Elections Act to allow **unlimited party and candidate spending within one month of election day** and meanwhile, as usual, the media are transfixed by the shiny object in the corner.
 
-<img src="https://www.svncanada.com/gfx/layout/pages/affiliates-money-pile-canadian.jpg" style="float:right;"/>
+<img src="https://www.svncanada.com/gfx/layout/pages/affiliates-money-pile-canadian.jpg" style="float:right;width:347px;height:346px;"/>
 
 The political pundits are making a great deal of noise (see V. Palmer's [inside baseball assessment](http://www.vancouversun.com/news/Vaughn+Palmer+Ground+shifts+under+political+parties+voter+list/11002488/story.html) if you care) about an amendment to the Elections Act that says that:
 
