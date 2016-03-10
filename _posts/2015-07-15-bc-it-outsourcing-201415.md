@@ -21,7 +21,7 @@ If what goes up must come down, nobody told BC's IT outsourcers, because they co
 
 The [BC Public Accounts](http://www.fin.gov.bc.ca/ocg/pa/14_15/Pa14_15.htm) came out today, and I'm happy to say that the People Who Are Smarter Than You Are managed to book **another record year of billings**: a **$468,549,154** spend, up **8%** over last year.
 
-<img src="https://docs.google.com/a/cleverelephant.ca/spreadsheet/oimg?key=0AsM7ePw4lyCDdEpEUXZlZWNSRXZtQXZmeVNVajhvRmc&oid=4&zx=3jhlqyn4bbus" width="600" />
+<img src="https://docs.google.com/a/cleverelephant.ca/spreadsheet/oimg?key=0AsM7ePw4lyCDdEpEUXZlZWNSRXZtQXZmeVNVajhvRmc&oid=4&zx=3jhlqyn4bbus" width="600" height="371"/>
 
 It's not a victory unless you beat someone else, so good news:
 
@@ -35,7 +35,7 @@ Don't be sad, kids and sick people, IT services folks are *Adding Value* and *Fi
 
 **HP Advanced Solutions** continues to dominate the category, adding $20M in billings this year alone (How many teachers could that hire? [At least 200](http://www.theglobeandmail.com/news/british-columbia/battle-of-numbers-how-much-does-an-average-teacher-make/article17309702/). Or even more teaching assistants.) In fact, two thirds of the billing growth this year was just HP.
 
-<img src="https://docs.google.com/a/cleverelephant.ca/spreadsheet/oimg?key=0AsM7ePw4lyCDdEpEUXZlZWNSRXZtQXZmeVNVajhvRmc&oid=2&zx=uj2istl3ypgt" width="600" />
+<img src="https://docs.google.com/a/cleverelephant.ca/spreadsheet/oimg?key=0AsM7ePw4lyCDdEpEUXZlZWNSRXZtQXZmeVNVajhvRmc&oid=2&zx=uj2istl3ypgt" width="600" height="371" />
 
 There's also a new kid in the enterprise software vendor list to keep an eye on: [Salesforce.com](http://salesforce.com) (SFDC) showed up with a wee $463,053 in billings this year. I expect that to increase mightily in coming years. However, the big money in SFDC work will not be earned by SFDC (even after locking up the entire BC government enterprise back-office, Oracle bills less than $10M a year in software maintenance), but by the consultants providing SFDC "implementation services" (Deloitte, CGI, HP). Watch for a SFDC goldrush as the government starts replacing expensive Oracle systems with... expensive SFDC systems in the cloud.
 
