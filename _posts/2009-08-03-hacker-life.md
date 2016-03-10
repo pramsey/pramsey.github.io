@@ -10,5 +10,13 @@ blogger_orig_url: http://blog.cleverelephant.ca/2009/08/hacker-life.html
 comments: True
 ---
 
-As seen on the uDig developers list:<pre>On Mon, Aug 3, 2009 at 12:10 AM, Jody Garnett wrote:<br />><br />> On Mon, Aug 3, 2009 at 5:05 PM, Jesse Eichar wrote:<br />>> Sorry for taking so long to reply.  The weekends are dead-zones for me.  I<br />>> play with the family and ignore email.<br />><br />> I have the opposite arrangement :-)</pre>
+As seen on the uDig developers list:
+
+On Mon, Aug 3, 2009 at 12:10 AM, Jody Garnett wrote:
+>
+> On Mon, Aug 3, 2009 at 5:05 PM, Jesse Eichar wrote:
+>> Sorry for taking so long to reply.  The weekends are dead-zones for me.  I
+>> play with the family and ignore email.
+>
+> I have the opposite arrangement :-)
 
