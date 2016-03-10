@@ -41,7 +41,7 @@ that are using to **others** so having feedback from folks like
 Remi is invaluable.
 
 The [Oslandia](http://oslandia.com) team was there in force, naturally, as they were the
-organizers. Because they worki a lot in the 3D/[CGAL](http://www.cgal.org) 
+organizers. Because they work a lot in the 3D/[CGAL](http://www.cgal.org) 
 space, they were interested in making CGAL faster, which meant they were
 interested in some "expanded object header" experiments I did last
 month. Basically the [EOH code](http://www.postgresql.org/message-id/20178.1423598435@sss.pgh.pa.us) allows you to return an unserialized

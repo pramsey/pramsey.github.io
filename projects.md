@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-I am a project steering committee member or [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) for the follow projects.
+I am a project steering committee member or [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) for the following projects.
 
 ## [PostGIS](http://postgis.net)
 
