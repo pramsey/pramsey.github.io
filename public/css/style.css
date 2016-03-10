@@ -45,10 +45,44 @@ ul.sidebar-nav {
   padding-left: 0;
 }
 
+.post-navigation {
+  display: none;
+  margin-bottom: 2em;
+  font-size: 100%;
+}
+
+.post {
+  margin-bottom: 2em;
+}
+
 @media (min-width: 48em) {
 
   .sidebar-about .lead {
     display: block;
+  }
+
+  .post-navigation  {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+/*  .post-navigation a {
+    display: block;
+    width: 50%;
+    float: left;
+    margin: 1em 0;
+  }
+*/
+  
+  .post-navigation .next {
+    float: right;
+    clear: left;
+    margin-left: 2em;
+  }
+
+  .post-navigation .previous {
+    text-align: left;
   }
 
   .sidebar-nav-item {
