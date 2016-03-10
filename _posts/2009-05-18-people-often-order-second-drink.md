@@ -14,7 +14,10 @@ comments: True
 
 My dinner tonight in the warm pre-Where 2.0 air of San Jose:
 
-Martini, $8.50<br />Beer, $6.50<br />Beer2, $6.50<br />Cheeseburger, $2.95
+* Martini, $8.50
+* Beer #1, $6.50
+* Beer #2, $6.50
+* Cheeseburger, $2.95
 
 Chance to swap IT bullship with blogebrity [James Fee](http://www.spatiallyadjusted.com/), priceless.
 

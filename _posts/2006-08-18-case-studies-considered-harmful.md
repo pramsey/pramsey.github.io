@@ -10,7 +10,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2006/08/case-studies-considered-
 comments: True
 ---
 
-Over the past month, I have been trying to compile a list of good <br />[case studies](http://postgis.refractions.net/documentation/casestudies/) of organizations using PostGIS in their daily business.  So far, it seems hard to get people out of their shells and say what they are doing -- even when you promise to do all the work of writing up the story!
+Over the past month, I have been trying to compile a list of good [case studies](http://postgis.refractions.net/documentation/casestudies/) of organizations using PostGIS in their daily business.  So far, it seems hard to get people out of their shells and say what they are doing -- even when you promise to do all the work of writing up the story!
 
 I know from things like the membership of the [postgis-users](http://postgis.refractions.net/mailman/listinfo/postgis-users) mailing list that there are some big companies using PostGIS.  Big names in the geospatial world use it for all kinds of production oriented tasks.  But apparently they do not want their stories told.
 

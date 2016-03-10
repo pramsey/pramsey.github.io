@@ -11,9 +11,14 @@ blogger_orig_url: http://blog.cleverelephant.ca/2009/04/earth-sandwich.html
 comments: True
 ---
 
-[<img src="http://farm4.static.flickr.com/3646/3466317084_c9341bf49d_m.jpg" width="240" height="202" alt="Earth Sandwich"  style="float:right;padding:10px;" />](http://www.flickr.com/photos/92995391@N00/3466317084/" title="Earth Sandwich by pwramsey3, on Flickr)Happy Earth Day! If you missed the earth sandwich three years ago, here's a chance to re-live the dream!
+<img src="http://farm4.static.flickr.com/3646/3466317084_c9341bf49d_m.jpg" width="240" height="202" alt="Earth Sandwich"  style="float:right;padding:10px;" />
 
-[The Original Challenge](http://www.zefrank.com/theshow/archives/2006/05/051606.html)<br />[The Find-the-Opposite Tool](http://www.zefrank.com/sandwich/tool.html)<br />[The Winning Entry Announced](http://www.zefrank.com/theshow/archives/2006/06/061206.html)<br />[The Winning Entry](http://scourist.com/2006/06/09/0009-earth-sandwich/)
+Happy Earth Day! If you missed the earth sandwich three years ago, here's a chance to re-live the dream!
+
+* [The Original Challenge](http://www.zefrank.com/theshow/archives/2006/05/051606.html)
+* [The Find-the-Opposite Tool](http://www.zefrank.com/sandwich/tool.html)
+* [The Winning Entry Announced](http://www.zefrank.com/theshow/archives/2006/06/061206.html)
+* [The Winning Entry](http://scourist.com/2006/06/09/0009-earth-sandwich/)
 
 Mmmmmmm. Earth sandwich.
 

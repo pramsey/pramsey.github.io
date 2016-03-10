@@ -11,7 +11,9 @@ blogger_orig_url: http://blog.cleverelephant.ca/2009/01/responsive-applications.
 comments: True
 ---
 
-One of the first development projects I'm doing with [OpenGeo](http://www.opengeo.org) is putting together a GUI for data loading/dumping in PostGIS.  The command-line tools have served the project well for a long time, but with such good GUI tools like [PgAdmin](http://www.pgadmin.org) available for all the other interaction with the database, it is a shame to have to head to the command-line to load a shape-file.<div style="float:right;margin:10px;text-align:center;">[<img src="http://farm4.static.flickr.com/3389/3176884653_4ae0a3f37f_m.jpg" width="239" height="240" alt="PostGIS Loader GUI" />](http://www.flickr.com/photos/92995391@N00/3176884653/" title="PostGIS Loader GUI by pwramsey3, on Flickr)<br/><small>Shape File Loader GUI</small></div>
+One of the first development projects I'm doing with [OpenGeo](http://www.opengeo.org) is putting together a GUI for data loading/dumping in PostGIS.  The command-line tools have served the project well for a long time, but with such good GUI tools like [PgAdmin](http://www.pgadmin.org) available for all the other interaction with the database, it is a shame to have to head to the command-line to load a shape-file.
+
+<div style="float:right;margin:10px;text-align:center;">[<img src="http://farm4.static.flickr.com/3389/3176884653_4ae0a3f37f_m.jpg" width="239" height="240" alt="PostGIS Loader GUI" />](http://www.flickr.com/photos/92995391@N00/3176884653/" title="PostGIS Loader GUI by pwramsey3, on Flickr)<br/><small>Shape File Loader GUI</small></div>
 
 I've had a grand time learning [GTK+](http://library.gnome.org/devel/gtk/stable/index.html) to build the GUI window, got it all laid out, and then spent some time re-working the output portions of the existing loader code so I could write into a database handle rather than to [STDOUT](http://en.wikipedia.org/wiki/Standard_streams).
 

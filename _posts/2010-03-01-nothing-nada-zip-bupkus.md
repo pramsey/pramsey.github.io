@@ -16,7 +16,9 @@ comments: True
 
 There is nothing new under the sun, and I have been wrestling this week with writing out ISO-standard well-known binary from PostGIS. 
 
-<img src="http://images.fanpop.com/images/image_uploads/Empty-Set-Symbol-random-241186_191_160.jpg" style="float:right;">The most obvious difference is that the type numbers for encoding the presence of Z- and M-dimensions are not the ones described in the old [OGC extension document](http://portal.opengeospatial.org/files/?artifact_id=909) [OGC members only, [cited by Martin Daly](http://postgis.refractions.net/pipermail/postgis-devel/2004-December/000695.html) in 2004, and [extended further](http://svn.osgeo.org/postgis/trunk/doc/ZMSgeoms.txt) for PostGIS by Sandro Santilli that year] for WKB. Instead of setting high-bits to indicate the presence of Z and M, as OGC did, the ISO spec simply adds 1000. 
+<img src="http://images.fanpop.com/images/image_uploads/Empty-Set-Symbol-random-241186_191_160.jpg" style="float:right;">
+
+The most obvious difference is that the type numbers for encoding the presence of Z- and M-dimensions are not the ones described in the old [OGC extension document](http://portal.opengeospatial.org/files/?artifact_id=909) [OGC members only, [cited by Martin Daly](http://postgis.refractions.net/pipermail/postgis-devel/2004-December/000695.html) in 2004, and [extended further](http://svn.osgeo.org/postgis/trunk/doc/ZMSgeoms.txt) for PostGIS by Sandro Santilli that year] for WKB. Instead of setting high-bits to indicate the presence of Z and M, as OGC did, the ISO spec simply adds 1000. 
 
 So, the ISO geometry number for a PolygonZ is `3 (Polygon) + 1000 = 1003`.
 

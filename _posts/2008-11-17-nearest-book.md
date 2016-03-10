@@ -14,7 +14,9 @@ From [Sean Gillies](http://sgillies.net/blog/833/nearest-book/). My excerpt:
 
 > Automobiles were getting larger as the station wagon and van yielded to the supremacy of the sport utility vehicle (SUV), an expeditionary car based on a light trick chassis and therefore exempt from legislated fuel efficiency standards.
 
-The rules are: grab the nearest book; turn to page 56; find the fifth sentence; post the text of the sentence in your journal along with these instructions.<br />don’t dig for your favorite book, the cool book, or the intellectual one: pick the CLOSEST.
+The rules are: grab the nearest book; turn to page 56; find the fifth sentence; post the text of the sentence in your journal along with these instructions.
+
+> don’t dig for your favorite book, the cool book, or the intellectual one: pick the CLOSEST.
 
 I'm sitting next to my bookshelf, so the closest in this case was an artifact of what was where in shelving order: "The Long Emergency", by James Howard Kunstler. Ground zero of Kunstler reading is "The Geography of Nowhere", which I would heartily recommend to anyone and everyone &ndash; he is still living off the particular style he honed in "Nowhere".  For example, sentence number two on my page 56:
 

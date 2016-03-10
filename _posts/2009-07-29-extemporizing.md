@@ -30,5 +30,10 @@ When presenting with notes and a deck, I try to have one slide every 30 seconds 
 
 So, next time you are going before a big audience, consider doing some serious preparation, write things down in full, hone your language and make your point as sharply as possible.
 
-It is respectful of your audience's time.<br />You'll give a better presentation.<br />Your content will be crisper and more understandable.<br />Your audience will be more engaged.<br />You will look like a superstar.
+It is respectful of your audience's time.
+
+* You'll give a better presentation.
+* Your content will be crisper and more understandable.
+* Your audience will be more engaged.
+* You will look like a superstar.
 
