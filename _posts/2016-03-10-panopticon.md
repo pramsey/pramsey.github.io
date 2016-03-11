@@ -41,7 +41,7 @@ But as I discussed this year [in my talk about the future of geo](2016/01/the-fu
 * Within our lifetimes, most urban areas will be under continuous video surveillance, and more importantly,
 * within our lifetimes, the computational power and algorithms to make sense of all those video feed in real time will be available.
 
-We take for granted that we have some moments of privacy. When I leave the house and walk to pick up my son at school, for 15 minutes, *nobody knows where I am*. Not for much longer. All too soon, it will be possible for someone in a data center to say "show me Paul" and get a live picture of me, wherever I may be.
+We take for granted that we have some moments of privacy. When I leave the house and walk to pick up my son at school, for 15 minutes, *nobody knows where I am*. Not for much longer. All too soon, it will be possible for someone in a data center to say "show me Paul" and get a live picture of me, wherever I may be. A camera will see me, and a computer will identify me in the video stream: there he is.
 
 Speculative fiction is a wonderful thing, and there's a couple books I have read in the last year that are worth picking up for anyone interested in what life in the panopticon might be like.
 
