@@ -39,7 +39,7 @@ Again, these are active signals, and you could opt out. No cell phone, cash only
 But as I discussed this year [in my talk about the future of geo](2016/01/the-future-and-all-that.html) we are rapidly moving beyond the point of "opt out". 
 
 * Within our lifetimes, most urban areas will be under continuous video surveillance, and more importantly,
-* without our lifetimes, the computational power and algorithms to make sense of all those video feed in real time will be available.
+* within our lifetimes, the computational power and algorithms to make sense of all those video feed in real time will be available.
 
 We take for granted that we have some moments of privacy. When I leave the house and walk to pick up my son at school, for 15 minutes, *nobody knows where I am*. Not for much longer. All too soon, it will be possible for someone in a data center to say "show me Paul" and get a live picture of me, wherever I may be.
 
