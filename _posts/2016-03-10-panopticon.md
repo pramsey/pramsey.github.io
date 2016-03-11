@@ -39,11 +39,11 @@ Again, these are active signals, and you could opt out. No cell phone, cash only
 But as I discussed this year [in my talk about the future of geo](2016/01/the-future-and-all-that.html) we are rapidly moving beyond the point of "opt out". 
 
 * Within our lifetimes, most urban areas will be under continuous video surveillance, and more importantly,
-* within our lifetimes, the computational power and algorithms to make sense of all those video feed in real time will be available.
+* within our lifetimes, the computational power and algorithms to make sense of all those video feeds in real time will be available.
 
 We take for granted that we have some moments of privacy. When I leave the house and walk to pick up my son at school, for 15 minutes, *nobody knows where I am*. Not for much longer. All too soon, it will be possible for someone in a data center to say "show me Paul" and get a live picture of me, wherever I may be. A camera will see me, and a computer will identify me in the video stream: there he is.
 
-Speculative fiction is a wonderful thing, and there's a couple books I have read in the last year that are worth picking up for anyone interested in what life in the panopticon might be like.
+Speculative fiction is a wonderful thing, and there's a couple books I read in the last year that are worth picking up for anyone interested in what life in the panopticon might be like.
 
 * [Rainbows End](http://www.goodreads.com/book/show/102439.Rainbows_End) by Verner Vinge (2007) is an exploration of the upcoming world of augmented reality and connectivity. In many ways Vinge leaps right over the period of privacy loss: his characters have already come to terms with a world of continuous visibility. 
 * [The Circle](http://www.goodreads.com/book/show/18302455-the-circle) by David Eggers (2013) jumps into a world right on the cusp of the transition from our current "opt-in" world of partial privacy to one of total transparency, of life in the panopticon. 
