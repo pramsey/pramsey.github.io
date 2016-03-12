@@ -70,7 +70,7 @@ SELECT postal_parse('412 first ave, victoria, bc');
       "house_number": "412"}
     (1 row)
 
-The core library is very fast once it has been initialized, and the binding has been shown to be acceptably fast, despite some unfortunate implementation tradeoffs.
+The core library is very fast once it has been initialized, and the binding has been shown to be acceptably fast, despite some unfortunate [implementation tradeoffs](https://github.com/pramsey/pgsql-postal/blob/3dacfed3824d0cb0ec99197919a9d70f6fd2eb4f/postal.c#L126-L130).
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/pwramsey">@pwramsey</a> parsed and normalized 1.2 million rows in five minutes. *does happy dance*</p>&mdash; Darrell Fuhriman (@nixzusehen) <a href="https://twitter.com/nixzusehen/status/708726623445475328">March 12, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
