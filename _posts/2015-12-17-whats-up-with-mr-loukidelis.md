@@ -22,12 +22,12 @@ Ever feel like people are talking about you behind your back? Usually it's just 
 
 <more/>
 
-**Backgrounder for those from abroad:** Our [provincial government](http://www.gov.bc.ca) was recently caught destroying public records by an Officer of the Legislature, who produced a [detailed report](https://www.oipc.bc.ca/investigation-reports/1874) with a dozen recommendations on how to stop breaking the law so much. But rather than simply implementing the recommendations, the Premier instead appointed her **own** smart important guy, [David Loukidelis](https://www.linkedin.com/in/david-loukidelis-bba05449), to go over those recommendations and produce yet another set of **This Time It's For Real** recommendations for her to take **Very, Very Seriously**. Mr. Loukidelis produced [his report](http://www.cio.gov.bc.ca/local/cio/d_loukidelis_report.pdf) on Wednesday, and [the government said](http://thetyee.ca/News/2015/12/16/Loukidelis-Stop-Deleting/) it would "accept them all" (for certain definitions of the words "all" and "accept").
+**Backgrounder for those from abroad:** Our [provincial government](http://www.gov.bc.ca) was recently caught destroying public records by an Officer of the Legislature, who produced a [detailed report](https://www.oipc.bc.ca/investigation-reports/1874) with a dozen recommendations on how to stop breaking the law so much. But rather than simply implementing the recommendations, the Premier instead appointed her **own** smart important guy, [David Loukidelis](https://www.linkedin.com/in/david-loukidelis-bba05449), to go over those recommendations and produce yet another set of **This Time It's For Real** recommendations for her to take **Very, Very Seriously**. Mr. Loukidelis produced [his recommendations](http://www.cio.gov.bc.ca/local/cio/d_loukidelis_report.pdf) on Wednesday, and [the government said](http://thetyee.ca/News/2015/12/16/Loukidelis-Stop-Deleting/) it would "accept them all" (for certain definitions of the words "all" and "accept").
 {: .note }
 
 <img alt="David Loukidelis" style="float: right; padding: 12px;" border="0" width="150" height="215"  src="http://1.bp.blogspot.com/-B0AXkiaWftQ/VnN3gdd-TyI/AAAAAAAAAkk/tG5Beceh7E4/s320/img_09-12_loukidelis.jpg" />
 
-Anyways, I wasn't even through reading the introduction to the [Loukedlis report](http://www.cio.gov.bc.ca/local/cio/d_loukidelis_report.pdf) on the [Denham report](https://www.oipc.bc.ca/investigation-reports/1874) on government information access policy when I hit this line:
+Anyways, I wasn't even through reading the introduction to the [Loukidelis report](http://www.cio.gov.bc.ca/local/cio/d_loukidelis_report.pdf) on the [Denham report](https://www.oipc.bc.ca/investigation-reports/1874) on government information access policy when I hit this line:
 
 > "Nonetheless, some observers have suggested in the wake of the investigation report that all emails should be kept." 
 
@@ -39,7 +39,7 @@ David Loukidelis wants to get it on! Is it on? Oh yes, it's on, baby!
 
 ### Chapter 1: It's too big!
 
-After calling out us "observers", Loukedlis then procedes to lay out his Luddite credentials in full, first by calculating the number of pages represented by the 43 terabytes of annual government emails:
+After calling out us "observers", Loukidelis then procedes to lay out his Luddite credentials in full, first by calculating the number of pages represented by the 43 terabytes of annual government emails:
 
 > "Using the above averages of emails received and sent, each year there would be roughly 426,000,000 pages of received emails and some 129,000,000 pages of sent emails, for a total of roughly 555,000,000 pages of emails. No one would suggest that all emails should be printed, but this gives a sense of the order-of-magnitude implications of the suggestions that, contrary to prudent information management principles, all emails should be kept, or should be vetted by others for retention. The same would be true even if these estimates were reduced by one or even two orders of magnitude, to 55,000,000 pages or 5,500,000 pages."
 
