@@ -44,7 +44,7 @@
     <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 400 }}" />
   {% endif %}
   {% if page.image %}
-    <meta name="twitter:image:src" content="{{ site.url }}/images/{{ page.image }}" />
+    <meta name="twitter:image:src" content="{{ site.url }}{{ site.images }}{{ page.image }}" />
   {% else %}
     <meta name="twitter:image:src" content="{{ site.url }}/public/logo.jpg" />
   {% endif %}
@@ -74,7 +74,7 @@
     <meta property="article:author" content="{{ site.url }}/about.html" />
   {% endif %}
   {% if page.image %}
-    <meta property="og:image" content="{{ site.url }}/images/{{ page.image }}" />
+    <meta property="og:image" content="{{ site.url }}{{ site.images }}{{ page.image }}" />
   {% else %}
     <meta property="og:image" content="{{ site.url }}/public/logo.jpg" />
   {% endif %}
@@ -88,6 +88,5 @@
     <meta property="article:tag" content="{{ tag }}" />
     {% endfor %}
   {% endif %}
-  
-  
+
 </head>

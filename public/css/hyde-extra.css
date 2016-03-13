@@ -15,6 +15,11 @@ img.externalicon {
   margin: 0;
 }
 
+figure.highlight {
+  margin-left: 0;
+  margin-right: 0;
+}
+
 .sidebar-about .lead {
   display: none;
   font-size: 110%;

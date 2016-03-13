@@ -18,12 +18,15 @@ Most "web services" are just method calls that do little more than re-write inpu
 
 Why not cut out the middle man, I say?  I propose the ur-web-service, just deploy this one web service and then Declare Victory in your corporate web services strategy:
 
-https://yourserver.com/db2xml?sql=&lt;your urlencoded SQL here&gt;
+    https://yourserver.com/db2xml?sql=<your urlencoded SQL here>
 
 Returns (for example):
 
-&lt;Rows&gt;<br />&lt;Row type="string" name="first_name"&gt;Paul&lt;/Row&gt;<br />&lt;Row type="string" name="last_name"&gt;Ramsey&lt;/Row&gt;<br />&lt;/Rows&gt;
+    <Rows>
+     <Row type="string" name="first_name">Paul</Row>
+     <Row type="string" name="last_name">Ramsey</Row>
+    </Rows>
 
-For security, pull the HTTP_AUTH_USER and password from the HTTP header and use those to create the database connection, that way all the security beyond simple access is handled by the existing database security layer.
+For security, pull the `HTTP_AUTH_USER` and password from the HTTP header and use those to create the database connection, that way all the security beyond simple access is handled by the existing database security layer.
 
 I think this approach (let's call it the "brain dead approach") re-invents the minimum number of wheels while providing the maximum quantity of data access flexibility.  Perhaps I should write a book; no, a pamphlet; no, a leaflet; no, a business card; on "implementing brain dead web services for the enterprise".

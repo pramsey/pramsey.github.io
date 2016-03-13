@@ -10,7 +10,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2007/06/deadlines-and-such.html
 comments: True
 ---
 
-> "The prospect of one's eminent demise wonderfully clarifies the mind's focus."<br/>
+> "The prospect of one's eminent demise wonderfully clarifies the mind's focus."<br />
 > -- Samuel Johnson
 
 The [FOSS4G 2007](http://2007.foss4g.org/) call for presentations deadline has now come and gone, and never have I seen such a large and varied population of procrastinators assembling in one place.  Check out the profile of submissions by day:

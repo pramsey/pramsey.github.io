@@ -35,7 +35,5 @@ In PostGIS land, Olivier Courtin has blasted a pile of changes into PostGIS trun
 
 Thanks again to our sponsors! In an hour we will be settling in to watch the Canada/USA hockey game on the big screen in the Open Plans penthouse. Go Canada!
 
-<div style="vertical-align:center; text-align:center;" >[<img src="http://farm5.static.flickr.com/4023/4398161023_8b37ecdd58_o.png" alt="Azavea" border="0" />](http://www.azavea.com/)  [<img src="http://farm5.static.flickr.com/4037/4363909195_a73ab7d789_o.jpg" alt="LizardTech" border="0"  />](http://www.lizardtech.com/) [<img src="http://farm5.static.flickr.com/4003/4364650774_9561cfe97a_o.jpg" alt="Coordinate Solutions" border="0" />](http://www.coordinatesolutions.com/) <br/>[<img src="http://farm5.static.flickr.com/4072/4364650828_9b0562e902_o.jpg" alt="OpenGeo" border="0"  />](http://opengeo.org/) [<img src="http://farm5.static.flickr.com/4012/4363909295_d1e4391317_o.jpg" alt="qPublic.net" border="0" />](http://www.qpublic.net/) [<img src="http://farm3.static.flickr.com/2690/4364650934_2305ed4739_o.jpg" alt="Farallon" border="0" />](http://www.fargeo.com/) </div>
-
 **Update:** Canada disappoints! I blame Brodeur.
 

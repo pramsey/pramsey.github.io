@@ -18,11 +18,33 @@ comments: True
 
 <img src="http://farm4.static.flickr.com/3599/3509124316_2d43d395bb.jpg" />
 
-**Update:** I think the magnitude of the evil can only be appreciated if you see the JSP (yep, that's all of it, that's my "middleware"):<pre><br />&lt;%@ taglib uri="http://java.sun.com/jsp/jstl/sql" prefix="sql" %&gt;<br />&lt;%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %&gt;<br />&lt;%@ page contentType="text/x-json" %&gt;
+**Update:** I think the magnitude of the evil can only be appreciated if you see the JSP (yep, that's all of it, that's my "middleware"):
 
-&lt;sql:query var="rs" dataSource="jdbc/postgisdb"&gt;<br />${param.sql}<br />&lt;/sql:query&gt;
+    <%@ taglib uri="http://java.sun.com/jsp/jstl/sql" prefix="sql" %>
+    <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+    <%@ page contentType="text/x-json" %>
 
-{"type":"FeatureCollection",<br /> "features":[<br />&lt;c:forEach var="row" items="${rs.rows}"&gt;<br /> {"type":"Feature",<br />  "geometry":&lt;c:out value="${row.st_asgeojson}" escapeXml="false" /&gt;,<br />  "properties":{<br />  &lt;c:forEach var="column" items="${row}"&gt;<br />   &lt;c:if test="${column.key != 'st_asgeojson'}"&gt;<br />    "&lt;c:out value="${column.key}" escapeXml="false" /&gt;":<br />    "&lt;c:out value="${column.value}" escapeXml="false" /&gt;",<br />   &lt;/c:if&gt;<br />  &lt;/c:forEach&gt;<br />}},<br />&lt;/c:forEach&gt;<br />]}<br /></pre><br />**Update 2:** Yes, I am being a bit sarcastic. Being able to compress the layer between the Javascript and the database into something this narrow is diabolical, and only possible because there is so much smarts in OpenLayers. I, for one, welcome our new hipster Javascript overlords.
+    <sql:query var="rs" dataSource="jdbc/postgisdb">
+    ${param.sql}
+    </sql:query>
+
+    {"type":"FeatureCollection",
+     "features":[
+    <c:forEach var="row" items="${rs.rows}">
+     {"type":"Feature",
+      "geometry":<c:out value="${row.st_asgeojson}" escapeXml="false" />,
+      "properties":{
+      <c:forEach var="column" items="${row}">
+       <c:if test="${column.key != 'st_asgeojson'}">
+        "<c:out value="${column.key}" escapeXml="false" />":
+        "<c:out value="${column.value}" escapeXml="false" />",
+       </c:if>
+      </c:forEach>
+    }},
+    </c:forEach>
+    ]}
+
+**Update 2:** Yes, I am being a bit sarcastic. Being able to compress the layer between the Javascript and the database into something this narrow is diabolical, and only possible because there is so much smarts in OpenLayers. I, for one, welcome our new hipster Javascript overlords.
 
 **Update 3:** The "evil" is passing SQL unmediated from your browser directly into your database. It's fun in a workshop (which is what I wrote this abomination for) but it's not to be let out of the lab, lest global pandemic ensue.
 

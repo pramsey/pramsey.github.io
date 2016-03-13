@@ -16,17 +16,33 @@ Because MySQL has so few functions that actually do anything (see the [note here
 
 Here's a basic spatial join: pull 23 roads from a 3.4M row line table and spatially join to a 66K row tract polygons table, calculating the sum of the areas of tract polygons found. There are spatial indexes on both tables.
 
-<pre>mysql> select sum(area(t.geom)) <br />from tiger_roads_texas r, tiger_tracts t <br />where <br />  mbrintersects(r.geom, GeomFromText('LINESTRING(453084 -1650742,452384 -1650442)')) <br />and <br />  mbrintersects(r.geom,t.geom);
+    mysql> select sum(area(t.geom)) 
+    from tiger_roads_texas r, tiger_tracts t 
+    where 
+      mbrintersects(r.geom, GeomFromText('LINESTRING(453084 -1650742,452384 -1650442)')) 
+    and 
+      mbrintersects(r.geom,t.geom);
 
-+-------------------+<br />| sum(area(t.geom)) |<br />+-------------------+<br />|  1260394420.00453 | <br />+-------------------+<br />1 row in set (9.43 sec)</pre>
+    +-------------------+
+    | sum(area(t.geom)) |
+    +-------------------+
+    |  1260394420.00453 | 
+    +-------------------+
+    1 row in set (9.43 sec)
 
 And in PostGIS:
 
-<pre>tiger=# select sum(area(t.geom)) <br />from tiger_roads_texas r, tiger_tracts t <br />where r.geom && GeomFromText('LINESTRING(453084 -1650742,452384 -1650442)',2163) <br />and r.geom && t.geom;
-
-       sum        <br />------------------<br /> 1260394420.00684<br />(1 row)
-
-Time: 5.574 ms</pre>
+    tiger=# select sum(area(t.geom)) 
+    from tiger_roads_texas r, tiger_tracts t 
+    where r.geom && GeomFromText('LINESTRING(453084 -1650742,452384 -1650442)',2163) 
+    and r.geom && t.geom;
+    
+           sum        
+    ------------------
+     1260394420.00684
+    (1 row)
+    
+    Time: 5.574 ms</pre>
 
 Those are both "hot cache" results, after running them a couple times each.
 

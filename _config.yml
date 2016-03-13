@@ -10,6 +10,7 @@ title:            'Paul Ramsey'
 tagline:          'Open source IT'
 description:      'Open source software developer and information technology professional.<br/>Occasional blowhard.'
 url:              'http://blog.cleverelephant.ca'
+images:           '/images/'
 
 author:
   name:           'Paul Ramsey'
