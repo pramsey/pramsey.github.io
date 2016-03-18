@@ -19,7 +19,7 @@ comments: True
 
 Some days I feel like I'm king of the world, and some days I feel like the weak little fool that I am, and today is one of the latter. 
 
-<div class="separator" style="clear: both; text-align: center;">[<img border="0" src="http://novabrowningrutherford.com/wp-content/uploads/2013/10/sucker.jpg" width=150 />](http://novabrowningrutherford.com/wp-content/uploads/2013/10/sucker.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;)</div>
+<img border="0" src="http://novabrowningrutherford.com/wp-content/uploads/2013/10/sucker.jpg" width=150 style="float: right; margin-bottom: 1em; margin-left: 1em;" />
 
 I have [written](/2013/07/natural-resource-sector-goes-over.html) [previously](/2013/06/bringing-icm-to-natural-resources-sector.html) about the upcoming systems re-write in the British Columbia natural resources sector. This is a big one. Over $100M will be spent on IT services and software. Before you spend that kind of money, you should be clear about what the business value is, about why this big moon-shot of a project is the right thing to do, relative to the other options. 
 
@@ -69,7 +69,7 @@ Oh, frabjous day! Calooh! Calay! [Let's open up our giftie and see what the FOI 
 * The first page of the "narrative" section (with the middle part of that page redacted for "policy advice" reasons).
 * The first page of the "investment context" section (with the end part of that page redacted for "policy advice" reasons).
 
-<div class="separator" style="clear: both; text-align: center;">[<img border="0" src="http://3.bp.blogspot.com/-aTIcDDKVJ_Q/VFkr8pBMcDI/AAAAAAAAAO0/E-Vdql64D-U/s400/screenshot_144.png" />](http://s3.cleverelephant.ca/FNR-2014-00169.PDF" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;)</div>
+<img border="0" src="http://3.bp.blogspot.com/-aTIcDDKVJ_Q/VFkr8pBMcDI/AAAAAAAAAO0/E-Vdql64D-U/s400/screenshot_144.png" style="float: right; margin-bottom: 1em; margin-left: 1em;" />
 
 That's it! **The remaining 185 pages of this 204 page business case are withheld!** You want to know the reasoning behind the expenditure of over $100M on IT services and software? Too f\*\*\*ing bad, chump. 
 
