@@ -10,7 +10,11 @@ blogger_orig_url: http://blog.cleverelephant.ca/2011/06/it-revolution.html
 comments: True
 ---
 
-Back when I first started working in the British Columbia government, in 1993, there existed a Crown Corporation called "BC Systems Corporation", BCSC. Through the 1980s, major pieces of government operations (timber tenuring, financial tracking, health insurance) had been computerized using the finest technology of the era (mostly mainframes) and BCSC had grown up as the central IT branch of the government. They ran the big machines, the terminals that accessed them and were taking on the newfangled PCs increasingly showing up on the desks of drones like me (I answered correspondence, there still being a brisk trade in "mail" at the time).  The extent to which BCSC was wedded to the technology of the previous era can best be understood by noting that one of their last major accomplishments was writing a web browser, [Charlotte](http://edurealm.tripod.com/browsers.htm), for the 3270 green-screen terminal.
+Back when I first started working in the British Columbia government, in 1993, there existed a Crown Corporation called "BC Systems Corporation", BCSC. Through the 1980s, major pieces of government operations (timber tenuring, financial tracking, health insurance) had been computerized using the finest technology of the era (mostly mainframes) and BCSC had grown up as the central IT branch of the government. 
+
+They ran the big machines, the terminals that accessed them and were taking on the newfangled PCs increasingly showing up on the desks of drones like me (I answered correspondence, there still being a brisk trade in "mail" at the time).  
+
+The extent to which BCSC was wedded to the technology of the previous era can best be understood by noting that one of their last major accomplishments was writing a web browser, [Charlotte](http://edurealm.tripod.com/browsers.htm), for the 3270 green-screen terminal.
 
 <center><img src="http://wahsegavalleyfarm.typepad.com/.a/6a00d83519315253ef0120a52932e6970c-400wi"></center>
 
@@ -20,11 +24,11 @@ And so the process began anew. Just as BCSC had stitched together systems from m
 
 A new wrinkle was added this time around though, in that rather than centralizing entirely to another agency, many of the services were centralized and then bundled off to outside companies. So desktop support was re-centralized and taken over by IBM. The result has been service just as poor as the old days (worse, in fact! back in the BCSC days there was a PC tech co-located right on our office floor, a luxury most government workers could hardly imagine now) with prices just as high.
 
-BCSC was blown up when Ministries realized that they could provide the same services for themselves that BCSC did using PCs, and started doing so. Once the mainframe boys weren't necessary any more, they were dispensed with, joyfully. Ministries wanted to Get Things Done, and the main role of BCSC was to say You Can't Do That.
+BCSC was blown up when Ministries realized that they could provide the same services for themselves that BCSC did using PCs, and started doing so. Once the mainframe boys weren't necessary any more, they were dispensed with, joyfully. Ministries wanted to **Get Things Done**, and the main role of BCSC was to say **You Can't Do That**.
 
-Today we have another round of folks saying You Can't Do That. The desktop outsource vendor says you can't have a new computer, and if you do get one, you can't install any software on it. The server outsource vendor says you can't afford a system to run your code on. Or if you can, then you need to go through a three month process to get the server first. And the CIO's office says you can't run that programming language because it's not government standard.
+Today we have another round of folks saying **You Can't Do That**. The desktop outsource vendor says you can't have a new computer, and if you do get one, you can't install any software on it. The server outsource vendor says you can't afford a system to run your code on. Or if you can, then you need to go through a three month process to get the server first. And the CIO's office says you can't run that programming language because it's not government standard.
 
-And here comes the cloud. Just as the PC freed the Ministries from the mainframe boys, the cloud is going to free folks from IT once again. Need a web site? Need a small system? Maybe an App Engine deployment. Need some data processing? Maybe an EC2 server will do the trick. It's all well under credit card spending limits. (My first government supervisor, bless her heart, bought me a copy of MS Access on her department credit card so I could avoid the All Databases Must Be Oracle directive and actually Get Some Work Done On My Computer).
+And here comes the cloud. Just as the PC freed the Ministries from the mainframe boys, the cloud is going to free folks from IT once again. Need a web site? Need a small system? Maybe an App Engine deployment. Need some data processing? Maybe an EC2 server will do the trick. It's all well under credit card spending limits. (My first government supervisor, bless her heart, bought me a copy of MS Access on her department credit card so I could avoid the **All Databases Must Be Oracle** directive and actually **Get Some Work Done On My Computer**).
 
 The revolution is coming, it'll start quiet, but it'll get ugly. Hopefully soon.
 
