@@ -34,4 +34,4 @@ Well, they did it, or seem to have done, and the result is [digital.cabinetoffic
 
 The intent is clearly to create a new centre of mass of government IT, with a more innovative and web-oriented culture, and from there push out into the line ministries over time, rather than trying to alter the whole IT culture in one go. In 20 years, will the IT leadership of the UK be made up of digital.cabinetoffice.gov.uk alumni?
 
-**Update: **Check out their [design principles](https://www.gov.uk/designprinciples).
+**Update:** Check out their [design principles](https://www.gov.uk/designprinciples).

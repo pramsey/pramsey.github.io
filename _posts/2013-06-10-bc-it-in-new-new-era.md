@@ -23,7 +23,7 @@ The big tell is in today's detailed [news release on the new cabinet](http://www
 
 **Tell #1**: Bette-Jo Hughes becomes the CIO. No longer acting (?), the architect of the IBM desktop services (we use the term loosely) agreement continues at the OCIO. So, continuity of policy in the boring but important worlds of procurement and standards, and presumably in major initiatives like the BC ID card as well.
 
-**Tell #2**: Former CIO Dave Nikolejsin is plucked from purgatory at the Environmental Assessment Office and plunked down as DM of Energy and Mines (and** Core Review**). This one I think is far more interesting.
+**Tell #2**: Former CIO Dave Nikolejsin is plucked from purgatory at the Environmental Assessment Office and plunked down as DM of Energy and Mines (and **Core Review**). This one I think is far more interesting.
 
 The "core review" gets to poke its fingers into any and every program in government. What will the man who brought us [ICM](/2012/06/more-icm.html), the [BC Services Card](http://www2.gov.bc.ca/gov/topic.page?id=98CEBFB7201143378046AC4AE5F0B9DE), and the upcoming "one stop" natural resources system rebuild do when placed in charge of a review of **all government programs**?
 

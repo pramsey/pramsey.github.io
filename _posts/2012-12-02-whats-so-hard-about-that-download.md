@@ -159,9 +159,9 @@ This is awesome. OK, back to the FTP client!
 
 So, the anonymous FTP directory where the jobs are landing is not readable (by anyone). Oh, and serious demerits for running an FTP server on Windows (NT!).
 
-The whole data warehouse/data distribution thing substantially pre-dates open data, and actually one of the reasons it (a) exists and (b) is so f***ing terrible is because at the time it was conceived and designed BC was still trying to **sell** GIS data, so the distribution system has crazy layers of security and differentiation between free and non-free data (even though it still forces you to go through "checkout" for free data (which all data now is)).
+The whole data warehouse/data distribution thing substantially pre-dates open data, and actually one of the reasons it (a) exists and (b) is so f\*\*\*ing terrible is because at the time it was conceived and designed BC was still trying to **sell** GIS data, so the distribution system has crazy layers of security and differentiation between free and non-free data (even though it still forces you to go through "checkout" for free data (which all data now is)).
 
-My request was for only 50Mb of data, and the system is (theoretically) willing to give it to me in one chunk. If I had wanted to access all of TRIM (the 1:20 BC planimetric base map product) I would be, as the French say, "up sh** creek".
+My request was for only 50Mb of data, and the system is (theoretically) willing to give it to me in one chunk. If I had wanted to access all of TRIM (the 1:20 BC planimetric base map product) I would be, as the French say, "up sh\*\* creek".
 
 The current process is also, clearly, not amenable to automation. If I wanted to regularly download a volatile data set, I would also be, as in the German proverb, FUBAR.
 
