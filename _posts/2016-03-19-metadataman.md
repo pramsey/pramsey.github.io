@@ -81,7 +81,7 @@ The [Ministry argued](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/citz_sub
 The size and detail in [Ministry response](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/citz_submission/Initials%20Final.pdf) were the first hint of just how uneven this field of battle was going to be. 
 
 * The Ministry fielded real, live lawyers, whose full-time job is to argue FOI cases. 
-* They took actual affadavits from staff and submitted them as evidence.
+* They took actual affidavits from staff and submitted them as evidence.
 * They cited relevant case law from both courts and previous FOI cases.
 * They double-spaced it all and neatly numbered every paragraph!
 
