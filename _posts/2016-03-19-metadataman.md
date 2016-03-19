@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Metadata Man'
+title: 'I am Metadata Man'
 date: '2016-03-19T03:00:00-08:00'
 modified_time: '2016-03-19T03:00:00-08:00'
 author: Paul Ramsey
