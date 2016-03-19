@@ -78,7 +78,7 @@ Section 43 is supposed to protect public bodies from harassment. For example, if
 
 The [Ministry argued](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/citz_submission/Initials%20Final.pdf) that they would have to manually review every line of the log files prior to release, and since the log files were 100's of millions of lines long, obviously that was an undue burden, so, "go away, Metadata Man!".
 
-The [Ministry response](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/citz_submission/Initials%20Final.pdf) was the first hint of just how uneven the field of this battle was going to be. 
+The size and detail in [Ministry response](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/citz_submission/Initials%20Final.pdf) were the first hint of just how uneven this field of battle was going to be. 
 
 * The Ministry fielded real, live lawyers, whose full-time job is to argue FOI cases. 
 * They took actual affadavits from staff and submitted them as evidence.
