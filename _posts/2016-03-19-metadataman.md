@@ -140,7 +140,7 @@ After over **two years of process**, my bulk request for the email server logs w
 
 However, within the ashes of defeat the seeds of a few victories could be found blooming.
 
-The OIPC did not rule that all email log requests could rejected, only those for which it was not possible to purge private information.
+The OIPC did not rule that all email log requests could be rejected, only those for which it was not possible to purge private information.
 
 > To be clear, my conclusion does not mean that metadata in the Logs can never be disclosed under FIPPA. The breadth of the applicant’s request means that the volume of responsive information allows patterns to be discerned that make disclosure in this particular case an unreasonable invasion of personal privacy. In a smaller subset of the same type of information, such patterns may not be so easily discerned so the personal privacy issues may be different.
 > <br />&mdash; Hamish Flanagan, OIPC, [Order F15-63](https://www.oipc.bc.ca/orders/1887#page=15)
