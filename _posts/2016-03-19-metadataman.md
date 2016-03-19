@@ -112,7 +112,7 @@ To the staff in BC Stats who got to step out of the ordinary day-to-day grind an
 
 My case was getting harder to argue, but not impossible. There was definitely some provable personal information in the corpus, but the Ministry was still unable to point to any particular record and say "there! that is personal and private". They were stuck hand-waving at potential "patterns of information" that **might** be there.
 
-So [my counter-argument](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/F14-58135-ramsey-response.pdf#page=9) acknowledged that while there might be **some** personal information in the data, the **public interest** in being able to monitor the actions of government (things like [deleting emails](/2016/03/fall-guy.html), and so on) **out-weighed** the private interest in keeping these this-far-unproven data patterns private.
+So [my counter-argument](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/F14-58135-ramsey-response.pdf#page=9) acknowledged that while there might be **some** personal information in the data, the **public interest** in being able to monitor the actions of government (things like [deleting emails](/2016/03/fall-guy.html), and so on) **out-weighed the private interest** in keeping these thus-far-unproven data patterns private.
 
 > The message tracking logs are an important example of a government record, in that they are a huge corpus of data which should, because of their uncontroversial nature (from, to, date, id) be immediately releasable, but because of the possibility of personal information patterns, have become subject to this contentious process. 
 >
