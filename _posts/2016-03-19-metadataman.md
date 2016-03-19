@@ -100,7 +100,7 @@ If Section 22 can be found to apply to records in the log file, then the Ministr
 
 The trouble with that argument, from the Ministry's point of view, is that any given record is completely anodyne: "John sent an e-mail to Jim on February 13, 2013". 
 
-So they set about finding true example of personal information in the data, by having BC Statistics run network analyses on the log files and [comment on the network diagram](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/Aff%20Monkman%20severed.pdf).
+So they set about finding true examples of personal information in the data, by having BC Statistics run network analyses on the log files and [comment on the network diagram](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/Aff%20Monkman%20severed.pdf).
 
 > From my review of the diagram, reporting structures are evident. In addition, relationships with individual outside the BC public service become evident. These may be business relationships or personal correspondance.
 > 
