@@ -107,7 +107,7 @@ So they set about finding true examples of personal information in the data, by 
 > In my opinion, the graph also begins to hint at the sensitive information that might be revealed in this data set. In the lower centre, an individual has sent an email to "Fitness Centre". There may be other accounts in government of a much more sensitive nature.
 > <br />&mdash; [Brad Williams Affidavit #1](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/AFF%20Williams%20sworn%20Apr%2010-15.pdf)
 
-To the staff in BC Stats who got to step out of the ordinary day-to-day grind and do network and relationship analyses to feed this process, depending on your level of intellectual curiousity: "your welcome"; or, "sorry".
+To the staff in BC Stats who got to step out of the ordinary day-to-day grind and do network and relationship analyses to feed this process, depending on your level of intellectual curiousity: "you're welcome"; or, "sorry".
 {: .note }
 
 My case was getting harder to argue, but not impossible. There was definitely some provable personal information in the corpus, but the Ministry was still unable to point to any particular record and say "there! that is personal and private". They were stuck hand-waving at potential "patterns of information" that **might** be there.
