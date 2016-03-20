@@ -33,7 +33,7 @@ attended with about 40 other hackers on
 [PgPointCloud](http://github.com/pgpointcloud) etc.
 
 Paul Norman got set up to do PostGIS development and crunched through a
-number couple feature enhancements. The [feature enhancement ideas](https://wiki.osgeo.org/wiki/Paris_Code_Sprint_2016_:_PostGIS_Agenda) were
+number of feature enhancements. The [feature enhancement ideas](https://wiki.osgeo.org/wiki/Paris_Code_Sprint_2016_:_PostGIS_Agenda) were
 courtesy of [Remi Cura](https://github.com/Remi-C), who brought in some great power-user ideas for
 making the functions more useful. As developers, it is frequently hard
 to distinguish between features that are interesting to **us** and features
