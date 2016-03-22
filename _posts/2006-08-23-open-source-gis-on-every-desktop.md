@@ -32,7 +32,7 @@ uDig has enough features and stability to be useful right now to a narrow pool o
 
 And that's fine with me.   
 
-If Steven adopted uDig and [PostGIS](http://postgis.refractions.net) for his shop, it would not do a thing for my bottom line.  But if he built an application around it, he would either add a little functionality (which would help me with my clients) or maybe hire us to add a little functionality (which would help the bottom line directly).
+If Steven adopted uDig and [PostGIS](http://postgis.net) for his shop, it would not do a thing for my bottom line.  But if he built an application around it, he would either add a little functionality (which would help me with my clients) or maybe hire us to add a little functionality (which would help the bottom line directly).
 
 Open source is not about users, it is about developers. It is only about users in so far as users become sufficiently engaged in the project that they either become developers themselves, or support developers through careful bug finding or documentation.
 

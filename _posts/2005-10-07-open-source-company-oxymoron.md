@@ -10,9 +10,9 @@ blogger_orig_url: http://blog.cleverelephant.ca/2005/10/open-source-company-oxym
 comments: True
 ---
 
-People seem surprised when I tell them that [our company](http://www.refractions.net/) does open source development and has a couple of large open source projects ([PostGIS](http://postgis.refractions.net/) and [uDig](http://udig.refractions.net/)). They have a very valid reason for their surprise: there seems to be no reasonable way such projects could make money. In fact, they seem destined to lose money. Lots of it.
+People seem surprised when I tell them that [our company](http://www.refractions.net/) does open source development and has a couple of large open source projects ([PostGIS](http://postgis.net/) and [uDig](http://udig.refractions.net/)). They have a very valid reason for their surprise: there seems to be no reasonable way such projects could make money. In fact, they seem destined to lose money. Lots of it.
 
-Superficially, I cannot help but agree. When I think back on the profile of clients we have added over the past several years, there does not seem to be that much work that ties back directly to either [uDig](http://udig.refractions.net/) or [PostGIS](http://postgis.refractions.net/). And yet, the company has been growing pretty steadily over that same time period, and the number of people working on the open source code in one way or another has also been growing. So clearly something is afoot.
+Superficially, I cannot help but agree. When I think back on the profile of clients we have added over the past several years, there does not seem to be that much work that ties back directly to either [uDig](http://udig.refractions.net/) or [PostGIS](http://postgis.net/). And yet, the company has been growing pretty steadily over that same time period, and the number of people working on the open source code in one way or another has also been growing. So clearly something is afoot.
 
 I think the answer is in the nature of a consulting company, which is what we are. Ordinarily (open source excluded) our business procedes lock step with the relationships we can develop with current and potential clients. Those relationships lead to referrals, to more work, and so on. The currency of the relationship is competence and trust. We demonstrate our competence and trustworthyness on a project, and gain a referral.
 

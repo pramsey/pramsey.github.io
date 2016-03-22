@@ -14,7 +14,7 @@ I've spent a fair amount of time over the last month re-doing three web sites:
 
 * the [Refractions](http://www.refractions.net/) site;
 * the [uDig](http://udig.refractions.net/) site; and,
-* the [PostGIS](http://postgis.refractions.net/) site.
+* the [PostGIS](http://postgis.net/) site.
 
 Some of it, like the PostGIS site, has been easy, simply re-skinning the existing content (though I'm anticipating reworking the content there to make it more newbie friendly and harmonized).  Other bits, like the uDig site, are brand new, and include some big additions like a gallery of projects using uDig.  And the Refractions site includes piles of new content like case studies, that have taken many days to write up. And I'm only about 50% through my list of candidates.
 

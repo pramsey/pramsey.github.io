@@ -12,6 +12,6 @@ comments: True
 
 It is still early days for registration at [FOSS4G](http://2007.foss4g.org/), but one trend is showing up loud and clear &mdash; workshops are popular. Most of the registrants so far have chosen to attend the [Monday hands-on workshops](http://2007.foss4g.org/workshops/). Taking that trend forward, it means the popular workshops will fill up fast, so putting off registration is a good way to lose out on going to workshops.
 
-[<img src="http://postgis.refractions.net/img/foss4g.gif" hspace="5" vspace="5" border="0" />](http://2007.foss4g.org/)
+<img src="http://2007.foss4g.org/img/foss4g.gif" hspace="5" vspace="5" border="0" />
 
 If you want your pick of the workshop crop, [register now](http://2007.foss4g.org/register/)! Space is literally limited, we only have 240 lab seats to work with.

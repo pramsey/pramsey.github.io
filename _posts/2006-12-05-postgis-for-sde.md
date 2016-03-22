@@ -26,6 +26,6 @@ The cynical explanation (get this out of the way first) is that it helps break t
 
 The practical explanation is that ESRI's ST_GEOMETRY for Oracle implements the same semantics and function signatures as the ST_GEOMETRY objects in DB2 and Informix (coincidentally, also implemented in part by ESRI).  This allows ArcSDE to expose a uniform "raw spatial SQL" to clients while still maintaining it's position as the man-in-the-middle of client/server interaction.  Adding ST_GEOMETRY further reinforces the "database neutral" aspect of ArcSDE by allowing spatial SQL without [exposing the differences](http://www.spatialdbadvisor.com/source_code) between the SDO_GEOMETRY function signatures and the ST_GEOMETRY ones.
 
-So where does that leave PostGIS?  *Removing the practical excuses for not using PostGIS as the underlying geometry type as fast as possible.*  We have looked up the function signatures used by ArcSDE and [implemented them](http://postgis.refractions.net/pipermail/postgis-devel/2006-December/002391.html) for the 1.1.7 release.
+So where does that leave PostGIS?  *Removing the practical excuses for not using PostGIS as the underlying geometry type as fast as possible.*  We have looked up the function signatures used by ArcSDE and [implemented them](http://lists.osgeo.org/pipermail/postgis-devel/2006-December/002391.html) for the 1.1.7 release.
 
 If anyone on the ArcSDE team reads this and wants to talk about what else is needed to make PostGIS the default geometry type for ArcSDE-on-PostgreSQL, get in touch. We aim to please.

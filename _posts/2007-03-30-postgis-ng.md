@@ -14,7 +14,7 @@ PostGIS has been around for a surprisingly long time now, over five years, and h
 
 Here are some things that I think it would be wise to pursue going forward:
 
-* Complete SQL/MM support. We already have a [good deal](http://postgis.refractions.net/docs/ch06.html#id3062986) of it, to provide compatibility with SDE (should SDE wish to provide spatial SQL access to PostGIS).  We will need to complete curve support to get substantially closer.
+* Complete SQL/MM support. We already have a [good deal](http://postgis.net/docs/) of it, to provide compatibility with SDE (should SDE wish to provide spatial SQL access to PostGIS).  We will need to complete curve support to get substantially closer.
 * Clean up function names, deprecate old OGC function names and move to using XX_ prefixes to define where the functions come from.  ST_ for SQL/MM, SE_ for SDE-specific, PGIS_ for PostGIS specific, etc.
 * Automagic indexes. Wrap all the ST_ functions in index magic so that Contains(A,B) kicks in the index automatically.
 * Automagic geographic support. More controversially, recognize when simple spatial ops are being called on lat/lon features and apply appropriate translations to do them in a planar system, or on a sphere/spheroid. The danger here is that in pleasing the crowd, we will quietly confuse a small number of people for whom the automagic assumptions are wrong.

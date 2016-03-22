@@ -14,7 +14,7 @@ Or, perhaps they *avoid* the worm... it all depends on what you think the worm i
 
 Regardless, the early discounted [registration](http://2007.foss4g.org/register/) rates **end on Friday** and that means a big bump up in cost for those who do their registration at the last minute. Before the deadline, conference registration is just $395CAD; after Friday July 27, registration is $565CAD.
 
-<img src="http://postgis.refractions.net/img/foss4g.gif" width="180" height="150" border="0" alt="FOSS4G 2007" />
+<img src="http://2007.foss4g.org/img/foss4g.gif" width="180" height="150" border="0" alt="FOSS4G 2007" />
 
 Some statistical conference notes:
 

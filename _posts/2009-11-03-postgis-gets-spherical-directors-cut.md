@@ -18,7 +18,7 @@ For a business oriented discussion of the new `GEOGRAPHY` type, see [my post on 
 
 If you are running Windows, please follow the directions on the [Windows experimental binaries](http://postgis.net/download/windows/experimental.php) download page on the PostGIS site. Note that these builds might not be the absolute latest versions available.
 
-If you are running Linux, fetch the latest code from SVN (svn checkout http://svn.osgeo.org/postgis/trunk postgis-svn) and then follow the [install instructions](http://postgis.refractions.net/documentation/manual-svn/ch02.html#PGInstall).
+If you are running Linux, fetch the latest code from SVN (svn checkout http://svn.osgeo.org/postgis/trunk postgis-svn) and then follow the [install instructions](http://postgis.net/docs/manual-svn/ch02.html#PGInstall).
 
 After installing, you should find the usual `postgis.sql` file which contains the old geometry and now the new geography features too. Install PostGIS and spatial reference information as usual:
 

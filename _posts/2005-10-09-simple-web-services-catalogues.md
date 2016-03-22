@@ -28,7 +28,7 @@ For example, if you want a quick raw listing of spatial web services, try this l
 
 Instant gratification, and you did not have to read a single page of the CSW standard!
 
-With a little [Perl](http://www.perl.org/), some [PostgreSQL](http://www.postgresql.org/) and [PostGIS](http://postgis.refractions.net/) you can turn the results of the above into a neat layer-by-layer database and allow people to query it with a very simple URL-based API:
+With a little [Perl](http://www.perl.org/), some [PostgreSQL](http://www.postgresql.org/) and [PostGIS](http://postgis.net/) you can turn the results of the above into a neat layer-by-layer database and allow people to query it with a very simple URL-based API:
 
     http://udig.refractions.net/search/google-xml.php?keywords=robin&xmin=-180&ymin=-90&xmax=180&ymax=90
 
