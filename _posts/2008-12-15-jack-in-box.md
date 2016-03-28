@@ -26,7 +26,7 @@ The subtext is that ESRI is not so interested in controlling the whole stack, so
 
 Shades of Microsoft, an enjoyable icing of [FUD](http://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt), and a roadmap for open source competitors, should they be willing to follow it.
 
-<div style="margin:4px;float:right;text-align:center;"><img width=187 height=300 src="http://www.oreillynet.com/oscon2002/graphics/jc5_01.jpg"><br/><small>Would you buy software<br/>from this man?</small></div>
+<div style="margin:4px;float:right;text-align:center;"><img width="187" height="300" src="http://www.oreillynet.com/oscon2002/graphics/jc5_01.jpg"><br/><small>Would you buy software<br/>from this man?</small></div>
 
 We start with "it's a political movement", almost a non-sequitur, but the point is to tie open source in readers' minds to very political folks like [Richard Stallman](http://en.wikipedia.org/wiki/Richard_Stallman), the Barry Goldwater ("extremism in the defense of liberty is no vice") of open source.  This is much in the tradition of Microsoft's early positioning against open source, which was to highlight the [GPL](http://www.gnu.org/copyleft/gpl.html) and [Free Software Foundation](http://www.fsf.org/) as much as possible -- pick the face most objectionable to mainstream customers, point and say "that there is open source, you really want some of that?!"
 

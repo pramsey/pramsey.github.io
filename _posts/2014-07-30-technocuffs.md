@@ -15,7 +15,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2014/07/technocuffs.html
 comments: True
 ---
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/e/e3/Police_handcuffs_alt.jpg" width=220 style="float:right; padding:7px;"/>
+<img src="http://upload.wikimedia.org/wikipedia/commons/e/e3/Police_handcuffs_alt.jpg" width="220" style="float:right; padding:7px;" />
 
 Bill Dollins wrote an [excellent paean to the positive aspects of vendor lock-in](http://blog.geomusings.com/2014/07/24/lock-in/), which is worth a few minutes of your time:
     

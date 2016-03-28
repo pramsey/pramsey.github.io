@@ -25,7 +25,7 @@ Here's the wordle of my keynote.
 
 The folks at the KU Natural History Museum invited me and Howard over to talk about open source and their plans for open sourcing their collections-management software, [Specify](http://www.specifysoftware.org/Informatics/informaticsspecify/).  They were also kind enough to give us a short tour of their holdings, which are incredible &ndash; four floors of climate controlled racks of bottles of specimens, and that was just the fish and frogs!  We also got to see a coelacanth, the "fossil fish", unchanged over 40M years.
 
-<img src="http://www.abc.net.au/reslib/200705/r144892_506271.jpg" width=420 height=212 />
+<img src="http://www.abc.net.au/reslib/200705/r144892_506271.jpg" width="420" height="212" />
 
 Thanks to Josh Campbell, Xan Wedell and all the other GIS Day organizers who showed me and the other presenters such hospitality.
 

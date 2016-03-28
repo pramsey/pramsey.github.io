@@ -16,7 +16,7 @@ comments: True
 
 Most IT professionals have some expectation, having received a basic education on relational data modelling, that a model for a medium sized problem might look like this:
 
-<img src="http://lecture.cs.buu.ac.th/~piya/StudyWork/E-Commerce/All_diagram/ER%20Diagram/ER%20Diagram.jpg" width=500 /> 
+<img src="http://lecture.cs.buu.ac.th/~piya/StudyWork/E-Commerce/All_diagram/ER%20Diagram/ER%20Diagram.jpg" width="500" /> 
 
 Why is it, then, that production GIS data flows so consistently produce models that look like this:
 

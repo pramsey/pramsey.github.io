@@ -126,7 +126,7 @@ The population is concentrated in two centers (Terrace and Kitimat) reasonably f
 
 In mathematical terms, the formula for "dispersion" looks like this. 
 
-<img border="0" style="width=236px; height:86px;" src="http://2.bp.blogspot.com/-roQEplqg67M/UonEy5JJRcI/AAAAAAAAAHA/h5p6cc3a9BU/s400/gif-1.latex.gif" />
+<img border="0" style="width:236px; height:86px;" src="http://2.bp.blogspot.com/-roQEplqg67M/UonEy5JJRcI/AAAAAAAAAHA/h5p6cc3a9BU/s400/gif-1.latex.gif" />
 
 In the database, after creating a table of census blocks that are coded by riding, the calculation looks like this. 
 
