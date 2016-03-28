@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Parallel PostGIS'
-date: '2016-03-26T12:00:00-08:00'
-modified_time: '2016-03-26T12:00:00-08:00'
+date: '2016-03-28T12:00:00-08:00'
+modified_time: '2016-03-28T12:00:00-08:00'
 author: Paul Ramsey
 category: technology
 tags:
