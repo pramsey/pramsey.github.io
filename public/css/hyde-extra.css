@@ -20,6 +20,11 @@ figure.highlight {
   margin-right: 0;
 }
 
+.content {
+  padding-top:    2rem;
+  padding-bottom: 2rem;
+}
+
 .sidebar-about .lead {
   display: none;
   font-size: 110%;
@@ -27,6 +32,7 @@ figure.highlight {
 
 .sidebar {
   background-color: #265a87;
+  padding: 1.5rem 1rem;
 }
 
 .sidebar-nav-item {
@@ -44,6 +50,7 @@ li.sidebar-nav-item + li.sidebar-nav-item::before {
 
 .sidebar-about h1 {
   font-family: "PT Sans", "Abril Fatface", serif;
+  font-size: 2.5rem;
 }
 
 ul.sidebar-nav {
@@ -62,8 +69,21 @@ ul.sidebar-nav {
 
 @media (min-width: 48em) {
 
+  .content {
+    padding-top:    4rem;
+    padding-bottom: 4rem;
+  }
+
+  .sidebar {
+    padding: 2rem 1rem;
+  }
+
   .sidebar-about .lead {
     display: block;
+  }
+
+  .sidebar-about h1 {
+    font-size: 3.25rem;
   }
 
   .post-navigation  {
