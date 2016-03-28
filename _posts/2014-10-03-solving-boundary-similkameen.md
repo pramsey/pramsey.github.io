@@ -23,7 +23,7 @@ On the face of it, this is no problem, the other ridings in the region have exce
 
 Here's what the situation looks like now: 
 
-<img width=550 border="0" src="http://4.bp.blogspot.com/-4J1MuY3f6do/VC8VsnpwkHI/AAAAAAAAAOU/qwIzx45DL-Q/s1600/boundary-similkameen.png" />
+<img width="550" border="0" src="http://4.bp.blogspot.com/-4J1MuY3f6do/VC8VsnpwkHI/AAAAAAAAAOU/qwIzx45DL-Q/s1600/boundary-similkameen.png" />
 
 The commission cannot take population from the east or west, those are both protected regions, the only direction to go is north. But, to the north is Penticton, with a population of 33,000. The whole of Penticton cannot be added, the only way to balance Boundary-Similkameen is going to be splitting Penticton in half. 
 
