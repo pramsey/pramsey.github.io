@@ -23,7 +23,7 @@ On the face of it, this is no problem, the other ridings in the region have exce
 
 Here's what the situation looks like now: 
 
-<div class="separator" style="clear: both; text-align: center;">[<img width=550 border="0" src="http://4.bp.blogspot.com/-4J1MuY3f6do/VC8VsnpwkHI/AAAAAAAAAOU/qwIzx45DL-Q/s1600/boundary-similkameen.png" />](http://4.bp.blogspot.com/-4J1MuY3f6do/VC8VsnpwkHI/AAAAAAAAAOU/qwIzx45DL-Q/s1600/boundary-similkameen.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;)</div>
+<img width=550 border="0" src="http://4.bp.blogspot.com/-4J1MuY3f6do/VC8VsnpwkHI/AAAAAAAAAOU/qwIzx45DL-Q/s1600/boundary-similkameen.png" />
 
 The commission cannot take population from the east or west, those are both protected regions, the only direction to go is north. But, to the north is Penticton, with a population of 33,000. The whole of Penticton cannot be added, the only way to balance Boundary-Similkameen is going to be splitting Penticton in half. 
 
@@ -31,4 +31,4 @@ Splitting communities in half, particularly small ones that are much smaller in 
 
 If the commission were drawing borders without the artificial restriction of the protected regions, it would be possible for Boundary-Similkameen to discard some of it's communities on the east and west edges (into underpopulated ridings that need the help) and transform into a simple north-south oriented riding running from Penticton down to the US border. 
 
-However, that's not on. It's not the only conundrum the commission will be wrestling with, either. </p>
+However, that's not on. It's not the only conundrum the commission will be wrestling with, either.
