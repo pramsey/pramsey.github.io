@@ -34,7 +34,7 @@ For testing, I used the set of **69534** [polling divisions](http://geogratis.gc
 
     shp2pgsql -s 3347 -I -D -W latin1 PD_A.shp pd | psql parallel
 
-It's worth noting that this data set is, in terms of *number of rows* very very small in database terms. This will become important as we explore the behaviour of the parallel processing, because the assumptions of the PostgreSQL developers about what constitutes a "parallelizable load" might not match our assumptions in the GIS world.
+It's worth noting that this data set is, in terms of *number of rows* very very small as databases go. This will become important as we explore the behaviour of the parallel processing, because the assumptions of the PostgreSQL developers about what constitutes a "parallelizable load" might not match our assumptions in the GIS world.
 
 With the data loaded, we can do some tests on parallel query. Note that there are some new configuration options for parallel behaviour that will be useful during testing:
 
@@ -69,7 +69,7 @@ And the answer we get back is:
        ->  Seq Scan on pd  
        (cost=0.00..14619.01 rows=23178 width=0) 
        (actual time=0.160..747.161 rows=62158 loops=1)
-             Filter: (st_area(geom) > '10000'::double precision)
+             Filter: (st_area(geom) > 10000)
              Rows Removed by Filter: 7376
      Planning time: 0.137 ms
      Execution time: 757.553 ms
@@ -81,7 +81,7 @@ Two things we can learn here:
 
 Now we have a number of options to fix this problem:
 
-* We can force parallelism using `SET force_parallel_mode=on`, or
+* We can force parallelism using `force_parallel_mode`, or
 * We can force parallelism by decreasing the `parallel_setup_cost`, or
 * We can adjust the cost of `ST_Area()` to try and get the planner to do the right thing automatically.
 
@@ -114,7 +114,7 @@ Now the query plan for our filter is much improved:
                ->  Parallel Seq Scan on pd  
                    (cost=0.00..19463.96 rows=7477 width=0) 
                    (actual time=0.154..331.815 rows=15540 loops=4)
-                     Filter: (st_area(geom) > '10000'::double precision)
+                     Filter: (st_area(geom) > 10000)
                      Rows Removed by Filter: 1844
     Planning time: 0.145 ms
     Execution time: 349.345 ms
