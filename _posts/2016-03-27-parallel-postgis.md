@@ -377,6 +377,8 @@ Unfortunately without the index operator the query is so inefficient it doesn't 
              (cost=0.00..1275.34 rows=69534 width=40)
 
 So, thus far, parallel query seems to be a wet squib for PostGIS, though I hope with some help from PostgreSQL core we can figure out where the problem lies.
+
+**UPDATE:** Marking the `geometry_overlaps` function which is bound to the `&&` operator as `PARALLEL SAFE` allows PostgreSQL to generate parallel join plans when the index is in place. 
     
 ## Conclusions
 
