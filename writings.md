@@ -32,7 +32,7 @@ Most of my writings start out (and remain) as long-form blog posts, but in blog 
 I deliver keynote presentations to different conferences, usual geospatial ones, once or twice a year, and the odds of getting a good recording have been going up lately. Here are some of my favourites.
 
 * [The Future and All That](https://vimeo.com/149429837) [20m] A quick year-end retrospective and view into the panopticon that is in all of our futures.
-* [The Unknowns: A Managers Guide to Open Source](http://www.youtube.com/watch?v=jUgiG6eaYtI) [48m] An easy introduction to what open source is, and the practical reasons for considering it in your organization.
+* [The Unknowns: A Managers Guide to Open Source](https://www.youtube.com/watch?v=jUgiG6eaYtI) [48m] An easy introduction to what open source is, and the practical reasons for considering it in your organization.
 * [PostGIS Gotchas](https://www.youtube.com/watch?v=GSuZP89UdGs) [40m] For the database-oriented, there are some surprises in store as you get started with PostGIS and geospatial data. Learn more here!
 * [Where do we go from here? A future of open source geospatial](https://vimeo.com/142334723) [20m] A keynote for the Free and Open Source for Geospatial (FOSS4G) Conference 2015, about the next few years of IT evolution and what it could mean for the open source ecosystem and economy.
 * [Do your Learnings](https://www.youtube.com/watch?v=9cSqKpfu4D4&index=49&list=PLFxZDg3GNCgv_GWHdM2IETx9arLL2wEXK) [25m] A keynote for the FME Users Conference 2014, about making sure you have more than one tool in your toolbox.
@@ -41,9 +41,9 @@ I deliver keynote presentations to different conferences, usual geospatial ones,
 * [PostGIS Feature Frenzy](http://vimeo.com/90722286) [25m] A quick tour of the current features of the PostGIS spatial database.
 * [Open Source and the Spatial Web](http://vimeo.com/92522557) [20m] What is open source, and how is it transforming mapping on the web?
 * [Cheap, Open and Innovative](http://s3.cleverelephant.ca/2014_nab_govmil.mp4) [20m] How the cost of parts drives innovation. Parts can be hardware, then can be software, then can be data, and when you have all three things cheap, new and surprising uses are discovered.
-* [Web Services &amp; Spatial SQL](http://www.youtube.com/watch?v=PwVRi37qXn8) [15m] Don't let the title scare you away, this is a mostly non-technical talk about what it means to "do GIS" in a modern, webby, world.
-* [The State of PostGIS](http://www.youtube.com/watch?v=TbE3LJIU2aM) [25m] The most recent iteration of my annual review of the current features and past history of [PostGIS](http://postgis.net).
+* [Web Services &amp; Spatial SQL](https://www.youtube.com/watch?v=PwVRi37qXn8) [15m] Don't let the title scare you away, this is a mostly non-technical talk about what it means to "do GIS" in a modern, webby, world.
+* [The State of PostGIS](https://www.youtube.com/watch?v=TbE3LJIU2aM) [25m] The most recent iteration of my annual review of the current features and past history of [PostGIS](http://postgis.net).
 * [Why do you do that: Open source business models](http://vimeo.com/29401659) [20m] From FOSS4G 2011, an exploration of the many business models organizations are using to build value from open source.
-* [Beyond Nerds Bearing Gifts](http://blip.tv/file/3767289) [20m] From Rendez-vous OSGeo Qu&eacute;bec 2010, a look at the open source economy, and how open source fits with it.
+* [Beyond Nerds Bearing Gifts](https://www.youtube.com/watch?v=9I8plc3D4Xw) [20m] From Rendez-vous OSGeo Qu&eacute;bec 2010, a look at the open source economy, and how open source fits with it.
 
 
