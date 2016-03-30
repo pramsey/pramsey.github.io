@@ -29,5 +29,5 @@ The folks at the KU Natural History Museum invited me and Howard over to talk ab
 
 Thanks to Josh Campbell, Xan Wedell and all the other GIS Day organizers who showed me and the other presenters such hospitality.
 
-All in all, a great trip, but *click*click* there's no place like home, there's no place like home...
+All in all, a great trip, but *click* *click* there's no place like home, there's no place like home...
 

@@ -19,7 +19,7 @@ On the [postgis-users](http://lists.osgeo.org.net/mailman/listinfo/postgis-users
 As with many things, the terminological environment has been muddied by the conflation of specific ESRI terms for particular features with generic terms for the similar things.  Call it the "Chesterfield effect".
 
 * ESRI "Dynamic segmentation" is really just "linear referencing of vectors and associated attributes".
-* >ESRI "Geodatabase" is "a database with a bunch of extra tables defined by and understood almost exclusively by ESRI"
+* ESRI "Geodatabase" is "a database with a bunch of extra tables defined by and understood almost exclusively by ESRI"
 * ESRI "Coverage" is a "vector topology that covers an area" (ever wonder why the OGC Web Coverage Server specification is about delivering *raster* data, not vector topologies? because most people have a different understanding of the word than us GIS brainwashees).
 * ESRI "Topology" is a "middleware enforcement of spatial relationship rules"
 

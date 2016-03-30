@@ -13,7 +13,7 @@ comments: True
 
 Not a geospatial post, but... I fired up my home accounting software today, to get caught up in preparation for tax time, and look what greeted me:
 
-<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp2.blogger.com/_K4wAvowKp68/Rc4r9YINS_I/AAAAAAAAAAM/1_SuSVyY9Fs/s1600-h/screenshot_01.png"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;" src="http://bp2.blogger.com/_K4wAvowKp68/Rc4r9YINS_I/AAAAAAAAAAM/1_SuSVyY9Fs/s320/screenshot_01.png" border="0" alt=""id="BLOGGER_PHOTO_ID_5030006167268314098" /></a>
+<img src="http://bp2.blogger.com/_K4wAvowKp68/Rc4r9YINS_I/AAAAAAAAAAM/1_SuSVyY9Fs/s320/screenshot_01.png" border="0" alt="" />
 
 Intuit is going to shut down all the internet services associated with my copy of Quicken for Mac. But good news! I can upgrade to Quicken 2007 for only $50 and keep my services! Yay!
 
