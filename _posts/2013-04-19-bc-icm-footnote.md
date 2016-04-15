@@ -18,7 +18,7 @@ comments: True
 
 Early this year, the [ICM project](http://www.integratedcasemanagement.gov.bc.ca/) released a [system assessment report](http://www.integratedcasemanagement.gov.bc.ca/documents/icm-mcfd-iar.pdf) from Queensland Consulting which was [seized on by the BCGEU](http://www.bcgeu.ca/ICM_interim_report_120124) and others as showing ICM to be "deeply flawed and serious question remain regarding the software’s suitability for child protection work".
 
-I found two things curious about the Queensland report: first, it was willing to talk about the [failing of COTS](/2013/01/cots-uber-alles.html) methodology in a way that is rare in the stodgy conservative world of enterprise IT; and second, a large number of the process recommendations were reiterations of a previous report, a "Readiness Assessment" by Jo Surich, Victoria tech *eminence grise *and former BC CIO.  If the Surich report was so good that Queensland was quoting from it rather than writing their own material, I wanted to read it, so I filed an FOI.
+I found two things curious about the Queensland report: first, it was willing to talk about the [failing of COTS](/2013/01/cots-uber-alles.html) methodology in a way that is rare in the stodgy conservative world of enterprise IT; and second, a large number of the process recommendations were reiterations of a previous report, a "Readiness Assessment" by Jo Surich, Victoria tech *eminence grise* and former BC CIO.  If the Surich report was so good that Queensland was quoting from it rather than writing their own material, I wanted to read it, so I filed an FOI.
 
 You can [read the full Surich report now](http://docs.openinfo.gov.bc.ca/D19070713A_Response_Package_CFD-2013-00140.PDF), on the BC open info site.
 
