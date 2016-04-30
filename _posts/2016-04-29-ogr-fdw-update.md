@@ -37,7 +37,7 @@ The new features are:
 * **GDAL2 and GDAL1** are supported. Use of GDAL2 syntax has been made the default in the code-base, with mappings back to GDAL1 for compatibility, so the code is now future-ready.
 * Regression tests and **continuous integration** are in place, for improved code reliability. Thanks to help from [Even Roualt](https://github.com/rouault), we are now using [Travis-CI](https://travis-ci.org/pramsey/pgsql-ogr-fdw) for integration testing, and I've enabled a growing number of integration tests.
 
-As usual, I'm in debt to [Regina Obe](https://github.com/robe2) for her usual timely feedback and willingness to torture-test very fresh code.
+As usual, I'm in debt to [Regina Obe](https://github.com/robe2) for her timely feedback and willingness to torture-test very fresh code.
 
 For now, early adopters can get the code by cloning and building the [project master branch](https://github.com/pramsey/pgsql-ogr-fdw), but I will be releasing a numbered version in a week or two when any obvious bugs have been shaken out. 
 
