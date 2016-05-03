@@ -1,3 +1,5 @@
+/* Default / narrow-screen CSS */
+
 p.note {
   background-color: #eeeeff;
   padding-top: 0.6em;
@@ -67,6 +69,7 @@ ul.sidebar-nav {
   margin-bottom: 2em;
 }
 
+/* Wide-screen CSS */
 @media (min-width: 48em) {
 
   .content {
@@ -115,7 +118,7 @@ ul.sidebar-nav {
   }
 
   li.sidebar-nav-item + li.sidebar-nav-item::before {
-      content: "";
+      content: none;
   }
 
   .sidebar-nav-external {
