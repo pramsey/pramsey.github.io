@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'NRPP, an Old New Thing'
-date: '2016-05-05T03:00:00-08:00'
-modified_time: '2016-05-05T03:00:00-08:00'
+date: '2016-05-05T08:00:00-08:00'
+modified_time: '2016-05-05T13:00:00-08:00'
 author: Paul Ramsey
 category: politics
 tags:
