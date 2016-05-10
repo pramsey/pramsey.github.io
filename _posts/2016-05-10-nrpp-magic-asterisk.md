@@ -21,7 +21,7 @@ Economist Paul Krugman loves to coin phrases, and a favourite of mine is the "[m
 
 The [NRPP Business Case](http://www2.gov.bc.ca/gov/content/industry/natural-resource-use/frontcounter-bc/natural-resource-permitting-project/nrpp-business-case-3623) doesn't really hide its magic asterisk, it puts it right in the executive summary.
 
-<img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" width="500" height="309" />
+<img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" width="550" height="340" />
 
 See it? That little stack of green bars? The NRPP business case would have you believe that the lion's share of project benefit is going to come from "economic growth and job creation" as a result of this technology and business process realignment project.
 
