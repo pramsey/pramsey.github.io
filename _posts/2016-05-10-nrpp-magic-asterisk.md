@@ -23,11 +23,11 @@ The [NRPP Business Case](http://www2.gov.bc.ca/gov/content/industry/natural-reso
 
 <img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" width="500" height="309" />
 
-See it? That little stack of green bars? The NRPP business case would have you believe that the lion's share of project benefit is going to come from "economic growth and job creation" as a result of this IT and business process project.
+See it? That little stack of green bars? The NRPP business case would have you believe that the lion's share of project benefit is going to come from "economic growth and job creation" as a result of this technology and business process realignment project.
 
 Please stop laughing.
 
-Please.
+Please stop.
 
 The leap of faith you must make is to think that not only will an improved system speed up the time between natural resource project conception and delivery (I can buy that) **but also** it will result in a **permanent and persistent rise in the rate of resource extraction** in the province (that one is harder). That's where the green bars marching to the right come from.
 
