@@ -16,8 +16,8 @@ image: "2016/irish-guards-buckingham-palace.jpg"
 
 Back when I first discovered open source software, at the dawn of my computing and consulting career, I was pretty sure it was some kind of rainbow magic, better than sliced bread. Once other folks found this stuff, it was going to catch on like wildfire, and why not?
 
-* It was way more flexible to build systems with than proprietary black boxes.
-* The communities around them were helpful and knowledgable further speeding development.
+* It was **way** more flexible to build systems with than proprietary black boxes.
+* The community around it was helpful and knowledgable, further speeding development.
 * The price of deployment was (obviously) unbeatable, and just as importantly, the lack of legal restrictions neatly avoided convoluted "licensing oriented architectures".
 
 That was over 15 years ago, so clearly I was **really, really wrong**, at least from the point of view of governments and large corporate enterprises (in the start-up space, the revolution happened over 10 years ago, and nobody is looking back). Over time, I began to reformulate my thesis:
