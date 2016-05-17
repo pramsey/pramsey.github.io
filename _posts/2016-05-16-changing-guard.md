@@ -41,7 +41,7 @@ But in all honesty, I don't feel like there is necessarily an open source wave c
 * Yes, there are some young (and not so young) advocates, who have increased their decision making power over time. But, there is a larger population of similarly aged folks who, from an innovation and risk-taking point of view, might as well be from the last generation. Their ascendance will assure continuity: the only change will be from expensive proprietary on-site software to expensive proprietary SaaS solutions.
 * Yes, the overall IT environment is more accepting of open source in general (there is even **Linux** being run in government!! ooo!). But, in general there is a mismatch in sales fire power between solutions that have high-priced outside sales people promoting them and those that have to be dragged in by staff. Managers (even young ones) have moved beyond direct tool use, and are sitting ducks for a good sales presentation.
 
-So it still falls to in-house innovation centers like [GDS](https://gds.blog.gov.uk/) or the [US Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service) to try and demonstrate, mandate, and teach a new way of doing things to the old guard structures of IT.
+So it still falls to in-house innovation centers like [GDS](https://gds.blog.gov.uk/) or the [US Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service) to try to demonstrate, mandate, and teach a new way of doing things to the old guard of IT.
 
 <img src="{{ site.images }}/2016/gds-team.jpg" alt="GDS team" width="550" height="241" />
 
