@@ -110,11 +110,11 @@ Mr. Loukidelis' recommendation #2 is really striking, here it is:
 
 > "It is recommended **in the strongest possible terms** that government resist any notion that all emails should be kept"
 
-Emphasis mine. Not just recommended, but "in the strongest possible terms". None of the other recommendations is remotely so strong. And here's an odd thing: the other recommendations are all addressed to Commissioner Denham's original report, but Denham has nothing at all to say about archiving all email. It's like this particular topic dropped into the Loukidelis report from out of the blue sky, and was greated by a phalanx of flame-throwers.
+Emphasis mine. Not just recommended, but "in the strongest possible terms". None of the other recommendations is remotely so strong. And here's an odd thing: the other recommendations are all addressed to Commissioner Denham's original report, but Denham has nothing at all to say about archiving email. It's like the topic was dropped into the Loukidelis report from out of the blue sky, and greeted by a phalanx of flame-throwers.
 
-Why? What's going on? Why spend so much ink, and such strong language, killing an idea that Denham didn't even raise?
+Why? What's going on? Why spend so much ink, and such strong language, to kill an idea that **Denham didn't even recommend**?
 
-I find it hard to believe that Loukidelis really cared that much about "observers" like me and my blog. But he cared enough to not only put in a section about email archiving, but also to beat the topic to death with a shovel.
+I find it hard to believe that Loukidelis really cared that much about "observers" like me and my blog. Yet he cared enough to not only put in a section about email archiving, but also to beat the topic to death with a shovel.
 
 I think there must have been some internal debate in government about permanently ending the controversy over bad email management by **adopting an email archive**. And Loukidelis was instructed by political staff on one side of that debate to ensure that the idea was terminated with dispatch.
 
