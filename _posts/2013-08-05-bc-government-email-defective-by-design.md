@@ -68,7 +68,7 @@ When I started up my [cleverelephant.ca](http://cleverelephant.ca/) infrastructu
 
 All "Postini" does is sit in your institutional email delivery pipe. It take copies of all mails sent and received, and provides an administrative search-and-retrieval interface making it easy for authorized users to pull up any email to or from any person from any time. Why would any company want this capability? Because they are legislatively required to have it, by the US [Sarbanes-Oxley](http://en.wikipedia.org/wiki/Sarbanes%E2%80%93Oxley_Act) law that applies to public companies.
 
-So in 2008 a robust enterprise email archive capability existed, available for a few dollars per account. It seemed very relevant to the BC Rail e-mail scandal that occurred a few months later. After the scandal had run its course, I suspected that enterprise email archiving would be a **top government IT priority.
+So in 2008 a robust enterprise email archive capability existed, available for a few dollars per account. It seemed very relevant to the BC Rail e-mail scandal that occurred a few months later. After the scandal had run its course, I suspected that enterprise email archiving would be a **top government IT priority**.
 
 Was it? (Hah!) I recently ran a little test.
 
@@ -85,10 +85,10 @@ If BC had an enterprise e-mail archive, they would simply run a query on the arc
 Surprise! They don't have an enterprise e-mail archive. Instead, I got this email.
 
 > I am contacting you in regards your above noted FOI request, which you submitted on June 10, 2013 for:  “All e-mail From: or To: Dave.Nikolejsin@gov.bc.ca.  Date range is January 1, 2009 to December 31, 2009”. 
-
+>
 > It is possible that emails sent to/from Mr. Nikolejsin have since been appropriately filed, as these communications may relate to particular issues or topics of note. I anticipate that a significant search would be required to determine this, which could result in a fee. 
-
-> Is there a particular subject/topic of interest, or perhaps a particular sender/receiver you wish to focus on? I believe that by concentrating your request in this manner, we can decrease the likelihood of a fee being generated. Please let me know if you are open to discuss, or have any questions. </blockquote>
+>
+> Is there a particular subject/topic of interest, or perhaps a particular sender/receiver you wish to focus on? I believe that by concentrating your request in this manner, we can decrease the likelihood of a fee being generated. Please let me know if you are open to discuss, or have any questions. 
 
 The gist of the message is that e-mail is archived by being printed and filed (*old skool!*), therefore searching all the files for individual e-mails would be onerous (fair enough). I decided to ask again for a electronic archival search: 
 
