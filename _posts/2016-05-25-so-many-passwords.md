@@ -15,6 +15,8 @@ image: "2016/password.jpg"
 
 I like the internet, I use a lot of sites, I don't fear online shopping or discussion or communication or banking. As a result, I have a pretty healthy footprint of accounts, and I have been finding recently that my brain can no longer keep up.
 
+<img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" width="380" height="387" />
+
 So I've started using a password manager, [LastPass](https://lastpass.com/), which works just fine. 
 
 Once I fully committed to it, the number of passwords managed started a slow and seemingly relentless climb, as over time I returned to all the many sites at which I had been forced to register accounts in the past. As a result, I've learned useful things:
