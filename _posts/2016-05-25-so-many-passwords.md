@@ -15,7 +15,7 @@ image: "2016/password.jpg"
 
 I like the internet, I use a lot of sites, I don't fear online shopping or discussion or communication or banking. As a result, I have a pretty healthy footprint of accounts, and I have been finding recently that my brain can no longer keep up.
 
-<img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" width="580" height="387" />
+<img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" width="580" height="287" />
 
 So I've started using a password manager, [LastPass](https://lastpass.com/), which works just fine. 
 
