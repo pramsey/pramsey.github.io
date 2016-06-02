@@ -42,8 +42,8 @@ The other big take home for me is in the first essay, decomposing the functional
 
 I tend to break the IT roles into just two pieces, but I think Pahlka makes a strong case for all four. My two pieces are:
 
-> * **Infrastructural**. Email, network, desktop, phones, backup, payroll, finance. All skills that are replicated across every organization in existance, where little domain knowledge is required. With appropriate contracting safe-guards, you can outsource all of this stuff.
-> * **Strategic**. Business systems unique to your organization and all the facets thereof. Back-end, front-end, user experience, API, etc. The IT tools are common, but the domain knowledge of the data and business processes are unique to your organization. You should own both the technology and the people creating it, for maximum flexibility.
+* **Infrastructural**. Email, network, desktop, phones, backup, payroll, finance. All skills that are replicated across every organization in existance, where little domain knowledge is required. With appropriate contracting safe-guards, you can outsource all of this stuff.
+* **Strategic**. Business systems unique to your organization and all the facets thereof. Back-end, front-end, user experience, API, etc. The IT tools are common, but the domain knowledge of the data and business processes are unique to your organization. You should own both the technology and the people creating it, for maximum flexibility.
 
 Either way, the idea that the folks who are best at handling one category are also good at handing the other is dangerous. 
 
