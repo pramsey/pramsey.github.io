@@ -14,7 +14,7 @@ comments: True
 image: "2016/code-for-america.jpg"
 ---
 
-[Jennifer Pahlka](https://www.codeforamerica.org/people/jennifer-pahlka) from [Code for America](https://www.codeforamerica.org/) has published a pair of essays on IT leadership that anyone thinking about "organizational transformation" should read. They are very high level and a bit wordy, but are full of good ideas:
+[Jennifer Pahlka](https://www.codeforamerica.org/people/jennifer-pahlka) from [Code for America](https://www.codeforamerica.org/) has published a pair of essays on IT leadership that anyone thinking about "organizational transformation" should read. They are very high level and a bit lengthy, but are full of good ideas:
 
 <img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" width="550" height="367" />
 
@@ -33,7 +33,7 @@ In talking about innovation in the second essay, Pahlka has this wonderful secti
 
 Sing it! Adopting open source, agile development and cloud technology are not "innovative" any more, they're just table stakes, the minimum possible ante upon which to build a responsive technology organization.
 
-The other big take home for me is in the first essay, decomposing the roles that are traditionally composed into a single "CIO" and pointing out how unlikely they are to match the capabilities of any one person:
+The other big take home for me is in the first essay, decomposing the functional roles that are traditionally mushed into a single "CIO" position and pointing out how unlikely they are to match the capabilities of any one person:
 
 > 1. Digital services: the services residents use to engage and do business with the City. This can also include APIs and open data programs, though this is often the domain of the other CIO (the innovation officer.)
 > 2. Back office software: Day-to-day core services like email, human resources management, budgeting, fiscal and accounting that all departments rely on.
