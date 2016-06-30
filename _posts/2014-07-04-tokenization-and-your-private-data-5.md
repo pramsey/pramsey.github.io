@@ -35,7 +35,7 @@ It's worth re-visiting the two key phrases in the [OIPC guidance](https://www.oi
 
 > Tokenization is distinct from encryption; while encryption may be deciphered given sufficient computer analysis, tokens cannot be decoded without access to the crosswalk table.
 
-What I take from this is that the OIPC is saying that "encryption" is vulnerable (it "may be deciphered"), and "tokenization" is not (it "cannot by decoded"). Now, as discussed on [day 3](/2014/07/tokenization-and-your-private-data-3.html), the "cannot be decoded" part is only true for a very small sub-set of "tokenization", the kind that uses fully random tokens. And the OIPC is aware of this, though they only barely acknowledge it:
+What I take from this is that the OIPC is saying that "encryption" is vulnerable (it "may be deciphered"), and "tokenization" is not (it "cannot be decoded"). Now, as discussed on [day 3](/2014/07/tokenization-and-your-private-data-3.html), the "cannot be decoded" part is only true for a very small sub-set of "tokenization", the kind that uses fully random tokens. And the OIPC is aware of this, though they only barely acknowledge it:
 
 > Public bodies may comply with FIPPA provided that the personal information is *adequately* tokenized and the crosswalk table is secured in Canada.
 
