@@ -15,9 +15,9 @@ blogger_orig_url: http://blog.cleverelephant.ca/2014/08/thats-not-strategic-plan
 comments: True
 ---
 
-<div class="separator" style="clear: both; text-align: center;">[<img border="0" src="http://4.bp.blogspot.com/-1X5OmmjiHJU/U-Y2bw0P2vI/AAAAAAAAANM/aYggnnJg_2g/s320/crocodile_dundee.jpg" />](http://4.bp.blogspot.com/-1X5OmmjiHJU/U-Y2bw0P2vI/AAAAAAAAANM/aYggnnJg_2g/s1600/crocodile_dundee.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;)</div>
+<img border="0" src="http://4.bp.blogspot.com/-1X5OmmjiHJU/U-Y2bw0P2vI/AAAAAAAAANM/aYggnnJg_2g/s320/crocodile_dundee.jpg" />
 
-Strategy documents 
+Strategy documents.
 
 Did I just see you yawn? Let me try again. Strategy documents. 
 
@@ -79,7 +79,7 @@ When Vivek Kundra took over as Barack Obama's CIO, he produced a [25 Point Imple
 
 While there's still a certain amount of navel-gazing at internal concerns, around things like CIO councils and review boards, the plan at least is made up of actions, stated in the active voice, most of which can be evaluated on a done/not-done basis over time. The organization can track whether it is executing this plan, and whether staff are allocated to it's accomplishment.
 
-Of more recent vintage, the [UK Government Digital Service has a strategic plan](https://www.gov.uk/government/publications/government-digital-strategy/government-digital-strategy) (note, available in simple HTML) 
+Of more recent vintage, the [UK Government Digital Service has a strategic plan](https://www.gov.uk/government/publications/government-digital-strategy/government-digital-strategy) (note, available in simple HTML):
 
 * Improve departmental digital leadership
 * Develop digital capability throughout the civil service
