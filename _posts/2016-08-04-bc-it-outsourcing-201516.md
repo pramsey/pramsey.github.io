@@ -28,7 +28,7 @@ Other IT contractors continued to bill heartily, including massive category lead
 
 Since 2010, IBM's billings to central government have fallen in four of the last six years, which leads me to a question: **what's the matter with Big Blue**?
 
-After further research, the answer is: nothing at all. Big Blue is doing just fine.
+After further research, the answer is this: nothing at all. Big Blue is doing just fine.
 
 It turns out that the fall off in IBM billing to central government has been more than offset by a **massive increase in IBM billing to the Provincial Health Authorities**.  The Ministry of Health budget is huge, but much of it is spent by the Health Authorities, and the provincial public accounts only record transfers to the Authorities, they don't keep track of who the Authorities spend with.
 
