@@ -14,6 +14,7 @@ tags:
 - it
 modified_time: '2016-08-04T10:05:00.004-07:00'
 comments: True
+image: "2016/outsourcing.jpg"
 ---
 
 It's BC Public Accounts time again (calm down!), and in this year's analysis of IT outsourcing we have a surprise result: total spending on IT contractors by the BC central government *actually fell* in the 2015/16 budget year.
@@ -32,7 +33,7 @@ After further research, the answer is this: nothing at all. Big Blue is doing ju
 
 It turns out that the fall off in IBM billing to central government has been more than offset by a **massive increase in IBM billing to the Provincial Health Authorities**.  The Ministry of Health budget is huge, but much of it is spent by the Health Authorities, and the provincial public accounts only record transfers to the Authorities, they don't keep track of who the Authorities spend with.
 
-Fortunately, the Authorities also have to publish annual financial statements, and I have now input all that data into my summary sheets, through to 2015 (Health Authorities do not publish their detailed payments data until the fall, so I am one year behind until then). The results are, frankly, staggering.
+Fortunately, the Authorities also have to publish annual financial statements, and I have now input all that data into my summary sheets, through to 2015 (Health Authorities do not publish their detailed payments data until the fall, so I am one year behind until then). The results are, frankly, staggering...
 
 <img src="https://docs.google.com/spreadsheets/d/1K-1uC0GJ9Nb9OqR4_y3nK3NcTwHUFOS6kVDb16AjOhk/pubchart?oid=907865086&format=image" />
 
