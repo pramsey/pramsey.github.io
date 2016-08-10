@@ -98,9 +98,9 @@ So, if we had PostGIS 2.1.3 installed, and the latest version is 2.2.2, what has
 * The `postgis-2.2.so` file has been added
 * So, the `pg_proc` entries in every PostGIS-enabled database now point to a library file that **does not exist**
 
-Fortunately this mismatch between the `pg_proc` entries and the system state is usually solved during the very next step of the upgrade. But it's a manual step, and if the DBA and system administrator are different people different schedules, it might not happen.
+Fortunately this mismatch between the `pg_proc` entries and the system state is usually solved during the very next step of the upgrade. But it's a manual step, and if the DBA and system administrator are different people with different schedules, it might not happen.
 
-Your next step should be to go and update the SQL function definitions by running an extension upgrade on all your databases:
+Your next step should be to go and update the SQL function definitions by running an extension update on all your databases:
 
 {% highlight sql %}
 ALTER EXTENSION postgis UPDATE TO '2.2.2';
