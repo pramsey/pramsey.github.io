@@ -20,7 +20,7 @@ A fair question. On the one hand we have an open source database, with a core de
 
 And we'd have to go on our biases, because there haven't been any Oracle vs PostGIS comparisons available in the wild. Until now.
 
-The Advanced Research Lab for Geospatial Information Science and Engineering of the prestigious [Indian Institute of Technology](http://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bombay) has [put a study online](http://bit.ly/xP1bDj), comparing PostGIS to Oracle Spatial across a number of spatial join operations, run in both "cold" (empty cache) and "hot" (pre-seeded cache) modes.
+The Advanced Research Lab for Geospatial Information Science and Engineering of the prestigious [Indian Institute of Technology](http://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Bombay) has [put a study online](https://web.archive.org/web/20120813184338/http://www.gise.cse.iitb.ac.in/wiki/images/c/c4/Finalreport.pdf), comparing PostGIS to Oracle Spatial across a number of spatial join operations, run in both "cold" (empty cache) and "hot" (pre-seeded cache) modes.
 
 The tests require the database to correctly plan a self-join that includes both spatial and attribute clauses, and then execute. The queries generally seem to require a medium to large quantity of spatial objects to be evaluated in spatial predicate tests. So this is a step up from the usual test of bulk bounding box operations that most benchmarks have gotten bogged down in.
 
