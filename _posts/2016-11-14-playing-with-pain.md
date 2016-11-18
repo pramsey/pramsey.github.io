@@ -9,12 +9,14 @@ tags:
 - wrists
 - back
 comments: True
-image: "2016/wrist-pain.jpg"
+image: "2016/dwyane-wade-knees.jpg"
 ---
 
 For the past year, I have been fighting a running battle with my body. The battlefields have been my wrists and back. By and large, my body has been winning.
 
 When sports commentators talk about a player "playing with pain" I think it's natural to think about the pain **in the moment** -- that play, that sprint, that quick turn on the grass, the game on the line. What doesn't get talked about is the psychological effect of the pain, day after day, on the player. At practice, at home, at rest. How it changes their relationship to the game.
+
+<img src="{{ site.images }}{{ page.image }}" alt='{{ page.title }}' />
 
 They love the game. Clearly. It's what they've spent their whole life perfecting. But now, every interaction with it is colored by the overlay of pain. Do your warm-ups, work through that early pain, now feel the pain on each play. Good play or bad, it doesn't matter. It hurts to do the thing.
 
