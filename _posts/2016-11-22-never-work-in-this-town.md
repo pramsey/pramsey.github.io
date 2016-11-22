@@ -26,7 +26,7 @@ In fact, Tieleman's take is so even-handed it displays the same fault that he's 
 
 Tieleman is a communications expert with a professional interest in remaining a respected member of the club of communications experts, and he very carefully avoids impugning the motivations of any of the subjects of this article, while larding out praise for his subjects' "hard-earned fairness".
 
-Similarly, journalists have a professional interest in maintaining good relationships with their fellow professionals, the communications and PR staff (and their bosses) in the organzations they report on. 
+Similarly, journalists have a professional interest in maintaining good relationships with their [fellow professionals](http://therealstory.ca/2011-07-25/bc-politics/two-sides-good-one-side-bad), the communications and PR staff (and their bosses) in the organzations they report on. 
 
 Why would they not?
 
