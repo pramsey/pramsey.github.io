@@ -15,11 +15,11 @@ image: "2016/low-high.jpg"
 
 Long live NRPP!
 
-I still remember what my first boss taught me about IT consulting: "When the going gets tough, the tough redefine success so they can still declare victory."
+The [Natural Resource Permitting Project](/2016/05/nrpp-on-time-budget.html) (NRPP) is now mired down, having failed to deliver on its ambitious promises to [transform the sector](http://docs.openinfo.gov.bc.ca/D8188512A_Response_Package_MOE-2011-00242.PDF) with "generic frameworks that will support the 'One Project, One Process' model". 
+
+But, as my 'ole grand-pappy used to say to me: "When the going gets tough, the tough redefine success so they can still declare victory."
 
 <img src="{{ site.images }}{{ page.image }}" alt='{{ page.title }}' width='438' height='274' />
-
-The [Natural Resource Permitting Project](/2016/05/nrpp-on-time-budget.html) (NRPP) is now mired down, having failed to deliver on its ambitious promises to [transform the sector](http://docs.openinfo.gov.bc.ca/D8188512A_Response_Package_MOE-2011-00242.PDF) with "generic frameworks that will support the 'One Project, One Process' model". 
 
 Accordingly, success re-definition is under way at NRPP. Success will no longer be a **generational transformation in how government manages natural resources**; success will now be **submitting formerly paper forms using web forms**.
 
@@ -27,7 +27,7 @@ But wait, I said NRPP is "mired down", how can I tell? By measuring the outputs 
 
 ## Lots of Money Going In
 
-NRPP has been ongoing in various forms and names since [before 2013](/2013/07/natural-resource-sector-goes-over.html), and for at least the last two years has been carrying a [staff/consultant complement](/2015/03/deloittes-second-act.html) that I'd estimate costs about $17M per year. I've heard estimates of expenditures to date of over $50M, and that is consistent with my back-on-the-envelope calculations.
+NRPP has been ongoing in various forms and names since [before 2013](/2013/07/natural-resource-sector-goes-over.html), and for at least the last two years has been carrying a [staff/consultant complement](/2015/03/deloittes-second-act.html) that I'd estimate costs about $17M per year. I've heard estimates of expenditures to date of over $50M, and that is consistent with my back-of-the-envelope calculations.
 
 So, $50M or more in. What's come out? (Worth remembering, successful $1B start-up companies have been [built for less](/2013/02/once-in-lifetime-it-in-question-period.html).)
 
