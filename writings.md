@@ -31,6 +31,8 @@ Most of my writings start out (and remain) as long-form blog posts, but in blog 
 
 I deliver keynote presentations to different conferences, usual geospatial ones, once or twice a year, and the odds of getting a good recording have been going up lately. Here are some of my favourites.
 
+* [Data Pipes & Relevance](http://s3.cleverelephant.ca/2015-ccog.pdf) On how government geospatial data creators should be thinking about the future of our industry.
+* [The Undiscovered Country](/2016/10/geomatique-quebec.html) An expansion on "The Future and All That" with specific reference to the privacy implications of ubiquitous geospatial monitoring.
 * [The Future and All That](https://vimeo.com/149429837) [20m] A quick year-end retrospective and view into the panopticon that is in all of our futures.
 * [The Unknowns: A Managers Guide to Open Source](https://www.youtube.com/watch?v=jUgiG6eaYtI) [48m] An easy introduction to what open source is, and the practical reasons for considering it in your organization.
 * [PostGIS Gotchas](https://www.youtube.com/watch?v=GSuZP89UdGs) [40m] For the database-oriented, there are some surprises in store as you get started with PostGIS and geospatial data. Learn more here!
