@@ -94,6 +94,6 @@ If a core early problem with NRSTS was that nobody wanted to be the first organi
 
 Would you trust your staff time and business process to an organization that looks likely to be blown up in the next 24 months?  If so, why?
 
-**Addendum:** Commenters, please weigh in on whether the recent departure of the [Executive Director, Technology](https://www.linkedin.com/in/terry-gunning-476a781) to work with major project consultant [CGI](https://www.linkedin.com/company/1415?trk=prof-exp-company-name) is a sign of good things to come (CGI positioning to win follow-on work in Phase Two) or a sign of imminent disaster (man-in-the-know getting out while the getting is good).
+**Addendum:** Commenters, please weigh in on whether the recent departure of the [Executive Director, Technology](https://www.linkedin.com/in/terry-gunning-476a781) to work with major project consultant [CGI](https://www.linkedin.com/company/1415?trk=prof-exp-company-name) is (a) a sign of good things to come (CGI positioning to win follow-on work in Phase Two) or (b) a sign of imminent disaster (man-in-the-know getting out while the getting is good).
 
 
