@@ -42,7 +42,7 @@ You know what happened to the guy who had the [first human heart transplant](htt
 
 ### Back to High School
 
-After asking for advice on 'transformation' from the ADMs, Bangert then tells them he needs a "subject matter expert" (at a "decision making level"!) to attend "several" workshops in the summer and a week-long workshop in the fall. So, presumably a manager or director, whose time is sufficently low value that it can be donated to NRSTS for days at a time.
+After asking for advice on 'transformation' from the ADMs, Bangert then tells them he needs a "subject matter expert" (at a "decision making level"!) from **each of them** to attend "several" workshops in the summer and a week-long workshop in the fall. So, presumably a manager or director, whose time is sufficently low value that it can be donated to NRSTS for days at a time.
 
 <img src="{{ site.images }}2016/model-un.png" alt='Model UN' width='371' height='275' />
 
