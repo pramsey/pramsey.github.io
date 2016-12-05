@@ -85,7 +85,7 @@ Once again, inputs:
 Outputs:
 
 * "What exactly do you mean by 'transformation', really?"
-* "Lend us your SME's for a week, so we can figure out a 'generic process' to stuff your business into."
+* "Lend us your SME's for a week, so we can figure out a generic process to stuff your business into."
 * Also, some [unimpressive deliverables](/2016/11/nrpp-is-dead.html).
 
 <img src="{{ site.images }}2016/desperation.jpg" alt='Desperation' width='565' height='313' />
