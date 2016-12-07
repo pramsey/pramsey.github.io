@@ -13,13 +13,13 @@ comments: True
 image: "2016/young-frankenstein.jpg"
 ---
 
-<img src="{{ site.images }}{{ page.image }}" alt='{{ page.title }}' width='440' height='302' />
+Hey, good news zombie lovers, the project I've declared [dead](/2016/11/nrpp-is-dead.html) (or, at least, [doomed](/2016/12/nrpp-still-doomed.html)) is not only still shambling around, it's going to get the official political glad-handing treatment tomorrow:
 
-Hey, good news zombie lovers, the project I've declared [dead](/2016/11/nrpp-is-dead.html) (or, at least, [doomed](/2016/12/nrpp-still-doomed.html)) is not only still ambulatory, it's going to get the official political glad-handing treatment tomorrow:
+<img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" width="440" height="302" />
 
 > We are excited to share an important Natural Resource Permitting Project (NRPP) milestone. Tomorrow—December 7—NRPP’s first service on the NRS Online Services website will be launched in Williams Lake at FrontCounter BC with Minister of State for Rural Economic Development Donna Barnett. 
 
-I always feel sad for the poor politician tasked with the "[new website](https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=%22new+website%22+site:gov.bc.ca+news)" announcement, because honestly, is there any announcement that feels like more of an empty gesture towards real action? "Yes, you wanted $50M for addiction treatment, but... how about this new web site?"
+I always feel sad for the poor politician tasked with the "[new website](https://www.google.ca/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=%22new+website%22+site:gov.bc.ca+news)" announcement, because honestly, is there any announcement that feels like more of an empty gesture towards real action? "Yes, I understand you wanted $50M for addiction treatment, but... how about this new web site?"
 
 Anyways, while she's getting her demonstration of the new [NRS Online Services website](https://portal.nrs.gov.bc.ca/), here's some questions Minister Barnett might like to ask:
 
@@ -44,9 +44,8 @@ Anyways, while she's getting her demonstration of the new [NRS Online Services w
 
 <img src="{{ site.images }}2016/nrpp-live-5.jpg" />
 
-* Does this work align with government priorities? Maybe you need to work on it a little more?
+* Does this work align with government priorities? Maybe you need to do some more transformation on it.
 
 <img src="{{ site.images }}2016/nrpp-live-6.jpg" />
 
-Congratulations, NRPP
-
+Congratulations, NRPP on your first step towards transforming the sector, have a great demo! 
