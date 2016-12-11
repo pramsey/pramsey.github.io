@@ -49,3 +49,14 @@ Anyways, while she's getting her demonstration of the new [NRS Online Services w
 <img src="{{ site.images }}2016/nrpp-live-6.jpg" />
 
 Congratulations, NRPP on your first step towards transforming the sector, have a great demo! 
+
+**Addendum**: In the [press release](https://news.gov.bc.ca/releases/2016FLNR0292-002610?WT.cg_n=Hootsuite), Minister Steve Thomson is quoted as "saying" (poor Ministers always sound so stodgy when they "speak" in press releases):
+
+> Through the Natural Resource Permitting Project, the Province is making a significant investment in helping communities balance economic development with protecting our natural resources.
+
+My notes:
+
+* The province is surely making a "siginificant investment" in Deloitte and CGI. Whether that investment ends up "helping communities" is still very much a question in flux.
+* The purpose of NRPP is not "balance" between economic development and protected natural resources. The [business case](http://www2.gov.bc.ca/gov/content/industry/natural-resource-use/frontcounter-bc/natural-resource-permitting-project/nrpp-business-case-3623) makes clear, the purpose of NRPP is to [increase natural resource extraction rates](http://blog.cleverelephant.ca/2016/05/nrpp-magic-asterisk.html), generating a permanent lift in royalties to offset the (significant) costs of NRPP. Sadly, even on those terms it's [likely to fail](http://blog.cleverelephant.ca/2016/05/nrpp-magic-asterisk.html).
+
+Such a short sentence, yet still so much misdirection.
