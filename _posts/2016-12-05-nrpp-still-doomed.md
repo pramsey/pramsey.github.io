@@ -22,7 +22,7 @@ New flash: I am not out to get them. In fact, they are the best-run IT mega-proj
 
 Fortunately, the FOI process can be indiscriminate, information can leak out **despite** the best efforts of the project team, and last month there was great tidbit about NRPP.
 
-Hiding inside an [FOI request](http://www2.gov.bc.ca/enSearch/detail?id=26EE74C124B8476EA280E7A3C823A2D8&recorduid=EAO-2016-62612) to the Environmental Assessment Offices (EAO) were a number of interesting documents.
+Hiding inside an [FOI request](http://www2.gov.bc.ca/enSearch/detail?id=26EE74C124B8476EA280E7A3C823A2D8&recorduid=EAO-2016-62612) to the Environmental Assessment Office (EAO) were a number of interesting documents.
 
 ### Who's On First?
 
@@ -38,7 +38,7 @@ Lacking any operational mandate themselves, NRSTS has been going around looking 
 
 To me, this sounds good (cool software! better!); to NRSTS, this sounds good (re-structure!); to the permitters it sounds like "we're going to waste a bunch of your (scarce) time in workshops making you talk about abstractions instead of doing your job, then we're going to upend your office in the service of 'transformation', while we experiment with software that is as yet unwritten".
 
-You know what happened to the guy who had the [first human heart transplant](http://www.history.com/this-day-in-history/first-human-heart-transplant)? In IT terms, the procedure was a success -- he didn't die on the table, he died 18 days later of pneumonia, with his heart still pumping away.
+You know what happened to the guy who had the [first human heart transplant](http://www.history.com/this-day-in-history/first-human-heart-transplant)? In IT terms, the procedure was a success -- he didn't die on the table. He died 18 days later of pneumonia, with his heart still pumping away.
 
 ### Back to High School
 
