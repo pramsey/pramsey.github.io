@@ -19,9 +19,13 @@ On February 25, 2013, Christie Clark mounted the stage at the "[International LN
 
 Notwithstanding the Premier's desire to frame economic devopment as a triumph of will, and notwithstanding the generous firehosing of [subsidies](/2016/11/edrive.html) and [taxbreaks](https://www.policyalternatives.ca/sites/default/files/uploads/publications/BC%20Office/2014/04/CCPA-BC-Path-To-Prosperity.pdf) on the still nascent sector, the number of LNG pipelines and terminals in operation in Kitimat remains stubbornly zero. The markets are unlikely to relent in time to make the 2020 deadline.
 
-And about that "conference"? Like the faux "[Bollywood Awards](http://www.cbc.ca/news/canada/british-columbia/vancouver-to-host-new-bollywood-awards-premier-confirms-1.1316425)" the government paid $10M to stage just weeks before the 2013 election, the "LNG in BC" conference was a government organized "event" put on primarily to advance the pre-election public relations agenda of the BC Liberal party.
+And about that "conference"? 
 
-The "LNG in BC" conference continued to be organized by the government for two more years, providing a stage each year for the Premier and multiple Minsters to broadcast their message. In case anyone had any doubts about the purpose of the "event", at the 2014 version an exhibitor helpfully handed out a brochure to attendees, featuring an election night picture of the Premier and her son, under the title "[We Won](http://s3.cleverelephant.ca/wewon.pdf)".
+Like the faux "[Bollywood Awards](http://www.cbc.ca/news/canada/british-columbia/vancouver-to-host-new-bollywood-awards-premier-confirms-1.1316425)" the government paid $10M to stage just weeks before the 2013 election, the "LNG in BC" conference was a government organized "event" put on primarily to advance the pre-election public relations agenda of the BC Liberal party.
+
+The "LNG in BC" conference continued to be organized by the government for two more years, providing a stage each year for the Premier and multiple Minsters to broadcast their message. 
+
+In case anyone had any doubts about the purpose of the "event", at the 2014 version an exhibitor helpfully handed out a brochure to attendees, featuring an election night picture of the Premier and her son, under the title "[We Won](http://s3.cleverelephant.ca/wewon.pdf)".
 
 <img src="{{ site.images }}/2017/wewon.jpg" width="550" height="421" alt="We Won" />
 
