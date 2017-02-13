@@ -83,7 +83,7 @@ A natural effect of bundling multiple system integrations is to blow up the budg
 
 A manager who successfully delivers a superb $4M IT project gets a celebratory dinner at the pub; a manager who brings even a terrible $140M IT project to "completion" can write her ticket in IT consulting.
 
-The only downside of huge IT projects is that they [fail to provide value to end-users a majority of the time](big projects [tend to fail](https://www.infoq.com/articles/standish-chaos-2015)), and of course they soak the taxpayers (or shareholders in the case of private sector IT failures, which happen all the time) for far more money than they should.
+The only downside of huge IT projects is that they [fail to provide value to end-users a majority of the time](https://www.infoq.com/articles/standish-chaos-2015), and of course they soak the taxpayers (or shareholders in the case of private sector IT failures, which happen all the time) for far more money than they should.
 
 ## Can We Stop? Should We?
 
