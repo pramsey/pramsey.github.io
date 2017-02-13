@@ -51,7 +51,7 @@ The IT-led do-goodism of "transformation" explains to some extent how systems be
 
 The social services Integrated Case Management project provides an interesting study in how a budget can blow up. 
 
-"Integrated Case Management" as a desirable concept was suggested by the 1996 [Gove Report](http://www.qp.gov.bc.ca/gove/), (yes, 1996) leading to an "Integrated Case Management Policy" in 1998, and by 1999 a Ministry working group examining "off-the-shelf" (COTS) technology solutions. The COTS review did not turn up a suitable solution, and the Ministry buried itself in a long "requirements gathering" process, culminating in a working prototype by 2002. In 2003, an RFP was issued to *expand* the prototype into a pilot for a few hundred users.
+"Integrated Case Management" as a desirable concept was suggested by the 1996 [Gove Report](http://www.qp.gov.bc.ca/gove/), (yes, 1996) leading to an "Integrated Case Management Policy" in 1998, and by 1999 a Ministry working group examining "off-the-shelf" (COTS) technology solutions. The COTS review did not turn up a suitable solution, and the Ministry buried itself in a long "requirements gathering" process, culminating in a working prototype by 2002. In 2003, [an RFP was issued](http://s3.cleverelephant.ca/icm/2007-11-SATP-239.pdf) to *expand* the prototype into a pilot for a few hundred users.
 
 **The 2003 contract to build out the pilot was awarded to GDS & Associates Systems in the amount of $142,800.**  No, I didn't drop any zeroes. Six years before a $180,000,000 ICM contract was awarded to Deloitte, the Ministry thought a working pilot could be developed for **1/1000 of the cost**.
 
@@ -83,7 +83,7 @@ A natural effect of bundling multiple system integrations is to blow up the budg
 
 A manager who successfully delivers a superb $4M IT project gets a celebratory dinner at the pub; a manager who brings even a terrible $140M IT project to "completion" can write her ticket in IT consulting.
 
-The only downside of huge IT projects is that they [fail to provide value to end-users a majority of the time](big projects [tend to fail](https://www.infoq.com/articles/standish-chaos-2015)), and of course they soak the taxpayers (or shareholders in the case of private sector IT failures, which happen all the time) for far more money than they should.
+The only downside of huge IT projects is that they [fail to provide value to end-users a majority of the time](https://www.infoq.com/articles/standish-chaos-2015), and of course they soak the taxpayers (or shareholders in the case of private sector IT failures, which happen all the time) for far more money than they should.
 
 ## Can We Stop? Should We?
 
