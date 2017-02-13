@@ -51,7 +51,7 @@ The IT-led do-goodism of "transformation" explains to some extent how systems be
 
 The social services Integrated Case Management project provides an interesting study in how a budget can blow up. 
 
-"Integrated Case Management" as a desirable concept was suggested by the 1996 [Gove Report](http://www.qp.gov.bc.ca/gove/), (yes, 1996) leading to an "Integrated Case Management Policy" in 1998, and by 1999 a Ministry working group examining "off-the-shelf" (COTS) technology solutions. The COTS review did not turn up a suitable solution, and the Ministry buried itself in a long "requirements gathering" process, culminating in a working prototype by 2002. In 2003, an RFP was issued to *expand* the prototype into a pilot for a few hundred users.
+"Integrated Case Management" as a desirable concept was suggested by the 1996 [Gove Report](http://www.qp.gov.bc.ca/gove/), (yes, 1996) leading to an "Integrated Case Management Policy" in 1998, and by 1999 a Ministry working group examining "off-the-shelf" (COTS) technology solutions. The COTS review did not turn up a suitable solution, and the Ministry buried itself in a long "requirements gathering" process, culminating in a working prototype by 2002. In 2003, [an RFP was issued](http://s3.cleverelephant.ca/icm/2003-05-ICM-RFP.pdf) to *expand* the prototype into a pilot for a few hundred users.
 
 **The 2003 contract to build out the pilot was awarded to GDS & Associates Systems in the amount of $142,800.**  No, I didn't drop any zeroes. Six years before a $180,000,000 ICM contract was awarded to Deloitte, the Ministry thought a working pilot could be developed for **1/1000 of the cost**.
 
