@@ -39,11 +39,11 @@ The BC Innovation Council (BCIC) that is co-hosting the event is itself a govern
 
 The pre-election timing is not coincidental, it is part of a plan that dates all the way back to early 2015, when Deputy Minister Athana Mentzelopoulos directed staff to begin planning a "Tech Summit" for spring of the following year.
 
-> "We will not be coupling the tech summit with the LNG conference. Instead, the desire is to plan for the tech summit annually over the next couple of years -- first in January 2016 and then in January 2017." -- email from A. Mentzelopoulos, April 8, 2015
+> "We will not be coupling the tech summit with the LNG conference. Instead, the desire is to plan for the tech summit annually over the next couple of years -- first in January 2016 and then in January 2017." -- email from A. Mentzelopoulos, [April 8, 2015](http://s3.cleverelephant.ca/CTZ-2016-61489.pdf#page=9)
 
 The intent of creating a "conference" to sell a new-and-improved government "jobs plan", and the source of that plan, was made clear by the government manager tasked with delivering the event.
 
-> "The push for this as an annual conference has come from the Premier's Office and they want to (i) show alignment with the Jobs Plan (including the LNG conference) and (ii) show this has multi-ministry buy-in and participation." -- S. Butterworth, April 24, 2015
+> "The push for this as an annual conference has come from the Premier's Office and they want to (i) show alignment with the Jobs Plan (including the LNG conference) and (ii) show this has multi-ministry buy-in and participation." -- S. Butterworth, [April 24, 2015](http://s3.cleverelephant.ca/CTZ-2016-61489.pdf#page=13)
 
 And indeed everyone did pull together, the conference was put on, and made a [$1,000,000 loss](http://www2.gov.bc.ca/enSearch/detail?id=26EE74C124B8476EA280E7A3C823A2D8&recorduid=CTZ-2016-60768) which was dutifully covered by the Province via the BC Innovation Council, laying the groundwork for 2017's much more politically potent version.
 
@@ -57,7 +57,7 @@ Systematically corrupt governments aren't interested in personally enriching the
 
 The platinum sponsors of LNG in BC 2015 were almost all major LNG project proponents: LNG Canada, Pacific Northwest LNG, and Kitimat LNG. Were they, like sponsors at a normal trade conference, seeking to raise their profile among attendees? Or were they demonstrating their loyalty to the government that organized the event and then approached them for sponsorship dollars?   
 
-The 2017 #BCTech conference already has a title sponsor: Microsoft. In unrelated news, Microsoft is currently negotiating to bring their Office 365 product into the BC public sector. If the #BCTech conference was an ordinary trade show, these two unrelated facts wouldn't be cause for concern. But because the event is an artificially created artifact of the Premier's Office, a shadow is cast over the whole enterprise. 
+The 2017 #BCTech conference already has a [title sponsor](http://bctechsummit.ca/sponsors/): Microsoft. In unrelated news, Microsoft is currently negotiating to bring their Office 365 product into the BC public sector. If the #BCTech conference was an ordinary trade show, these two unrelated facts wouldn't be cause for concern. But because the event is an artificially created artifact of the Premier's Office, a shadow is cast over the whole enterprise. 
 
 Who is helping who here, and why? 
 
