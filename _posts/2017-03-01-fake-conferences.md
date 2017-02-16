@@ -31,7 +31,7 @@ In case anyone had any doubts about the purpose of the "event", at the 2014 edit
 
 The government is no longer organizing an annual LNG confab, despite their protestations that the industry remains a key priority.  At this point, it would generate more public embarassment than public plaudits.
 
-Instead, we have a new faux "conference", slated to run March 14-15, just **eight weeks** before the 2017 election: the [#BCTech Summit](http://bctechsummit.ca/).
+Instead, we have a new faux "conference", slated to run March 14-15, just **four weeks** before the 2017 election begins: the [#BCTech Summit](http://bctechsummit.ca/).
 
 Like "LNG in BC", the "BCTech Summit" is a government-organized and government-funded faux industry event, put on primarily to provide an expensive backdrop for BC Liberal politicking. 
 
