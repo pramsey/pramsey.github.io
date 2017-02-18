@@ -10,7 +10,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2006/07/state-of-state-of-open-s
 comments: True
 ---
 
-About a week ago, my colleague Jody Garnett posted a link to a [paper of mine](http://www.refractions.net/white_papers/oss_briefing/2006-06-OSS-Briefing.pdf) on the OSGeo mailing list.  From there, some other folks passed it on, and finally the cycle closed again, as I found a [posting-about-a-posting](http://www.spatiallyadjusted.com/2006/07/28/state-of-net-open-source-gis/) on James Fee's excellent blog.
+About a week ago, my colleague Jody Garnett posted a link to a [paper of mine](https://web.archive.org/web/20060830221232/http://www.refractions.net/white_papers/oss_briefing/2006-06-OSS-Briefing.pdf) on the OSGeo mailing list.  From there, some other folks passed it on, and finally the cycle closed again, as I found a [posting-about-a-posting](http://spatiallyadjusted.com/state-of-net-open-source-gis/) on James Fee's excellent blog.
 
 The paper itself is a backgrounder for a talk I have been trying with varying degrees of success to shoehorn into 30-minute time slots for the past several years.  Any student of the open source GIS world will soon realize that in order to try and talk about it coherently, a great deal will have to be left out.  That said, my criteria for taking and leaving have hardly been scientific. 
 
