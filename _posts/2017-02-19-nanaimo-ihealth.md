@@ -20,7 +20,7 @@ image: "2017/ihealth-houson.jpg"
 
 <img src="{{ site.images }}{{ page.image }}" alt='{{ page.title }}' width="528" height="206" />
 
-A year after roll-out, the Island Health electronic health record (EHR) project being piloted at Nanaimo Regional General Hospital is **abandoning electronic processes and returning to pen and paper**. An alert reader forwarded me this note from the Island Health CEO, sent out Friday afternoon:
+A year after roll-out, the Island Health electronic health record (EHR) project being piloted at Nanaimo Regional General Hospital (NRGH) is **abandoning electronic processes and returning to pen and paper**. An alert reader forwarded me this note from the Island Health CEO, sent out Friday afternoon:
 
 > The Nanaimo Medical Staff Association Executive has requested that the CPOE tools be suspended while improvements are made. An Island Health Board meeting was held yesterday to discuss the path forward. The Board and Executive take the concerns raised by the Medical Staff Association seriously, and recognize the need to have the commitment and confidence of the physician community in using advanced EHR tools such as CPE. We will engage the NRGH physicians and staff on a plan to start **taking steps to cease use of the CPOE tools and associated processes.** Any plan will be implemented in a safe and thoughtful way with patient care and safety as a focus.<br/>-- [Dr. Brendan Carr to all Staff/Physicians at Nanaimo Regional General Hospital]({{ site.images }}2017/ihealth-snap.png)
 
