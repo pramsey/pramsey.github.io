@@ -50,7 +50,7 @@ An [independent review](http://ihealth.islandhealth.ca/wp-content/uploads/2016/1
 
 The Health Authority committed to address the concerns of the report, but evidently the hospital staff felt they could no longer risk patient health while waiting for the improvements to land. Hence a very expensive back-track to paper processes, and then another expensive roll-out process in the future.
 
-This set-back will undoubtedly cost millions. The EHR roll-out was supposed to proceed smoothly from NRGH to the result of the facilities in Island Health [before the end of 2016](https://web.archive.org/web/20160316002551/http://ihealth.islandhealth.ca/about/). 
+This set-back will undoubtedly cost millions. The EHR roll-out was supposed to proceed smoothly from NRGH to the rest of the facilities in Island Health [before the end of 2016](https://web.archive.org/web/20160316002551/http://ihealth.islandhealth.ca/about/). 
 
 > This new functionality will first be implemented at the NRGH core campus, Dufferin Place and Oceanside Urgent Care on March 19, 2016. The remaining community sites and programs in Geography 2 and all of Geography 1 will follow approximately 6 months later. The rest of Island Health (Geographies 3 and 4) will go-live roughly 3 to 6 months after that.
 
