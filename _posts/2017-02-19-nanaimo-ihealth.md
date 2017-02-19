@@ -60,7 +60,7 @@ The failure of this particular system is deeply worrying because it is a failure
 
 <img src="{{ site.images }}/2017/ihealth-cerner.jpg" alt='Cerner' width="528" height="297" />
 
-When the IBM-led join EHR project at PHSA and Coastal Health was "reset" (after spending $72M) by Minister Terry Lake in 2015, the [government fired IBM and turned to a vendor](http://vancouversun.com/news/staff-blogs/breaking-news-health-minister-says-he-read-riot-act-to-it-leaders-over-megaproject-problems-ibm-out-cerner-in) they hoped would be more reliable: EHR software maker [Cerner](https://www.cerner.com/).
+When the IBM-led EHR project at PHSA and Coastal Health was "reset" (after spending $72M) by Minister Terry Lake in 2015, the [government fired IBM and turned to a vendor](http://vancouversun.com/news/staff-blogs/breaking-news-health-minister-says-he-read-riot-act-to-it-leaders-over-megaproject-problems-ibm-out-cerner-in) they hoped would be more reliable: EHR software maker [Cerner](https://www.cerner.com/).
 
 Cerner was already leading the Island Health project, which at that point (mid-2015) was apparently heading to a successful on-time roll-out in Nanaimo. They seemed like a safe bet. They had more direct experience with the EHR software, since they wrote it. They were a health specialist firm, not a consulting generalist firm.
 
