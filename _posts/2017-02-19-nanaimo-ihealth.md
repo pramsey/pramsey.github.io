@@ -24,7 +24,7 @@ A year after roll-out, the Island Health electronic health record (EHR) project 
 
 > The Nanaimo Medical Staff Association Executive has requested that the CPOE tools be suspended while improvements are made. An Island Health Board meeting was held yesterday to discuss the path forward. The Board and Executive take the concerns raised by the Medical Staff Association seriously, and recognize the need to have the commitment and confidence of the physician community in using advanced EHR tools such as CPE. We will engage the NRGH physicians and staff on a plan to start **taking steps to cease use of the CPOE tools and associated processes.** Any plan will be implemented in a safe and thoughtful way with patient care and safety as a focus.<br/>-- [Dr. Brendan Carr to all Staff/Physicians at Nanaimo Regional General Hospital]({{ site.images }}2017/ihealth-snap.png)
 
-This extremely expensive back-tracking comes after a year of struggles between the Health Authority and the staff and physicians at NGRH.
+This extremely expensive back-tracking comes after a year of struggles between the Health Authority and the staff and physicians at NRGH.
 
 After [two years](http://ihealth.islandhealth.ca/2014/09/canadian-healthcare-technology-aritcle-island-health/) of development and testing, the system was rolled out on March 19, 2016. Within a couple months, staff had moved beyond internal griping to griping to the media and attempting to force changes through bad publicity.
 
@@ -50,7 +50,7 @@ An [independent review](http://ihealth.islandhealth.ca/wp-content/uploads/2016/1
 
 The Health Authority committed to address the concerns of the report, but evidently the hospital staff felt they could no longer risk patient health while waiting for the improvements to land. Hence a very expensive back-track to paper processes, and then another expensive roll-out process in the future.
 
-This set-back will undoubtedly cost millions. The EHR roll-out was supposed to proceed smoothly from NGRH to the result of the facilities in Island Health [before the end of 2016](https://web.archive.org/web/20160316002551/http://ihealth.islandhealth.ca/about/). 
+This set-back will undoubtedly cost millions. The EHR roll-out was supposed to proceed smoothly from NRGH to the result of the facilities in Island Health [before the end of 2016](https://web.archive.org/web/20160316002551/http://ihealth.islandhealth.ca/about/). 
 
 > This new functionality will first be implemented at the NRGH core campus, Dufferin Place and Oceanside Urgent Care on March 19, 2016. The remaining community sites and programs in Geography 2 and all of Geography 1 will follow approximately 6 months later. The rest of Island Health (Geographies 3 and 4) will go-live roughly 3 to 6 months after that.
 
