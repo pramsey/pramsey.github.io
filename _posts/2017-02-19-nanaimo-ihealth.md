@@ -70,6 +70,6 @@ There will be a lot of finger-pointing and blame shifting going on at Island Hea
 
 Cerner will want to blame the end users. But when data entry takes twice as long as paper processes, that's not end users' fault. When screens are built with piles of non-relevant fields, and poor layouts, that's not end users' fault. When systems are slow or unreliable, that's not end users' fault.
 
-Congratulations British Columbia, on your latest non-working enterprise IT project. The only solace I can provide is that eventually it will probably work, albeit at several times the price you might have considered "reasonable". 
+Congratulations British Columbia, on your latest non-working enterprise IT project. The only solace I can provide is that eventually it will probably work, albeit some years later and at several times the price you might have considered "reasonable". 
 
 
