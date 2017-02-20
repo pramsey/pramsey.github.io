@@ -66,7 +66,7 @@ Cerner was already leading the Island Health project, which at that point (mid-2
 
 For all my concerns about failures in enterprise IT, I would have bet on Cerner turning out a successful if very, very, very costly system. There's a lot of strength in having relevant domain experience: it provides focus and a deep store of best practices to fall back on. And as a specialist in EHR, a failed EHR project will injure Cerner's reputation in ways a single failed project will barely dent IBM's clout.
 
-There will be a lot of finger-pointing and blame shifting going on at Island Health and the Ministry over the next few months. The government should not be afraid to point fingers at Cerner and force them to cough up some dollars for this failure. If Cerner doesn't want to wear this failure, if they want to be seen as a true "[parter](https://web.archive.org/web/20160316061148/http://ihealth.islandhealth.ca/about/partnership-with-cerner/)" in this project, they need to buck up.
+There will be a lot of finger-pointing and blame shifting going on at Island Health and the Ministry over the next few months. The government should not be afraid to point fingers at Cerner and force them to cough up some dollars for this failure. If Cerner doesn't want to wear this failure, if they want to be seen as a true "[partner](https://web.archive.org/web/20160316061148/http://ihealth.islandhealth.ca/about/partnership-with-cerner/)" in this project, they need to buck up.
 
 Cerner will want to blame the end users. But when data entry takes twice as long as paper processes, that's not end users' fault. When screens are built with piles of non-relevant fields, and poor layouts, that's not end users' fault. When systems are slow or unreliable, that's not end users' fault.
 
