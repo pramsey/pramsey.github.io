@@ -29,7 +29,7 @@ Most of my writings start out (and remain) as long-form blog posts, but in blog 
 
 ## Presentations
 
-I deliver keynote presentations to different conferences, usual geospatial ones, once or twice a year, and the odds of getting a good recording have been going up lately. Here are some of my favourites.
+I deliver keynote presentations to different conferences, usually geospatial ones, once or twice a year, and the odds of getting a good recording have been going up lately. Here are some of my favourites.
 
 * [Data Pipes & Relevance](http://s3.cleverelephant.ca/2015-ccog.pdf) On how government geospatial data creators should be thinking about the future of our industry.
 * [The Undiscovered Country](/2016/10/geomatique-quebec.html) An expansion on "The Future and All That" with specific reference to the privacy implications of ubiquitous geospatial monitoring.
