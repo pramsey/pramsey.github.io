@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fake Conferences, Real Money, Real Concerns
+title: BC Tech Summit, a $1M Christy Clark Photo Op
 date: '2017-02-15T08:00:00-08:00'
 author: Paul Ramsey
 category: politics
@@ -12,6 +12,8 @@ tags:
 comments: True
 image: "2017/bctech.jpg"
 ---
+
+
 
 On February 25, 2013, Christie Clark mounted the stage at the "[International LNG Conference](https://web.archive.org/web/20130228024853/http://engage.gov.bc.ca/lnginbc/files/2013/02/LNG-Conference-AgendaFinal.pdf)" at the Vancouver Convention Centre to trumpet her government's plans to have "[at least one LNG pipeline and terminal in operation in Kitimat by 2015 and three in operation by 2020](https://web.archive.org/web/20150529061915/http://engage.gov.bc.ca/bcjobsplan/files/2014/09/BC-Jobs-Plan.pdf#page=21)".
 
