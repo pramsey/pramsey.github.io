@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BC Tech Summit, a $1M Christy Clark Photo Op
+title: $1M for Christy Clark's latest faux conference photo op
 date: '2017-02-15T08:00:00-08:00'
 author: Paul Ramsey
 category: politics
