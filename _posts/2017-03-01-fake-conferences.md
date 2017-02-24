@@ -13,11 +13,9 @@ comments: True
 image: "2017/bctech.jpg"
 ---
 
-
-
 On February 25, 2013, Christie Clark mounted the stage at the "[International LNG Conference](https://web.archive.org/web/20130228024853/http://engage.gov.bc.ca/lnginbc/files/2013/02/LNG-Conference-AgendaFinal.pdf)" at the Vancouver Convention Centre to trumpet her government's plans to have "[at least one LNG pipeline and terminal in operation in Kitimat by 2015 and three in operation by 2020](https://web.archive.org/web/20150529061915/http://engage.gov.bc.ca/bcjobsplan/files/2014/09/BC-Jobs-Plan.pdf#page=21)".
 
-<img src="{{ site.images }}{{ page.image }}" alt='{{ page.title }}' width="594" height="258" />
+<img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" width="594" height="258" />
 
 Notwithstanding the Premier's desire to frame economic devopment as a triumph of will, and notwithstanding the generous firehosing of [subsidies](/2016/11/edrive.html) and [taxbreaks](https://www.policyalternatives.ca/sites/default/files/uploads/publications/BC%20Office/2014/04/CCPA-BC-Path-To-Prosperity.pdf) on the still nascent sector, the number of LNG pipelines and terminals in operation in Kitimat remains **stubbornly zero**. The markets are unlikely to relent in time to make the 2020 deadline.
 
@@ -64,6 +62,8 @@ It is hard to avoid the conclusion that these events are just another conduit fo
 > "In polities plagued with systematic corruption, a group of politicians deliberately create rents by limiting entry into valuable economic activities, through grants of monopoly, restrictive corporate charters, tariffs, quotas, regulations, and the like. These rents bind the interests of the recipients to the politicians who create them."
 
 Systematically corrupt governments aren't interested in personally enriching their members, they are interested in retaining and reinforcing their power, through a virtuous cycle of favours: economic favours are handed to compliant economic actors who in turn do what they can to protect and promote their government patrons.
+
+<img src="{{ site.images }}/2017/bctech-oro.jpg" width="400" height="238" alt="Circle of Graft" />
 
 The 2017 #BCTech conference already has a [title sponsor](http://bctechsummit.ca/sponsors/): Microsoft. In unrelated news, Microsoft is currently negotiating to bring their Office 365 product into the BC public sector. If the #BCTech conference was an ordinary trade show, these two unrelated facts wouldn't be cause for concern. But because the event is an artificially created artifact of the Premier's Office, a shadow is cast over the whole enterprise. 
 
