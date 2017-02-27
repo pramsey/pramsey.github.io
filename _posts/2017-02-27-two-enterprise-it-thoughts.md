@@ -9,7 +9,7 @@ tags:
 - enterprise
 - bc
 comments: True
-image: "2017/ihealth-houson.jpg"
+image: "2017/overpass.jpg"
 ---
 
 While thinking about the failure of the Cerner roll-out in Nanaimo, where an expensive COTS electronic health record (EHR) system [has been withdrawn](http://www.cbc.ca/news/canada/british-columbia/island-health-ihealth-nanaimo-1.3995300) after the medical stuff rejected it, I have had a couple thoughts.
@@ -25,6 +25,8 @@ I'm wondering if some of the issue might be the origin story: Cerner is an EHR d
 Recently, a colleague of mine told me about the system BC procured a decade ago to handle ambulance dispatch. Like Cerner, it was a US system. It handled dispatch fine, and still does. What was odd about it was that if you cracked open the user manuals for the system, over 75% of the material was about how to configure and manage billing. The primary pain point for these US organizations is the incredibly complicated accounting issues associated with their multiple-payer private health insurance system, and the system reflects that.
 
 What I'm getting at here is that if you to go a US reference customer for one of these systems and ask "how did it work for you, was it good?", when they answer "it is great, it has really made things better!" what **they** mean by better might not be what **you** might mean by better, at least not 100%.
+
+<img src="{{ site.images }}{{ page.image }}" alt='{{ page.title }}' />
 
 ## Cost of Safe, Proven Systems
 
