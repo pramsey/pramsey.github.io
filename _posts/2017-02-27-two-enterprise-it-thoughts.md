@@ -20,19 +20,19 @@ As I [noted in my post](/2017/02/nanaimo-ihealth.html), I actually expected the 
 
 Why would a system rolled out in multiple US hospitals display these drawbacks? 
 
-I'm wondering if some of the issue might be the origin story: Cerner is an EHR developed and deployed first in the USA. As such, one of the main **value propositions** of the system would be the fine-grained tracking and management of **billable events**. To the people purchasing the system, the hostpital managers, the system would pay for itself many times over just by improving the accounting aspect of hospital management. Even if it made patient care **less** efficient, the improvement in billing alone could make the system worthwhile.
+I'm wondering if some of the issue might be the origin story: Cerner is an EHR developed and deployed first in the USA. As such, one of the main **value propositions** of the system would be the fine-grained tracking and management of **billable events**. To the people purchasing the system, the hospital managers, the system would pay for itself many times over just by improving the accounting aspect of hospital management. Even if it made patient care **less** efficient, the improvement in billing alone could make the system worthwhile.
 
-Recently, a colleague of mine told me about the system BC procured a decade ago to handle ambulance dispatch. Like Cerner, it was a US system. It handled dispatch fine, and still does. What was odd about it was that if you cracked open the user manuals for the system, over 75% of the material was about how to configure and manage billing. The primary pain point for these US organizations is the incredibly complicated accounting issues associated with their multiple-payer private health insurance system, and the system reflects that.
+Recently, a colleague of mine told me about the ambulance dispatch system BC procured a decade ago. Like Cerner, it was a US system. It handled dispatch fine, and still does. What was odd about it was that if you cracked open the user manuals for the system, over 75% of the material was about how to configure and manage **billing**. The primary pain point for these US organizations is the incredibly complicated accounting issues associated with their multiple-payer private health insurance system, and the system reflects that.
 
-What I'm getting at here is that if you to go a US reference customer for one of these systems and ask "how did it work for you, was it good?", when they answer "it is great, it has really made things better!" what **they** mean by better might not be what **you** might mean by better, at least not 100%.
+What I'm getting at here is that if you go to a US reference customer for one of these systems and ask "how did it work for you, was it good?", when they answer "it is great, it has really made things better!" what **they** mean by better might not be what **you** might mean by better, at least not 100%.
 
 <img src="{{ site.images }}{{ page.image }}" alt='{{ page.title }}' />
 
 ## Cost of Safe, Proven Systems
 
-My second thought about the Cerner roll-out was about the timelines associated with software procurement, particularly when the goal is a "safe, proven choice". IT managers -- particularly ones who are, deep in their hearts, afraid of technology -- like a safe, proven choice. They like software that someone else with a similar business is already using, in a similar way.
+My second thought on the Cerner roll-out was about the timelines associated with software procurement, particularly when the goal is a "safe, proven choice". IT managers -- particularly ones who are, deep in their hearts, afraid of technology -- like a safe, proven choice. They like software that someone else with a similar business is already using, in a similar way.
 
-When you're talking about big production systems, that may take a couple years to set up, and then another couple years to roll out progressively to a large front-line staff, there's a number of big lags:
+When you're talking about big production systems, that may take a couple years to set up, and another couple years to roll out progressively to a large front-line staff, there's a number of big lags:
 
 * If you take two years to configure and a year to roll out, the software will be three years old before your staff is all using it.
 * Your procurement process will itself probably take a year.
