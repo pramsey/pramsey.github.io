@@ -42,7 +42,7 @@ When you're talking about big production systems, that may take a couple years t
 
 This is more-or-less exactly what happened to the Ministry of Children and Families [in the ICM procurement](/2012/06/more-icm.html). 
 
-The software on which their basically "brand new" system (I believe final roll-out was officially finished last year) runs is now over a decade old, and shows it.
+The software that runs their basically "brand new" system (I believe final roll-out was officially finished last year) is now over a decade old, and shows it.
 
 The reason consumer-facing systems are always *au courant*, lovely and fast, is because they are maintained by dedicated teams who are charged with continuous improvement. As long as we purchase systems like we build bridges, as a one-time capital expense followed by decades of disintigration and then replacement, we can expect our enterprise systems to lag far far behind. 
 
