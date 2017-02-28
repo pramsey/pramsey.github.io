@@ -12,7 +12,7 @@ comments: True
 image: "2017/overpass.jpg"
 ---
 
-While thinking about the failure of the Cerner roll-out in Nanaimo, where an expensive COTS electronic health record (EHR) system [has been withdrawn](http://www.cbc.ca/news/canada/british-columbia/island-health-ihealth-nanaimo-1.3995300) after the medical stuff rejected it, I have had a couple thoughts.
+While thinking about the failure of the Cerner roll-out in Nanaimo, where an expensive COTS electronic health record (EHR) system [has been withdrawn](http://www.cbc.ca/news/canada/british-columbia/island-health-ihealth-nanaimo-1.3995300) after the medical staff rejected it, I have had a couple thoughts.
 
 ## Origins Matter
 
