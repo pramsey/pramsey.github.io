@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Christy Clark's $1M faux conference photo op
+title: Christy Clark's $1M Faux Conference Photo-op
 date: '2017-03-07T08:00:00-08:00'
 author: Paul Ramsey
 category: politics
