@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Christy Clark's $1M Faux Conference Photo-op
-date: '2017-03-07T08:00:00-08:00'
+date: '2017-03-06T12:00:00-08:00'
 author: Paul Ramsey
 category: politics
 tags:
@@ -17,7 +17,7 @@ On February 25, 2013, Christie Clark mounted the stage at the "[International LN
 
 <img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" width="594" height="258" />
 
-Notwithstanding the Premier's desire to frame economic devopment as a triumph of will, and notwithstanding the generous firehosing of [subsidies](/2016/11/edrive.html) and [taxbreaks](https://www.policyalternatives.ca/sites/default/files/uploads/publications/BC%20Office/2014/04/CCPA-BC-Path-To-Prosperity.pdf) on the still nascent sector, the number of LNG pipelines and terminals in operation in Kitimat remains [stubbornly zero(http://www.cbc.ca/news/canada/british-columbia/lng-canada-kitimat-delays-1.3674798). The markets are unlikely to relent in time to make the 2020 deadline.
+Notwithstanding the Premier's desire to frame economic devopment as a triumph of will, and notwithstanding the generous firehosing of [subsidies](/2016/11/edrive.html) and [taxbreaks](https://www.policyalternatives.ca/sites/default/files/uploads/publications/BC%20Office/2014/04/CCPA-BC-Path-To-Prosperity.pdf) on the still nascent sector, the number of LNG pipelines and terminals in operation in Kitimat remains [stubbornly zero](http://www.cbc.ca/news/canada/british-columbia/lng-canada-kitimat-delays-1.3674798). The markets are unlikely to relent in time to make the 2020 deadline.
 
 And about that "conference"? 
 
@@ -37,7 +37,9 @@ Like "LNG in BC", the "BCTech Summit" is a government-organized and government-f
 
 <img src="{{ site.images }}/2017/bcic-logo.png" width="181" alt="BC Innovation Council" style="float:right;margin-left:1.5em;" />
 
-The BC Innovation Council ([BCIC](http://bcic.ca/)) that is co-hosting the event is itself a government-funded advisory council run by BC Liberal appointees, many of whom are also party donors. To fund the inaugural 2016 version of the event, the Ministry of Citizens Services wrote a directed [$1,000,000 contract](http://www2.gov.bc.ca/enSearch/detail?id=26EE74C124B8476EA280E7A3C823A2D8&recorduid=CTZ-2016-60773) to the BCIC.
+The BC Innovation Council ([BCIC](http://bcic.ca/)) that is co-hosting the event is itself a government-funded advisory council run by BC Liberal appointees, many of whom are also
+[party](http://contributions.electionsbc.gov.bc.ca/pcs/SA1SearchResults.aspx?FilerSK=(ALL)&EDSK=0&FilerTypeSK=0&Contributor=derek+lew&PartySK=5&ED=(ALL)&FilerType=(ALL)&Filer=(ALL)&Party=BC+Liberal+Party&DateTo=2015%2f12%2f31&DateFrom=2015%2f01%2f01&DFYear=2015&DFMonth=01&DFDay=01&DTYear=2015&DTMonth=12&DTDay=31)
+[donors](http://contributions.electionsbc.gov.bc.ca/pcs/SA1SearchResults.aspx?FilerSK=(ALL)&EDSK=0&FilerTypeSK=0&Contributor=munjal&PartySK=5&ED=(ALL)&FilerType=(ALL)&Filer=(ALL)&Party=BC+Liberal+Party&DateTo=2017%2f12%2f31&DateFrom=2005%2f01%2f01&DFYear=2005&DFMonth=01&DFDay=01&DTYear=2017&DTMonth=12&DTDay=31). To fund the inaugural 2016 version of the event, the Ministry of Citizens Services wrote a directed [$1,000,000 contract](http://www2.gov.bc.ca/enSearch/detail?id=26EE74C124B8476EA280E7A3C823A2D8&recorduid=CTZ-2016-60773) to the BCIC.
 
 The pre-election timing is not coincidental, it is part of a plan that dates all the way back to early 2015, when Deputy Minister Athana Mentzelopoulos directed staff to begin planning a "Tech Summit" for spring of the following year.
 
