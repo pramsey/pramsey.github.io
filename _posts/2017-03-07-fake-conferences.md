@@ -23,11 +23,11 @@ And about that "conference"?
 
 Like the faux "[Bollywood Awards](http://www.cbc.ca/news/canada/british-columbia/vancouver-to-host-new-bollywood-awards-premier-confirms-1.1316425)" that the government paid $10M to stage just weeks before the 2013 election, the "LNG in BC" conference was a government organized "event" put on primarily to advance the pre-election public relations agenda of the BC Liberal party.
 
-The "LNG in BC" conference continued to be organized by the government for two more years, providing a stage each year for the Premier and multiple Ministers to broadcast their message. 
-
 In case anyone had any doubts about the purpose of the "event", at the 2014 edition an exhibitor helpfully handed out a brochure to attendees, featuring an election night picture of the Premier and her son, under the title "[We Won](http://s3.cleverelephant.ca/wewon.pdf)".
 
 <img src="{{ site.images }}/2017/wewon.jpg" width="550" height="421" alt="We Won" />
+
+The "LNG in BC" conference continued to be organized by the government for two more years, providing a stage each year for the Premier and multiple Ministers to broadcast their message. 
 
 The government is no longer organizing an annual LNG confab, despite their protestations that the industry remains a key priority.  At this point, it would generate more public embarassment than public plaudits.
 
