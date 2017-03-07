@@ -13,7 +13,7 @@ comments: True
 image: "2017/bctech.jpg"
 ---
 
-On February 25, 2013, Christie Clark mounted the stage at the "[International LNG Conference](https://web.archive.org/web/20130228024853/http://engage.gov.bc.ca/lnginbc/files/2013/02/LNG-Conference-AgendaFinal.pdf)" at the Vancouver Convention Centre to trumpet her government's plans to have "[at least one LNG pipeline and terminal in operation in Kitimat by 2015 and three in operation by 2020](https://web.archive.org/web/20150529061915/http://engage.gov.bc.ca/bcjobsplan/files/2014/09/BC-Jobs-Plan.pdf#page=21)".
+On February 25, 2013, Christie Clark mounted the stage at the "[International LNG Conference](https://web.archive.org/web/20130228024853/http://engage.gov.bc.ca/lnginbc/files/2013/02/LNG-Conference-AgendaFinal.pdf)" in Vancouver to trumpet her government's plans to have "[at least one LNG pipeline and terminal in operation in Kitimat by 2015 and three in operation by 2020](https://web.archive.org/web/20150529061915/http://engage.gov.bc.ca/bcjobsplan/files/2014/09/BC-Jobs-Plan.pdf#page=21)".
 
 <img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" width="594" height="258" />
 
