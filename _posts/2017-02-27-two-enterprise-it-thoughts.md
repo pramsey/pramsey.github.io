@@ -24,7 +24,7 @@ I'm wondering if some of the issue might be the origin story: Cerner is an EHR d
 
 Recently, a colleague told me about the ambulance dispatch system BC procured a decade ago. Like Cerner, it was a US system. It handled dispatch fine, and still does. What was odd about the system was that when you cracked open the user manuals, over 75% of the material was about how to configure and manage **billing**. The primary IT pain point for these US organizations is the incredibly complicated accounting issues associated with their multiple-payer private health insurance system, and the system reflects that.
 
-What I'm getting at here is that if you go to a US reference customer for one of these systems and ask "how did it work for you, was it good?", when they answer "it is great, it has really made things better!" what **they** mean by better might not be what **you** might mean by better, at least not 100%.
+What I'm getting at here is that if you go to a US reference customer for one of these systems and ask "how did it work for you, was it good?", when they answer "it is great, it has really made things better!" what **they** mean by "better" might not be what **you** might mean by "better", at least not 100%.
 
 <img src="{{ site.images }}{{ page.image }}" alt='{{ page.title }}' />
 
