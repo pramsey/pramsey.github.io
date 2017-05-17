@@ -12,7 +12,7 @@ comments: True
 image: "2017/electionsbc.png"
 ---
 
-For all the electrons spilled speculating on what trends might apply to the Courtenay-Comox absentee ballots being counted next week, I feel like I haven't seen the actual numbers from 2013 in print anywhere, so here they are from the [2013 Statement of Votes](elections.bc.ca/docs/rpt/2013GE/2013-GE-SOV.pdf):
+For all the [electrons spilled](http://www.cbc.ca/news/canada/british-columbia/absentee-voting-explained-1.4108548) speculating on what trends might apply to the Courtenay-Comox absentee ballots being [counted next week](http://www.cbc.ca/news/canada/british-columbia/bc-recounts-1.4114329), I feel like I haven't seen the actual numbers from 2013 in print anywhere, so here they are from the [2013 Statement of Votes](elections.bc.ca/docs/rpt/2013GE/2013-GE-SOV.pdf):
 
 | Section                     | GP    | NDP   | CP   | LIB   | Total | %     |
 |:----------------------------|:-----:|:-----:|:----:|:-----:|:-----:|:-----:|
