@@ -25,10 +25,11 @@ For all the electrons spilled speculating on what trends might apply to the Cour
 | Total                       | 426   | 1456  | 192  | 1431  | 3505  | 100%  |
 | %                           | 12.2% | 41.5% | 5.5% | 40.8% | 100%  | -     |
 
-Two caveats: 
+Some caveats: 
 
 * Redistribution made the 2017 riding somewhat **weaker** for the NDP than it was in 2013. (Advantage: Liberals)
 * In 2017 the NDP candidate did somewhat **better** than in 2013. (Advantage: NDP)
+* In 2013 the NDP candidate lost the riding but (barely) won the absentee tally. (Advantage: NDP)
 
-With those two caveats in mind, the final conclusion: anyone who tells you that there's a predictable direction the absentee ballot will go based on past results is blowing smoke up your \*\*\*.
+With those caveats in mind, the final conclusion: anyone who tells you that there's a predictable direction the absentee ballot will go based on past results is blowing smoke up your \*\*\*.
 
