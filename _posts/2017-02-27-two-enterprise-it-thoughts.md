@@ -22,9 +22,9 @@ Why would a system rolled out in multiple US hospitals display these drawbacks?
 
 I'm wondering if some of the issue might be the origin story: Cerner is an EHR developed and deployed first in the USA. As such, one of the main **value propositions** of the system would be the fine-grained tracking and management of **billable events**. To the people purchasing the system, the hospital managers, the system would pay for itself many times over just by improving the accounting aspect of hospital management. Even if it made patient care **less** efficient, the improvement in billing alone could make the system fiscally worthwhile.
 
-Recently, a colleague told me about the ambulance dispatch system BC procured a decade ago. Like Cerner, it was a US system. It handled dispatch fine, and still does. What was odd the system was that when you cracked open the user manuals, over 75% of the material was about how to configure and manage **billing**. The primary IT pain point for these US organizations is the incredibly complicated accounting issues associated with their multiple-payer private health insurance system, and the system reflects that.
+Recently, a colleague told me about the ambulance dispatch system BC procured a decade ago. Like Cerner, it was a US system. It handled dispatch fine, and still does. What was odd about the system was that when you cracked open the user manuals, over 75% of the material was about how to configure and manage **billing**. The primary IT pain point for these US organizations is the incredibly complicated accounting issues associated with their multiple-payer private health insurance system, and the system reflects that.
 
-What I'm getting at here is that if you go to a US reference customer for one of these systems and ask "how did it work for you, was it good?", when they answer "it is great, it has really made things better!" what **they** mean by better might not be what **you** might mean by better, at least not 100%.
+What I'm getting at here is that if you go to a US reference customer for one of these systems and ask "how did it work for you, was it good?", when they answer "it is great, it has really made things better!" what **they** mean by "better" might not be what **you** might mean by "better", at least not 100%.
 
 <img src="{{ site.images }}{{ page.image }}" alt='{{ page.title }}' />
 
@@ -44,6 +44,6 @@ This is more-or-less exactly what happened to the Ministry of Children and Famil
 
 The software that runs their basically "brand new" system (I believe final roll-out was officially finished last year) is now over a decade old, and shows it.
 
-The reason consumer-facing systems are always *au courant*, lovely and fast, is because they are maintained by dedicated teams who are charged with continuous improvement. As long as we purchase systems like we build bridges, as a [one-time capital expense](/2012/12/is-building-enterprise-systems-capital.html) followed by decades of disintigration and then replacement, we can expect our enterprise systems to lag far far behind. 
+The reason consumer-facing systems are always *au courant*, lovely and fast, is because they are maintained by dedicated teams who are charged with continuous improvement. As long as we purchase systems like we build bridges, as a [one-time capital expense](/2012/12/is-building-enterprise-systems-capital.html) followed by decades of disintegration and then replacement, we can expect our enterprise systems to lag far far behind. 
 
 

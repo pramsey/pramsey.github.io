@@ -56,7 +56,7 @@ Congratulations, NRPP on your first step towards transforming the sector, have a
 
 My notes:
 
-* The province is surely making a "siginificant investment" in Deloitte and CGI. Whether that investment ends up "helping communities" is still very much a question in flux.
+* The province is surely making a "significant investment" in Deloitte and CGI. Whether that investment ends up "helping communities" is still very much a question in flux.
 * The purpose of NRPP is not "balance" between economic development and protected natural resources. The [business case](http://www2.gov.bc.ca/gov/content/industry/natural-resource-use/frontcounter-bc/natural-resource-permitting-project/nrpp-business-case-3623) makes clear, the purpose of NRPP is to [increase natural resource extraction rates](http://blog.cleverelephant.ca/2016/05/nrpp-magic-asterisk.html), generating a permanent lift in royalties to offset the (significant) costs of NRPP. Sadly, even on those terms it's [likely to fail](http://blog.cleverelephant.ca/2016/05/nrpp-magic-asterisk.html).
 
 Such a short sentence, yet still so much misdirection.
