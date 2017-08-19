@@ -9,10 +9,10 @@ tags:
 - foss4g
 - conference
 comments: True
-image: "2017/foss4g2017.png"
+image: "2017/foss4g2017-keynote.jpg"
 ---
 
-<img src="{{ site.images }}{{ page.image }}" alt='{{ page.title }}' />
+<img src="{{ site.images }}{{ page.image }}" width='640' height='480' alt='{{ page.title }}' />
 
 I did my keynote presentation at [FOSS4G 2017](http://2017.foss4g.org) today. Here's the [PDF version](http://s3.cleverelephant.ca/2017-foss4g-keynote.pdf) of the slide deck and notes. I'll add a link to the video when it goes online.
 
