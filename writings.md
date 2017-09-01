@@ -31,7 +31,7 @@ Most of my writings start out (and remain) as long-form blog posts, but in blog 
 
 I deliver keynote presentations to different conferences, usually geospatial ones, once or twice a year, and the odds of getting a good recording have been going up lately. Here are some of my favourites.
 
-* [Why We Code](/2017/08/foss4g-keynote.html) [30m] A keynote for [FOSS4G 2017](http://2017.foss4g.org), about the economics undlying the open source ecosystem.
+* [Why We Code](/2017/08/foss4g-keynote.html) [30m] A keynote for [FOSS4G 2017](http://2017.foss4g.org), about the economics underlying the open source ecosystem.
 * [Data Pipes & Relevance](http://s3.cleverelephant.ca/2015-ccog.pdf) On how government geospatial data creators should be thinking about the future of our industry.
 * [The Undiscovered Country](/2016/10/geomatique-quebec.html) An expansion on "The Future and All That" with specific reference to the privacy implications of ubiquitous geospatial monitoring.
 * [The Future and All That](https://vimeo.com/149429837) [20m] A quick year-end retrospective and view into the panopticon that is in all of our futures.
