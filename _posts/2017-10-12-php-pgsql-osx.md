@@ -12,7 +12,7 @@ comments: True
 image: "2017/phppg.png"
 ---
 
-I'm [yak shaving](http://whatis.techtarget.com/definition/yak-shaving) this morning, and one of the yaks I needed to ensmooth was running a PHP script that connected to a PgSQL database. 
+I'm [yak shaving](http://whatis.techtarget.com/definition/yak-shaving) this morning, and one of the yaks I need to ensmooth is running a PHP script that connects to a PgSQL database. 
 
 No problem, OSX ships with PHP! Oh wait, that PHP does not include PgSQL database support.
 
@@ -20,7 +20,7 @@ No problem, OSX ships with PHP! Oh wait, that PHP does not include PgSQL databas
 
 At this point, one can either run to completely replace your in-build PHP with another PHP (probably good if you're doing modern PHP development and want something newer than 5.5) or you can add PgSQL to your existing PHP installation. I chose the latter.
 
-The key is to **build the extension you want without building the whole thing**. This is a nice trick available in PHP, similar to the apache model system for independent module development.
+The key is to **build the extension you want without building the whole thing**. This is a nice trick available in PHP, similar to the Apache module system for independent module development.
 
 First, figure out what version of PHP you will be extending:
 ```
@@ -30,9 +30,9 @@ PHP Version => 5.5.38
 ```
 For my version of OSX, Apple shipped 5.5.38, so I'll pull down the code package for that version.
 
-* http://php.net/get/php-5.5.38.tar.bz2/from/a/mirror
+* [http://php.net/get/php-5.5.38.tar.bz2/from/a/mirror](http://php.net/get/php-5.5.38.tar.bz2/from/a/mirror)
 
-Now, unbundle it and go to the php extension directory:
+Then, unbundle it and go to the php extension directory:
 ```
 tar xvfz php-5.5.38.tar.bz2
 cd php-5.5.38/ext/pgsql
@@ -46,9 +46,12 @@ PHP Api Version:         20121113
 Zend Module Api No:      20121212
 Zend Extension Api No:   220121212
 ```
-The `phpize` process reads the configuration of the installed PHP and sets of a local build environment just for the extension. All of a sudden we have a `configure` script, and we're ready to build (assuming you have installed the MacOSX commandline developers tools with XCode).
+The `phpize` process reads the configuration of the installed PHP and sets up a local build environment just for the extension. All of a sudden we have a `./configure` script, and we're ready to build (assuming you have installed the MacOSX command-line developers tools with XCode).
 ```
-> ./configure --with-php-config=/usr/bin/php-config --with-pgsql=/opt/pgsql/10
+> ./configure \
+    --with-php-config=/usr/bin/php-config \
+    --with-pgsql=/opt/pgsql/10
+
 > make
 ```
 Note that I have my own build of PostgreSQL in `/opt/pgsql`. You'll need to supply the path to your own install of PgSQL so that the PHP extension can find the PgSQL libraries and headers to build against.
@@ -72,8 +75,10 @@ Find the line for the PgSQL module and uncomment and edit it appropriately.
 extension=pgsql.so
 ;extension=php_pspell.dll
 ```
-Now you can check `php --info | grep PostgreSQL` and see if it has picked up the PgSQL module. Mine did!
+Now you can check and see if it has picked up the PgSQL module. Mine did!
 ```
+> php --info | grep PostgreSQL
+
 PostgreSQL Support => enabled
 PostgreSQL(libpq) Version => 10.0
 PostgreSQL(libpq)  => PostgreSQL 10.0 on x86_64-apple-darwin15.6.0, compiled by Apple LLVM version 8.0.0 (clang-800.0.42.1), ```
