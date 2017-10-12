@@ -76,11 +76,11 @@ extension=pgsql.so
 ;extension=php_pspell.dll
 ```
 Now you can check and see if it has picked up the PgSQL module.
-
 ```
 > php --info | grep PostgreSQL
 
 PostgreSQL Support => enabled
 PostgreSQL(libpq) Version => 10.0
-PostgreSQL(libpq)  => PostgreSQL 10.0 on x86_64-apple-darwin15.6.0, compiled by Apple LLVM version 8.0.0 (clang-800.0.42.1), ```
+PostgreSQL(libpq)  => PostgreSQL 10.0 on x86_64-apple-darwin15.6.0, compiled by Apple LLVM version 8.0.0 (clang-800.0.42.1)
+```
 That's it!
