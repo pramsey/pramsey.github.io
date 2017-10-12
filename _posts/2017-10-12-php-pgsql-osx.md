@@ -75,7 +75,7 @@ Find the line for the PgSQL module and uncomment and edit it appropriately.
 extension=pgsql.so
 ;extension=php_pspell.dll
 ```
-Now you can check and see if it has picked up the PgSQL module. Mine did!
+Now you can check and see if it has picked up the PgSQL module.
 ```
 > php --info | grep PostgreSQL
 
