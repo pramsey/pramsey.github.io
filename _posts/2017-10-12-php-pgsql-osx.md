@@ -18,7 +18,7 @@ No problem, OSX ships with PHP! Oh wait, that PHP does not include PgSQL databas
 
 <img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" />
 
-At this point, one can either run to completely replace your in-build PHP with another PHP (probably good if you're doing modern PHP development and want something newer than 5.5) or you can add PgSQL to your existing PHP installation. I chose the latter.
+At this point, you can either run to completely replace your in-build PHP with another PHP (probably good if you're doing modern PHP development and want something newer than 5.5) or you can add PgSQL to your existing PHP installation. I chose the latter.
 
 The key is to **build the extension you want without building the whole thing**. This is a nice trick available in PHP, similar to the Apache module system for independent module development.
 
