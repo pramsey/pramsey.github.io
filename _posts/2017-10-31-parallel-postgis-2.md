@@ -219,7 +219,7 @@ EXPLAIN
   ON ST_Intersects(pd.geom, pts.geom);
 {% endhighlight %}
 
-<img src="{{ site.images }}/2017/parallel_3.jpg" alt="PDs &amp; Points" width="600" height="25940" />
+<img src="{{ site.images }}/2017/parallel_3.jpg" alt="PDs &amp; Points" width="600" height="250" />
 
 In order to give the PostgreSQL planner a fair chance, I started with the largest table, thinking that the planner would recognize that a "70K rows against 7M rows" join could use some parallel love, but no dice:
 
