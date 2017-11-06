@@ -30,6 +30,6 @@ The comment goes on to muddy the waters by talking about GML, and GeoRSS and the
 
 If Microsoft wants to interoperate easily with the standards-based products already in the marketplace, they will implement the *de facto* standard for their  STAsBinary() and STAsText() functions.  If they are paying lip service to actual interoperability ("we implemented the standard but for some reason **absolutely everybody else is doing it different**! who knew?") they'll do something else.
 
-The *de jure* standard is, as the comment correctly notes, well nigh impossible to divine, because the OGC guidance on the subject has been scattered through so many areas, and because there is no **explicit** guidance on the topic for WKB and WKT.  But the *de facto* standard, the  "standard industry consensus " is clear: long/lat.
+The *de jure* standard is, as the comment correctly notes, well nigh impossible to divine, because the OGC guidance on the subject has been scattered through so many areas, and because there is no **explicit** guidance on the topic for WKB and WKT.  But the *de facto* standard, the  "standard industry consensus" is clear: long/lat.
 
 **Update:** To clarify the chocolate challenge, products that produce backwards WKB and WKT to satisfy SQL Server (FME, Manifold) don't count. This is about the industry standard that pre-existed SQL Server.

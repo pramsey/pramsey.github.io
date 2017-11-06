@@ -22,5 +22,5 @@ And this runner (append_edges.sh):
     shp2pgsql -W WINDOWS-1252 -D -a -s 4269 \`basename $1 .zip\`.shp fe_edges | psql tiger
     rm fe*edges.*
 
-Note the use of the `-W` parameter, to ensure that the high-bit  "char&agrave;ct&eacute;rs " are handled correctly, and the `-a` parameter, to append the file contents to the table.
+Note the use of the `-W` parameter, to ensure that the high-bit  "char&agrave;ct&eacute;rs" are handled correctly, and the `-a` parameter, to append the file contents to the table.
 

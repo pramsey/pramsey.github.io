@@ -33,7 +33,7 @@ GROUP BY [...]
 
 If you do, then getting Martin's JTS algorithms ported to [GEOS](http://trac.osgeo.org/geos) (the C++ geometry library used by PostGIS) will make your database run faster. Lots faster. 
 
-How can you help that happen? Become an OSGeo  "[Project Sponsor](http://wiki.osgeo.org/wiki/Project_Sponsorship) " for GEOS. Project sponsor commit a modest sum to the ongoing maintenance of the code, which is generally used for hiring a maintainer to do things like ensure patches are properly integrated, that tests are added for reliability, and that upgrades like the ones Martin has created get folded into the code base in a timely manner.
+How can you help that happen? Become an OSGeo  "[Project Sponsor](http://wiki.osgeo.org/wiki/Project_Sponsorship)" for GEOS. Project sponsor commit a modest sum to the ongoing maintenance of the code, which is generally used for hiring a maintainer to do things like ensure patches are properly integrated, that tests are added for reliability, and that upgrades like the ones Martin has created get folded into the code base in a timely manner.
 
 If you're interested in sponsoring GEOS development, please get in touch with me. If you are using PostGIS in your business, it is money well spent.
 

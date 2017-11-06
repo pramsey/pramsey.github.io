@@ -16,7 +16,7 @@ The tech team at the [New York Times](http://www.nytimes.com) has rolled out a g
 
 What's wrong with these guys, why aren't they deploying using the market leading proprietary tools? My guess is, they just don't know any better. 
 
-The real action these days is web application development, and the action there is in frameworks like Rails, Django, Drupal, Plone, and the like.  What tools integrate better with those environments?  What tools are developers using those environments likely to find and try on their own?  Open source blooms in green fields.  Looking at ESRI-dependent government agencies and wondering  "where is the open source? " is like looking at the Bronx and wondering  "where are all the flowers? "
+The real action these days is web application development, and the action there is in frameworks like Rails, Django, Drupal, Plone, and the like.  What tools integrate better with those environments?  What tools are developers using those environments likely to find and try on their own?  Open source blooms in green fields.  Looking at ESRI-dependent government agencies and wondering  "where is the open source?" is like looking at the Bronx and wondering  "where are all the flowers? "
 
 From [All Points Blog](http://apb.directionsmag.com/archives/5187-NY-Times-Geo-App-Offers-Location-based-Political-News-for-New-Yorkers.html)
 {: .note }
