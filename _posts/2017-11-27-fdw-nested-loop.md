@@ -12,6 +12,8 @@ comments: True
 image: "2017/postgres-fdw.jpg"
 ---
 
+**Update**: See below, but I didn't test the full pushdown case, and the result is pretty awesome.
+
 I have been wondering for a while if Postgres would correctly plan a spatial join over FDW, in which one table was local and one was remote. The specific use case would be "keeping a large pile of data on one side of the link, and joining to it".
 
 Because spatial joins always plan out to a "nested loop" execution, where one table is chosen to drive the loop, and the other to be filtered on the rows from the driver, there's nothing to prevent the kind of remote execution I was looking for.
@@ -92,3 +94,26 @@ GroupAggregate  (cost=241.14..241.21 rows=2 width=12)
 
 For FDW drivers other than `postgres_fdw` this means there's a benefit to going to the trouble to support the FDW estimation callbacks, though the lack of exposed estimation functions in a lot of back-ends may mean the support will be ugly hacks and hard-coded nonsense. PostgreSQL is pretty unique in exposing fine-grained information about table statistics.
 
+**Update**
+
+One "bad" thing about the join pushdown plan above is that it still pulls all the resultant records back to the source before aggregating them, so there's a missed opportunity there. However, if both the tables in the join condition are remote, the system will correctly plan the query as a remote join and aggregation.
+
+{% highlight sql %}
+SELECT count(*), e.edabbr
+  FROM ed_2013_fdw e
+  JOIN va_2013_fdw v
+  ON ST_Intersects(e.geom, v.geom)
+  WHERE e.edabbr in ('VTB', 'VTS')
+  GROUP BY e.edabbr;
+{% endhighlight %}
+
+```
+ Foreign Scan  
+   (cost=157.20..157.26 rows=1 width=40) 
+   (actual time=32.750..32.752 rows=2 loops=1)
+   Output: (count(*)), e.edabbr
+   Relations: Aggregate on ((public.ed_2013_fdw e) INNER JOIN (public.va_2013_fdw v))
+   Remote SQL: SELECT count(*), r1.edabbr FROM (public.ed_2013 r1 INNER JOIN public.va_2013 r2 ON (((r1.geom OPERATOR(public.&&) r2.geom)) AND (public._st_intersects(r1.geom, r2.geom)) AND ((r1.edabbr = ANY ('{VTB,VTS}'::text[]))))) GROUP BY r1.edabbr
+ Planning time: 12.752 ms
+ Execution time: 33.145 ms
+```
