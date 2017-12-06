@@ -23,7 +23,7 @@ If you go to the [PostGIS ticket report](https://trac.osgeo.org/postgis/report/3
 
 We unfortunately carry a lot of tickets in the current development milestone (2.5 right now) which are, at best, speculative. They should probably be closed (we really will never do them and don't much care) or moved to the "Fund Me" category (they are valid, but we have no personal/professional impetus to address them).
 
-The "Fund Me" category used to be called "Future". This was a bad name, as it implied that sometime in the "Future" the ticket might actually be addressed, and all you needed was **sufficient patience** to wait. The reality is that they way a ticket got into the "Future" category was that it was ignored for long enough that we couldn't stand to see it in the current milestone anymore. 
+The "Fund Me" category used to be called "Future". This was a bad name, as it implied that sometime in the "Future" the ticket might actually be addressed, and all you needed was **sufficient patience** to wait. The reality is that the way a ticket got into the "Future" category was that it was ignored for long enough that we couldn't stand to see it in the current milestone anymore. 
 
 The PostGIS development community includes all kinds of developers, who make livings in all kinds of ways, and there are folks who will work on tasks for money. The "Fund Me" milestone is a way of pointing up that there are tasks that can be done, if only someone is willing to pay a developer to do them.
 
