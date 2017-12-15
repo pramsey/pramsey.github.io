@@ -43,9 +43,9 @@ As a result, the IT inmates took over the asylum. Otherwise sane Ministries were
 
 The 2011 change in leadership from Gordon Campbell's technocratic approach to the "politics über alles" style of Christie Clark has not substantially reduced the momentum of IT-driven transformation projects. 
 
-Part of this may be a matter of senior leadership personalities: the current Deputy to the Premier, [Kim Henderson](https://www.linkedin.com/in/kim-henderson-11b624b2/) was leading Citizen's Services when it produced [Citizens @ The Centre](http://www.gov.bc.ca/citz/citizens_engagement/gov20.pdf); the former CIO [Dave Nikolejsin](https://www.linkedin.com/in/dave-nikolejsin-b4b1273), an architect of the catastrophic [ICM](/2012/06/more-icm.html) project, remains involved in the ongoing [NRPP](/2016/11/nrpp-is-dead.html) transformation project, despite his new perch in the Ministry of Natural Gas Developent.
+Part of this may be a matter of senior leadership personalities: the current Deputy to the Premier, [Kim Henderson](https://www.linkedin.com/in/kim-henderson-11b624b2/) was leading Citizen's Services when it produced [Citizens @ The Centre](http://www.gov.bc.ca/citz/citizens_engagement/gov20.pdf); the former CIO [Dave Nikolejsin](https://www.linkedin.com/in/dave-nikolejsin-b4b1273), an architect of the catastrophic [ICM](/2012/06/more-icm.html) project, remains involved in the ongoing [NRPP](/2016/11/nrpp-is-dead.html) transformation project, despite his new perch in the Ministry of Natural Gas Development.
 
-## Budgets
+## Ballooning Budgets
 
 The IT-led do-goodism of "transformation" explains to some extent how systems became the organizing principle for these disruptive projects, but it doesn't fully explain their awesome size. Within my own professional memory, only 15 years ago, $10M was an surprisingly large IT opportunity in BC. Now I can name half a dozen projects that have exceeded $100M.
 
