@@ -12,7 +12,7 @@ comments: True
 image: "2017/elephant-wings.jpg"
 ---
 
-Earlier this month I got to speak at the [Spatial Data Science Conference](https://carto.com/spatial-data-conference/) hosted by my employers Carto at our funky warehouse offices in Bushwick, Brooklyn. The topic: [PostGIS scaling](http://s3.cleverelephant.ca/2017-cdb-postgis.pdf). 
+Earlier this month I got to speak at the [Spatial Data Science Conference](https://carto.com/spatial-data-conference/) hosted by my employer Carto at our funky warehouse offices in Bushwick, Brooklyn. The topic: [PostGIS scaling](http://s3.cleverelephant.ca/2017-cdb-postgis.pdf). 
 
 <a href="http://s3.cleverelephant.ca/2017-cdb-postgis.pdf" border="0"><img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" width="600" height="360" /></a>
 
