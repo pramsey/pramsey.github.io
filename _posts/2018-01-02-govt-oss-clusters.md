@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ''
+title: 'Open Source for/by Government'
 date: '2018-01-02T08:00:00-08:00'
 author: Paul Ramsey
 category: technology
