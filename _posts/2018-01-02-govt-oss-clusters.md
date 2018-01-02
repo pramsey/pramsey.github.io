@@ -47,7 +47,7 @@ There is no IP moat around open source projects, but there is a first mover adva
 
 Intellectual capital isn't just built in universities, and the private sector shouldn't only be looked to for intellectual property. Let's mix it up a little.
 
-The BC government spends $9M on Oracle "maintenance", basically the right to access bug fixes and updates from Oracle for the softare we're running. It's not a lot of money, but it's money being shipped straight over the border. Affilias, the ".org" top level DNS provider built their infrastructure on PostgreSQL -- they spend a couple hundred thousand a year having some PostgreSQL core developers on staff. Same affect, different path.
+The BC government spends $9M/year on Oracle "maintenance", basically the right to access bug fixes and updates from Oracle for the softare we're running. It's not a lot of money, but it's money being shipped straight over the border. Affilias, the ".org" top level DNS provider built their infrastructure on PostgreSQL -- they spend a couple hundred thousand a year having some PostgreSQL core developers on staff. Same affect, different path.
 {: .note }
 
 
