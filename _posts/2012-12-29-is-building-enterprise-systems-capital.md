@@ -44,7 +44,7 @@ So, skill testing question for all you IT practitioners out there. Who will get 
 * the manager who spends $100M in one year on a system build and depreciates his asset over the ensuing decade? or,
 * the manager who spends $10M a year over a decade in incremental system enhancements and improvements?
 
-Note that both approaches have exactly the same effect on the organizational balance sheet. Take your time, don't rush your answers.
+Note that both approaches have exactly the same effect on the organizational cash flow. Take your time, don't rush your answers.
 
 **Accounting for enterprise information systems as capital expenses is a mistake.** It's dubious from an accounting perspective, because the "asset" on the books isn't re-sellable, doesn't hold its value, and doesn't cost nearly its book value to replace. And it's dubious from a practical perspective because it forces system development and maintenance into an incredibly risky and inefficient spending pattern.
 
