@@ -12,6 +12,8 @@ comments: True
 image: "2018/intellectual-capital.jpg"
 ---
 
+**Update:** [Barcelona](https://joinup.ec.europa.eu/news/public-money-public-code)
+
 "You've got to spend money to make money", I once confidently told a business associate, on the occasion of paying him a thousand dollars to manually clean some terrible data for me. In the event, I was right: that cleaned data paid for itself 10 times over in the following years.
 
 I'm still the only person with a GIS file for 1996 BC elections results by voting area, and the jealousy is killing you.
