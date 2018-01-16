@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Is building an enterprise systems a capital expense? '
+title: 'Is building enterprise systems a capital expense? '
 date: '2012-12-29T23:15:00.000-08:00'
 author: Paul Ramsey
 tags:
