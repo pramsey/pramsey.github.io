@@ -21,7 +21,7 @@ This afternoon I was invited to talk about technology directions to an audience 
 
 <img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" />
 
-I titled my talk "Let's Get Small" in homage to my favourite comedian, Steve Martin.
+I titled my talk "[Let's Get Small](https://www.youtube.com/watch?v=LoFRAJL7Lc0&t=7m53s)" in homage to my favourite comedian, Steve Martin.
 
 * [Google Slides Version](https://goo.gl/sFHp68)
 * [PDF Version](http://s3.cleverelephant.ca/2018-small-it.pdf)
