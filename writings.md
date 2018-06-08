@@ -32,9 +32,9 @@ Most of my writings start out (and remain) as long-form blog posts, but in blog 
 I deliver keynote presentations to different conferences, usually geospatial ones, once or twice a year, and the odds of getting a good recording have been going up lately. Here are some of my favourites.
 
 * [Let's Get Small](http://s3.cleverelephant.ca/2018-small-it.pdf) On the subject of government IT management, changing from a large capital project orientation to a small operational product orientation.
-* [PostGIS for Managers](http://s3.cleverelephant.ca/2018-postgis-for-managers.pdf) A non-technical overview of PostGIS features and the decision points for changing over from the "leading proprietary brand".
-* The [SQL Festival](https://docs.google.com/presentation/d/14lf1TsVO4Wq7ykgHjIiXYksvzWBW5XvuxJh2CrtraHc/edit?usp=sharing) For lovers of database queries, a selection of interesting spatial and non-spatial queries and features.
-* [PostGIS and PostgreSQL Scaling](/2017/12/postgis-scaling.html) A talk for the "Spatial Data Science" mini-conference at Carto in December 2017.
+* [PostGIS for Managers](http://s3.cleverelephant.ca/2018-postgis-for-managers.pdf) A [FOSS4G-NA 2018](https://2018.foss4g-na.org/) non-technical overview of PostGIS features and the decision points for changing over from the "leading proprietary brand".
+* The [SQL Festival](https://docs.google.com/presentation/d/14lf1TsVO4Wq7ykgHjIiXYksvzWBW5XvuxJh2CrtraHc/edit?usp=sharing) For lovers of database queries, a selection of interesting spatial and non-spatial queries and features from [FOSS4G-NA 2018](https://2018.foss4g-na.org/).
+* [PostGIS and PostgreSQL Scaling](/2017/12/postgis-scaling.html) A talk for the "Spatial Data Science" mini-conference at [Carto](https://carto.com) in December 2017.
 * [Why We Code](/2017/08/foss4g-keynote.html) [30m] A keynote for [FOSS4G 2017](http://2017.foss4g.org), about the economics underlying the open source ecosystem.
 * [Data Pipes & Relevance](http://s3.cleverelephant.ca/2015-ccog.pdf) On how government geospatial data creators should be thinking about the future of our industry.
 * [The Undiscovered Country](/2016/10/geomatique-quebec.html) An expansion on "The Future and All That" with specific reference to the privacy implications of ubiquitous geospatial monitoring.
@@ -42,7 +42,7 @@ I deliver keynote presentations to different conferences, usually geospatial one
 * [The Unknowns: A Managers Guide to Open Source](https://www.youtube.com/watch?v=jUgiG6eaYtI) [48m] An easy introduction to what open source is, and the practical reasons for considering it in your organization.
 * [PostGIS Gotchas](https://www.youtube.com/watch?v=GSuZP89UdGs) [40m] For the database-oriented, there are some surprises in store as you get started with PostGIS and geospatial data. Learn more here!
 * [Where do we go from here? A future of open source geospatial](https://vimeo.com/142334723) [20m] A keynote for the Free and Open Source for Geospatial ([FOSS4G 2015](http://2015.foss4g.org)) Conference 2015, about the next few years of IT evolution and what it could mean for the open source ecosystem and economy.
-* [Do your Learnings](https://www.youtube.com/watch?v=9cSqKpfu4D4&index=49&list=PLFxZDg3GNCgv_GWHdM2IETx9arLL2wEXK) [25m] A keynote for the FME Users Conference 2014, about making sure you have more than one tool in your toolbox.
+* [Do your Learnings](https://www.youtube.com/watch?v=9cSqKpfu4D4&index=49&list=PLFxZDg3GNCgv_GWHdM2IETx9arLL2wEXK) [25m] A keynote for the [FME Users Conference 2014](http://www.safe.com/fmeuc-2014/), about making sure you have more than one tool in your toolbox.
 * [Being an open souce citizen](http://vimeo.com/76365035) [20m] A keynote for [FOSS4G 2013](http://2013.foss4g.org), about participating in the open knowledge ecology.
 * [Magical PostGIS in Three Brief Movements](https://www.youtube.com/watch?v=Y0SBkjcyXOc) [35m] Explore advanced features of PostgreSQL and PostGIS, working magic together.
 * [PostGIS Feature Frenzy](http://vimeo.com/90722286) [25m] A quick tour of the current features of the PostGIS spatial database.
