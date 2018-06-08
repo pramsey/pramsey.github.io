@@ -31,6 +31,9 @@ Most of my writings start out (and remain) as long-form blog posts, but in blog 
 
 I deliver keynote presentations to different conferences, usually geospatial ones, once or twice a year, and the odds of getting a good recording have been going up lately. Here are some of my favourites.
 
+* [Let's Get Small](http://s3.cleverelephant.ca/2018-small-it.pdf) On the subject of government IT management, changing from a large capital project orientation to a small operational product orientation.
+* [PostGIS for Managers](http://s3.cleverelephant.ca/2018-postgis-for-managers.pdf) A non-technical overview of PostGIS features and the decision points for changing over from the "leading proprietary brand".
+* The [SQL Festival](https://docs.google.com/presentation/d/14lf1TsVO4Wq7ykgHjIiXYksvzWBW5XvuxJh2CrtraHc/edit?usp=sharing) For lovers of database queries, a selection of interesting spatial and non-spatial queries and features.
 * [PostGIS and PostgreSQL Scaling](/2017/12/postgis-scaling.html) A talk for the "Spatial Data Science" mini-conference at Carto in December 2017.
 * [Why We Code](/2017/08/foss4g-keynote.html) [30m] A keynote for [FOSS4G 2017](http://2017.foss4g.org), about the economics underlying the open source ecosystem.
 * [Data Pipes & Relevance](http://s3.cleverelephant.ca/2015-ccog.pdf) On how government geospatial data creators should be thinking about the future of our industry.
