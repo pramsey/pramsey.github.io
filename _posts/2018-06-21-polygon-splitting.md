@@ -18,7 +18,7 @@ One of the joys of geospatial processing is the variety of tools in the tool box
 
 A community member on the users list asked (paraphrased): "is there a way to split a polygon into sub-polygons of more-or-less equal areas?" 
 
-I didn't see the question and answer, which is lucky, because I would have said: "No, you're SOL, we don't have a good way to solve that problem." (An [exact algorithm](http://www.khetarpal.org/polygon-splitting/) showed up in the Twitter thread about this solution, and maybe I should implement that.)
+I didn't see the question, which is lucky, because I would have said: "No, you're SOL, we don't have a good way to solve that problem." (An [exact algorithm](http://www.khetarpal.org/polygon-splitting/) showed up in the Twitter thread about this solution, and maybe I should implement that.)
 
 PostGIS developer [Darafei Praliaskouski](https://github.com/komzpa) **did** answer, and [provided a working solution](https://lists.osgeo.org/pipermail/postgis-users/2018-June/042795.html) that is absolutely brilliant in combining the parts of the PostGIS toolkit to solve a pretty tricky problem. He said:
 
