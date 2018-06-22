@@ -14,7 +14,7 @@ comments: True
 image: "2018/poly-split-6.jpg"
 ---
 
-One of the joys of geospatial processing is the variety of tools in the tool box, and the ways that putting them together can yield surprising results. I have been in the guts of PostGIS for so long that I tend to thing in terms of primitives: either there's a function that does what you want or there isn't. I'm too quick to ignore the power of combining the parts that we already have.
+One of the joys of geospatial processing is the variety of tools in the tool box, and the ways that putting them together can yield surprising results. I have been in the guts of PostGIS for so long that I tend to think in terms of primitives: either there's a function that does what you want or there isn't. I'm too quick to ignore the power of combining the parts that we already have.
 
 A community member on the users list asked (paraphrased): "is there a way to split a polygon into sub-polygons of more-or-less equal areas?" 
 
