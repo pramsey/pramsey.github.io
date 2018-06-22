@@ -100,7 +100,7 @@ CREATE TABLE peru_divided AS
 
 Done!
 
-Clustering a point field to get mostly equal areas, and then using the voronoi to extract actual dividing lines are wonderful insights into spatial processing. The final pictures of all the components of the calculation is also beautiful.
+Clustering a point field to get mostly equal areas, and then using the voronoi to extract actual dividing lines are wonderful insights into spatial processing. The final picture of all the components of the calculation is also beautiful.
 
 <img src="{{ site.images }}2018/poly-split-6.jpg" alt="All the Components Together" />
 
