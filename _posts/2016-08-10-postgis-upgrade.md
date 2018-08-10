@@ -137,7 +137,7 @@ The best bet for a really old database that was created without the extension me
 In the case of upgrades that change out the underlying library and other situations that result in a mismatch between the SQL definitions in the database and the state of the system, there are a couple hacks that provide short-term fixes for emergencies:
 
 * **Symlink** the library name the database is looking for to the library name you have. So if your database wants `postgis-2.1.so` and all you have is `postgis-2.2.so`, you can `ln -s postgis-2.2.so postgis-2.1.so` and your database will "work" again.
-* **Update the PostgreSQL catalog** definitions for the functions. As a super-user, you can do all kinds of dangerous things, and one of them is to just `UPDATE pg_proc SET probin = '$libdir/postgigs-2.2' WHERE probin ~ 'postgis-2.1'` 
+* **Update the PostgreSQL catalog** definitions for the functions. As a super-user, you can do all kinds of dangerous things, and one of them is to just `UPDATE pg_proc SET probin = '$libdir/postgis-2.2' WHERE probin ~ 'postgis-2.1'` 
 
 Both hacks "work" because the PostGIS project doesn't change underlying function names often, and inter-version changes mostly involve adding functions to the C library, not removing old ones. 
 
