@@ -13,7 +13,7 @@ comments: True
 image: "2018/crunchydata.jpg"
 ---
 
-Today is my first day with my new employer [Crunchy Data](https://www.crunchydata.com/about/). Haven't heard of them? I'm not surprised: outside of the world of PostgreSQL, they are not particularly well known, yet.
+Today is my [first day](https://info.crunchydata.com/news/crunchy-data-expands-commitment-to-open-source-geospatial-data-management-and-analytics) with my new employer [Crunchy Data](https://www.crunchydata.com/about/). Haven't heard of them? I'm not surprised: outside of the world of PostgreSQL, they are not particularly well known, yet.
 
 <img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" />
 
