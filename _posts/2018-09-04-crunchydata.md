@@ -46,7 +46,7 @@ By my reckoning, PostgreSQL is on the verge of a Linux-like tidal wave that wash
 
 * Oracle DBMS offers no important feature differentiation for most workloads.
 * Oracle DBMS price hikes are driving customers to distraction.
-* Server-in-the-cold-room architectures are being replaced with the cloud.
+* Server-in-a-cold-room architectures are being replaced with the cloud.
 * PostgreSQL in the cloud, deployed as PaaS or otherwise, is mature.
 * A credible support industry (including Crunchy Data) is at hand to support migrators.
 
