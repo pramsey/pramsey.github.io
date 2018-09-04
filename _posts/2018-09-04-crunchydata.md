@@ -13,7 +13,7 @@ comments: True
 image: "2018/crunchydata.jpg"
 ---
 
-Today is my first day with my new employer [Crunchy Data](https://www.crunchydata.com/about/). Haven't heard of them? I'm not surprised: outside of the world of PostgreSQL, they are not particularly well known, yet.
+Today is my [first day](https://info.crunchydata.com/news/crunchy-data-expands-commitment-to-open-source-geospatial-data-management-and-analytics) with my new employer [Crunchy Data](https://www.crunchydata.com/about/). Haven't heard of them? I'm not surprised: outside of the world of PostgreSQL, they are not particularly well known, yet.
 
 <img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" />
 
@@ -23,7 +23,7 @@ While CARTO is turning in constant growth and finding good traction with some co
 
 Moving to Crunchy Data means transitioning from being the database guy (boring!) in a geospatial intelligence company, to being the geospatial guy (super cool!) in a database company. Without changing anything about myself, I get to be the most interesting guy in the room! What could be better than that?
 
-Crunchy Data has quietly assembled an exceptionally deep team of PostgreSQL community members: Tom Lane, Stephen Frost, Ed Conway, Peter Geoghegan, Dave Cramer, David Steele, and Jonathan Katz are all names that will be familiar to followers of the PostgreSQL mailing lists.  
+Crunchy Data has quietly assembled an exceptionally deep team of PostgreSQL community members: Tom Lane, Stephen Frost, Joe Conway, Peter Geoghegan, Dave Cramer, David Steele, and Jonathan Katz are all names that will be familiar to followers of the PostgreSQL mailing lists.  
 
 They've also quietly assembled expertise in key areas of interest to large enterprises: security deployment details (STIGs, RLS, Common Criteria); Kubernetes and PaaS deployments; and now (ta da!) geospatial.
 
