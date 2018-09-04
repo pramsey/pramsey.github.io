@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moving on to CrunchyData
+title: Moving on to Crunchy Data
 date: '2018-09-04T08:00:00.000-08:00'
 author: Paul Ramsey
 category: technology
