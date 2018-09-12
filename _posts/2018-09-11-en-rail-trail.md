@@ -18,11 +18,11 @@ The last week of August, I took three days and [rode my bike from Victoria to Co
 
 <a href="{{ site.images }}/2018/en4.jpg"><img src="{{ site.images }}/2018/sm_en4.jpg" /></a>
 
-I also got to see a good portion of the old [E&N railway line](https://en.wikipedia.org/wiki/Southern_Railway_of_Vancouver_Island), as that line also passes through all the little downs I visited (with the exception of Cowichan Bay). It doesn't take a trained surveyor to see that most of the railbed is in really poor condition. In many places the ties are rotting out, and you can pull spikes out of them with your bare hands. Running a train on the thing is going to take huge investments to basically rebuild the rail bed (and many of the trestles) from scratch, and the [economics don't work](https://www.timescolonist.com/opinion/op-ed/comment-economics-show-e-n-rail-line-is-a-lost-cause-1.23110900): revenues from freight and passenger service couldn't even cover the operating costs of the line before it was shut down, let alone support a huge capital re-investment.
+I also got to see a good portion of the old [E&N railway line](https://en.wikipedia.org/wiki/Southern_Railway_of_Vancouver_Island), as that line also passes through all the little towns I visited (with the exception of Cowichan Bay). It doesn't take a trained surveyor to see that most of the railbed is in really poor condition. In many places the ties are rotting out, and you can pull spikes out of them with your bare hands. Running a train on the thing is going to take huge investments to basically rebuild the rail bed (and many of the trestles) from scratch, and the [economics don't work](https://www.timescolonist.com/opinion/op-ed/comment-economics-show-e-n-rail-line-is-a-lost-cause-1.23110900): revenues from freight and passenger service couldn't even cover the operating costs of the line before it was shut down, let alone support a huge capital re-investment.
 
 <a href="{{ site.images }}/2018/en1.jpg"><img src="{{ site.images }}/2018/sm_en1.jpg" /></a>
 
-What to do with this invaluable right-of-way, an unobstructed ribbon of low grade land running from Victoria to Courtenay (and beyond to Port Alberni)?
+What to do with this invaluable right-of-way, an unobstructed ribbon of land running from Victoria to Courtenay (and beyond to Port Alberni)?
 
 May I ([and others](http://fortvi.ca/)) suggest a rail trail?
 
