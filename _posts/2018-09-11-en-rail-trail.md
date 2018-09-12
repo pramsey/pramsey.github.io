@@ -16,21 +16,21 @@ image: "2018/sm_en4.jpg"
 
 The last week of August, I took three days and [rode my bike from Victoria to Courtenay](https://goo.gl/maps/EoYTiCfjKLr). It was a marvelous trip, and I got to see and stay in some wonderful towns along the way: [Cowichan Bay](https://www.cowichanbay.com/), [Duncan](https://en.wikipedia.org/wiki/Duncan,_British_Columbia), [Chemainus](https://en.wikipedia.org/wiki/Chemainus), [Ladysmith](http://www.ladysmith.ca/), [Nanaimo](https://en.wikipedia.org/wiki/Nanaimo), [Parksville](https://www.visitparksvillequalicumbeach.com/), [Qualicum Beach](https://www.visitparksvillequalicumbeach.com/), [Fanny Bay](https://en.wikipedia.org/wiki/Fanny_Bay), [Union Bay](https://en.wikipedia.org/wiki/Union_Bay,_British_Columbia) and [Courtenay](https://downtowncourtenay.com/).
 
-<a href="{{ site.images }}/2018/en4.jpg"><img src="{{ site.images }}/2018/sm_en4.jpg" /></a>
+<a href="{{ site.images }}/2018/en4.jpg"><img src="{{ site.images }}/2018/sm_en4.jpg" alt="Active rail line has not seen a train since 2011" /></a>
 
 I also got to see a good portion of the old [E&N railway line](https://en.wikipedia.org/wiki/Southern_Railway_of_Vancouver_Island), as that line also passes through all the little towns I visited (with the exception of Cowichan Bay). It doesn't take a trained surveyor to see that most of the railbed is in really poor condition. In many places the ties are rotting out, and you can pull spikes out of them with your bare hands. Running a train on the thing is going to take huge investments to basically rebuild the rail bed (and many of the trestles) from scratch, and the [economics don't work](https://www.timescolonist.com/opinion/op-ed/comment-economics-show-e-n-rail-line-is-a-lost-cause-1.23110900): revenues from freight and passenger service couldn't even cover the operating costs of the line before it was shut down, let alone support a huge capital re-investment.
 
-<a href="{{ site.images }}/2018/en1.jpg"><img src="{{ site.images }}/2018/sm_en1.jpg" /></a>
+<a href="{{ site.images }}/2018/en1.jpg"><img src="{{ site.images }}/2018/sm_en1.jpg" alt="Cast bronze totem in Duncan" /></a>
 
 What to do with this invaluable right-of-way, an unobstructed ribbon of land running from Victoria to Courtenay (and beyond to Port Alberni)?
 
 May I ([and others](http://fortvi.ca/)) suggest a rail trail?
 
-<a href="{{ site.images }}/2018/en2.jpg"><img src="{{ site.images }}/2018/sm_en2.jpg" /></a>
+<a href="{{ site.images }}/2018/en2.jpg"><img src="{{ site.images }}/2018/sm_en2.jpg"  alt="My breakfast destination in Ladysmith" /></a>
 
 Right now this chunk of land is returning nothing to the province economically. It's actually a net drain, as municipalities [spend money maintaining unused level crossings](https://vancouverisland.ctvnews.ca/millions-of-dollars-pumped-into-maintaining-unused-e-n-line-investigation-finds-1.3974446) and the [Island Corridor Foundation](http://www.islandrail.ca/) (ICF) spends federal and provincial grants to [cut brush and replace the occasional tie](https://www.nanaimobulletin.com/news/its-quietly-business-as-usual-for-the-en/) on the never-again-to-be-used line.
 
-<a href="{{ site.images }}/2018/en3.jpg"><img src="{{ site.images }}/2018/sm_en3.jpg" /></a>
+<a href="{{ site.images }}/2018/en3.jpg"><img src="{{ site.images }}/2018/sm_en3.jpg" alt="Nanaimo waterfront promenade" /></a>
 
 Unlike the current ghost railway, a recreational trail would pay for itself almost immediately.
 
@@ -41,7 +41,7 @@ Unlike the current ghost railway, a recreational trail would pay for itself almo
 
 If a Vancouver Island Rail Trail can generate even $3M in net new economic benefit for the province, it warrants a at least $50M investment to generate an ongoing 6% return. We spend more money for less return routinely (see the Mackenzie Interchange above). 
 
-<a href="{{ site.images }}/2018/en5.jpg"><img src="{{ site.images }}/2018/sm_en5.jpg" /></a>
+<a href="{{ site.images }}/2018/en5.jpg"><img src="{{ site.images }}/2018/sm_en5.jpg" alt="No traffic on the line in Qualicum" /></a>
 
 And that's just the tourism benefit. 
 
