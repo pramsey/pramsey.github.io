@@ -13,7 +13,7 @@ Working as an independent consultant gave me time to learn new languages, get de
 
 The world changed over the years, and the centre of innovation in geospatial shifted from pure-play open source to software-as-a-service (SaaS) start-ups. In 2015, I had an opportunity to work at one of the [hottest SaaS companies around](http://cartodb.com), so I [seized it](/2015/02/the-new-gig.html), and spend three fruitful years there. 
 
-Since 2018, [I am working](/2018/09/crunchydata.html) as an Executive Geospatial Engineer at [Crunchy Data](http://crunchydata.com), providing strategic advice adn development on geospatial intelligent to the Fortune 1000 and broad public sector.
+Since 2018, [I am working](/2018/09/crunchydata.html) as an Executive Geospatial Engineer at [Crunchy Data](http://crunchydata.com), providing strategic advice and development on geospatial intelligent to the Fortune 1000 and broad public sector.
 
 ### Consulting
 
