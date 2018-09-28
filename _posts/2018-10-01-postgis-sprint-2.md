@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'PostGIS Code Sprint 2018 #1'
-date: '2018-09-30T00:00:00-08:00'
+title: 'PostGIS Code Sprint 2018 #2'
+date: '2018-10-01T00:00:00-08:00'
 author: Paul Ramsey
 category: technology
 tags:
@@ -9,5 +9,7 @@ tags:
 - postgis
 - postgresql
 comments: True
-image: "2018/ne-map.jpg"
+image: "2018/sprint1.jpg"
 ---
+
+<img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" />
