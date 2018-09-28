@@ -78,7 +78,7 @@ C is not a quickly changing langauge, but since the PostgreSQL project has moved
 
 ### Named Parameters
 
-A lot of our function defintions were written before the advent of default values and named parameters as PostgreSQL function features. We will modernize our SQL extension file so we're using named parameters everywhere. For users this will mean that correct parameter order will not be *required* anymore, it will be optional if you use named parameters.
+A lot of our function definitions were written before the advent of default values and named parameters as PostgreSQL function features. We will modernize our SQL extension file so we're using named parameters everywhere. For users this will mean that correct parameter order will not be *required* anymore, it will be optional if you use named parameters.
 
 ### M Coordinate
 
