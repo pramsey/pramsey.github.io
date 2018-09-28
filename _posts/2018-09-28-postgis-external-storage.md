@@ -58,7 +58,7 @@ If you stick the process into a profiler while running it you'll find that **ove
 Among the things we talked about this week at our [PostGIS code sprint](https://trac.osgeo.org/postgis/wiki/PostGISCodeSprint2018) have been clever ways to avoid this overhead:
 
 * Patch PostgreSQL to allow partial decompression of geometries.
-* Enrich our serialization formation to include a unique hash key at the front of geometries.
+* Enrich our serialization format to include a unique hash key at the front of geometries.
 
 These are cool have-your-cake-and-eat-too ways to both retain compression for large geometries and be faster when feeding them into the point-in-polygon machinery. 
 
@@ -99,5 +99,5 @@ What's the penalty?
 
 For a 50% storage penalty, on a table that has far more large objects than most spatial tables, we achieved a 500% performance improvement. Maybe we shouldn't apply compression to our large geometry at all?
 
-Using "main" storage was mainly a judgement call back when we decided on it, it wasn't benchmarked or anything. it's possible that we were just wrong. Also, only large objects are compressed; since most tables are full of lots of small objects (short lines, points) changing to "external" by default wouldn't have any effect on storage size at all.
+Using "main" storage was mainly a judgement call back when we decided on it, it wasn't benchmarked or anything -- it's possible that we were just wrong. Also, only large objects are compressed; since most tables are full of lots of small objects (short lines, points) changing to "external" by default wouldn't have any effect on storage size at all.
 
