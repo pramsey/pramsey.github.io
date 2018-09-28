@@ -9,7 +9,7 @@ tags:
 - postgis
 - postgresql
 comments: True
-image: "2018/ne-map.jpg"
+image: "2018/sprint1.jpg"
 ---
 
 When I tell people I am heading to an open source "code sprint", which I try to do at least once a year, they ask me "what do you do there?" 
