@@ -16,6 +16,8 @@ When I tell people I am heading to an open source "code sprint", which I try to 
 
 When I tell them, "talk, mostly", they are usually disappointed. There's a picture, which is not unearned, of programmers bent over their laptops, quietly tapping away. And that happens, but the real value, even when there is lots of tapping, is in the high-bandwidth, face-to-face communication.
 
+<img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" />
+
 So, inevitably I will be asked what I coded, this week at the [PostGIS Code Sprint](https://wiki.osgeo.org/wiki/OSGeo_Code_Sprint_2018) and I will answer... "uhhhhh". I did a branch of PostgreSQL that will do partial decompression of compressed tuples, but didn't get around to testing it. I tested some work that others had done. But mostly, we talked.
 
 ## PostGIS 3
