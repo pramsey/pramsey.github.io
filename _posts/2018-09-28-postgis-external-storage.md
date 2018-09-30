@@ -66,7 +66,7 @@ However, they ignore a more brutal and easily testable approach to avoiding deco
 
 ## One Weird Trick
 
-PostGIS uses the "main" storage option for it's geometry type. The main option tries to keep geometries in their original table until they get too large, then compresses them in place, then moves them to TOAST. 
+PostGIS uses the "main" storage option for its geometry type. The main option tries to keep geometries in their original table until they get too large, then compresses them in place, then moves them to TOAST. 
 
 There's another option "external" that keeps geometries in place, and if they get too big moves them to TOAST **uncompressed**. PostgreSQL allows you to change the storage on columns at run-time, so no hacking or code is required to try this out.
 
