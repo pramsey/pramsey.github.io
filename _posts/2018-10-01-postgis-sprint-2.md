@@ -67,7 +67,7 @@ Having function `COST` taken into more consideration in plans, and having that `
 
 The analysis hooks might have to be enriched to also ask for stats on average tuple size for a query key, in addition to selectivity, so a query that pulled a moderate number of huge objects might have a higher cost than one that pulled quite a few small objects.
 
-## We Are Not Unreasable People
+## We Are Not Unreasonable People
 
 We just want our due, you know?
 
