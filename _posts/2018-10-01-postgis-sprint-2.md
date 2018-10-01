@@ -53,7 +53,7 @@ The extension framework supports dependency, but for safety, as the ecosystem gr
 
 Right now extension upgrade paths have to explicitly state the start and end version of the path. So an upgrade file might be named `postgis--2.3.4--2.3.5.sql`. That's great if you have four or five versions. We have way more than that. The number of upgrade files we have keeps on growing and growing. 
 
-Unlike upgrade files for smaller projects, we drop and recreate all the functions in our upgrade files. That means that actually our current version upgrade file is capabile of upgrading **any prior** version. Nonetheless, we have to make a copy, or a symlink, many many version combinations.
+Unlike upgrade files for smaller projects, we drop and recreate all the functions in our upgrade files. That means that actually our current version upgrade file is capable of upgrading **any prior** version. Nonetheless, we have to make a copy, or a symlink, many many version combinations.
 
 If there was a global "version", we could use our master upgrade script, and only ship one script for each new version: `postgis--ANY--2.3.5.sql`
 
