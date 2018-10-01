@@ -126,6 +126,9 @@ ul.sidebar-nav {
     font-size: 80%;
   }
   
+  hr {
+    border-top: 2px solid #265a87;
+  }
 }
 
 
