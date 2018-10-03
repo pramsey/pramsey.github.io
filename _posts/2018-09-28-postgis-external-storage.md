@@ -55,7 +55,7 @@ On my laptop, this query takes **25 seconds**.
 
 If you stick the process into a profiler while running it you'll find that **over 20 of those seconds are spent in the `pglz_decompress` function**. Not doing spatial algorithms or computational geometry, just decompressing the geometry before handing it on to the actual processing.
 
-Among the things we talked about this week at our [PostGIS code sprint](https://trac.osgeo.org/postgis/wiki/PostGISCodeSprint2018) have been clever ways to avoid this overhead:
+Among the things we talked about this week at our [PostGIS code sprint](/2018/09/postgis-sprint-1.html) have been clever ways to avoid this overhead:
 
 * Patch PostgreSQL to allow partial decompression of geometries.
 * Enrich our serialization format to include a unique hash key at the front of geometries.
