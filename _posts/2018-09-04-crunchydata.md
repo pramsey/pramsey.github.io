@@ -54,4 +54,4 @@ I'd say we're about half way through the evolution of PostgreSQL from "that cool
 
 Having a chance to be a part of that change, and to promote geospatial as a key technology while it happens, is exciting to me, so I'm looking forward to my new role at Crunchy Data a great deal!
 
-Meanwhile, I'm going to be staying on as a strategic advisor to CARTO on geospatial and database affairs, so I get to have a front seat on their continued growth too. Thanks to CARTO for three great years, I enjoyed them immensely!
+Meanwhile, I'm going to be staying on as a [strategic advisor to CARTO](https://carto.com/team/#advisors) on geospatial and database affairs, so I get to have a front seat on their continued growth too. Thanks to CARTO for three great years, I enjoyed them immensely!
