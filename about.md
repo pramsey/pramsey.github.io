@@ -11,7 +11,7 @@ The company grew quite large (over 25 staff) and eventually I realized I was spe
 
 Working as an independent consultant gave me time to learn new languages, get deeper into open source development, and think about open source. I was [invited to join](/2008/12/another-change-of-scene.html) a non-profit open source organization ([OpenGeo](http://boundlessgeo.com/)) and I had a great time there for several years, working with some of the brightest lights in open source geospatial.
 
-The world changed over the years, and the centre of innovation in geospatial shifted from pure-play open source to software-as-a-service (SaaS) start-ups. In 2015, I had an opportunity to work at one of the [hottest SaaS companies around](http://cartodb.com), so I [seized it](/2015/02/the-new-gig.html), and spend three fruitful years there. 
+The world changed over the years, and the centre of innovation in geospatial shifted from pure-play open source to software-as-a-service (SaaS) start-ups. In 2015, I had an opportunity to work at one of the [hottest SaaS companies around](http://cartodb.com), so I [seized it](/2015/02/the-new-gig.html), and spent three fruitful years there. 
 
 Since 2018, [I am working](/2018/09/crunchydata.html) as an Executive Geospatial Engineer at [Crunchy Data](http://crunchydata.com), providing strategic advice and development on geospatial intelligent to the Fortune 1000 and broad public sector.
 
