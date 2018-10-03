@@ -13,21 +13,11 @@ Working as an independent consultant gave me time to learn new languages, get de
 
 The world changed over the years, and the centre of innovation in geospatial shifted from pure-play open source to software-as-a-service (SaaS) start-ups. In 2015, I had an opportunity to work at one of the [hottest SaaS companies around](http://cartodb.com), so I [seized it](/2015/02/the-new-gig.html), and spent three fruitful years there. 
 
-Since 2018, [I am working](/2018/09/crunchydata.html) as an Executive Geospatial Engineer at [Crunchy Data](http://crunchydata.com), providing strategic advice and development on geospatial intelligent to the Fortune 1000 and broad public sector.
-
-### Consulting
-
-I now have over 15 years of professional experience providing technology development and advice to organizations ranging from Fortune 500 firms to large government agencies (civilian and military) to NGOs.
-
-* **PostGIS consulting:** Custom functionality, features, set-up, tuning, data models, new functionality, training, and architectures.
-* **Mapserver consulting:** Core development, new features, performance, configuration, and architectures.
-* **General geospatial consulting:** [ESRI](http://esri.com), [FME](http://safe.com), [OGR & GDAL](http://gdal.org), [CARTO](http://carto.com), Oracle Spatial, system architecture and design.
-
-Need systems architecture advice? Mapserver assistance? PostGIS assistance? Drop me an e-mail and we can discuss your issue, no strings attached.
+Since 2018, [I am working](/2018/09/crunchydata.html) as an Executive Geospatial Engineer at [Crunchy Data](http://crunchydata.com), providing strategic advice and development on geospatial intelligence to the Fortune 1000 and broad public sector.
 
 ### Contact
 
-As a consultant, I am always looking for interesting and challenging new projects, please get in touch.
+I am always looking for interesting and challenging new projects, please get in touch.
 
 * E-Mail: [{{ site.author.email }}](mailto:{{ site.author.email }})
 * Phone: +1 250 885 0632
