@@ -16,6 +16,10 @@ An important topic of conversation this sprint was what kinds of core PostgreSQL
 
 <img src="{{ site.images }}{{ page.image }}" alt="{{ page.title }}" />
 
+## Wider Typmod
+
+The current attribue `typmod` column is a 32-bit integer. For geometry, we are already packing that 32 bits to the limit: a couple bits for dimensionality, some more for the type number, and the bit kahune, a bunch for the SRID number. Having even a 64-bit typmod number would allow even more interesting things, like declared coordinate precision, to fit in there. Maybe we are abusing typmod and there's a better way to do what we want though?
+
 ## Parallel GIST Scan
 
 The PostGIS spatial index is built using the PostgreSQL [GIST index infrastructure](https://www.postgresql.org/docs/11/static/gist.html), so anything that makes GIST scans faster is a win for us. This would be a big win for folks with large tables (and thus deep trees) and who run scans that return a lot of indexed tuples.
