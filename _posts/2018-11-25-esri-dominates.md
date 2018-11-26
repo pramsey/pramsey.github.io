@@ -52,7 +52,7 @@ This is the danger of dominance.
 
 When the local Esri rep has a better relationship with your boss than you do, do you advocate for using alternative tools? You could be limiting or even potentially jeapardizing your career.
 
-When Esri has locked up the local geospatial software market, do you bid an RFP with an alternative open tool set? You could lose your Esri partnership agreement and with it your ability to bid any other local contracts. 
+When Esri has locked up the local geospatial software market, do you bid an RFP with an alternative open tool set? You could lose your Esri partnership agreement and with it your ability to bid any other local contracts. Esri will [make your situation clear to you](https://www.appgeo.com/breaking-up-is-hard-to-do/).
 
 This is the danger of dominance. 
 
