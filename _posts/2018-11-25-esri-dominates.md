@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Esri and Winning
-date: '2018-11-23T00:00:00.00-07:00'
+date: '2018-11-26T06:00:00.00-07:00'
 author: Paul Ramsey
 category: technology
 tags:
