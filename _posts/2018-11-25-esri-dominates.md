@@ -18,7 +18,7 @@ I ask because last month I gave a talk [(PDF Download)](http://s3.cleverelephant
 
 <a href="http://s3.cleverelephant.ca/2018-manitoba-gis.pdf"><img src="{{ site.images }}/2018/esri2.jpg" alt="MGUG Keynote 2018" /></a>
 
-In a testament to the full-spectrum dominance of [Esri](https://esri.com), the audience was almost entirely made up of Esri customers. The event was sponsored by Esri. Esri had a table at the back of the room. Before giving my talk, I made a little joke about the fact that my talk would in fact include some digs at Esri (though I left the most pointed ones on the cutting room floor).
+In a testament to the full-spectrum dominance of [Esri](https://esri.com), the audience was almost entirely made up of Esri customers. The event was sponsored by Esri. Esri had a table at the back of the room. Before giving my talk, I made a little joke that my talk would in fact include some digs at Esri (though I left the most pointed ones on the cutting room floor).
 
 People seemed to like the talk. They laughed at my jokes. They nodded in the right places.
 
