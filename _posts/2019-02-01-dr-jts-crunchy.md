@@ -15,7 +15,7 @@ comments: True
 image: "2019/drjts2.png"
 ---
 
-Today's an exciting day in the Victoria office of Crunchy Data: our local staff count goes from one to two, as [Martin Davis](https://github.com/dr-jts) [joins the company](https://lin-ear-th-inking.blogspot.com/2019/02/joining-crunchy-data-to-work-on-postgis.html)! 
+Today's an exciting day in the Victoria office of Crunchy Data -- our local staff count goes from one to two, as [Martin Davis](https://github.com/dr-jts) [joins the company](https://lin-ear-th-inking.blogspot.com/2019/02/joining-crunchy-data-to-work-on-postgis.html)! 
 
 This is kind of a big deal, because this year Martin and I will be spending much or our time on the core computational geometry library that powers PostGIS, the [GEOS library](https://trac.osgeo.org/geos), and the JTS library from which it derives its structure.
 
