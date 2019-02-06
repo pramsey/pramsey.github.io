@@ -22,7 +22,7 @@ This is kind of a big deal, because this year Martin and I will be spending much
 Why is that a big deal? Because GEOS, JTS and other language ports provide the computational geometry algorithms underneath most of the open source geospatial ecosystem -- so improvements in our core libraries ripple out to help a huge swathe of other software.
 
 [JTS](https://github.com/locationtech/jts) came first, initially as a project of the British Columbia government. [GEOS](https://trac.osgeo.org/geos/) is a C++ port of JTS. There are also Javascript and .Net ports ([JSTS](https://github.com/bjornharrtell/jsts) and [NTS](https://github.com/NetTopologySuite/
-NetTopologySuite, respectively).
+NetTopologySuite, respectively)).
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vRHW78fR1a1cYnfy3MVhXWH_kf114dO8eypgmoNqTZNYo-IOGU3_t4K29TJz-aU6SRusyJuN_gowk-Y/pub?w=967&amp;h=849">
 
