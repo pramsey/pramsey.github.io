@@ -25,7 +25,7 @@ Starting a couple years ago, [new developers](https://github.com/OSGeo/proj.4/bl
 
 Some of this new work was funded via the [GDALBarn](https://gdalbarn.com/) project, so thanks go out to those sponsors who invested in this incredibly foundational library and GDAL maintainer [Even Roualt](https://github.com/rouault).
 
-For PostGIS that means we have to accomodate ourselves to the new API. Doing so not only makes it easier to track future releases, but gains us access to the fancy new plumbing in Proj.
+For PostGIS that means we have to [accomodate ourselves](https://trac.osgeo.org/postgis/ticket/4322) to the new API. Doing so not only makes it easier to track future releases, but gains us access to the fancy new plumbing in Proj.
 
 <img src="{{ site.images }}/2019/proj2.jpg" alt="{{ page.title }}" />
 
