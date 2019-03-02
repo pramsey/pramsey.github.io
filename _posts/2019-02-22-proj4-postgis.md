@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proj6 in PostGIS
+title: Proj 6 in PostGIS
 date: '2019-02-22T06:00:00.00-07:00'
 author: Paul Ramsey
 category: technology
