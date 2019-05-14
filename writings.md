@@ -33,6 +33,7 @@ Most of my writings start out (and remain) as long-form blog posts, but in blog 
 
 I deliver keynote presentations to different conferences, usually geospatial ones, once or twice a year, and the odds of getting a good recording have been going up lately. Here are some of my favourites.
 
+* [The Middle Passage](https://docs.google.com/presentation/d/1-PAgIk9--nedCdfMGEwhcnqxqy1fGYUXwWhxzMfqJZg/edit) A [FOSS4G North America 2019](http://2019.foss4g-na.org) keynote on open source economics, and the current state of value capture by cloud providers.
 * [Let's Get Small](http://s3.cleverelephant.ca/2018-small-it.pdf) On the subject of government IT management, changing from a large capital project orientation to a small operational product orientation.
 * [PostGIS for Managers](http://s3.cleverelephant.ca/2018-postgis-for-managers.pdf) A [FOSS4G-NA 2018](https://2018.foss4g-na.org/) non-technical overview of PostGIS features and the decision points for changing over from the "leading proprietary brand".
 * The [SQL Festival](https://docs.google.com/presentation/d/14lf1TsVO4Wq7ykgHjIiXYksvzWBW5XvuxJh2CrtraHc/edit?usp=sharing) For lovers of database queries, a selection of interesting spatial and non-spatial queries and features from [FOSS4G-NA 2018](https://2018.foss4g-na.org/).
