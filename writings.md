@@ -33,7 +33,7 @@ Most of my writings start out (and remain) as long-form blog posts, but in blog 
 
 I deliver keynote presentations to different conferences, usually geospatial ones, once or twice a year, and the odds of getting a good recording have been going up lately. Here are some of my favourites.
 
-* [The Middle Passage](https://www.youtube.com/watch?v=NQ5_NnrBHjo) [30m] [[Slides](https://www.youtube.com/watch?v=NQ5_NnrBHjo&feature=youtu.be)] A [FOSS4G North America 2019](http://2019.foss4g-na.org) keynote on open source economics, and the current state of value capture by cloud providers.
+* [The Middle Passage](https://www.youtube.com/watch?v=NQ5_NnrBHjo) [30m] [[Slides](https://docs.google.com/presentation/d/1-PAgIk9--nedCdfMGEwhcnqxqy1fGYUXwWhxzMfqJZg/edit)] A [FOSS4G North America 2019](http://2019.foss4g-na.org) keynote on open source economics, and the current state of value capture by cloud providers.
 * [Let's Get Small](https://docs.google.com/presentation/d/1qKE9Bq_4nj7S6Ts25B9A9cgoA7a8O1behJF_oUVQrDI/edit) On the subject of government IT management, changing from a large capital project orientation to a small operational product orientation.
 * [PostGIS for Managers](http://s3.cleverelephant.ca/2018-postgis-for-managers.pdf) A [FOSS4G-NA 2018](https://2018.foss4g-na.org/) non-technical overview of PostGIS features and the decision points for changing over from the "leading proprietary brand".
 * The [SQL Festival](https://docs.google.com/presentation/d/14lf1TsVO4Wq7ykgHjIiXYksvzWBW5XvuxJh2CrtraHc/edit?usp=sharing) For lovers of database queries, a selection of interesting spatial and non-spatial queries and features from [FOSS4G-NA 2018](https://2018.foss4g-na.org/).
