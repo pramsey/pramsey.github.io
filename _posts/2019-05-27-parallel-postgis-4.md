@@ -18,8 +18,8 @@ For the last couple years I have been testing out the ever-improving support for
 
 Initially, the results were pretty bad. 
 
-* [With PostgreSQL 10](http://blog.cleverelephant.ca/2016/03/parallel-postgis.html), it was possible to force some parallel queries by jimmying with global cost parameters, but nothing would execute in parallel out of the box.
-* [With PostgreSQL 11](http://127.0.0.1:4000/2018/09/parallel-postgis-3.html), we got support for parallel aggregates, and those tended to parallelize in PostGIS right out of the box. However, parallel scans still required some manual alterations to PostGIS function costs, and parallel joins were basically impossible to force no matter what knobs you turned.
+* [With PostgreSQL 10](/2016/03/parallel-postgis.html), it was possible to force some parallel queries by jimmying with global cost parameters, but nothing would execute in parallel out of the box.
+* [With PostgreSQL 11](/2018/09/parallel-postgis-3.html), we got support for parallel aggregates, and those tended to parallelize in PostGIS right out of the box. However, parallel scans still required some manual alterations to PostGIS function costs, and parallel joins were basically impossible to force no matter what knobs you turned.
 
 With PostgreSQL 12 and PostGIS 3, **all that has changed**. All standard query types now readily parallelize using our default costings. That means parallel execution of:
 
