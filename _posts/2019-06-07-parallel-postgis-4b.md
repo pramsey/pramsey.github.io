@@ -92,7 +92,7 @@ For unknown reasons, it was impossible to force out a join plan with only 1 work
 |:---------:|:-----:|:---:|:----:|:----:|:----:|
 | Time (ms) | 26789 | -   | 9371 | 5169 | 4043 |
 
-The default number of workers is again 4 (1 leader + 3 workers) which, again, isn't bad. The join performance shallows out faster than the scan performance, and above 10 CPUs is basically flat.
+The default number of workers is 4 (1 leader + 3 workers) which, again, isn't bad. The join performance shallows out faster than the scan performance, and above 10 CPUs is basically flat.
 
 <img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT-ZUsOMlgJQL8ioqWrZ8_cYLX1StpUNS3bwaqlCDlWwGvIlL7emPIPc6GOb3p38GsqyzKo_4Kk7g7x/pubchart?oid=578132959&format=image" />
 
