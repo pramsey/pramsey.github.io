@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Parallel PostGIS and PgSQL 12 - 2'
+title: 'Parallel PostGIS and PgSQL 12 (2)'
 date: '2019-06-07T08:00:00-08:00'
 author: Paul Ramsey
 category: technology
