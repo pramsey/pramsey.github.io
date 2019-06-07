@@ -5,6 +5,13 @@ title: 'Talks & Writing'
 
 Most of my writings start out (and remain) as long-form blog posts, but in blog format then kind of disappear into the mists of history, so this page is to call them out with direct links.
 
+* Keynotes at [FOSS4G](https://foss4g.org)
+  * [San Diego, 2019](/2019/05/foss4g-keynote-2019.html)
+  * [Boston, 2017](/2017/08/foss4g-keynote.html)
+  * [Seoul, 2015](/2015/10/keynote-at-foss4g-2015.html)
+  * [Nottingham, 2013](/2013/10/being-open-source-citizen.html)
+  * [Denver, 2011](/2011/09/foss4g-2011-keynote.html)
+  * [Sydney, 2009](/2009/10/foss4g-2009-keynote.html)
 * "Tokenization and your private data"   ([one](/2014/06/tokenization-and-your-private-data-1.html), [two](/2014/07/tokenization-and-your-private-data-2.html), [three](/2014/07/tokenization-and-your-private-data-3.html), [four](/2014/07/tokenization-and-your-private-data-4.html),  [five](/2014/07/tokenization-and-your-private-data-5.html)) a series about the use of "tokenization" to secure personal information in CRM systems (in particular in BC government systems).
 * [Why SDIs Fail](/2006/09/why-sdis-fail.html), on the persistent inability of the "spatial data infrastructure" concept to gain traction.
 * [More ICM](/2012/06/more-icm.html), on the failings of the British Columbia "Integrated Case Management" system ($120M and counting).
