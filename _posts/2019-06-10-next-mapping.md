@@ -1,6 +1,6 @@
 ---
 layout: post
-title: (Who will be) Americas Next Big Mapping Company?
+title: (Who will be) America's Next Big Mapping Company?
 date: '2019-06-10T06:00:00.00-07:00'
 author: Paul Ramsey
 category: technology
