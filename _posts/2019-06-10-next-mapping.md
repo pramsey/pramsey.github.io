@@ -33,7 +33,7 @@ In an [excellent article](https://www.justinobeirne.com/google-maps-moat) on the
 
 > Google has gathered so much data, in so many areas, that it’s now crunching it together and creating features that Apple can’t make—surrounding Google Maps with a moat of time.
 
-Even the most well-funded and motivated competitors cannot keep up. Microsoft came the closest early on with Bing Maps, but seems to have taken their foot of the gas, in acknowledgement of the fact that they cannot achieve parity, let alone get ahead.
+Even the most well-funded and motivated competitors cannot keep up. Microsoft came the closest early on with Bing Maps, but seems to have taken their foot off the gas, in acknowledgement of the fact that they cannot achieve parity, let alone get ahead.
 
 And so what? So what if Google has established Google Maps as a source of location data so good and so unassailable that it's not worth competing?
 
