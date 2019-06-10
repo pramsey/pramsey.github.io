@@ -51,4 +51,6 @@ How will we know it's happening? It might be hard to tell from outside the Silic
 
 I think we're due for another mapping space race, and I'm looking forward to watching it take shape.
 
+--------
 
+<small><a name='1'>1</a>. The most important event of my geospatial career was the release of the iPhone 3GS with a GPS chip as a standard component.</small>
