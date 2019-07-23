@@ -17,6 +17,8 @@ comments: True
 
 Once upon a time, it felt like most discussions about open source were predicated on answering this question. Developers fell in love with, or createed, some project or other, but found themselves working on it in their spare time. If only there was some way to monetize their labour of love!
 
+<img src="{{ site.images }}/2019/knitting-money.jpg" alt="loadMap" />
+
 From that complaint, a score of (never quite satisfactory) models were spawned.
 
 * **Pure consulting**, which depends on a never-ending supply of enhancements and updates, usually to the detriment of core maintainance.
@@ -25,6 +27,8 @@ From that complaint, a score of (never quite satisfactory) models were spawned.
 * **Relicensing**, which leverages adoption of the open source to squeeze conventional licensing revenue out of enterprises that don't want to accept open source license terms of use.
 
 What all the models above have in common is that they more-or-less require successful adopters to invest effort in the open source project at the center of the model. Adoption of the open source project is an "on ramp" to revenue opportunities, but the operating assumption is that customer will continue using the open source core, so the business has an incentive to invest in the "on ramp".
+
+<img src="{{ site.images }}/2019/onramp.jpg" alt="loadMap" />
 
 In the same way, Oracle provides an "on ramp" to their enterprise product, in the free-as-in-beer [Oracle Express](https://www.oracle.com/ca-en/database/technologies/appdev/xe.html). Oracle pays for the development of the on-ramp (it's just Oracle, after all) and in return (maybe) reaps the reward of eventual migration of users to their paid product.
 
@@ -39,6 +43,8 @@ AWS offers RDS versions of **all** the RDBMS systems, open source and otherwise,
 So the open source communities end up building the on-ramp to AWS paid services as a free service to AWS. 
 
 That's annoying enough, but it gets uglier, I think, as time goes on.
+
+<img src="{{ site.images }}/2019/itsatrap.jpg" alt="loadMap" />
 
 For now, Aurora tracks the PostgreSQL version fairly well. You can move your app onto Aurora, you can move it back off to RDS, you can move it to [Google's managed PostgresSQL](https://cloud.google.com/sql/docs/postgres/), you can host it yourself on premise or in the cloud.
 
