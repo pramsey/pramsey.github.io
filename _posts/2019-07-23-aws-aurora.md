@@ -67,4 +67,6 @@ I also hope that enlightened self-interest at the very least will lead to one of
 
 I think it's more likely that short term thinking will lead to "AWS only" featuritis and the creation of a one-way valve, even the deliberate downgrading of RDS and on-premise capabilities to drive customers into the arms of Aurora, because: why not? 
 
-The logic of enterprise sales is land, expand, lock-in, and squeeze. Just because AWS is currently in the land-and-expand phase doesn't mean they won't get to the succeeding phases eventually. 
+The logic of enterprise sales is: land, expand, lock-in, and squeeze. 
+
+Just because AWS is currently in the land-and-expand phase doesn't mean they won't get to the succeeding phases eventually. 
