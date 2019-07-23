@@ -32,7 +32,8 @@ Most of my writings start out (and remain) as long-form blog posts, but in blog 
      [2014](/2014/07/bc-it-outsourcing-201314.html),
      [2015](/2015/07/bc-it-outsourcing-201415.html),
      [2016](/2016/08/bc-it-outsourcing-201516.html),
-     [2017](/2017/09/bc-it-outsourcing-201617.html))
+     [2017](/2017/09/bc-it-outsourcing-201617.html),
+     [2018](/2018/08/bc-it-outsourcing-201718.html))
      an annual review of the provincial public accounts entries for major IT firms.
  
 
