@@ -40,7 +40,7 @@ Like [AWS PostgreSQL RDS](https://aws.amazon.com/rds/postgresql/), Aurora is a r
 
 AWS offers RDS versions of **all** the RDBMS systems, open source and otherwise, and they invest in the core projects accordingly, and fairly: hardly at all. After all, to do otherwise would be to declare a preference.
 
-So the open source communities end up building the on-ramp to AWS paid services as a free service to AWS. 
+So the open source communities end up building the on-ramp to AWS paid services as a free gift to AWS. 
 
 That's annoying enough, but it gets uglier, I think, as time goes on.
 
