@@ -15,7 +15,7 @@ comments: True
 
 > "How can I get paid to work on this cool open source project?"
 
-Once upon a time, it felt like most discussions about open source were predicated on answering this question. Developers fell in love with, or createed, some project or other, but found themselves working on it in their spare time. If only there was some way to monetize their labour of love!
+Once upon a time, it felt like most discussions about open source were predicated on answering this question. Developers fell in love with, or created, some project or other, but found themselves working on it in their spare time. If only there was some way to monetize their labour of love!
 
 <img src="{{ site.images }}/2019/knitting-money.jpg" alt="loadMap" />
 
