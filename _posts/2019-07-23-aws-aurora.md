@@ -48,7 +48,7 @@ That's annoying enough, but it gets uglier, I think, as time goes on.
 
 For now, Aurora tracks the PostgreSQL version fairly well. You can move your app onto Aurora, you can move it back off to RDS, you can move it to [Google's managed PostgresSQL](https://cloud.google.com/sql/docs/postgres/), you can host it yourself on premise or in the cloud.
 
-However, eventually the business expense of maintaining the Aurora code base against a PostgreSQL baseline that is in constant motions will wear on Amazon, and they will start to see places where adding "Aurora only" features will "improve the customer experience".
+However, eventually the business expense of maintaining the Aurora code base against a PostgreSQL baseline that is in constant motion will wear on Amazon, and they will start to see places where adding "Aurora only" features will "improve the customer experience".
 
 At that point, the soft fork will turn into a hard fork, and migrations into Aurora will start to look like a one-way valve.
 
