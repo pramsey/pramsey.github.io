@@ -17,7 +17,7 @@ comments: True
 
 I was invited to deliver a keynote at [FOSS4G 2013 in Nottingham](http://2013.foss4g.org) last month, and in a twist it turned out to be a closing slot rather than an opening one. So rather than a call to action, I did something more moralistic, a "sermon" of sorts for everyone going home after a great conference.  And then the recording turned out to be no good. So I did it again a couple weeks later at the [Boundless](http://boundlessgeo.com) company meeting in Denver.  
 
- <video width="638" height="478" controls>
+ <video width="100%" controls>
   <source src="http://s3.cleverelephant.ca/2013-open-source-citizen.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
