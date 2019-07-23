@@ -36,7 +36,7 @@ Which brings me to "AWS Aurora", now [generally available](https://aws.amazon.co
 
 AWS deliberately does not say Aurora is "PostgreSQL". They say it is "PostgreSQL compatible". That's probably for the best: Aurora is a soft fork of the core PostgreSQL code that replaces big chunks of PostgreSQL storage logic with [clever, custom AWS code](https://www.youtube.com/watch?v=wGopOkzLcww).  
 
-Like [AWS PostgreSQL RDS](https://aws.amazon.com/rds/postgresql/), Aurora is a revenue generating fork of PostgreSQL that uses open source PostgreSQL adoption as an on-ramp for AWS revenue. This would superficially seem to be a similar situation to all the other open source business models, except for one thing: AWS doesn't have any stake in the success of PostgreSQL per se.
+Like [AWS PostgreSQL RDS](https://aws.amazon.com/rds/postgresql/), Aurora is a revenue generating fork of PostgreSQL that uses open source PostgreSQL adoption as an on-ramp for AWS revenue. This would superficially seem to be a similar situation to all the other open source business models, except for one thing: AWS **doesn't have any stake** in the success of PostgreSQL per se.
 
 AWS offers RDS versions of **all** the RDBMS systems, open source and otherwise, and they invest in the core projects accordingly, and fairly: hardly at all. After all, to do otherwise would be to declare a preference.
 
