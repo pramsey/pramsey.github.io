@@ -26,7 +26,7 @@ From that complaint, a score of (never quite satisfactory) models were spawned.
 * **Open core**, which invests in the open source core to promote adoption and hopefully build a sub-population of enterprises that have embedded the project sufficiently to be in the market for add-ons to make things faster/simpler/more integrated.
 * **Relicensing**, which leverages adoption of the open source to squeeze conventional licensing revenue out of enterprises that don't want to accept open source license terms of use.
 
-What all the models above have in common is that they more-or-less require successful adopters to invest effort in the open source project at the center of the model. Adoption of the open source project is an "on ramp" to revenue opportunities, but the operating assumption is that customer will continue using the open source core, so the business has an incentive to invest in the "on ramp".
+What all the models above have in common is that they more-or-less require successful adopters to **invest effort in the open source project** at the center of the model. Adoption of the open source project is an "on ramp" to revenue opportunities, but the operating assumption is that customer will continue using the open source core, so the business has an incentive to invest in the "on ramp".
 
 <img src="{{ site.images }}/2019/onramp.jpg" alt="loadMap" />
 
