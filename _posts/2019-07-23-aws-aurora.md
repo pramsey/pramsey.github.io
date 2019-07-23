@@ -62,8 +62,8 @@ I hope that all kinds of people and organizations free ride on my open source wo
 
 I also hope that enlightened self-interest at the very least will lead to one of two outcomes:
 
-* That the customers of AWS RDS and (particularly) Aurora recognize that the organization they are paying (AWS) is not adequately supporting the core of they software (PostgreSQL) their operations depend on, and that as a result they are implicitly taking on the associated technical risk of under-investment.
-* That AWS itself has the foresight to invest directly in the open source on-ramps to their paid cloud deployments, acknowledging that the core software does in fact provide just as much (and maybe even more) value as their impressive cloud infrastructure does.
+* That the customers of AWS RDS and (particularly) Aurora recognize that the organization they are paying (AWS) is not adequately supporting the core of they software (PostgreSQL) their operations depend on, and that as a result **they are implicitly taking on the associated technical risk** of under-investment.
+* That AWS itself has the foresight to invest directly in the open source on-ramps to their paid cloud deployments, acknowledging that the core software does in fact provide **just as much** (and maybe even more) **value** as their impressive cloud infrastructure does.
 
 I think it's more likely that short term thinking will lead to "AWS only" featuritis and the creation of a one-way valve, even the deliberate downgrading of RDS and on-premise capabilities to drive customers into the arms of Aurora, because: why not? 
 
