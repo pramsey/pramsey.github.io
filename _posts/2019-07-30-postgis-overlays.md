@@ -13,7 +13,7 @@ comments: True
 image: "2019/overlays8.png"
 ---
 
-One question that comes up often during our PostGIS training is “how do I do an overlay?” The terminology can vary: sometimes they call the operation a “union” sometimes an “intersect”. What they mean is, “can you turn a collection of overlapping polygons into a collection of non-overlapping polygons that retain information about the overlapping polygons that formed them?”
+One [question](http://gis.stackexchange.com/questions/109692/how-to-replicate-arcgis-intersect-in-postgis) that comes up often during our PostGIS training is “how do I do an overlay?” The terminology can vary: sometimes they call the operation a “union” sometimes an “intersect”. What they mean is, “can you turn a collection of overlapping polygons into a collection of non-overlapping polygons that retain information about the overlapping polygons that formed them?”
 
 <img src="{{ site.images }}/2019/overlays1.png" />
 
@@ -25,7 +25,7 @@ Calculating the overlapping parts of a pair of shapes is easy, using the [ST_Int
 
 How can we handle multiple overlaps and get out a polygon set that covers 100% of the area of the input sets? By taking the polygon geometry apart into lines, and then building new polygons back up. 
 
-Let’s construct a synthetic example: first, generate a collection of random points, using a Gaussian distribution, so there’s more overlap in the middle. The crazy math in the SQL below just converts the uniform random numbers from the `random()` function into normally distributed numbers.
+Let’s construct a synthetic example: first, generate a collection of random points, using a [Gaussian](http://en.wikipedia.org/wiki/Normal_distribution) distribution, so there’s more overlap in the middle. The crazy math in the SQL below just converts the uniform random numbers from the `random()` function into normally distributed numbers.
 
 ```sql
 CREATE TABLE pts AS
