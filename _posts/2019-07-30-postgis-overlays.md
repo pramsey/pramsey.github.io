@@ -29,7 +29,7 @@ Let’s construct a synthetic example: first, generate a collection of random po
 
 ```sql
 CREATE TABLE pts AS
-WITH rands AS (
+  WITH rands AS (
   SELECT generate_series as id, 
          random() AS u1, 
          random() AS u2 
@@ -39,7 +39,7 @@ SELECT
   id,
   ST_SetSRID(ST_MakePoint(
     50 * sqrt(-2 * ln(u1)) * cos(2*pi()*u2),
-    50 * sqrt(-2 * ln(u1)) * sin(2*pi()*u2)),4326) AS geom
+    50 * sqrt(-2 * ln(u1)) * sin(2*pi()*u2)), 4326) AS geom
 FROM rands;
 ```
 
