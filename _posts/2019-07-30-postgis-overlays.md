@@ -30,7 +30,9 @@ Let’s construct a synthetic example: first, generate a collection of random po
 ```sql
 CREATE TABLE pts AS
 WITH rands AS (
-  SELECT generate_series as id, random() AS u1, random() AS u2 FROM generate_series(1,100)
+  SELECT generate_series as id, random() AS u1, 
+         random() AS u2 
+  FROM generate_series(1,100)
 )
 SELECT
   id,
@@ -48,7 +50,8 @@ Now, we turn the points into circles, big enough to have overlaps.
 
 ```sql
 CREATE TABLE circles AS
-SELECT id, ST_Buffer(geom, 10) AS geom FROM pts;
+  SELECT id, ST_Buffer(geom, 10) AS geom 
+    FROM pts;
 ```
 
 Which looks like this: 
@@ -59,8 +62,8 @@ Now it’s time to take the polygons apart. In this case we’ll take the exteri
 
 ```sql
 CREATE TABLE boundaries AS
-SELECT ST_Union(ST_ExteriorRing(geom)) AS geom
-FROM circles;
+  SELECT ST_Union(ST_ExteriorRing(geom)) AS geom
+    FROM circles;
 ```
 
 What comes out is just lines, but with end points at every crossing. 
@@ -72,8 +75,9 @@ Now that we have noded lines, we can collect them into a multi-linestring and fe
 ```sql
 CREATE SEQUENCE polyseq;
 CREATE TABLE polys AS
-SELECT nextval('polyseq') AS id, (ST_Dump(ST_Polygonize(geom))).geom AS geom
-FROM boundaries;
+  SELECT nextval('polyseq') AS id, 
+         (ST_Dump(ST_Polygonize(geom))).geom AS geom
+  FROM boundaries;
 ```
 
 Now we have a set of polygons with no overlaps, only one polygon per area. 
