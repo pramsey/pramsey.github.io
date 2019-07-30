@@ -30,7 +30,8 @@ Let’s construct a synthetic example: first, generate a collection of random po
 ```sql
 CREATE TABLE pts AS
 WITH rands AS (
-  SELECT generate_series as id, random() AS u1, 
+  SELECT generate_series as id, 
+         random() AS u1, 
          random() AS u2 
   FROM generate_series(1,100)
 )
