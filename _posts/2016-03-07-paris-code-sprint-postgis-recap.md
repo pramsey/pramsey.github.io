@@ -28,7 +28,7 @@ Anyhow, my (lovely, wonderful, superterrific) employer, [CartoDB](http://cartodb
 was an event sponsor, and sent me and my co-worker [Paul
 Norman](https://github.com/pnorman) to the event, which we 
 attended with about 40 other hackers on 
-[PDAL](http://pdal.io), [GDAL](http://gdal.org), [PostGIS](http://postigs.net), 
+[PDAL](http://pdal.io), [GDAL](http://gdal.org), [PostGIS](http://postgis.net), 
 [MapServer](http://mapserver.org), [QGIS](http://qgis.org), [Proj4](http://proj4.org),
 [PgPointCloud](http://github.com/pgpointcloud) etc.
 
