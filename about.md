@@ -20,7 +20,7 @@ Since 2018, [I am working](/2018/09/crunchydata.html) as an Executive Geospatial
 I am always looking for interesting and challenging new projects, please get in touch.
 
 * E-Mail: [{{ site.author.email }}](mailto:{{ site.author.email }})
-* Phone: +1 250 885 0632
+* Phone: [{{ site.author.telephone }}](tel:{{ site.author.telephone }})
 * IRC: pramsey @ freenode, #postgis, #mapserver
 * [LinkedIn]({{ site.author.linkedin }})
 * [Twitter]({{ site.author.twitter }})
