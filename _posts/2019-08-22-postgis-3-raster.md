@@ -42,7 +42,7 @@ unzip 092g06_e.dem.zip
 raster2pgsql -I -F -s 4269 -t 56x56 092g06_e.dem dem092g06e | psql yvr_raster
 ```
 
-After the data load, we have a table of 56 pixel square elevation chips named `dem092g06e`. If you map the extents of the chips, they look like this:
+After the data load, we have a table of 56-by-56 pixel elevation chips named `dem092g06e`. If you map the extents of the chips, they look like this:
 
 ![Vancouver DEM Chips]({{ site.images }}/2019/yvr_dem_extents.jpg)
 
@@ -94,7 +94,7 @@ USING ST_Transform(geom, 4269)
 
 ![Vancouver Buildings]({{ site.images }}/2019/yvr_buildings.jpg)
 
-(There are building on the north short of Burrard inlet, but this data is from the City of Vancouver. Jurisdictional boundaries are the bane of geospatial analysis.)
+(There are buildings on the north shore of Burrard inlet, but this data is from the City of Vancouver. Jurisdictional boundaries are the bane of geospatial analysis.)
 
 Now we can find flooded buildings.
 
@@ -118,7 +118,7 @@ CREATE TABLE buildings_30_rast AS
     WHERE ST_Value(d.rast, ST_Centroid(b.geom)) < 30;
 ```
 
-Since polygon building can be expensive, joining the raster and vector layers is usually the way we want to carry out this analysis.
+Since building polygons from raster can be expensive, joining the raster and vector layers is usually the way we want to carry out this analysis.
 
 ![Vancouver Buildings in 30m Flood Zone]({{ site.images }}/2019/yvr_buildings_flood.jpg)
 
