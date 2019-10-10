@@ -35,6 +35,8 @@ While the "overlay operations" in GEOS are very reliable, they are not **100%** 
 
 Because there are a lot of PostGIS users and they manage a lot of data, there are a non-zero number of cases that cause `TopologyExceptions`, and [upset users](http://kelsocartography.com/blog/?p=4240). We would like take that number **down to zero**.
 
+**Update: Next-generation overlay did not make the 3.8 GEOS release and will be part of 3.9 instead.**
+
 With luck, GEOS 3.8 will succeed in finally bringing fully robust overlay operations to the open source community. The developer behind the GEOS algorithms, Martin Davis, [recently joined Crunchy Data](http://blog.cleverelephant.ca/2019/02/dr-jts-crunchy.html), and has spent this summer working on a new overlay engine. 
 
 Overlay failures are caused when intersections between edges result in inconsistencies in the overlay graph. Even using double precision numbers, systems have only [51 bits of precision](https://en.wikipedia.org/wiki/Double-precision_floating-point_format) to represent coordinates, and that fixed precision can result in graphs that don't correctly reflect their inputs. 
