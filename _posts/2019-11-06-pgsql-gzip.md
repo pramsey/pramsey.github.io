@@ -37,7 +37,7 @@ additional data processing step -- gziping.
 
 Huh. And this use case also applies to people generating [GeoJSON](http://geojson.io/) directly [in the database](/2019/08/postgis-3-geojson.html) and sending it out to web clients.
 
-The PostgreSQL core has generally frowned on compression functions at the SQL level, because the database already does compression of over-sized tuples as necessary. The last thing we want is people **manually** applying compression to column values, and then stuffing them into rows where the database will then to **re-compress** them internally. From the perspective of **storage efficiency**, just standing back and letting PostgreSQL do its work is preferable.
+The PostgreSQL core has generally frowned on compression functions at the SQL level, because the database already does compression of over-sized tuples as necessary. The last thing we want is people **manually** applying compression to column values, and then stuffing them into rows where the database will then have to **re-compress** them internally. From the perspective of **storage efficiency**, just standing back and letting PostgreSQL do its work is preferable.
 
 But from the perspective of an **integration environment**, where an application might be expected to **emit** or **consume** compressed data, having a tool in SQL to pack and unpack that data is potentially quite useful. 
 
