@@ -9,7 +9,7 @@ tags:
 - subdivide
 - performance
 comments: True
-image: "2019/gzip-sm.png"
+image: "2019/scissors.png"
 ---
 
 _This post originally appeared in the [CARTO blog](https://carto.com/blog/subdivide-all-things/)._
