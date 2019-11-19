@@ -86,7 +86,7 @@ We get back one record, and two debug entries:
 
 ```
 DEBUG:  OGR SQL: (LBLTYPEHAL = 'Niet-belbus')
-DEBUG:  OGR spatial filter (2.08e+05 1.87e+05, 2.08e+05 1.87e+05)
+DEBUG:  OGR spatial filter (207950 186590, 207960 186600)
 -[ RECORD 1 ]-----------------------
 gml_id     | Halte.10328
 shape      | POINT(207956 186596)
