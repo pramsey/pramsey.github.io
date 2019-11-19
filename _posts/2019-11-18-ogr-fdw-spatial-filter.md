@@ -143,7 +143,8 @@ That's pretty much un-readable, but if I copy out the value in the `FILTER` requ
       <PropertyName>LBLTYPEHAL</PropertyName>
       <Literal>Niet-belbus</Literal>
     </PropertyIsEqualTo>
-    <BBOX><PropertyName>Haltes:SHAPE</PropertyName>
+    <BBOX>
+      <PropertyName>Haltes:SHAPE</PropertyName>
       <gml:Box>
         <gml:coordinates>
           207950.0000000000000000,186590.0000000000000000
