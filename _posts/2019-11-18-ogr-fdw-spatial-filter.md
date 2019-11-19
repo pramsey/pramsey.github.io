@@ -112,7 +112,7 @@ Our example data source, the Belgian "web feature server" actually supports both
 
 We can see OGR passing the filters down because when we created the server, we set `config_options 'CPL_DEBUG=ON'`, to expose the GDAL logging information to our PostgreSQL server.
 
-The GDAL debug entries are visible when we setting the logging level to `DEBUG2`
+The GDAL debug entries are visible when we set the logging level to `DEBUG2`
 
 ```sql
 SET client_min_messages = DEBUG2;
