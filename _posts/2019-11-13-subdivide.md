@@ -80,7 +80,7 @@ JOIN ne_10m_populated_places_simple places
 ON ST_Contains(countries.the_geom, places.the_geom)
 ```
 
-On my computer, the return time about 0.5 seconds, or 60 times faster, even though the countries table is now 8633 rows. The subdivision has accomplished two things:
+On my computer, the return time about 0.5 seconds, or **60 times faster**, even though the countries table is now 8633 rows. The subdivision has accomplished two things:
 
 * Each polygon now covers a smaller area, so index searches are less likely to pull up points that are not within the polygon.
 * Each polygon is now below the page size, so retrieval from disk will be much faster.
