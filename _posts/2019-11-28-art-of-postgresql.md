@@ -22,9 +22,9 @@ And the tragedy is that, because they stop there, they end up re-writing big pie
 
 Since so many developers are using PostgreSQL now, I have taken to recommending a couple of books, written by community members. 
 
-For people getting started with PostgreSQL, and SQL, the [Art of PostgreSQL](https://theartofpostgresql.com/?affiliate=cleverelephant), by Dmitri Fontaine. 
+For people getting started with PostgreSQL, and SQL, the [Art of PostgreSQL](https://cleverelephant--theartofpostgresql.thrivecart.com/full-edition/), by Dmitri Fontaine. 
 
-<a href="https://theartofpostgresql.com/?affiliate=cleverelephant"><img src="{{ site.images }}/2019/art-of-pgsql-lg.png" alt="Art of PostgreSQL" /></a>
+<a href="https://cleverelephant--theartofpostgresql.thrivecart.com/full-edition/"><img src="{{ site.images }}/2019/art-of-pgsql-lg.png" alt="Art of PostgreSQL" /></a>
 
 For people who are wanting to learn PostGIS, and spatial SQL, I recommend [PostGIS in Action](https://www.manning.com/books/postgis-in-action-third-edition), by Regina Obe and Leo Hsu.
 
