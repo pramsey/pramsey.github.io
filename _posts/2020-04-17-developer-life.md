@@ -104,7 +104,7 @@ So, was this a success or a failure?
 
 ![Stupid]({{ site.images }}/2020/stupid.gif)
 
-I've become inured to the huge mismatch in "time spent to code produced", particularly when debugging. Spending 8 hours stepping through a debugger to generate a one-line patch is pretty routine.
+I've become inured to the huge mismatch in "time spent versus code produced", particularly when debugging. Spending 8 hours stepping through a debugger to generate a one-line patch is pretty routine.
 
 But something about the mismatch between my grandious and complex solution (partial retrieval! hash code!) and the final solution (just ask! try the half-measure, see if it's better!) has really gotten on my nerves.
 
