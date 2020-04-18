@@ -106,7 +106,7 @@ So, was this a success or a failure?
 
 I've become inured to the huge mismatch in "time spent versus code produced", particularly when debugging. Spending 8 hours stepping through a debugger to generate a one-line patch is pretty routine.
 
-But something about the mismatch between my grandious and complex solution (partial retrieval! hash code!) and the final solution (just ask! try the half-measure, see if it's better!) has really gotten on my nerves.
+But something about the mismatch between my grandious and complex solution (partial retrieval! hash code!) and the final solution (just ask! try the half-measure! see if it's better!) has really gotten on my nerves.
 
 I like the win, but the path was a long and windy one, and PostGIS users have had slower queries than necessary for **years** because I failed to pose my simple question to the people who had an answer.
 
