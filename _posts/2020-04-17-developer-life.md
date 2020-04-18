@@ -30,13 +30,15 @@ We solved this problem a long time ago in PostGIS by putting in an extra layer o
 
 ![INDEXING!]({{ site.images }}/2020/indexing.gif)
 
-During a query (for those functions where it makes sense) if we see the same object twice in a row, we build an index on the edges of that object and keep the index in memory, for the life of the query. For joins in particular, this pattern of "seeing the same big thing multiple times" is very common.
+During a query (for those functions where it makes sense) if we see the same object twice in a row, we build an index on the edges of that object and keep the index in memory, for the life of the query. This gives us O(log(n)) performance for intersects, point-in-polygon, and so on. For joins in particular, this pattern of "seeing the same big thing multiple times" is very common.
 
 This one small trick is one reason PostGIS is so much faster than "the leading brands".
 
 However, in order to "see the same object twice" we have to, for each function call in the query, retrieve the whole object, in order to compare it against the one we are holding in memory, to **see if it is the same**. 
 
-Here we run into an issue with our back-end. PostgreSQL deals with large objects by (a) compressing them and (b) cutting the compressed object into slices and storing them in a side table. This all happens in the background, and is why you can store 1GB objects transparently in a database that has only an 8KB page size.
+Here we run into an issue with our back-end. 
+
+PostgreSQL deals with large objects by (a) compressing them and (b) cutting the compressed object into slices and storing them in a side table. This all happens in the background, and is why you can store 1GB objects transparently in a database that has only an 8KB page size.
 
 It's quite computationally expensive, though. So much so that I found that simply bypassing the compression part of this feature [could provide 5x performance gains](http://blog.cleverelephant.ca/2018/09/postgis-external-storage.html) on our spatial join workload.
 
@@ -83,7 +85,7 @@ Hm. So for a subset of objects, it was possible to generate a unique key without
 
 ![Facepalm]({{ site.images }}/2020/facepalm.gif)
 
-And that subset "toasted-out-of-line datum" were in fact the objects causing the hot spot: object large enough to have been compressed and then stored in a side table in 8KB chunks.
+And that subset -- "toasted-out-of-line datum" -- were in fact the objects causing the hot spot: objects large enough to have been compressed and then stored in a side table in 8KB chunks.
 
 What if, instead of re-writing my whole existing in-memory index cache, I left that in place, and just added a [simple new cache](https://trac.osgeo.org/postgis/ticket/4657) that only worried about object retrieval. And only cached objects that it could obtain unique keys for, these "toasted-out-of-line" objects. Would that improve performance?
 
@@ -122,7 +124,7 @@ Unfortunately, ttmath is basically unmaintained now.
 
 And ttmath is arbitrary precision, while we really only need "higher precision". JTS just uses a "[double double](https://github.com/locationtech/jts/blob/master/modules/core/src/main/java/org/locationtech/jts/math/DD.java)" implementation, that uses the register space of two doubles for higher precision calculations.
 
-And ttmath doesn't support big-endian platforms (like Sparc, Power, and other chips), which was the real problem. We couldn't go on into the future without support for these niche-but-not-uncommon platfors.
+And ttmath doesn't support big-endian platforms (like Sparc, Power, and other chips), which was the real problem. We couldn't go on into the future without support for these niche-but-not-uncommon platforms.
 
 And ttmath includes some fancy assembly language that makes the build system more complex.
 
