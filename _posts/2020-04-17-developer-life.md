@@ -8,6 +8,7 @@ tags:
 - open source
 - pandemic
 - diary
+- postgis
 comments: True
 image: "2020/diary.jpg"
 ---
