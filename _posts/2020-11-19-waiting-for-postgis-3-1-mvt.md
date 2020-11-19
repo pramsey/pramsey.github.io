@@ -11,6 +11,10 @@ comments: True
 image: "2020/mvt-all.webp"
 ---
 
+_This is a guest post from [Raúl Marín](https://rmr.ninja/), a core PostGIS contributor and a former colleague of mine at [Carto](https://carto.com). Raúl is an amazing systems engineer and has been cruising through the PostGIS code base making things faster and more efficient. You can find the original of this post at [his new personal tech blog](https://rmr.ninja/2020-11-19-waiting-for-postgis-3-1-mvt/). -- Paul_
+
+<HR/>
+
 I'm not big on creating new things, I would rather work on improving something that's already in use and has proven its usefulness. So whenever I’m thinking about what I should do next I tend to look for projects or features that are widely used, where the balance between development and runtime costs favors a more in depth approach.
 
 Upon reviewing the changes of the upcoming PostGIS 3.1 release, it shouldn’t come as a surprise then that most of my contributions are focused on performance. When in doubt, just make it faster.
