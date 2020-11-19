@@ -1,9 +1,14 @@
 ---
 layout: post
 title: "Waiting for Postgis 3.1: Vector tile improvements"
-subtitle: 'On the improvements to MVT generation in PostGIS 3.1'
-tags: [postgis, performance]
-comments: false
+date: '2020-11-19T12:00:00-08:00'
+author: Raúl Marín
+category: technology
+tags:
+- postgis
+- performance
+comments: True
+image: "2020/mvt-all.webp"
 ---
 
 I'm not big on creating new things, I would rather work on improving something that's already in use and has proven its usefulness. So whenever I’m thinking about what I should do next I tend to look for projects or features that are widely used, where the balance between development and runtime costs favors a more in depth approach.
@@ -28,11 +33,11 @@ The best way to see the impact of these changes is through some examples. In bot
 
 In the first example the tile contains all the columns of the 287k points in it. As I've mentioned before, it is discouraged to do this, but it is the simplest query to generate.
 
-![Performance comparison with max properties](../post_images/2020-11-20/mvt-all.webp){: .mx-auto.d-block :}
+<img src="{{ site.images }}/2020/mvt-all.webp" />
 
 And for the second example, I'm generating the same tile but now only including the minimal columns for the visualization:
 
-![Performance comparison with min properties](../post_images/2020-11-20/mvt-single.webp){: .mx-auto.d-block :}
+<img src="{{ site.images }}/2020/mvt-single.webp" />
 
 We can see, both in 3.0 and 3.1, that adding only the necessary properties makes things 10 times as fast as with the full data, and also that **Postgis 3.1 is 30-40% faster in both situations**.
 
@@ -42,10 +47,10 @@ Aside from speed, this change also greatly reduces the amount of memory used to 
 
 To see it in action, we monitor the PostgreSQL process while it's generating the tile with all the properties. In 3.0, we observe in the blue line that the memory usage increases with time until it reaches around 2.7 GB at the end of the transaction.
 
-![Memory usage in 3.0](../post_images/2020-11-20/memory_30.webp){: .mx-auto.d-block :}
+<img src="{{ site.images }}/2020/memory_30.webp" />
 
 We now monitor the same request on a server using Postgis 3.1. In this case the server uses around **a third of the memory as in 3.0** (1GB vs 2.7GB) and, instead of having a linear increase, the memory is returned back to the system as soon as possible.
 
-![Memory usage in 3.1](../post_images/2020-11-20/memory_31.webp){: .mx-auto.d-block :}
+<img src="{{ site.images }}/2020/memory_31.webp" />
 
 To sum it all up: PostGIS 3.1 is faster and uses less memory when generating large vector tiles.
