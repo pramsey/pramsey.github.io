@@ -42,7 +42,7 @@ Nobody can compete with Google Maps, can they? Why yes, they can! Mapbox fuses t
 [routing](https://docs.mapbox.com/#navigation), 
 [elevation services](https://docs.mapbox.com/help/troubleshooting/access-elevation-data/)), and a bunch of services Google doesn't sell (like [custom map authoring](https://www.mapbox.com/mapbox-studio/)) or won't sell (like [automotive vision](https://www.mapbox.com/vision/)). 
 
-But like Google, the value proposition Mapbox sells isn't in the software, so much as the data and the platform underneath. Mapbox has built a unique, scalable platform for handling the huge problem of turning raw OSM data into usable services, and raw location streams into usable services. The sell access to that platform.
+But like Google, the value proposition Mapbox sells isn't in the software, so much as the data and the platform underneath. Mapbox has built a unique, scalable platform for handling the huge problem of turning raw OSM data into usable services, and raw location streams into usable services. They sell access to that platform.
 
 Mapbox has never been a software company, they've always been a data and services company.
 
@@ -57,7 +57,7 @@ So what's with the re-licensing? I'll come back to that, but first...
 
 Actually, no, it seems to be a passable **monetization** model, for some businesses. It's a shitty open source model though.
 
-* MongoDB has an open source core, and sells a bunch of proprietary enterprise add-ons. They've grown very fast and might even reach escape velocity to escape their huge VC valuation (or they still might be sucked into the singularity). 
+* MongoDB has an open source core, and sells a bunch of proprietary enterprise add-ons. They've grown very fast and might even reach sufficient velocity to escape their huge VC valuation (or they may yet be sucked into the singularity). 
 * Cloudera before them reached huge valuations selling proprietry add-ons around the open Hadoop ecosystem. 
 * MySQL flirted with an open core model for many years, but mostly stuck to spreading FUD about the GPL in order to get customers to pay them for proprietary licenses.
 
