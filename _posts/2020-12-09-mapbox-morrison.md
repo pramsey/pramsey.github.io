@@ -58,7 +58,7 @@ So what's with the re-licensing? I'll come back to that, but first...
 Actually, no, it seems to be a passable **monetization** model, for some businesses. It's a shitty open source model though.
 
 * MongoDB has an open source core, and sells a bunch of proprietary enterprise add-ons. They've grown very fast and might even reach sufficient velocity to escape their huge VC valuation (or they may yet be sucked into the singularity). 
-* Cloudera before them reached huge valuations selling proprietry add-ons around the open Hadoop ecosystem. 
+* Cloudera before them reached huge valuations selling proprietary add-ons around the open Hadoop ecosystem. 
 * MySQL flirted with an open core model for many years, but mostly stuck to spreading FUD about the GPL in order to get customers to pay them for proprietary licenses.
 
 Easily the strangest part of the MySQL model was trash-talking the very open source license **they chose** to place their open source software under.
@@ -98,7 +98,7 @@ The license change also says something about the business realities Mapbox is fa
 
 No doubt the board meetings are fraught. Managers are casting about for future sources of revenue, for places where more potential customers can be **squeeeeezed** into the sales funnel. 
 
-I had high hopes for Mapbox as a counterweight to Google Maps, a behemoth that seems [likely to consume us all](https://www.justinobeirne.com/google-maps-moat). The signs that the financial vice is begining to close on it, that the promise might not be fulfilled, they shake me.
+I had high hopes for Mapbox as a counterweight to Google Maps, a behemoth that seems [likely to consume us all](https://www.justinobeirne.com/google-maps-moat). The signs that the financial vice is beginning to close on it, that the promise might not be fulfilled, they shake me.
 
 So, yeah, Joe, this is big news. Shaking news. But it has nothing to do with "open source as a business model".
 
