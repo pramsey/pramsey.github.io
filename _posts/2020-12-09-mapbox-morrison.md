@@ -9,7 +9,7 @@ tags:
 - open source
 - opengl
 comments: True
-image: ""
+image: "2020/mapbox.jpg"
 ---
 
 Yesterday, Mapbox announced that they were moving their [Mapbox GL JS](https://github.com/mapbox/mapbox-gl-js) library from a standard BSD license to a new very much [non-open source license](https://github.com/mapbox/mapbox-gl-js/blob/main/LICENSE.txt).
