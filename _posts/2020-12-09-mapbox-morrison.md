@@ -17,7 +17,7 @@ Yesterday, Mapbox announced that they were moving their [Mapbox GL JS](https://g
 [Joe Morrison said](https://joemorrison.medium.com/death-of-an-open-source-business-model-62bc227a7e9b) the news "shook" him (and also the readers of the Hacker News front page, well done Joe). It did me as well. Although apparently for completely different reasons.
 
 > Mapbox is the protagonist of a story I’ve told myself and others countless times. It’s a seductive tale about the incredible, counterintuitive concept of the “open core” business model for software companies.
-> -- Joe Morrison
+> <br/>-- Joe Morrison
 
 There's a couple things wrong with Joe's encomium to Mapbox and "open core": 
 
@@ -77,7 +77,7 @@ This is going to sound precious, but the leaders of open core companies don't "c
 ![Sales Funnel]({{ site.images }}/2020/funnel.png)
 
 > We didn't open source it to get help from the community, to make the product better. We open sourced as a freemium strategy; to drive adoption. 
-> -- Dev Ittycheria, CEO, MongoDB
+> <br/>-- Dev Ittycheria, CEO, MongoDB
 
 So, yeah, open core is a way to make money but it doesn't "do" anything for open source as a shared proposition for building useful tools anyone can use, for anything they find useful, anytime and anywhere they like.
 
