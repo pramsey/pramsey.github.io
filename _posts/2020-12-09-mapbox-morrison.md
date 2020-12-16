@@ -74,7 +74,7 @@ A good open source model is one that promotes heterogeneity of contributors, a s
 
 This is going to sound precious, but the leaders of open core companies don't "care" about the ethos of open source. The CEOs of open core companies view open source (correctly, from their point of view) as a "sales channel". It's a way for customers to discover their paid offerings, it's not an end in itself.
 
-<img src="{{ site.images }}/2020/funnel.png" width="75%" alt="Sales Funnel" />
+<img src="{{ site.images }}2020/funnel.png" width="75%" alt="Sales Funnel" />
 
 > We didn't open source it to get help from the community, to make the product better. We open sourced as a freemium strategy; to drive adoption. 
 > <br/>-- Dev Ittycheria, CEO, MongoDB

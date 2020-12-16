@@ -37,11 +37,11 @@ The best way to see the impact of these changes is through some examples. In bot
 
 In the first example the tile contains all the columns of the 287k points in it. As I've mentioned before, it is discouraged to do this, but it is the simplest query to generate.
 
-<img src="{{ site.images }}/2020/mvt-all.webp" />
+![]({{ site.images }}/2020/mvt-all.webp)
 
 And for the second example, I'm generating the same tile but now only including the minimal columns for the visualization:
 
-<img src="{{ site.images }}/2020/mvt-single.webp" />
+![]({{ site.images }}/2020/mvt-single.webp)
 
 We can see, both in 3.0 and 3.1, that adding only the necessary properties makes things 10 times as fast as with the full data, and also that **Postgis 3.1 is 30-40% faster in both situations**.
 
@@ -51,10 +51,10 @@ Aside from speed, this change also greatly reduces the amount of memory used to 
 
 To see it in action, we monitor the PostgreSQL process while it's generating the tile with all the properties. In 3.0, we observe in the blue line that the memory usage increases with time until it reaches around 2.7 GB at the end of the transaction.
 
-<img src="{{ site.images }}/2020/memory_30.webp" />
+![]({{ site.images }}/2020/memory_30.webp)
 
 We now monitor the same request on a server using Postgis 3.1. In this case the server uses around **a third of the memory as in 3.0** (1GB vs 2.7GB) and, instead of having a linear increase, the memory is returned back to the system as soon as possible.
 
-<img src="{{ site.images }}/2020/memory_31.webp" />
+![]({{ site.images }}/2020/memory_31.webp)
 
 To sum it all up: PostGIS 3.1 is faster and uses less memory when generating large vector tiles.
