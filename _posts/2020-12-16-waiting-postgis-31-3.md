@@ -38,7 +38,7 @@ The algorithms in GEOS are actually a port to C++ of algoriths in the JTS Java l
 
 ## Overlay NG
 
-Over the past 12 months, the geospatial team at Crunchy Data has invested heavily in JTS/GEOS development, overhauling the overlay engine that backs the **Intersection**, **Union**, **Difference** and ***SymDifference** functions in all the projects that depend on the library.
+Over the past 12 months, the geospatial team at Crunchy Data has invested heavily in JTS/GEOS development, overhauling the overlay engine that backs the **Intersection**, **Union**, **Difference** and **SymDifference** functions in all the projects that depend on the library.
 
 ![Intersection]({{ site.images }}/2020/intersection.png)![Union]({{ site.images }}/2020/union.png)
 
@@ -60,9 +60,9 @@ GROUP BY 2, 3
 
 ![Summarization]({{ site.images }}/2020/bec-wsa.png)
 
-The new implementation for this query runs about **2 times** faster than the original. Even better, when run on a larger area with more data, the origin implementation fails, it's not possible to get a result out. The new implementation completes.
+The new implementation for this query runs about **2 times** faster than the original. Even better, when run on a larger area with more data, the original implementation fails -- it's not possible to get a result out. The new implementation runs to completion.
 
-Another common use over overlay code is melting together areas that share an attribute. This query takes (almost) every watershed on Vancouver Island and melts them together.
+Another common use of overlay code is melting together areas that share an attribute. This query takes (almost) every watershed on Vancouver Island and melts them together.
 
 ```sql
 SELECT ST_Union(geom)
@@ -86,8 +86,8 @@ The new implementation takes about 50% longer currently, but it is more robust a
 The way Overlay NG ensures robust results, is by falling back to more and more reliable noding approaches. "Noding" refers to how new vertices are introduced into geometries during the overlay process.
 
 * Initially a naive "floating point" noding is used, that just uses double precision coordinates. This works most of the time, but occasionally fails when noding "almost parallel" edges.
-* On failure, a "snapping" noding is used, which nudges nearby edges and nodes together within a tolerance. That works most of the time, but occasional fails.
-* Finally, a "fixed precision" routing nudges **all** of the coordinates in both geometries into a fixed space, where edge collapses can be handled deterministically. This is the lowest performance approach, but it very very rarely occurs.
+* On failure, a "snapping" noding is used, which nudges nearby edges and nodes together within a tolerance. That works most of the time, but occasionally fails.
+* Finally, a "fixed precision" noding nudges **all** of the coordinates in both geometries into a fixed space, where edge collapses can be handled deterministically. This is the lowest performance approach, but it very very rarely occurs.
 
 Sometimes, end users actually **prefer** to have their geometry forced into a fixed precision grid, and for overlay to use a fixed precision. For those users, with PostGIS 3.1 and GEOS 3.9 there are some new parameters in the intersection/union/difference functions.
 
@@ -97,13 +97,13 @@ Sometimes, end users actually **prefer** to have their geometry forced into a fi
 
 ![Precision reduction]({{ site.images }}/2020/eu_precision_reduce.gif)
 
-The new "gridSize" parameter determines the size of the grid to snap to when generating new outputs. This can be used both to generate new geometries, and also to precision reduce existing geometries, just be unioning a geometry with an empty geometry.
+The new "gridSize" parameter determines the size of the grid to snap to when generating new outputs. This can be used both to generate new geometries, and also to precision reduce existing geometries, just by unioning a geometry with an empty geometry.
 
 ## Inscribed Circle
 
-As always, there are a few random algorithmic treats in each new GEOS release. For 3.9, there is the "inscribed circle", which finds the large circle that can be fit inside a polygon (or any other boundary).
+As always, there are a few random algorithmic treats in each new GEOS release. For 3.9, there is the "inscribed circle", which finds the largest circle that can be fit inside a polygon (or any other boundary).
 
 ![Vancouver Island inscribed circle]({{ site.images }}/2020/inscribed-circle.png)
 
-In addition to making a nice picture, the inscribed circle functions as a measure of the "wideness" of a polygon, so it can be used for things like analyzing river polygons to determine the widest point.
+In addition to making a nice picture, the inscribed circle functions as a measure of the "wideness" of a polygon, so it can be used for things like analyzing river polygons to determine the widest point, or placing labels.
 
