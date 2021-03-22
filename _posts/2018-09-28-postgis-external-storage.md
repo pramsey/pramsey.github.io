@@ -13,6 +13,8 @@ comments: True
 image: "2018/ne-map.jpg"
 ---
 
+**Update: As of PostGIS 3.1, this trick will mostly no longer yield large performance gains, though it still won't hurt.**
+
 My go-to performance test for PostGIS is the point-in-polygon spatial join: given a collection of polygons of variables sizes and a collection of points, count up how many points are within each polygon. It's a nice way of testing indexing, point-in-polygon calculations and general overhead.
 
 ## Setup
