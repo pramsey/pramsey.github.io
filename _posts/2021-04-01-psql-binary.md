@@ -12,7 +12,7 @@ comments: True
 image: "2021/rastergrid.png"
 ---
 
-Sometimes you just have to work with binary in your PostgreSQL database, and when you do the [`bytea`](https://www.postgresql.org/docs/current/datatype-binary.html) type is what you'll be using. There's all kinds of reason to work with `bytea`:
+Sometimes you just have to work with binary in your PostgreSQL database, and when you do the [bytea](https://www.postgresql.org/docs/current/datatype-binary.html) type is what you'll be using. There's all kinds of reason to work with `bytea`:
 
 * You're literally storing binary things in columns, like image thumbnails.
 * You're creating a binary output, like an image, a song, a protobuf, or a LIDAR file.
