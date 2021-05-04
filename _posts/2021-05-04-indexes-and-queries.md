@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Spatial Indexes and Bad Queries'
-date: '2021-04-01T00:00:00-08:00'
+date: '2021-05-04T00:00:00-08:00'
 author: Paul Ramsey
 category: technology
 tags:
