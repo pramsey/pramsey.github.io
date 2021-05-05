@@ -99,7 +99,7 @@ And for a bonus there are also a few operators that access spatial indexes.
 
 If the data are planar, then spatial searching should be relatively easy, even if the input geometry is not in the same coordinate system.
 
-First, is your data planar? Here's a quick-and-dirty query.
+First, is your data planar? Here's a quick-and-dirty query that returns true for geographic data and false for planar.
 
 ```sql
 SELECT srs.srtext ~ '^GEOGCS' 
@@ -149,14 +149,14 @@ Why? There's only one query object, and there's potentially 1000s of rows of tab
 
 ## Searching Lon/Lat Geometry
 
-This is the hard one. It is quite common for users to load geographic data into the "geometry" column type. So the database understands them as planar while their units (longitude and latitude) are in fact **angular**.
+This is the hard one. It is quite common for users to load geographic data into the "geometry" column type. So the database understands them as planar (that's what the geometry column type is for!) while their units (longitude and latitude) are in fact **angular**.
 
 There are benefits to staying in the geometry column type: 
 
 * There are far more functions native to geometry, so you can avoid a lot of casting.
 * If you are mostly working with planar queries you can get better performance from 2D functions.
 
-However, there's a huge downside: questions that expect metric answers or metric parameters won't work. [ST_Distance()](http://postgis.net/docs/ST_Distance.html) between two geometry objects with lon/lat coordinates will return an answer in... "degrees"? Not really an answer that makes any sense, as cartesian math on anglar coordinates returns **garbage**.
+However, there's a huge downside: questions that expect metric answers or metric parameters can't be answered. [ST_Distance()](http://postgis.net/docs/ST_Distance.html) between two geometry objects with lon/lat coordinates will return an answer in... "degrees"? Not really an answer that makes any sense, as cartesian math on anglar coordinates returns **garbage**.
 
 So, how to get around this conundrum? First, the system has to recognize the conundrum!
 
@@ -231,7 +231,7 @@ SELECT
     )
 ```
 
-* The **WHERE** clause converts the **entire contents of the data column** to geography and then buffers every single object in the system.
-* It then compares all those buffered objects to the query object.
+* The **WHERE** clause converts the **entire contents of the data column** to geography and then buffers **every single object** in the system.
+* It then compares **all** those buffered objects to the query object (what, no index? no).
 * Since the column objects have all been buffered... any spatial index that might have been built on the objects is unusable. The index is on the originals, not on the buffered objects.
 
