@@ -16,7 +16,7 @@ So, this happened:
 
 ![Tweet about Indexes]({{ site.images }}/2021/index-tweet.png)
 
-Basically a GeoDjango user [posted some workarounds to some poor performance](https://dizhak.com/query-objects-with-geodjango-part-2) in spatial queries, and the original query was truly awful and the workaround not a lot better, so I snarked, and the GeoDjango maintainer reacted in kind.
+Basically a [GeoDjango](https://docs.djangoproject.com/en/3.2/ref/contrib/gis/) user [posted some workarounds to some poor performance](https://dizhak.com/query-objects-with-geodjango-part-2) in spatial queries, and the original query was truly awful and the workaround not a lot better, so I snarked, and the GeoDjango maintainer reacted in kind.
 
 Sometimes a guy just wants to be a prick on the internet, you know? But still, I did raise the **red flag of snarkiness**, so it it seems right and proper to pay the fine.
 
