@@ -13,13 +13,13 @@ comments: True
 image: "2017/postgis-logo.jpg"
 ---
 
-Twenty years ago today, the [first email](https://lists.osgeo.org/pipermail/postgis-users/2001-May/000000.html) on the postgis users mailing list (at that time hosted on yahoogroups.com) was sent, announcing the first numbered release of PostGIS.
+Twenty years ago today, the [first email](https://lists.osgeo.org/pipermail/postgis-users/2001-May/000000.html) on the postgis users mailing list (at that time hosted on yahoogroups.com) was sent, announcing the first numbered release of [PostGIS](https://postgis.net).
 
 ![Refractions]({{ site.images }}/2021/rri.jpg)
 
-The early history of PostGIS was tightly bound to a consulting company I had started a few years prior, [Refractions Research (2001)](https://web.archive.org/web/20010927072731/http://www.refractions.net/). My early contracts ended up being with provincial government managers who, for their own idiosyncratic reasons, did not want to work with ESRI software, and as a result our company accrued skills and experience beyond what most "GIS companies" in the business had. 
+The early history of PostGIS was tightly bound to a consulting company I had started a few years prior, [Refractions Research](https://web.archive.org/web/20010927072731/http://www.refractions.net/). My early contracts ended up being with provincial government managers who, for their own idiosyncratic reasons, did not want to work with [ESRI](https://esri.com) software, and as a result our company accrued skills and experience beyond what most "GIS companies" in the business had. 
 
-We got good at databases, and the [FME](http://www.safe.com). We got good at Perl, and eventually Java. We were the local experts in a highly-local and now defunct data analysis tool called [Facet (2000)](https://web.archive.org/web/20000610151220/http://www.facet.com/cfm/index.cfm), which was the meat of our business for the first four years or so. 
+We got good at databases, and the [FME](http://www.safe.com). We got good at Perl, and eventually Java. We were the local experts in a locally developed (and now defunct) data analysis tool called [Facet](https://web.archive.org/web/20000610151220/http://www.facet.com/cfm/index.cfm), which was the meat of our business for the first four years or so. 
 
 ![Facet]({{ site.images }}/2021/facet.gif)
 
@@ -29,7 +29,7 @@ Putting the chopped up pieces of spatial data as blobs into PostgreSQL was what 
 
 ## Maybe We Should do Spatial Databases?
 
-Reading about spatial databases circa 2000 you would find that.
+Reading about spatial databases circa 2000 you would find that:
 
 * There was the Oracle 8i Spatial Data Option (SDO).
 * There was an [OpenGIS Simple Features for SQL](https://portal.ogc.org/files/?artifact_id=829) specification (SFSQL).
