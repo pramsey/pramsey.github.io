@@ -62,7 +62,7 @@ All the development was done on the trusty [Sun Ultra 10](https://unixhq.com/sys
 ![Ultra10]({{ site.images }}/2021/ultra10.jpg)
 
 * The first experiment, shredding the data into side tables, and then re-constituting it for display was very disappointing.  It was just too slow to be usable.
-* The second experiment, using the PostgreSQL BLOB interface to store the objects, was much faster, but still a little disappointing. And there was no obvious way to add an index to the data.
+* The second experiment, using the PostgreSQL [BLOB](https://www.postgresql.org/docs/current/largeobjects.html) interface to store the objects, was much faster, but still a little disappointing. And there was no obvious way to add an index to the data.
 
 ## Breakthrough
 
@@ -99,14 +99,14 @@ Finally, on May 31, Dave sent out the [initial release announcement](https://lis
 
 The only analytical function, "truly_inside()" just tested if a point was inside a polygon.  (For a history of how PostGIS got many of the other analytical functions it now has, see [History of JTS and GEOS](http://lin-ear-th-inking.blogspot.com/2007/06/history-of-jts-and-geos.html) on Martin Davis' blog.)
 
-Reading through those early [mailing list posts](https://lists.osgeo.org/pipermail/postgis-users/) from 2001, it's amazing how fast PostGIS integrated into the wider open source geospatial ecosystem. There are posts from Frank Warmerdam of GDAL and Daniel Morissette of MapServer within the first month of release. Developers from the Java GeoTools/GeoServer ecosystem show up early on as well. 
+Reading through those early [mailing list posts](https://lists.osgeo.org/pipermail/postgis-users/) from 2001, it's amazing how **fast** PostGIS integrated into the wider open source geospatial ecosystem. There are posts from Frank Warmerdam of [GDAL](https://gdal.org) and Daniel Morissette of [MapServer](https://mapserver.org) within the first month of release. Developers from the Java GeoTools/GeoServer ecosystem show up early on as well. 
 
 There was a huge demand for an open source spatial database, and we just happened to show up at the right time.
 
 ## Where are they Now?
 
 * Graeme, Phil, Jeff and Chris are still doing geospatial consulting at [Refractions Research](http://refractions.net/).
-* Dave maintained and improved PostGIS for the first couple years. He left Refractions for other work, but still works in open source geospatial from time to time, mostly in the world of GeoServer and other Java projects.
+* Dave maintained and improved PostGIS for the first couple years. He left Refractions for other work, but still works in open source geospatial from time to time, mostly in the world of [GeoServer](https://geoserver.org) and other Java projects.
 * I found participating in the growth of PostGIS very exciting, and much of my consulting work... less exciting. In 2008, I left Refractions and learned enough C to join the PostGIS development community as a contributor, which I've been doing ever since, currently as a [Executive Geospatial Engineer](https://www.linkedin.com/in/paul-ramsey-717134/) at [Crunchy Data](https://www.crunchydata.com/).
 
 
