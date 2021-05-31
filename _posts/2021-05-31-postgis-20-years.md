@@ -17,7 +17,7 @@ Twenty years ago today, the [first email](https://lists.osgeo.org/pipermail/post
 
 ![Refractions]({{ site.images }}/2021/rri.jpg)
 
-The early history of PostGIS was tightly bound to a consulting company I had started a few years prior, [Refractions Research](https://web.archive.org/web/20010927072731/http://www.refractions.net/). My early contracts ended up being with provincial government managers who, for their own idiosyncratic reasons, did not want to work with [ESRI](https://esri.com) software, and as a result our company accrued skills and experience beyond what most "GIS companies" in the business had. 
+The early history of PostGIS was tightly bound to a consulting company I had started a few years prior, [Refractions Research](https://web.archive.org/web/20010927072731/http://www.refractions.net/). My early contracts ended up being with British Columbia (BC) provincial government managers who, for their own idiosyncratic reasons, did not want to work with [ESRI](https://esri.com) software, and as a result our company accrued skills and experience beyond what most "GIS companies" in the business had. 
 
 We got good at databases, and the [FME](http://www.safe.com). We got good at Perl, and eventually Java. We were the local experts in a locally developed (and now defunct) data analysis tool called [Facet](https://web.archive.org/web/20000610151220/http://www.facet.com/cfm/index.cfm), which was the meat of our business for the first four years or so. 
 
