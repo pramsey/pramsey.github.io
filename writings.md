@@ -3,7 +3,7 @@ layout: page
 title: 'Talks & Writing'
 ---
 
-Most of my writings start out (and remain) as long-form blog posts, but in blog format then kind of disappear into the mists of history, so this page is to call them out with direct links.
+Most of my writings start out (and remain) as long-form blog posts, but in blog format they kind of disappear into the mists of history, so this page is to call them out with direct links.
 
 * Keynotes at [FOSS4G](https://foss4g.org)
   * [San Diego, 2019](/2019/05/foss4g-keynote-2019.html)
