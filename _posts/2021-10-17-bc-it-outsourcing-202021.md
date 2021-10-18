@@ -22,7 +22,7 @@ Historically there have been growth pauses every 5 years or so, but the last two
 
 The loss of a book of Ministry of Health business (twice), then the loss of the desktop support contract, seem to tell the tale of IBM's decline as an outsourcing juggernaut.
 
-Maximum remains curiously resiliant, even as the MSP program phases out. 
+Maximus remains curiously resiliant, even as the MSP program phases out. 
 
 And the big shark, the back-office systems contract, which has migrated through a series of corporate names, from EDS (does anyone remember [Ross Perot](https://en.wikipedia.org/wiki/Ross_Perot#Business)?) to HP Advanced Solutions to ESIT Advanced Solutions is now just ... "Advanced Solutions, a DXC Technology Company".
 
