@@ -38,6 +38,8 @@ What might the future hold? I have no idea, but unless and until the major backe
 
 <img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbGJNWpGKWjScLakqx28-1zTJzRCYUHYGloQMQYfnpVJAkm3FrIwRf-oE6WtKp-ReHujlHlu17JIwH/pubchart?oid=1584440940&amp;format=image" width="100%" />
 
+**Coda**: It's waaaay to early to make any serious statements, but one thing I did notice eyeballing the vendors chart is that while most vendors have been treading water since the NDP took government in 2017, one "vendor" that has notched up 50% growth is my aggregate "local vendors" vendor, which I batch all the smaller companies into so they show up on the chart. 
 
+Since one of the NDP platform promises in 2017 was a preference to local companies, this could be sign of progress. Or it could be random! But local companies have gone from about $50M/yr to $75M/yr since 2017, that's not nothing. Something to keep an eye on for next year.
 
 
