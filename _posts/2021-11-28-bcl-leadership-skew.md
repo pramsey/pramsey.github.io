@@ -18,7 +18,7 @@ A couple weeks ago, former BC Liberal MLA and current radio host [Jas Johal](htt
 
 ![Not so diverse]({{ site.images }}/2021/johal1.jpg)
 
-Among other things, he pointed out the distinctive rule the 2018 contest was run under, which granted 100 points for each riding in the province and distributed those points based on the votes within each riding. 
+Among other things, he pointed out the distinctive rule the 2018 BC Liberal leadership contest was run under, which granted 100 points for each riding in the province and distributed those points based on the votes within each riding. 
 
 > Even your 100 points per riding for leadership, is to reduce the impact of South Asian signups.
 
