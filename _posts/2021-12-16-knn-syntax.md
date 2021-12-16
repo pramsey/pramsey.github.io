@@ -15,7 +15,7 @@ image: "2021/rastergrid.png"
 It turns out that it is possible to get an indexed n-nearest-neighbor (KNN) search out of PostGIS along with a distance using only **one distance calculation and one target literal**.
 
 ```sql
-SELECT id, {{point}} <-> geom AS distance
+SELECT id, $point <-> geom AS distance
 FROM geoms
 ORDER BY 2
 LIMIT 1
@@ -28,9 +28,9 @@ See that?!? Using the column-number syntax for `ORDER BY`, the `<->` operator pu
 I never considered this possibility until seeing it in this tweet. Before I would have been doing this:
 
 ```sql
-SELECT id, ST_Distance({{point}}, geom) AS distance
+SELECT id, ST_Distance($point, geom) AS distance
 FROM geoms
-ORDER BY {{point}} <-> geom
+ORDER BY $point <-> geom
 LIMIT 1
 ``` 
 
