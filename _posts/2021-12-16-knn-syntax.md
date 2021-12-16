@@ -9,7 +9,7 @@ tags:
 - postgresql
 - knn
 comments: True
-image: "2021/rastergrid.png"
+image: "2021/knn.jpg"
 ---
 
 It turns out that it is possible to get an indexed n-nearest-neighbor (KNN) search out of PostGIS along with a distance using only **one distance calculation and one target literal**.
