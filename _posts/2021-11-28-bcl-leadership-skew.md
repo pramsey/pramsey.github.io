@@ -29,7 +29,7 @@ For those of you joining from outside BC: the South Asian community in BC has an
 
 Johal's rant made me wonder though: sure, the (often unspoken) conventional wisdom was that the point system devalued South Asian votes, but in the final analysis, did it?
 
-Incredibly, the riding-by-riding vote results for the 2018 BC Liberal leadership contest are [all available in Wikipedia](https://en.wikipedia.org/wiki/2018_British_Columbia_Liberal_Party_leadership_election#Riding_results), so it is **possible** do so a loose analysis.
+Incredibly, the riding-by-riding vote results for the 2018 BC Liberal leadership contest are [all available in Wikipedia](https://en.wikipedia.org/wiki/2018_British_Columbia_Liberal_Party_leadership_election#Riding_results), so it is **possible** to do a loose analysis.
 
 We cannot know exactly what the visible minority make-up of the BC Liberal membership was in 2018, but we can approximate it by using the [2016 Census](https://catalogue.data.gov.bc.ca/dataset/2016-census-semi-custom-profile-electoral-districts-of-british-columbia) profiles for the ridings.
 
@@ -47,6 +47,6 @@ And here's the **scaled** BC Liberal membership distribution, where each riding 
 
 ![Scaled membership visible minorities]({{ site.images }}/2021/johal4.jpg)
 
-So, yeah, Johal wasn't just making this up, the 100-point system is not only anti-democratic in conception ("one vote per riding" instead of "one vote per person"), the system disadvantaged the South Asian community **in particular**. 
+So, yeah, Johal wasn't just making this up, the 100-point system is not only anti-democratic in conception ("one vote per riding" instead of "one vote per person"), the system disadvantages the South Asian community **in particular**. 
 
 Having done this lightweight analysis, it is super tempting to try and figure out the counter-factual--who would have won the 2018 leadership under a one-member-one-vote rule--but unfortunately that's not possible with the data available. 
