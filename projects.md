@@ -21,19 +21,23 @@ I am a project steering committee member or [BDFL](https://en.wikipedia.org/wiki
 
 * This PostgreSQL extension allows direct access to HTTP web services using a simple SQL functional interface. Just call `http_get()` or `http_post()` in your SQL query, and data can be pushed and pulled from web services.
 
-## Other Projects
+## [GEOS](https://libgeos.org)
+
+* The GEOS project is the computational geometry engine for multiple pieces of software, including PostGIS, QGIS, GDAL, MapServer and others. I arranged the financial backing that brought the GEOS port of JTS into existence in 2003. I have been an active community member since.
+
+# Other Projects
 
 I am also a committer on a number of other geospatial open source projects.
 
-### [MapServer](http://mapserver.org)
+## [MapServer](http://mapserver.org)
 
 * Over the years, I have worked on the PostGIS drivers and on the GDAL format driver for MapServer, as well as specialty projects like supporting XMP metadata embedding.
 
-### [GDAL](http://gdal.org)
+## [GDAL](http://gdal.org)
 
 * I have contributed substantial work on the [GeoPackage driver](http://www.gdal.org/drv_geopackage.html) and [ESRI-backed FGDB driver](http://www.gdal.org/drv_filegdb.html) to GDAL. 
 
-### [GEOS](http://trac.osgeo.org/geos)
+## [PostgreSQL](https://postgresql.org)
 
-* I arranged the financial backing that brought the GEOS port of JTS into existence in 2003. I have provided minor patches and general guidance to the project as a community member since then.
+* I have contributed some small patches to the project (notably FDW support for extension operator pushdown, and TOAST performance tweaks) and try to stay up-to-date on the project and community.
 
