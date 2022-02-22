@@ -54,7 +54,7 @@ I deliver keynote presentations to different conferences, usually geospatial one
 * [PostGIS Gotchas](https://www.youtube.com/watch?v=GSuZP89UdGs) [40m] For the database-oriented, there are some surprises in store as you get started with PostGIS and geospatial data. Learn more here!
 * [Where do we go from here? A future of open source geospatial](https://vimeo.com/142334723) [20m] A keynote for the Free and Open Source for Geospatial ([FOSS4G 2015](http://2015.foss4g.org)) Conference 2015, about the next few years of IT evolution and what it could mean for the open source ecosystem and economy.
 * [Do your Learnings](https://www.youtube.com/watch?v=9cSqKpfu4D4&index=49&list=PLFxZDg3GNCgv_GWHdM2IETx9arLL2wEXK) [25m] A keynote for the [FME Users Conference 2014](http://www.safe.com/fmeuc-2014/), about making sure you have more than one tool in your toolbox.
-* [Being an open souce citizen](http://vimeo.com/76365035) [20m] A keynote for [FOSS4G 2013](http://2013.foss4g.org), about participating in the open knowledge ecology.
+* [Being an open souce citizen](/2013/10/being-open-source-citizen.html) [20m] A keynote for [FOSS4G 2013](http://2013.foss4g.org), about participating in the open knowledge ecology.
 * [Magical PostGIS in Three Brief Movements](https://www.youtube.com/watch?v=Y0SBkjcyXOc) [35m] Explore advanced features of PostgreSQL and PostGIS, working magic together.
 * [PostGIS Feature Frenzy](http://vimeo.com/90722286) [25m] A quick tour of the current features of the PostGIS spatial database.
 * [Open Source and the Spatial Web](http://vimeo.com/92522557) [20m] What is open source, and how is it transforming mapping on the web?
