@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '2022 Senate Mortality'
-date: '2022-01-01T00:00:00-08:00'
+date: '2022-02-01T00:00:00-08:00'
 author: Paul Ramsey
 category: politics
 tags:
