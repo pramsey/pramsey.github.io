@@ -7,7 +7,7 @@ category: technology
 tags:
 - postgis
 comments: True
-image: "2022/shp1.png"
+image: "2022/elemap.jpg"
 ---
 
 The question of "who uses PostGIS" or "how big is PostGIS" or "how real is PostGIS" is one that we have been wrestling with literally since the first public release back in 2001.
