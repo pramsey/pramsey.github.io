@@ -12,7 +12,7 @@ image: "2022/shp1.png"
 
 The question of "who uses PostGIS" or "how big is PostGIS" or "how real is PostGIS" is one that we have been wrestling with literally since the first public release back in 2001.
 
-<a href="https://twitter.com/hareldan/status/1536269406505996288?s=21"><img src="{{ site.images }}/2022/postgis_tweet.png" style="border: 2px solid gray" /></a>
+<a href="https://twitter.com/hareldan/status/1536269406505996288?s=21"><img src="{{ site.images }}/2022/postgis_tweet.png" style="border: 1px solid gray" /></a>
 
 There is no doubt that institutional acceptance is the currency of ... more institutional acceptance. 
 
