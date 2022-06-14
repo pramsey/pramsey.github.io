@@ -64,7 +64,7 @@ Google is not that big on promoting any technology they haven't built in house, 
 
 ![Google]({{ site.images }}/2022/google.jpg)
 
-The biggest validation Google ever gave PostGIS was in a [press release](https://cloud.google.com/blog/products/gcp/bridging-the-gap-between-data-and-insights) that recognized that the set of "users of do spatial SQL" was basically the same as the set of "PostGIS users".
+The biggest validation Google ever gave PostGIS was in a [press release](https://cloud.google.com/blog/products/gcp/bridging-the-gap-between-data-and-insights) that recognized that the set of "users of spatial SQL" was basically the same as the set of "PostGIS users".
 
 > Our new functions and data types follow the SQL/MM Spatial standard and will be familiar to PostGIS users and anyone already doing geospatial analysis in SQL. This makes workload migrations to BigQuery easier. We also support WKT and GeoJSON, so getting data in and out to your other GIS tools will be easy.
 
