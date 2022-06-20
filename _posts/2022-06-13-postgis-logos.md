@@ -22,7 +22,7 @@ So naturally, we would love to have a page of logos of our major users, but unfo
 
 As an open source project PostGIS has a very tenuous grasp at best on who the institutional users are, and things have actually gotten worse over time.
 
-Originally, we were a source-only project and the source was hosted on one web server we controlled, so we could literally read the logs and see institutional users.  At the time mailling lists were the only source of project communication, so we could look at the list participants, and get a feel from that.
+Originally, we were a source-only project and the source was hosted on one web server we controlled, so we could literally read the logs and see institutional users.  At the time mailing lists were the only source of project communication, so we could look at the list participants, and get a feel from that.
 
 All that's gone now. Most users get their PostGIS pre-installed by their cloud provider, or pre-built from a package repository. 
 
@@ -31,7 +31,7 @@ So what do we know?
 
 ## IGN
 
-In the early days, I collected use cases from users I identified on the mailing list. My favourite was our earliest major institutional adopter, the [Institut Geographique National](https://ign.fr/), the national mapping agency of France. 
+In the early days, I collected use cases from users I identified on the mailing list. My favourite was our first major institutional adopter, the [Institut G&eacute;ographique National](https://ign.fr/), the national mapping agency of France. 
 
 ![IGN]({{ site.images }}/2022/ign.png)
 
