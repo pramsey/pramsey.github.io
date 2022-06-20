@@ -5,11 +5,11 @@ date: '2022-06-13T00:00:00-08:00'
 author: Paul Ramsey
 category: technology
 tags:
-- postgis
+  - postgis
 comments: True
 image: "2022/elemap.jpg"
 redirect_from:
-- /2022/04/postgis-logos.html
+  - /2022/04/postgis-logos.html
 
 ---
 
