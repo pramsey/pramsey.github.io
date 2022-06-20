@@ -10,7 +10,7 @@ comments: True
 image: "2022/elemap.jpg"
 ---
 
-Two weeks ago, I wrote that [getting large organizations to cop to using PostGIS](/2022/04/postgis-logos.html) was a hard lift, despite that fact that, anecdotally, I know that there is massive use of PostGIS in every sector, at every scale of institution.
+Last week, I wrote that [getting large organizations to cop to using PostGIS](/2022/04/postgis-logos.html) was a hard lift, despite that fact that, anecdotally, I know that there is massive use of PostGIS in every sector, at every scale of institution.
 
 ## Simple Clues
 
