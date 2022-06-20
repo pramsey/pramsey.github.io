@@ -9,7 +9,7 @@ tags:
 comments: True
 image: "2022/elemap.jpg"
 redirect_from:
-- /2022/06/postgis-logos.html
+- /2022/04/postgis-logos.html
 
 ---
 
