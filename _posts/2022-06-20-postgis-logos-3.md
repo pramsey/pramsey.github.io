@@ -50,6 +50,10 @@ mapserver.  The support community is fantastic!
 
 > <img src="{{ site.images }}/2022/sdfi.jpg" style="float:right;padding-left:10px;" />The [Danish Agency for Data Supply and Infrastructure](https://eng.sdfe.dk) uses PostGIS extensively - and have  been using it for the last 10 years - we would not have had the success we have was it not for @PostGIS.
 
+https://gis.utah.gov/about/media/ugrc-logo-UGRC-dark.png
+
+<img src="{{ site.images }}/2022/ugrc.png" style="float:right;padding-left:10px;" />The [Utah Geospatial Resource Center](https://gis.utah.gov/about/) uses PostGIS to provide access to multiple spatial layers for **direct access** in a cloud-hosted PostGIS database called the "[Open SGID](https://gis.utah.gov/sgid/open-sgid/)". (I can hear DBA heads exploding around the world.) 
+
 
 ## Counterpoint
 
