@@ -5,7 +5,7 @@ title: About
 
 Once apon a time, I was a young man with a fresh degree, and I really liked computers and computing. To play with computers as a job, I started an [IT consulting company](http://www.refractions.net), almost by accident. 
 
-The company was pretty successful and I learned a lot about how the business world works and how technology services are delivered to government. As a sideline and enhancement to our consulting work, we [created some successful open source projects](/2005/10/open-source-company-oxymoron.html) (like [PostGIS](http://postgis.net)) and [helped](http://trac.osgeo.org/geos) [with](http://mapserver.org) [others](http://geoserver.org).
+The company was pretty successful and I learned a lot about how the business world works and how technology services are delivered to government. As a sideline and enhancement to our consulting work, we [created some successful open source projects](/2005/10/open-source-company-oxymoron.html) (like [PostGIS](http://postgis.net)) and [helped](https://libgeos.org) [with](http://mapserver.org) [others](http://geoserver.org).
 
 The company grew quite large (over 25 staff) and eventually I realized I was spending much of my time on things I found draining (proposals, meetings, organization) and little of it on things I found energizing (technology, computers), so I [left the company](/2008/02/whither-canada.html) to work independently.
 
