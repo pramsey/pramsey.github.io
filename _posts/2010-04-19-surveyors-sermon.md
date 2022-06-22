@@ -12,5 +12,4 @@ comments: True
 
 Last month I had an opportunity to give a 5-minute "[Ignite](http://ignite.oreilly.com/)" talk at [Where 2.0](http://en.oreilly.com/where2010) in San Jose. I chose my topic because I fear one of the things missing in the technologist enthusiasm for geolocation, particularly in the population of technically astute but non-geo people, is a respect for how locations are actually derived, and knowledge of the provenance of the data that undergirds our new mapping tools.
 
-<object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/IX8iQN04tOo&hl=en_US&fs=1&rel=0&color1=0x2b405b&color2=0x6b8ab6"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/IX8iQN04tOo&hl=en_US&fs=1&rel=0&color1=0x2b405b&color2=0x6b8ab6" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IX8iQN04tOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
