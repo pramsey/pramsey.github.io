@@ -10,7 +10,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2008/12/supportosaurus.html
 comments: True
 ---
 
-This link to a 9m Clay Skirky talk showed up in the comments of my [last post](/2008/12/jack-in-box.html) from the always-connected Allan Doyle.
+This link to a 9m Clay Shirky talk showed up in the comments of my [last post](/2008/12/jack-in-box.html) from the always-connected Allan Doyle.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xe1TZaElTAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
