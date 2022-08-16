@@ -175,3 +175,5 @@ All the fancy stuff from above about tiling and overviews and YCBCR photometric 
 
 And the output is still very efficiently compressed!
 
+The COG file has all the same features as the basic GeoTIFF (efficient JPEG, tiling, overviews) and it has some extra metadata to make it easier and faster for native COG clients to read data from it, so there's no reason not to **always use the COG option**, if your version of GDAL supports it.
+
