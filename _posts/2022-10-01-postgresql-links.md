@@ -14,6 +14,8 @@ image: "2022/machine.jpg"
 
 I had coffee with an IT colleague here in Victoria last week, and he was interested in getting into core PostgreSQL programming. "What resources would you recommend I look at?"
 
+![moka house]({{ site.images }}/2022/moka.jpg)
+
 That's... a hard question!
 
 PostgreSQL is a **huge** code base with a **multi-decade** history. I've been poking around the edges for almost 10 years and feel comfortable with the extension APIs, foreign data wrappers, access methods APIs, some system catalogue stuff... maybe 5% of the surface area of the beast?
