@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PostgreSQL Internals Resources'
+title: 'Learning PostgreSQL Internals'
 date: '2022-10-01T00:00:00-08:00'
 author: Paul Ramsey
 category: technology
