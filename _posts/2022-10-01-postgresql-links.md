@@ -7,6 +7,7 @@ category: technology
 tags:
 - postgres
 - hacking
+- postgis
 comments: True
 image: "2022/machine.jpg"
 ---
