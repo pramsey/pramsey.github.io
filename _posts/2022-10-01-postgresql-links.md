@@ -8,7 +8,7 @@ tags:
 - postgres
 - hacking
 comments: True
-image: "2022/elemap.jpg"
+image: "2022/machine.jpg"
 ---
 
 I had coffee with an IT colleague here in Victoria last week, and he was interested in getting into core PostgreSQL programming. "What resources would you recommend I look at?"
