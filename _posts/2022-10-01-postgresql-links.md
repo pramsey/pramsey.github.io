@@ -70,3 +70,10 @@ Learning the PostgreSQL code base is a journey of a million steps, that's for su
 
 Best of luck in your PostgreSQL journeys!
 
+## Additional Notes
+
+Because of course I left out some stuff in the first draft:
+
+* Once you are at the level of perusing source code, you should also be reading the contents of the [pgsql-hackers](https://www.postgresql.org/list/pgsql-hackers/) mailing list, and the current [commitfest](https://commitfest.postgresql.org/) patches. This will help you understand the culture of contribution, and also get a feel for where work is ongoing.
+* One gateway to contribution is **patch review**. Starting with basic things like "does it compile against main" and "does it do what the author says". Read the other reviews, see what other reviewers look for, wash rinse repeat. I still think that having your own small patches put through the process is invaluable learning. Doing some review of other people's patches is a way of "paying it forward" for reviews your own patches receive.
+* The amazing Oleg Bartunov wrote in to tell me there is now a **second** book on PostgreSQL internals, "[PostgreSQL 14 Internals. A deep dive into the server mechanics](https://postgrespro.com/community/books/internals)". Currently in Russian, but an English transition is going on right now.
