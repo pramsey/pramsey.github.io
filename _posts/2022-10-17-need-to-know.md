@@ -46,7 +46,9 @@ Of course PostGIS is a **PostgreSQL** extension, so to even understand what we'r
 
 Inevitably you will make a mistake, so you'll need to understand a **debugger**, probably gdb or lldb, which are glorious command-line tools with their own terse commandline syntax.
 
-Ooops! Forgot the **UNIX commandline**! That's table stakes, really, but there you go.
+Ooops! Forgot the **UNIX commandline**! That's table stakes, really, but there you go. 
+
+Also forgot **git**, which is one of the few tools that is common across most branches of practical modern IT.
 
 The documentation is all in **DocBook XML**, but you can probably figure that out by inspection.
 
