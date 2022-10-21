@@ -21,6 +21,7 @@ author:
   twitter:        'http://twitter.com/pwramsey'
   github:         'http://github.com/pramsey'
   linkedin:       'http://linkedin.com/in/paul-ramsey-717134'
+  mastodon:       'https://mastodon.social/@pwramsey'
 
 plugins: [jekyll-paginate]
 
