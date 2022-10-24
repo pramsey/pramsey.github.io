@@ -26,7 +26,7 @@ On the other hand, for the first time in 10 years, the amount of money taken in 
 
 <img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbGJNWpGKWjScLakqx28-1zTJzRCYUHYGloQMQYfnpVJAkm3FrIwRf-oE6WtKp-ReHujlHlu17JIwH/pubchart?oid=1584440940&format=image" width="100%" />
 
-Not only has has ESIT revenue gone into free-fall, the beneficiaries appear to be... Maximum and Deloitte? So not so much a **reduction** in outsourcing to international consultancies, as a reallocation.
+Not only has has ESIT revenue gone into free-fall, the beneficiaries appear to be... Maximus and Deloitte? So not so much a **reduction** in outsourcing to international consultancies, as a reallocation.
 
 <img src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRbGJNWpGKWjScLakqx28-1zTJzRCYUHYGloQMQYfnpVJAkm3FrIwRf-oE6WtKp-ReHujlHlu17JIwH/pubchart?oid=2086826175&format=image" width="100%" />
 
