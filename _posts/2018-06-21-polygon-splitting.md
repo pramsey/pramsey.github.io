@@ -58,7 +58,7 @@ Now, cluster the point field, setting the number of clusters to the number of pi
 
 {% highlight sql %}
 CREATE TABLE peru_pts_clustered AS
-  SELECT geom, ST_ClusterKMmeans(geom, 10) over () AS cluster
+  SELECT geom, ST_ClusterKMeans(geom, 10) over () AS cluster
   FROM peru_pts;
 {% endhighlight %}
 
