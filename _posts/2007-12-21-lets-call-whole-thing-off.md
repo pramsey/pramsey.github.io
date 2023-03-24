@@ -12,7 +12,7 @@ comments: True
 
 You say "potato", I say "potato"; you say "long/lat", I say "lat/long". Long/lat, lat/long, lat/long, long/lat, let's call the whole thing off!
 
-[This thread](http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=2431933&SiteID=1) at the MSDN forums is an interesting read, if you are a complete loser. (Disclosure: I **am** a complete loser.)
+[This thread](https://web.archive.org/web/20080303134017/http://forums.microsoft.com/MSDN/ShowPost.aspx?PostID=2431933&SiteID=1) at the MSDN forums is an interesting read, if you are a complete loser. (Disclosure: I **am** a complete loser.)
 
 <img src="http://farm3.static.flickr.com/2259/2126731271_80b7eaf00d.jpg?v=0" align="right" alt="Y/X World" />
 
