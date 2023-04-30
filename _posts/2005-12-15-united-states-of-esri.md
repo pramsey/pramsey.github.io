@@ -10,7 +10,7 @@ blogger_orig_url: http://blog.cleverelephant.ca/2005/12/united-states-of-esri.ht
 comments: True
 ---
 
-James Fee's [latest posting](http://www.spatiallyadjusted.com/2005/12/14/yea-im-looking-at-mapserver-enterprise/) about his experiences with [ESRI](http://www.esri.com/) technical support has unleashed a torrent of responses, most of which agree that the ESRI developer experience has gone downhill over the last few years, but some of which are downright surreal in their defence of the GIS giant:
+James Fee's [latest posting](https://web.archive.org/web/20051218160140/https://spatiallyadjusted.com/2005/12/14/yea-im-looking-at-mapserver-enterprise/) about his experiences with [ESRI](http://www.esri.com/) technical support has unleashed a torrent of responses, most of which agree that the ESRI developer experience has gone downhill over the last few years, but some of which are downright surreal in their defence of the GIS giant:
 
 > ESRI should pull your blog off of the EDN page. If you don’t like ESRI then leave, don’t come to the Developer Summit and stop posting about ESRI. <br />
 > -- Kristina Howard
