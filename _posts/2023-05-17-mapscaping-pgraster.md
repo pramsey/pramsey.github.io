@@ -5,7 +5,8 @@ date: '2023-05-17'
 author: Paul Ramsey
 category: technology
 tags:
-- ai
+- postgis
+- raster
 comments: True
 image: "2023/library.jpg"
 ---
