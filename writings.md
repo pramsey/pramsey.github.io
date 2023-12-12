@@ -6,6 +6,7 @@ title: 'Talks & Writing'
 Most of my writings start out (and remain) as long-form blog posts, but in blog format they kind of disappear into the mists of history, so this page is to call them out with direct links.
 
 * Keynotes at [FOSS4G](https://foss4g.org)
+  * [Baltimore, 2023](/2023/12/foss4g-keynote-2023.html)
   * [San Diego, 2019](/2019/05/foss4g-keynote-2019.html)
   * [Boston, 2017](/2017/08/foss4g-keynote.html)
   * [Seoul, 2015](/2015/10/keynote-at-foss4g-2015.html)
