@@ -34,11 +34,11 @@ Another predictable (but not dull) application of ubiquitous geolocation is spat
 
 Jeff Holden started with his talk on "[Footstreams](http://where.blip.tv/file/2150809/)". Jeff did a great job of providing a terminology and explanation of the power of analyzing and clustering individual spatial tracks. His conceptual parallel of "foot streams" to "click streams", the temporal tracks of information we leave behind while browsing the web, is very powerful. Unfortunately, his service has access to a relatively small amount of voluntary data, so the analyses weren't very convincing to me.
 
-<embed src="http://blip.tv/play/AYGD9zOE+V0" type="application/x-shockwave-flash" width="530" height="323" allowscriptaccess="always" allowfullscreen="true"></embed> 
+http://blip.tv/play/AYGD9zOE+V0
 
 Greg Skibiski, from Sense Networks [provided the data meat](http://where.blip.tv/file/2151524/) for Jeff's conceptual sandwich.  Sense Networks has access to heaping piles of data that telephony providers get from their subscribers (involuntarily). The telcos provide anonymized data to Sense Networks, who analyze it to provide a segmentation of the market based on spatial patterns.  Greg's talk left me with a massive case of data envy &ndash; my inner statistician wants a terabyte of location data for Christmas.
 
-<embed src="http://blip.tv/play/AYGD_QCE+V0" type="application/x-shockwave-flash" width="530" height="323" allowscriptaccess="always" allowfullscreen="true"></embed> 
+http://blip.tv/play/AYGD_QCE+V0
 
 Finally, Ted Morgan from Skyhook dropped an interesting nugget in the midst of [his talk](http://en.oreilly.com/where2009/public/schedule/detail/9203) about consumer geolocation use patterns. He showed a graph of the number of location apps calling Skyhook over time.  Basically, the use of geolocation has hopped onto a steep geometric growth curve over the last 12 months, since the introduction of the App Store. Location apps are now mainstream and the long-awaited LBS tsunami has begun. More devices (Android and Android store, Nokia and their store) are just going to further accelerate this, but's not the future anymore, it's the now.
 

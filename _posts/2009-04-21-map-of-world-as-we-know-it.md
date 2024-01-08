@@ -12,7 +12,7 @@ comments: True
 
 Somehow, I missed this video in the geoblog meme-stream, so for all the rest of you who also missed it:
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/f1iPe0LtCew&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/f1iPe0LtCew&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+http://www.youtube.com/v/f1iPe0LtCew&hl=en&fs=1
 
 And since I'm posting YouTube links, you must watch this unlikely Scottish talent show contestant [blow the audience and judges away](http://www.youtube.com/watch?v=luRmM1J1sfg) (figuratively).
 
