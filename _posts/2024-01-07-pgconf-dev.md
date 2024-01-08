@@ -6,7 +6,9 @@ author: Paul Ramsey
 category: technology
 tags:
 - postgres
+- pgsql
 - pgcon
+- postgis
 - pgconf
 - conference
 comments: True
