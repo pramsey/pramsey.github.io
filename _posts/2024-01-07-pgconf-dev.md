@@ -20,7 +20,7 @@ This year, the global gathering of PostgreSQL developers has a new name, and a n
 Some important points right up front:
 
 * The [call for papers](https://2024.pgconf.dev/cfp/) is closing in one week! If you are planning to submit, now is the time! 
-* The hotel scene if Vancouver is competitive, so if you put off booking accomodations… don't do that! Book a [room](https://2024.pgconf.dev/venue/) right away.
+* The hotel scene in Vancouver is **competitive**, so if you put off booking accomodations… don't do that! Book a [room](https://2024.pgconf.dev/venue/) right away.
 * The venue capacity is **200**. That's it, so once we have 200 registrants, we are full for this year. [Register now](https://2024.pgconf.dev/registration/).
 * There are also limited [sponsorship](https://2024.pgconf.dev/sponsor-levels/) slots. Is PostgreSQL important to your business? Sponsor!
 
