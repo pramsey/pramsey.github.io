@@ -6,7 +6,7 @@ clean:
 check:
 	rm -f _site/index.html
 	rm -f _site/archive.html
-	jekyll serve --incremental --future
+	gojekyll serve --incremental --future
 
 test: check
 
