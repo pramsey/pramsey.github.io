@@ -15,6 +15,8 @@ comments: True
 image: "2024/vancouver2.jpg"
 ---
 
+**Update: The programme is now [public](https://www.pgevents.ca/events/pgconfdev2024/sessions/).**
+
 The programme for [pgconf.dev](https://pgconf.dev) in Vancouver (May 28-31) has been selected, the speakers have been notified, and the whole thing should be posted on the web site relatively soon.
 
 ![Vancouver, Canada]({{ site.images }}/2024/vancouver2.jpg)
