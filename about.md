@@ -22,6 +22,6 @@ I am always looking for interesting and challenging new projects, please get in 
 * E-Mail: [{{ site.author.email }}](mailto:{{ site.author.email }})
 * Phone: [{{ site.author.telephone }}](tel:{{ site.author.telephone }})
 * [LinkedIn]({{ site.author.linkedin }})
-* [Twitter]({{ site.author.twitter }})
+* [BlueSky]({{ site.author.bluesky }})
 * [Mastodon]({{ site.author.mastodon }})
 * [GitHub]({{ site.author.github }})
