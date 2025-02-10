@@ -43,6 +43,14 @@ Most of my writings start out (and remain) as long-form blog posts, but in blog 
 
 I deliver keynote presentations to different conferences, usually geospatial ones, once or twice a year, and the odds of getting a good recording have been going up lately. Here are some of my favourites.
 
+* [What We Owe One Another](https://www.youtube.com/watch?v=1OfunxBysmg&t=190s) [55m] A [FOSS4G North America 2023](https://www.osgeo.org/events/foss4g-na-2023/) keynote on open source economics, and some ways we could look at changing the funding environment.
+* PostGIS Day has been an annual venue for random PostGIS talks.
+  * [2024 - The Early History of Spatial Databases and PostGIS](https://www.youtube.com/watch?v=aHB9labpBmk)
+  * [2023 - PostGIS Performance Tips](https://www.youtube.com/watch?v=GRbbn2voDyo)
+  * [2022 - Web Sockets and Real-Time Updates for Postgres with pg_eventserv](https://www.youtube.com/watch?v=Z_nOzHmpY8M)
+  * [2021 - How Did PostGIS Get Fast(er)?](https://www.youtube.com/watch?v=XRq2_9YBziY)
+  * [2020 - Lightweight PostGIS Web Services Using pg tileserv and pg featureserv](https://www.youtube.com/watch?v=TXPtocZWr78)
+  * [2019 - Geocoding and Text Search in PostGIS](https://www.youtube.com/watch?v=7RumQ9oXA9Q)
 * [The Middle Passage](https://www.youtube.com/watch?v=NQ5_NnrBHjo) [30m] [[Slides](https://docs.google.com/presentation/d/1-PAgIk9--nedCdfMGEwhcnqxqy1fGYUXwWhxzMfqJZg/edit)] A [FOSS4G North America 2019](http://2019.foss4g-na.org) keynote on open source economics, and the current state of value capture by cloud providers.
 * [Let's Get Small](https://docs.google.com/presentation/d/1qKE9Bq_4nj7S6Ts25B9A9cgoA7a8O1behJF_oUVQrDI/edit) On the subject of government IT management, changing from a large capital project orientation to a small operational product orientation.
 * [PostGIS, SQL & You](https://www.youtube.com/watch?v=v9MA9KaNzoM) A presentation at GeoDC on the purpose of spatial SQL and some of the things PostGIS does.
