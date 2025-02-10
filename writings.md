@@ -68,7 +68,7 @@ I deliver keynote presentations to different conferences, usually geospatial one
 * [Being an open souce citizen](/2013/10/being-open-source-citizen.html) [20m] A keynote for [FOSS4G 2013](http://2013.foss4g.org), about participating in the open knowledge ecology.
 * [Magical PostGIS in Three Brief Movements](https://www.youtube.com/watch?v=Y0SBkjcyXOc) [35m] Explore advanced features of PostgreSQL and PostGIS, working magic together.
 * [PostGIS Feature Frenzy](http://vimeo.com/90722286) [25m] A quick tour of the current features of the PostGIS spatial database.
-* [Open Source and the Spatial Web](http://vimeo.com/92522557) [20m] What is open source, and how is it transforming mapping on the web?
+* [Open Source and the Spatial Web](https://youtu.be/01yrhqCro7I?si=WlGCtbXKyb7llxmK) [20m] What is open source, and how is it transforming mapping on the web?
 * [Cheap, Open and Innovative](http://s3.cleverelephant.ca/2014_nab_govmil.mp4) [20m] How the cost of parts drives innovation. Parts can be hardware, then can be software, then can be data, and when you have all three things cheap, new and surprising uses are discovered.
 * [Web Services &amp; Spatial SQL](https://www.youtube.com/watch?v=PwVRi37qXn8) [15m] Don't let the title scare you away, this is a mostly non-technical talk about what it means to "do GIS" in a modern, webby, world.
 * [The State of PostGIS](https://www.youtube.com/watch?v=TbE3LJIU2aM) [25m] The most recent iteration of my annual review of the current features and past history of [PostGIS](http://postgis.net).

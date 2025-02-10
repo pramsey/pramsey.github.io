@@ -18,4 +18,4 @@ comments: True
 
 Just to balance out the politics, here's a nice intro talk I did for GIS folks at URISA earlier this spring. What's open source, how does it work on the web, who is using it? In 20 easy minutes.
 
-<iframe src="//player.vimeo.com/video/92522557" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/01yrhqCro7I?si=TKDGBk4zygIYLkCj&t=45s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
