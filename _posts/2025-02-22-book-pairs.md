@@ -28,7 +28,7 @@ As... that kind of person, I was truly tickled to pick up Wicked a couple years 
 
 <img src="{{ site.images }}/2025/longbourn.jpg" style="float:left; padding-right:1em;" /><img src="{{ site.images }}/2025/pride-and-prejudice.jpg" style="float:right; padding-left:1em;"  />
 
-I came across "Longbourne" as a book recommendation from the hosts of the [Strict Scrutiny Podcast](https://crooked.com/podcast-series/strict-scrutiny/) (a podcast that current events renders more relevant every day). Like Wicked, Longbourne picks in the same world as the source, but manages to tell an entirely unique story that pays tribute to the original. 
+I came across "Longbourne" as a book recommendation from the hosts of the [Strict Scrutiny Podcast](https://crooked.com/podcast-series/strict-scrutiny/) (a podcast that current events renders more relevant every day). Like "Wicked", "Longbourne" picks in the same world as the source, but manages to tell an entirely unique story that pays tribute to the original. 
 
 "Longbourn" is told entirely from the point of view of the servants in the Bennet family home. It both tells a heart warming love story, and illuminates just how different the circumstances of the upstairs and downstairs of the house are. 
 
@@ -41,14 +41,14 @@ The version I had conveniently included both "Longbourn" and the entirety of "Pr
 
 "James" showed up on number of "best of" lists for 2024, and I deliberately read it after doing a re-read of Huck Finn. The central conceit of "James" is that the slaves are all play acting the character of "slave" in front of the white world, but have a rich secret intellectual life they only show to one another. This makes Everett's "James" an engaging narrator, well read, ironic at times, and observant, but no more compelling as a human being than Twain's "Jim".
 
-For me, after the first third of the book, "James" did not have a lot new to offer. Everett has to work through all the narrative beats of the original material, but does not have much more to offer than the central twist. In those parts of the story where James is separated from Huck, and Everett has the freedom to write his own narrative for James, I found the story more engaging, but when he it stuck inside Twain's story arc, the book kind of grinds along. 
+For me, after the first third of the book, "James" did not have a lot new to offer. Everett has to work through all the narrative beats of the original material, but does not have much more to offer than the central twist. In those parts of the story where James is separated from Huck, and Everett has the freedom to write his own narrative for James, I found the story more engaging, but when he is stuck inside Twain's story arc, the book kind of grinds along. 
 
 
 **[March](https://www.pulitzer.org/winners/geraldine-brooks), Geraldine Brooks** and **[Little Women](https://en.wikipedia.org/wiki/Little_Women), Louisa May Alcott**
 
 <img src="{{ site.images }}/2025/march.jpg" style="float:left; padding-right:1em;" /><img src="{{ site.images }}/2025/little-women.jpg" style="float:right; padding-left:1em;"  />
 
-"March" tells the tale of the largely absent father figure of "Little Women", abolitionist Mr. March, who heads off join the Union Army as a chaplain, and ends up having as miserable a time as one would expect, in the Battle of the Wilderness and then on a Union-occupied plantation.
+"March" tells the tale of the largely absent father figure of "Little Women", abolitionist Mr. March, who heads off join the Union Army as a chaplain, and ends up having as miserable a time as one would expect, in the [Battle of the Wilderness](https://en.wikipedia.org/wiki/Battle_of_the_Wilderness) and then on a Union-occupied plantation.
 
 I found this book on the Pullitzer list ([winner for 2006](https://www.pulitzer.org/winners/geraldine-brooks)) and it was a great engaging read, good for anyone interested in a little Civil War fiction that does not shy away from just how miserable an experience war is. The human wreckage of battle, the devestation of every built structure, the disappearance of civil society and law. March heads off to war thinking he can make a difference. He returns much more realistic.
 
