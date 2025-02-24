@@ -19,9 +19,9 @@ So here's another list!
 <img src="{{ site.images }}/2025/wicked.jpg" style="float:left; padding-right:1em;" /><img src="{{ site.images }}/2025/oz.jpg" style="float:right; padding-left:1em;"  />
 
 
-You wouldn't know it to look at me (or would you?) but I am a person who has read [all 14 books](https://en.wikipedia.org/wiki/List_of_Oz_books) of the original L. Frank Baum Oz series. From [The Wonderful Wizard of Oz](https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz) to [Glinda of Oz](https://en.wikipedia.org/wiki/Glinda_of_Oz) and all in between. 
+You wouldn't know it to look at me (or would you?) but I am a person who has read [all 14 books](https://en.wikipedia.org/wiki/List_of_Oz_books) of the original L. Frank Baum Oz series. From "[The Wonderful Wizard of Oz](https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz)" to "[Glinda of Oz](https://en.wikipedia.org/wiki/Glinda_of_Oz)" and all in between. 
 
-As... that kind of person, I was truly tickled to pick up Wicked a couple years ago and take in not only the invented back-story of the Wicked Witch of the West (Elphaba), but also all the references to the Oz world that Maguire builds into his narrative. Wicked is the best kind of reimagining, one that manages a completely fresh story, but without tearing down the original source material on the way. Maguire clearly is also... that kind of person, and he treats Oz with respect while building a totally fresh take. Loved it so much.
+As... that kind of person, I was truly tickled to pick up "Wicked" a couple years ago and take in not only the invented back-story of the Wicked Witch of the West (Elphaba), but also all the references to the Oz world that Maguire builds into his narrative. "Wicked" is the best kind of reimagining, one that manages a completely fresh story, but without tearing down the original source material on the way. Maguire clearly is also... that kind of person, and he treats Oz with respect while building a totally fresh take. Loved it so much.
 
 
 **[Pride and Prejudice](https://en.wikipedia.org/wiki/Pride_and_Prejudice), Jane Asten** and **[Longbourne](https://en.wikipedia.org/wiki/Longbourn), Jo Baker**
