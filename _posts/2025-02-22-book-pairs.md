@@ -66,6 +66,7 @@ The "Demon Copperhead" and "David Copperfield" pairing I wrote about [before](/2
 
 Also wrote about these [before](/2025/01/books.html). Worth reading together, if only to appreciate, in Newman's telling, just how much of a self-absorbed prig Winston Smith actually is. 
 
+<p style='clear: both'>&nbsp;</p>
 
 
 
