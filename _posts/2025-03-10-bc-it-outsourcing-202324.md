@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BC IT Outsourcing 2023/24
-date: '2025-03-09'
+date: '2025-03-10'
 author: Paul Ramsey
 category: politics
 tags:
