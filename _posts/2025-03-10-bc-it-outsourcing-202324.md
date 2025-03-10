@@ -26,6 +26,6 @@ Everything else feels more or less the same. After seven years of NDP government
 
 The initial surge in smaller local companies after 2017 stalled out by 2021 and had been flat since.
 
-The most consistent grower is now CGI, which entered the Victoria market around 2005 and has grown to $60M/year in billings with consistent year-over-year increases. 
+The most consistent grower is now CGI, which entered the Victoria market around 2005 and has grown to $60M/year in billings with consistent year-over-year increases.    
 
 
