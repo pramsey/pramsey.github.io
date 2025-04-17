@@ -28,7 +28,7 @@ As... that kind of person, I was truly tickled to pick up "Wicked" a couple year
 
 <img src="{{ site.images }}/2025/longbourn.jpg" style="float:left; padding-right:1em;" /><img src="{{ site.images }}/2025/pride-and-prejudice.jpg" style="float:right; padding-left:1em;"  />
 
-I came across "Longbourne" as a book recommendation from the hosts of the [Strict Scrutiny Podcast](https://crooked.com/podcast-series/strict-scrutiny/) (a podcast that current events renders more relevant every day). Like "Wicked", "Longbourne" picks in the same world as the source, but manages to tell an entirely unique story that pays tribute to the original. 
+I came across "Longbourne" as a book recommendation from the hosts of the [Strict Scrutiny Podcast](https://crooked.com/podcast-series/strict-scrutiny/) (a podcast that current events renders more relevant every day). Like "Wicked", "Longbourne" picks up the same world as the source, but manages to tell an entirely unique story that pays tribute to the original. 
 
 "Longbourn" is told entirely from the point of view of the servants in the Bennet family home. It both tells a heart warming love story, and illuminates just how different the circumstances of the upstairs and downstairs of the house are. 
 
