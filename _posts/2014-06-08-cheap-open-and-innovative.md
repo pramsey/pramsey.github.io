@@ -16,9 +16,9 @@ comments: True
 
 Here's a talk I gave on innovation and components at the National Association of Broadcasters this spring.
 
-<video width="320" height="240" controls>
-  <source src="http://s3.cleverelephant.ca/2014_nab_govmil.mp4" type="video/mp4">
+<video controls>
+  <source src="http://s3.cleverelephant.ca.s3.amazonaws.com/2014_nab_govmil.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-Download [MP4](http://s3.cleverelephant.ca/2014_nab_govmil.mp4).
+Download [MP4](http://s3.cleverelephant.ca.s3.amazonaws.com/2014_nab_govmil.mp4).
