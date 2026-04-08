@@ -16,6 +16,9 @@ comments: True
 
 Here's a talk I gave on innovation and components at the National Association of Broadcasters this spring.
 
-<iframe src="//player.vimeo.com/video/95179234" width="500" height="261" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<video width="320" height="240" controls>
+  <source src="http://s3.cleverelephant.ca/2014_nab_govmil.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 Download [MP4](http://s3.cleverelephant.ca/2014_nab_govmil.mp4).
